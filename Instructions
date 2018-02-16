@@ -1,0 +1,13 @@
+*** DEPENDENCIES ***
+
+execute: 'npm install' from source file location to install dependencies.
+
+** Execution ***
+
+run command: node index.js largeFileName smallFileName outputFileName
+
+note: the large and small csv files should be located in the same directory as index.js
+
+
+
+
