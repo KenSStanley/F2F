@@ -2,3 +2,5 @@ release
 release_V3.tar
 node_modules
 package-lock.json
+MatchFriendListToVoterList.js
+friends.csv
