@@ -1,6 +1,14 @@
 /**
  * Created by priyathg on 2/11/18.
  * Updated by Ken Stanley on 2/17/18 - Adding the ability to score all friends 
+ *
+ * TODO:
+ *  Put the precinct, and organizers score in the output file
+ *  Make the precinct match work
+ *  Recalculate under40 and over70 - sanity check them 
+ *  compute age match 
+ *  computer organizer's score - sanity check it 
+ *  
  */
 const fs = require('fs');
 
@@ -22,6 +30,8 @@ birthdate.setFullYear(2020, 0, 14);
 let ward = "MAN"
 let precinctNum = 9;
 let precinctLet = "Z";
+let precinctScore = 1; 
+let precinctVol = "Unknown9Z";
 
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
@@ -61,18 +71,19 @@ process.argv.forEach(function (val, index, array) {
     console.log('PrecinctLet ' + val);
     precinctLet = val ;
   }
-  let precinct = ward + " " + precinctNum + " - " + precinctLet ; 
-  console.log('Precinct ' + precinct) ; 
+  precinctVol = ward + " " + precinctNum + " - " + precinctLet ; 
+  console.log('Precinct ' + precinctVol) ; 
 });
 
 //initialization function
+// Write file header
 const init = function() {
   console.log('Reading data from files..');
   readInput(largeFileName, parseLargeFile).then(()=>{
     return readInput(smallFileName, parseSmallFile)
   }).then(() => {
     let headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
-      'knownBy,voteScore,under40,over70,hasPhone,maxVoteScore,' +
+      'precinct,knownBy,voteScore,under40,over70,hasPhone,maxVoteScore,' +
       'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
     writeOutput(headers);
     processData();
@@ -122,6 +133,7 @@ const parseLargeFile = function(data) {
       let id = splitRow[0].trim().replace(/\r?\n?/g, '');
       let suffix = splitRow[9].trim().replace(/\r?\n?/g, '');
       let dob = splitRow[11].trim().replace(/\r?\n?/g, '');
+      let precinct = splitRow[12].trim().replace(/\r?\n?/g, '');
       let knownBy = splitRow[16].trim().replace(/\r?\n?/g, '');
       let voteScore = splitRow[17].trim().replace(/\r?\n?/g, '');
       let under40 = splitRow[20].trim().replace(/\r?\n?/g, '');
@@ -148,6 +160,7 @@ const parseLargeFile = function(data) {
         id: id,
         suffix: suffix,
         dob: dob,
+        precinct: precinct,
         knownBy: knownBy,
         voteScore: voteScore,
         under40: under40,
@@ -232,6 +245,15 @@ const calculateFirstNameScore = (name_large, name_small) => {
   }
 };
 
+const calculatePrecinctMatchScore = ( precinct_large, precinct_vol, precinct_score ) => {
+  if ( precinct_large === precinct_vol ) {
+     return precinct_score ;
+  } else {
+     return 0 ; 
+  } 
+};
+
+
 const calculateMiddleNameScore = (name_large, name_small) => {
   if  (!name_large && !name_small) {
     return 1/25;
@@ -249,7 +271,7 @@ const calculateMiddleNameScore = (name_large, name_small) => {
 const calculateLastNameScore = (name_large, name_small) => {
   if  (name_large === name_small) {
     return lastNameFrequency[name_large]/largeFile.length;
-    // KSS - I don't see any value in a any single initial math on the last
+    // KSS - I don't see any value in a any single initial match on the last
     // name.
 //  } else if ( name_large.charAt(0) === name_small.charAt(0)){
 //    return (lastInitialFrequency[name_large.charAt(0)]/largeFile.length)*3;
@@ -263,7 +285,7 @@ const processData = function() {
   console.log('Processing data..');
   //Large file iteration
   let updatedLargeFile = largeFile.map((largeEntry) => {
-    let {fName: fName_large, mName: mName_large, lName: lName_large} = largeEntry;
+    let {fName: fName_large, mName: mName_large, lName: lName_large, precinct: precinct_large} = largeEntry;
     let minScore = 999;
     let minScoreEntry = {};
     let minScoreBreakdown = {};
@@ -283,13 +305,15 @@ const processData = function() {
         minScoreBreakdown = {firstNameScore: firstNameScore, middleNameScore: middleNameScore, lastNameScore: lastNameScore}
       }
     });
+    let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol, precinctScore )
+    
     return {ID: largeEntry.ID, fName_large: fName_large, mName_large: mName_large, lName_large: lName_large,
       age:largeEntry.age, sex:largeEntry.sex, party:largeEntry.party, address:largeEntry.address,
       phone:largeEntry.phone, city:largeEntry.city, state:largeEntry.state, zip:largeEntry.zip,
       id:largeEntry.id, suffix:largeEntry.suffix, dob:largeEntry.dob, fName_small: minScoreEntry.fName,
       mName_small: minScoreEntry.mName, lName_small: minScoreEntry.lName, firstNameScore: minScoreBreakdown.firstNameScore,
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
-      knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
+      precinct:largeEntry.precinct, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
       hasPhone:largeEntry.hasPhone, maxVoteScore:largeEntry.maxVoteScore  
     };
       //console.log('large entry: ' + JSON.stringify(largeEntry));
@@ -302,7 +326,7 @@ const processData = function() {
     return entry.ID + ',' + entry.fName_large + ',' + entry.mName_large + ',' + entry.lName_large + ',' +
       entry.age + ',' + entry.sex + ',' + entry.party + ',' + entry.address + ',' + entry.phone + ',' + entry.city + ',' +
       entry.state + ',' + entry.zip + ',' + entry.id + ',' + entry.suffix + ',' + entry.dob + ',' +
-      entry.knownBy + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + entry.hasPhone + ',' + entry.maxVoteScore + ',' + 
+      entry.precinct + ',' + entry.knownBy + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + entry.hasPhone + ',' + entry.maxVoteScore + ',' + 
       entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
       entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + '\n';
   }).join(""));
