@@ -2,5 +2,9 @@ release
 release_V3.tar
 node_modules
 package-lock.json
-MatchFriendListToVoterList.js
 friends.csv
+ConvertFriends/node_modules
+ConvertFriends/friends.htm
+ConvertFriends/input.htm
+ConvertFriends/output.csv
+ConvertFriends/script.js
