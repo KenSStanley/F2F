@@ -3,11 +3,13 @@
  * Updated by Ken Stanley on 2/17/18 - Adding the ability to score all friends 
  *
  * TODO:
- *  Put the precinct, and organizers score in the output file
- *  Make the precinct match work
+ *  Put the precinct, and organizers score in the output file - DONE 
+ *  Make the precinct match work - DONE 
  *  Recalculate under40 and over70 - sanity check them 
- *  compute age match 
- *  computer organizer's score - sanity check it 
+ *  compute age match  - DONE 
+ *  compute organizer's score - sanity check it 
+ *  Misc cleanup add space to is??, eliminate stupid print outs - DONE 
+ *  compute volunteer's score 
  *  
  */
 const fs = require('fs');
@@ -58,16 +60,20 @@ process.argv.forEach(function (val, index, array) {
     console.log('Birth month ' + val);
     birthdate.setMonth( val-1) ; 
   }
-  console.log('Birth date ' + birthdate);
   if ( index === 7 )  {
+    console.log('Birth day ' + val);
+    birthdate.setDate( val) ; 
+    console.log('Birth date ' + birthdate);
+  }
+  if ( index === 8 )  {
     console.log('ward ' + val);
     ward = val ;
   }
-  if ( index === 8 )  {
-    console.log('PreicinctNum ' + val);
+  if ( index === 9 )  {
+    console.log('PrecinctNum ' + val);
     precinctNum = val ;
   }
-  if ( index === 9 )  {
+  if ( index === 10 )  {
     console.log('PrecinctLet ' + val);
     precinctLet = val ;
   }
@@ -83,7 +89,7 @@ const init = function() {
     return readInput(smallFileName, parseSmallFile)
   }).then(() => {
     let headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
-      'precinct,knownBy,voteScore,under40,over70,hasPhone,maxVoteScore,' +
+      'precinct,knownBy,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + birthdate + ',organizersScore,maxVoteScore,' +
       'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
     writeOutput(headers);
     processData();
@@ -132,13 +138,16 @@ const parseLargeFile = function(data) {
       let zip = '99999';
       let id = splitRow[0].trim().replace(/\r?\n?/g, '');
       let suffix = splitRow[9].trim().replace(/\r?\n?/g, '');
-      let dob = splitRow[11].trim().replace(/\r?\n?/g, '');
+      let date_of_birth = splitRow[11].trim().replace(/\r?\n?/g, '');
+      let dob_split = date_of_birth.split("/");
+      var dob = new Date(dob_split[2],dob_split[0],dob_split[1]);
       let precinct = splitRow[12].trim().replace(/\r?\n?/g, '');
       let knownBy = splitRow[16].trim().replace(/\r?\n?/g, '');
       let voteScore = splitRow[17].trim().replace(/\r?\n?/g, '');
       let under40 = splitRow[20].trim().replace(/\r?\n?/g, '');
       let over70 = splitRow[21].trim().replace(/\r?\n?/g, '');
       let hasPhone = splitRow[22].trim().replace(/\r?\n?/g, '');
+      let organizersScore = splitRow[23].trim().replace(/\r?\n?/g, '');
       let maxVoteScore = splitRow[4].trim().replace(/\r?\n?/g, '');
 
       let nameObject = {
@@ -166,6 +175,7 @@ const parseLargeFile = function(data) {
         under40: under40,
         over70: over70,
         hasPhone: hasPhone,
+        organizersScore: organizersScore,
         maxVoteScore: maxVoteScore
       };
       updateFrequencies(nameObject);
@@ -245,15 +255,6 @@ const calculateFirstNameScore = (name_large, name_small) => {
   }
 };
 
-const calculatePrecinctMatchScore = ( precinct_large, precinct_vol, precinct_score ) => {
-  if ( precinct_large === precinct_vol ) {
-     return precinct_score ;
-  } else {
-     return 0 ; 
-  } 
-};
-
-
 const calculateMiddleNameScore = (name_large, name_small) => {
   if  (!name_large && !name_small) {
     return 1/25;
@@ -280,12 +281,33 @@ const calculateLastNameScore = (name_large, name_small) => {
   }
 };
 
+
+const calculatePrecinctMatchScore = ( precinct_large, precinct_vol, precinct_score ) => {
+  if ( precinct_large === precinct_vol ) {
+     return precinct_score ;
+  } else {
+     return 0 ; 
+  } 
+};
+
+const calculateAgeMatchScore = ( bdate_large, birthdate ) => {
+    let dayDiff = ( bdate_large.getTime() - birthdate.getTime() ) / (24*60*60*1000) ; // getTime() returns milliseconds since Jan 1, 1970
+/*
+    console.log("bdate_large = ", bdate_large);
+    console.log("birthdate= ",birthdate);
+    console.log("dayDiff=",dayDiff);
+    console.log("return = ", 1/Math.sqrt(Math.max(1,Math.abs(dayDiff/365.25)))); 
+*/
+
+    return 1/Math.sqrt(Math.max(1,Math.abs(dayDiff/365.25))); // 1 / sqrt( diff in age in years ) 
+}
+
 //this is where the processing takes place
 const processData = function() {
   console.log('Processing data..');
   //Large file iteration
   let updatedLargeFile = largeFile.map((largeEntry) => {
-    let {fName: fName_large, mName: mName_large, lName: lName_large, precinct: precinct_large} = largeEntry;
+    let {fName: fName_large, mName: mName_large, lName: lName_large, precinct: precinct_large, dob: dob_large} = largeEntry;
     let minScore = 999;
     let minScoreEntry = {};
     let minScoreBreakdown = {};
@@ -305,7 +327,8 @@ const processData = function() {
         minScoreBreakdown = {firstNameScore: firstNameScore, middleNameScore: middleNameScore, lastNameScore: lastNameScore}
       }
     });
-    let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol, precinctScore )
+    let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol, precinctScore );
+    let ageMatchScore = calculateAgeMatchScore( dob_large, birthdate );
     
     return {ID: largeEntry.ID, fName_large: fName_large, mName_large: mName_large, lName_large: lName_large,
       age:largeEntry.age, sex:largeEntry.sex, party:largeEntry.party, address:largeEntry.address,
@@ -314,7 +337,8 @@ const processData = function() {
       mName_small: minScoreEntry.mName, lName_small: minScoreEntry.lName, firstNameScore: minScoreBreakdown.firstNameScore,
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
       precinct:largeEntry.precinct, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
-      hasPhone:largeEntry.hasPhone, maxVoteScore:largeEntry.maxVoteScore  
+      hasPhone:largeEntry.hasPhone, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
+      organizersScore:largeEntry.organizersScore, maxVoteScore:largeEntry.maxVoteScore  
     };
       //console.log('large entry: ' + JSON.stringify(largeEntry));
       //console.log('minScoreEntry: ' + JSON.stringify(minScoreEntry) + '\n' + 'min score: ' + minScore + '\n' + 'minScorebreakdown: ' + JSON.stringify(minScoreBreakdown) + '\n');
@@ -326,7 +350,10 @@ const processData = function() {
     return entry.ID + ',' + entry.fName_large + ',' + entry.mName_large + ',' + entry.lName_large + ',' +
       entry.age + ',' + entry.sex + ',' + entry.party + ',' + entry.address + ',' + entry.phone + ',' + entry.city + ',' +
       entry.state + ',' + entry.zip + ',' + entry.id + ',' + entry.suffix + ',' + entry.dob + ',' +
-      entry.precinct + ',' + entry.knownBy + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + entry.hasPhone + ',' + entry.maxVoteScore + ',' + 
+      entry.precinct + ',' + entry.knownBy + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + 
+      entry.hasPhone + ',' + entry.precinctMatchScore + ',' + entry.ageMatchScore + ',' +
+      entry.organizersScore + ',' + 
+      entry.maxVoteScore + ',' + 
       entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
       entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + '\n';
   }).join(""));
