@@ -6,7 +6,7 @@
  *  Put the precinct, and organizers score in the output file - DONE 
  *  Make the precinct match work - DONE 
  *  Recalculate under40 -DONE 
-  *       and over70 - sanity check them 
+  *       and over70 - sanity check them DONE
  *  compute age match  - DONE 
  *  compute organizer's score - sanity check it 
  *  Misc cleanup add space to is??, eliminate stupid print outs - DONE 
@@ -313,6 +313,12 @@ const calculateUnder40Score = ( bdate_large ) => {
     return Math.max(0,40 - dayDiff/365.25 );  
 }
 
+const calculateOver70Score = ( bdate_large ) => {
+    let dayDiff = ( Feb18_18 - bdate_large.getTime() ) / (24*60*60*1000) ; // getTime() returns milliseconds since Jan 1, 1970
+
+    return Math.max(0, dayDiff/365.25 - 70 );  
+}
+
 
 //this is where the processing takes place
 const processData = function() {
@@ -342,6 +348,7 @@ const processData = function() {
     let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol, precinctScore );
     let ageMatchScore = calculateAgeMatchScore( dob_large, birthdate );
     let newUnder40score = calculateUnder40Score( dob_large );
+    let newOver70score = calculateOver70Score( dob_large );
 
 /*
     console.log("newUnder40score = " + newUnder40score );
@@ -349,6 +356,8 @@ const processData = function() {
 */
 
     console.assert( Math.abs(newUnder40score - largeEntry.under40) < 1 , "The new under40 score is messed up") ; 
+    console.assert( Math.abs(newOver70score - largeEntry.over70) < 0.1 , "The new over70 score is " + newOver70score + 
+      " should be closer to " + largeEntry.over70 ) ; 
     
     return {ID: largeEntry.ID, fName_large: fName_large, mName_large: mName_large, lName_large: lName_large,
       age:largeEntry.age, sex:largeEntry.sex, party:largeEntry.party, address:largeEntry.address,
