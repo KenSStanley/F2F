@@ -5,11 +5,14 @@
  * TODO:
  *  Put the precinct, and organizers score in the output file - DONE 
  *  Make the precinct match work - DONE 
- *  Recalculate under40 and over70 - sanity check them 
+ *  Recalculate under40 -DONE 
+  *       and over70 - sanity check them 
  *  compute age match  - DONE 
  *  compute organizer's score - sanity check it 
  *  Misc cleanup add space to is??, eliminate stupid print outs - DONE 
  *  compute volunteer's score 
+ *  clean up the way that birthdates are printed
+ *  switch from today to a fixed date so that the regression test works.  DONE 
  *  
  */
 const fs = require('fs');
@@ -27,13 +30,14 @@ let lastInitialFrequency = {};
 let largeFileName = 'LargeFile';
 let smallFileName = 'SmallFile';
 let outputFileName = 'output';
-var birthdate = new Date();
+var birthdate = new Date(2017,0,1,0,0,0);
 birthdate.setFullYear(2020, 0, 14);
 let ward = "MAN"
 let precinctNum = 9;
 let precinctLet = "Z";
 let precinctScore = 1; 
 let precinctVol = "Unknown9Z";
+let Feb18_18 = new Date(2018,1,18); 
 
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
@@ -302,6 +306,14 @@ const calculateAgeMatchScore = ( bdate_large, birthdate ) => {
     return 1/Math.sqrt(Math.max(1,Math.abs(dayDiff/365.25))); // 1 / sqrt( diff in age in years ) 
 }
 
+
+const calculateUnder40Score = ( bdate_large ) => {
+    let dayDiff = ( Feb18_18 - bdate_large.getTime() ) / (24*60*60*1000) ; // getTime() returns milliseconds since Jan 1, 1970
+
+    return Math.max(0,40 - dayDiff/365.25 );  
+}
+
+
 //this is where the processing takes place
 const processData = function() {
   console.log('Processing data..');
@@ -329,6 +341,14 @@ const processData = function() {
     });
     let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol, precinctScore );
     let ageMatchScore = calculateAgeMatchScore( dob_large, birthdate );
+    let newUnder40score = calculateUnder40Score( dob_large );
+
+/*
+    console.log("newUnder40score = " + newUnder40score );
+  console.log("largeEntry.under40 = " + largeEntry.under40 );
+*/
+
+    console.assert( Math.abs(newUnder40score - largeEntry.under40) < 1 , "The new under40 score is messed up") ; 
     
     return {ID: largeEntry.ID, fName_large: fName_large, mName_large: mName_large, lName_large: lName_large,
       age:largeEntry.age, sex:largeEntry.sex, party:largeEntry.party, address:largeEntry.address,
