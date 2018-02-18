@@ -16,6 +16,11 @@ let lastInitialFrequency = {};
 let largeFileName = 'LargeFile';
 let smallFileName = 'SmallFile';
 let outputFileName = 'output';
+var birthdate = new Date();
+birthdate.setFullYear(2020, 0, 14);
+let ward = "MAN"
+let precinctNum = 9;
+let precinctLet = "Z";
 
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
@@ -34,6 +39,29 @@ process.argv.forEach(function (val, index, array) {
     console.log('output file: ' + val);
     outputFileName = val;
   }
+  if (index === 5 ) { 
+    console.log('Birth year ' + val);
+    birthdate.setFullYear(val) ;
+  }
+  if ( index === 6 )  {
+    console.log('Birth month ' + val);
+    birthdate.setMonth( val-1) ; 
+  }
+  console.log('Birth date ' + birthdate);
+  if ( index === 7 )  {
+    console.log('ward ' + val);
+    ward = val ;
+  }
+  if ( index === 8 )  {
+    console.log('PreicinctNum ' + val);
+    precinctNum = val ;
+  }
+  if ( index === 9 )  {
+    console.log('PrecinctLet ' + val);
+    precinctLet = val ;
+  }
+  let precinct = ward + " " + precinctNum + " - " + precinctLet ; 
+  console.log('Precinct ' + precinct) ; 
 });
 
 //initialization function
