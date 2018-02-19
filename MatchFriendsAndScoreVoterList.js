@@ -1,18 +1,12 @@
 /**
  * Created by priyathg on 2/11/18.
- * Updated by Ken Stanley on 2/17/18 - Adding the ability to score all friends 
+ * Updated by Ken Stanley on 2/17/18 - Adding the ability to score all friends from a Facebook friend list
  *
  * TODO:
- *  Put the precinct, and organizers score in the output file - DONE 
- *  Make the precinct match work - DONE 
- *  Recalculate under40 -DONE 
-  *       and over70 - sanity check them DONE
  *  compute age match  - DONE 
  *  compute organizer's score - sanity check it 
- *  Misc cleanup add space to is??, eliminate stupid print outs - DONE 
  *  compute volunteer's score 
  *  clean up the way that birthdates are printed
- *  switch from today to a fixed date so that the regression test works.  DONE 
  *  
  */
 const fs = require('fs');
@@ -37,7 +31,15 @@ let precinctNum = 9;
 let precinctLet = "Z";
 let precinctScore = 1; 
 let precinctVol = "Unknown9Z";
-let Feb18_18 = new Date(2018,1,18); 
+let Feb18_18 = new Date(2018,1,18); // We use this date instead of today to calculate age to make the regression test easy
+var voteScoreWeight = 1; 
+var precinctMatchWeight = 1; 
+var ageMatchWeight = 1;
+var under40Weight = .075 ;
+var over70Weight = -0.05 ; 
+var hasPhoneWeight = 1 ; 
+var knownByWeight = -1 ; 
+var precinctScoreWeight = 1 ; 
 
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
@@ -93,7 +95,7 @@ const init = function() {
     return readInput(smallFileName, parseSmallFile)
   }).then(() => {
     let headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
-      'precinct,knownBy,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + birthdate + ',organizersScore,maxVoteScore,' +
+      'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + birthdate + ',organizersScore,maxVoteScore,' +
       'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
     writeOutput(headers);
     processData();
@@ -146,6 +148,7 @@ const parseLargeFile = function(data) {
       let dob_split = date_of_birth.split("/");
       var dob = new Date(dob_split[2],dob_split[0],dob_split[1]);
       let precinct = splitRow[12].trim().replace(/\r?\n?/g, '');
+      let precinctScore = splitRow[13].trim().replace(/\r?\n?/g, '');
       let knownBy = splitRow[16].trim().replace(/\r?\n?/g, '');
       let voteScore = splitRow[17].trim().replace(/\r?\n?/g, '');
       let under40 = splitRow[20].trim().replace(/\r?\n?/g, '');
@@ -174,6 +177,7 @@ const parseLargeFile = function(data) {
         suffix: suffix,
         dob: dob,
         precinct: precinct,
+        precinctScore: precinctScore,
         knownBy: knownBy,
         voteScore: voteScore,
         under40: under40,
@@ -286,9 +290,9 @@ const calculateLastNameScore = (name_large, name_small) => {
 };
 
 
-const calculatePrecinctMatchScore = ( precinct_large, precinct_vol, precinct_score ) => {
+const calculatePrecinctMatchScore = ( precinct_large, precinct_vol ) => {
   if ( precinct_large === precinct_vol ) {
-     return precinct_score ;
+     return 1 ;
   } else {
      return 0 ; 
   } 
@@ -318,6 +322,15 @@ const calculateOver70Score = ( bdate_large ) => {
 
     return Math.max(0, dayDiff/365.25 - 70 );  
 }
+var voteScoreWeight = 1;
+var precinctMatchWeight = 1;
+var ageMatchWeight = 1;
+var under40Weight = .075 ;
+var over70Weight = -0.05 ;
+var hasPhoneWeight = 1 ; 
+var knownByWeight = -1 ; 
+var precinctScoreWeight = 1 ; 
+
 
 
 //this is where the processing takes place
@@ -345,10 +358,11 @@ const processData = function() {
         minScoreBreakdown = {firstNameScore: firstNameScore, middleNameScore: middleNameScore, lastNameScore: lastNameScore}
       }
     });
-    let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol, precinctScore );
+    let precinctMatchScore = calculatePrecinctMatchScore ( precinct_large, precinctVol );
     let ageMatchScore = calculateAgeMatchScore( dob_large, birthdate );
     let newUnder40score = calculateUnder40Score( dob_large );
     let newOver70score = calculateOver70Score( dob_large );
+//    let organizersScore = calculateOrganizersScore( ageMatchScore, newUnder40score, newOver70score, precinctMatchScore, voteScore ); 
 
 /*
     console.log("newUnder40score = " + newUnder40score );
@@ -365,7 +379,7 @@ const processData = function() {
       id:largeEntry.id, suffix:largeEntry.suffix, dob:largeEntry.dob, fName_small: minScoreEntry.fName,
       mName_small: minScoreEntry.mName, lName_small: minScoreEntry.lName, firstNameScore: minScoreBreakdown.firstNameScore,
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
-      precinct:largeEntry.precinct, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
+      precinct:largeEntry.precinct, precinctScore:largeEntry.precinctScore, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
       hasPhone:largeEntry.hasPhone, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
       organizersScore:largeEntry.organizersScore, maxVoteScore:largeEntry.maxVoteScore  
     };
@@ -379,7 +393,7 @@ const processData = function() {
     return entry.ID + ',' + entry.fName_large + ',' + entry.mName_large + ',' + entry.lName_large + ',' +
       entry.age + ',' + entry.sex + ',' + entry.party + ',' + entry.address + ',' + entry.phone + ',' + entry.city + ',' +
       entry.state + ',' + entry.zip + ',' + entry.id + ',' + entry.suffix + ',' + entry.dob + ',' +
-      entry.precinct + ',' + entry.knownBy + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + 
+      entry.precinct + ',' + entry.knownBy + ',' + entry.precinctScore + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + 
       entry.hasPhone + ',' + entry.precinctMatchScore + ',' + entry.ageMatchScore + ',' +
       entry.organizersScore + ',' + 
       entry.maxVoteScore + ',' + 
