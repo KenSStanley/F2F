@@ -11,6 +11,8 @@
  */
 const fs = require('fs');
 
+var debugOutput = false; 
+
 let largeFile = [];
 let smallFile = [];
 
@@ -42,50 +44,55 @@ var knownByWeight = -1  ;  // should be -1
 var precinctScoreWeight = 1 ; 
 var F2Fweight = -1 ; 
 
+const printDate = function( d ) { 
+  return d.getMonth()+1 + '/' + d.getDate() + '/' + d.getFullYear() ;
+}
+
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
   if (array.length <= 2 && index == 0) {
     console.log("no input/output files specified. Defaults will be used");
   }
   if (index === 2) {
-    console.log('large file: ' + val);
+    if ( debugOutput ) { console.log('large file: ' + val); }
     largeFileName = val;
   }
   if (index === 3) {
-    console.log('small file: ' + val);
+    if ( debugOutput ) { console.log('small file: ' + val); } 
     smallFileName = val;
   }
   if (index === 4) {
-    console.log('output file: ' + val);
+    if ( debugOutput ) { console.log('output file: ' + val); }
     outputFileName = val;
   }
   if (index === 5 ) { 
-    console.log('Birth year ' + val);
+    if ( debugOutput ) { console.log('Birth year ' + val); }
     birthdate.setFullYear(val) ;
   }
   if ( index === 6 )  {
-    console.log('Birth month ' + val);
+    if ( debugOutput ) { console.log('Birth month ' + val); }
     birthdate.setMonth( val-1) ; 
   }
   if ( index === 7 )  {
-    console.log('Birth day ' + val);
+    if ( debugOutput ) { console.log('Birth day ' + val); }
     birthdate.setDate( val) ; 
     console.log('Birth date ' + birthdate);
   }
   if ( index === 8 )  {
-    console.log('ward ' + val);
+    if ( debugOutput ) { console.log('ward ' + val); }
     ward = val ;
   }
   if ( index === 9 )  {
-    console.log('PrecinctNum ' + val);
+    if ( debugOutput ) { console.log('PrecinctNum ' + val); }
     precinctNum = val ;
   }
   if ( index === 10 )  {
-    console.log('PrecinctLet ' + val);
+    if ( debugOutput ) { console.log('PrecinctLet ' + val); }
     precinctLet = val ;
   }
   precinctVol = ward + " " + precinctNum + " - " + precinctLet ; 
   console.log('Precinct ' + precinctVol) ; 
+  console.log('Birthdate' + printDate(birthdate) );
 });
 
 //initialization function
@@ -335,13 +342,13 @@ var precinctScoreWeight = 1 ;
 */
 const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
     precinctMatchScore, voteScore, hasPhone, knownBy, F2Fscore ) => { 
-     console.log("voteScoreWeight = " + voteScoreWeight + 
+     if ( debugOutput ) { console.log("voteScoreWeight = " + voteScoreWeight + 
 	" voteScore = " + voteScore + 
 	" precinctScoreWeight = " + precinctScoreWeight + 
 	" precinctScore = " + precinctScore + 
 	" ageMatchWeight = " + ageMatchWeight + 
 	" ageMatchScore = " + ageMatchScore + 
- "" ) ;       
+ "" ) ;      } 
     return voteScoreWeight * voteScore + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
            under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + 
            precinctScoreWeight * precinctScore + knownByWeight * knownBy + F2Fscore * F2Fweight; 
@@ -380,7 +387,7 @@ const processData = function() {
 
 // const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
 //    precinctMatchScore, voteScore, hasPhone, knownBy ) => { 
-  console.log( " largeEntry.precinctScore = " + largeEntry.precinctScore ) ; 
+  if ( debugOutput ) {  console.log( " largeEntry.precinctScore = " + largeEntry.precinctScore ) ; }
     let newOrganizersScore = 0 - calculateOrganizersScore( largeEntry.precinctScore, ageMatchScore, largeEntry.under40, largeEntry.over70, 
         precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.knownBy, minScore ); 
 /*
