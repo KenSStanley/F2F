@@ -12,6 +12,7 @@
 const fs = require('fs');
 
 var debugOutput = false; 
+var longOutput = false; 
 
 let largeFile = [];
 let smallFile = [];
@@ -102,9 +103,12 @@ const init = function() {
   readInput(largeFileName, parseLargeFile).then(()=>{
     return readInput(smallFileName, parseSmallFile)
   }).then(() => {
-    let headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
-      'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + birthdate + ',organizersScore,maxVoteScore,' +
-      'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
+    let headers = 'ID, Phone, Name (Age) Address, Score \n';
+    if ( longOutput ) {
+      let headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
+        'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + printDate(birthdate) + ',organizersScore,maxVoteScore,' +
+        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
+    }
     writeOutput(headers);
     processData();
   }).catch((e) => {
@@ -428,6 +432,7 @@ const processData = function() {
   //write output to csv
   updatedLargeFile.sort(compare);
   writeOutput(updatedLargeFile.map((entry) => {
+    if ( longOutput ) { 
     return entry.ID + ',' + entry.fName_large + ',' + entry.mName_large + ',' + entry.lName_large + ',' +
       entry.age + ',' + entry.sex + ',' + entry.party + ',' + entry.address + ',' + entry.phone + ',' + entry.city + ',' +
       entry.state + ',' + entry.zip + ',' + entry.id + ',' + entry.suffix + ',' + entry.dob + ',' +
@@ -436,7 +441,10 @@ const processData = function() {
       entry.organizersScore + ',' + 
       entry.maxVoteScore + ',' + 
       entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
-      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + '\n';
+      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + '\n'; 
+     } else {
+      return entry.ID + ',' + entry.phone + ',' + entry.address + ',' + -entry.organizersScore.toFixed(2) + '\n' ;
+     }
   }).join(""));
   console.log('All completed. Check ' + outputFileName + ' for results');
 };
