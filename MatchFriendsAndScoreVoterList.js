@@ -37,9 +37,10 @@ var precinctMatchWeight = 1;
 var ageMatchWeight = 1;
 var under40Weight = .075 ;
 var over70Weight = -0.05 ; 
-var hasPhoneWeight = 1 ; 
-var knownByWeight = -1 ; 
+var hasPhoneWeight = 1.5 ; 
+var knownByWeight = -1  ;  // should be -1 
 var precinctScoreWeight = 1 ; 
+var F2Fweight = -1 ; 
 
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
@@ -322,6 +323,7 @@ const calculateOver70Score = ( bdate_large ) => {
 
     return Math.max(0, dayDiff/365.25 - 70 );  
 }
+/*
 var voteScoreWeight = 1;
 var precinctMatchWeight = 1;
 var ageMatchWeight = 1;
@@ -330,7 +332,20 @@ var over70Weight = -0.05 ;
 var hasPhoneWeight = 1 ; 
 var knownByWeight = -1 ; 
 var precinctScoreWeight = 1 ; 
-
+*/
+const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
+    precinctMatchScore, voteScore, hasPhone, knownBy, F2Fscore ) => { 
+     console.log("voteScoreWeight = " + voteScoreWeight + 
+	" voteScore = " + voteScore + 
+	" precinctScoreWeight = " + precinctScoreWeight + 
+	" precinctScore = " + precinctScore + 
+	" ageMatchWeight = " + ageMatchWeight + 
+	" ageMatchScore = " + ageMatchScore + 
+ "" ) ;       
+    return voteScoreWeight * voteScore + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
+           under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + 
+           precinctScoreWeight * precinctScore + knownByWeight * knownBy + F2Fscore * F2Fweight; 
+};   
 
 
 //this is where the processing takes place
@@ -362,8 +377,12 @@ const processData = function() {
     let ageMatchScore = calculateAgeMatchScore( dob_large, birthdate );
     let newUnder40score = calculateUnder40Score( dob_large );
     let newOver70score = calculateOver70Score( dob_large );
-//    let organizersScore = calculateOrganizersScore( ageMatchScore, newUnder40score, newOver70score, precinctMatchScore, voteScore ); 
 
+// const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
+//    precinctMatchScore, voteScore, hasPhone, knownBy ) => { 
+  console.log( " largeEntry.precinctScore = " + largeEntry.precinctScore ) ; 
+    let newOrganizersScore = 0 - calculateOrganizersScore( largeEntry.precinctScore, ageMatchScore, largeEntry.under40, largeEntry.over70, 
+        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.knownBy, minScore ); 
 /*
     console.log("newUnder40score = " + newUnder40score );
   console.log("largeEntry.under40 = " + largeEntry.under40 );
@@ -372,7 +391,19 @@ const processData = function() {
     console.assert( Math.abs(newUnder40score - largeEntry.under40) < 1 , "The new under40 score is messed up") ; 
     console.assert( Math.abs(newOver70score - largeEntry.over70) < 0.1 , "The new over70 score is " + newOver70score + 
       " should be closer to " + largeEntry.over70 ) ; 
-    
+/*
+    console.assert( Math.abs( newOrganizersScore - largeEntry.organizersScore ) < .05 , "The new organizers score is: " +
+      newOrganizersScore + "Should be: " + largeEntry.organizersScore + "\n fName_large = " + fName_large + 
+      "\n precinctScore = " + precinctScore + 
+      "\n ageMatchScore = " + ageMatchScore + 
+      "\n largeEntry.under40 = " + largeEntry.under40 + 
+      "\n largeEntry.over70 = " + largeEntry.over70 + 
+      "\n precinctMatchScore = " + precinctMatchScore + 
+      "\n largeEntry.voteScore = " + largeEntry.voteScore + 
+      "\n largeEntry.hasPhone = " + largeEntry.hasPhone + 
+      "\n" );
+*/
+ 
     return {ID: largeEntry.ID, fName_large: fName_large, mName_large: mName_large, lName_large: lName_large,
       age:largeEntry.age, sex:largeEntry.sex, party:largeEntry.party, address:largeEntry.address,
       phone:largeEntry.phone, city:largeEntry.city, state:largeEntry.state, zip:largeEntry.zip,
@@ -381,7 +412,7 @@ const processData = function() {
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
       precinct:largeEntry.precinct, precinctScore:largeEntry.precinctScore, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
       hasPhone:largeEntry.hasPhone, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
-      organizersScore:largeEntry.organizersScore, maxVoteScore:largeEntry.maxVoteScore  
+      organizersScore:newOrganizersScore, maxVoteScore:largeEntry.maxVoteScore  
     };
       //console.log('large entry: ' + JSON.stringify(largeEntry));
       //console.log('minScoreEntry: ' + JSON.stringify(minScoreEntry) + '\n' + 'min score: ' + minScore + '\n' + 'minScorebreakdown: ' + JSON.stringify(minScoreBreakdown) + '\n');
@@ -404,7 +435,7 @@ const processData = function() {
 };
 
 const compare = (a,b) => {
-  return (a.finalScore - b.finalScore)
+  return (a.organizersScore - b.organizersScore)   // was finalscore 
 };
 
 const writeOutput = (text) => {
