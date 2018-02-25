@@ -43,7 +43,7 @@ var over70Weight = -0.05 ;
 var hasPhoneWeight = 1.5 ; 
 var knownByWeight = -1  ;  // should be -1 
 var precinctScoreWeight = 1 ; 
-var F2Fweight = -1 ; 
+var F2Fweight = -1 ; // -1 if we have a true friends list
 
 const printDate = function( d ) { 
   return d.getMonth()+1 + '/' + d.getDate() + '/' + d.getFullYear() ;
@@ -105,7 +105,7 @@ const init = function() {
   }).then(() => {
     let headers = 'ID, Phone, Name (Age) Address, Score \n';
     if ( longOutput ) {
-      let headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
+      headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
         'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + printDate(birthdate) + ',organizersScore,maxVoteScore,' +
         'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
     }
@@ -326,7 +326,7 @@ const calculateAgeMatchScore = ( bdate_large, birthdate ) => {
 const calculateUnder40Score = ( bdate_large ) => {
     let dayDiff = ( Feb18_18 - bdate_large.getTime() ) / (24*60*60*1000) ; // getTime() returns milliseconds since Jan 1, 1970
 
-    return Math.max(0,40 - dayDiff/365.25 );  
+    return Math.min(Math.max(0,40 - dayDiff/365.25 ),15);  
 }
 
 const calculateOver70Score = ( bdate_large ) => {
@@ -398,10 +398,11 @@ const processData = function() {
     console.log("newUnder40score = " + newUnder40score );
   console.log("largeEntry.under40 = " + largeEntry.under40 );
 */
-
-    console.assert( Math.abs(newUnder40score - largeEntry.under40) < 1 , "The new under40 score is messed up") ; 
+if ( false ) { 
+    console.assert( Math.abs(newUnder40score - largeEntry.under40) < 1 , "The new under40 score is messed up" + newUnder40score + " old: " + largeEntry.under40) ; 
     console.assert( Math.abs(newOver70score - largeEntry.over70) < 0.1 , "The new over70 score is " + newOver70score + 
       " should be closer to " + largeEntry.over70 ) ; 
+}
 /*
     console.assert( Math.abs( newOrganizersScore - largeEntry.organizersScore ) < .05 , "The new organizers score is: " +
       newOrganizersScore + "Should be: " + largeEntry.organizersScore + "\n fName_large = " + fName_large + 
