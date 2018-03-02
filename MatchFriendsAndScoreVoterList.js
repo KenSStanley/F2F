@@ -12,7 +12,7 @@
 const fs = require('fs');
 
 var debugOutput = false; 
-var longOutput = false; 
+var longOutput = true; 
 
 let largeFile = [];
 let smallFile = [];
@@ -24,6 +24,9 @@ let middleInitialFrequency = {};
 let lastNameFrequency = {};
 let lastInitialFrequency = {};
 
+let logMultiplier = 1/10;   // this is basically the minimum friend score (pre Log) that it takes to get any friend points
+let logDivider = 2;         // this controls how quickly you ramp up to being considered 100% likely to be a friend
+let maxFriendScore = 1.25;  // This is the most that you can get for being a friend
 let largeFileName = 'LargeFile';
 let smallFileName = 'SmallFile';
 let outputFileName = 'output';
@@ -35,13 +38,14 @@ let precinctLet = "Z";
 let precinctScore = 1; 
 let precinctVol = "Unknown9Z";
 let Feb18_18 = new Date(2018,1,18); // We use this date instead of today to calculate age to make the regression test easy
+let maxVoteScoreAllowed = 1 ; // KSS added this so that we could prioritize a voteScore for Sierra without giving her a bunch of older people
 var voteScoreWeight = 1; 
 var precinctMatchWeight = 1; 
-var ageMatchWeight = 1;
+var ageMatchWeight = 1 ;
 var under40Weight = .075 ;
 var over70Weight = -0.05 ; 
 var hasPhoneWeight = 1.5 ; 
-var knownByWeight = -1  ;  // should be -1 
+var knownByWeight = -0.25  ;  // should be -1 
 var precinctScoreWeight = 1 ; 
 var F2Fweight = -1 ; // -1 if we have a true friends list
 
@@ -91,10 +95,58 @@ process.argv.forEach(function (val, index, array) {
     if ( debugOutput ) { console.log('PrecinctLet ' + val); }
     precinctLet = val ;
   }
+ if ( index === 11 )  {
+    if ( true ) { console.log('voteScoreWeight ' + val); }
+    voteScoreWeight = val ;
+  }
+ if ( index === 12 )  {
+    if ( true ) { console.log('maxVoteScoreAllowed ' + val); }
+    maxVoteScoreAllowed = val ;
+  }
+ if ( index === 13 )  {
+    if ( true ) { console.log('ageMatchWeight ' + val); }
+    ageMatchWeight = val ;
+  }
+ if ( index === 14 )  {
+    if ( true ) { console.log('under40Weight ' + val); }
+    under40Weight = val ;
+  }
+ if ( index === 15 )  {
+    if ( true ) { console.log('over70Weight ' + val); }
+    over70Weight = val ;
+  }
+ if ( index === 16 )  {
+    if ( true ) { console.log('hasPhoneWeight ' + val); }
+    hasPhoneWeight = val ;
+  }
+ if ( index === 17 )  {
+    if ( true ) { console.log('precinctScoreWeight ' + val); }
+    precinctScoreWeight = val ;
+  }
+ if ( index === 18 )  {
+    { console.log('F2Fweight ' + val); }
+    F2Fweight = val ;
+  }
+ if ( index === 19 )  {
+    if ( true ) { console.log('precinctMatchWeight ' + val); }
+    precinctMatchWeight = val ;
+  }
+ if ( index === 20 )  {
+    if ( true ) { console.log('knownByWeight ' + val); }
+    knownByWeight = val ;
+  }
+ if ( index === 21 )  {
+    longOutput = true ;
+    if ( val == 0 ) {
+      longOutput = false ;
+    }
+    if ( true ) { console.log('val =' + val + 'longOutput = ' + longOutput ); }
+  }
+  
   precinctVol = ward + " " + precinctNum + " - " + precinctLet ; 
-  console.log('Precinct ' + precinctVol) ; 
-  console.log('Birthdate' + printDate(birthdate) );
-});
+
+}
+);
 
 //initialization function
 // Write file header
@@ -104,6 +156,8 @@ const init = function() {
     return readInput(smallFileName, parseSmallFile)
   }).then(() => {
     let headers = 'ID, Phone, Name (Age) Address, Score \n';
+  console.log('Precinct ' + precinctVol) ; 
+  console.log('Birthdate' + printDate(birthdate) );
     if ( longOutput ) {
       headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
         'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + printDate(birthdate) + ',organizersScore,maxVoteScore,' +
@@ -167,7 +221,8 @@ const parseLargeFile = function(data) {
       let over70 = splitRow[21].trim().replace(/\r?\n?/g, '');
       let hasPhone = splitRow[22].trim().replace(/\r?\n?/g, '');
       let organizersScore = splitRow[23].trim().replace(/\r?\n?/g, '');
-      let maxVoteScore = splitRow[4].trim().replace(/\r?\n?/g, '');
+      let maxVoteScore = splitRow[4].trim().replace(/\r?\n?/g, '');  // This is from the old idea that volunteers,i.e. those asking people to vote 
+                                                                     // less interested in a high vote score than organizers, i.e. those asking for volunteers
 
       let nameObject = {
         ID: ID,
@@ -334,16 +389,6 @@ const calculateOver70Score = ( bdate_large ) => {
 
     return Math.max(0, dayDiff/365.25 - 70 );  
 }
-/*
-var voteScoreWeight = 1;
-var precinctMatchWeight = 1;
-var ageMatchWeight = 1;
-var under40Weight = .075 ;
-var over70Weight = -0.05 ;
-var hasPhoneWeight = 1 ; 
-var knownByWeight = -1 ; 
-var precinctScoreWeight = 1 ; 
-*/
 const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
     precinctMatchScore, voteScore, hasPhone, knownBy, F2Fscore ) => { 
      if ( debugOutput ) { console.log("voteScoreWeight = " + voteScoreWeight + 
@@ -353,7 +398,7 @@ const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70
 	" ageMatchWeight = " + ageMatchWeight + 
 	" ageMatchScore = " + ageMatchScore + 
  "" ) ;      } 
-    return voteScoreWeight * voteScore + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
+    return voteScoreWeight * Math.min(voteScore,maxVoteScoreAllowed) + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
            under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + 
            precinctScoreWeight * precinctScore + knownByWeight * knownBy + F2Fscore * F2Fweight; 
 };   
@@ -375,8 +420,8 @@ const processData = function() {
       let firstNameScore = calculateFirstNameScore(fName_large, fName_small);
       let middleNameScore = calculateMiddleNameScore(mName_large, mName_small);
       let lastNameScore = calculateLastNameScore(lName_large, lName_small);
-      let baysian = (firstNameScore*middleNameScore*lastNameScore)*largeFile.length;
-      let score = -Math.max(0,Math.log2(1/70/baysian)/1.25); 
+      let bayesian = (firstNameScore*middleNameScore*lastNameScore)*largeFile.length;
+      let score = -Math.min(maxFriendScore,Math.max(0,Math.log2(logMultiplier/bayesian)/logDivider)); 
       //keeping track of the min score, the corresponding entry and the score breakdown for this large file iteration
       if (score < minScore) {
         minScore = score;
