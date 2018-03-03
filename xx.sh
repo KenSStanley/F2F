@@ -3,6 +3,12 @@
 #  :1,$s/xx/SierraHardin/g
 #  :1,$:s/TwoLineFriendsList/SH_FBwhatever/
 #
+birthYear=1953          #
+birthMonth=8            #
+birthDate=19            #
+ward=MAN                #
+wardNumber=1            #
+wardLetter=A            #
 maxVoteScoreAllowed=1   #  KSS added this so that we could prioritize a voteScore for Sierra without giving her a bunch of older people
 voteScoreWeight=2       # 
 precinctMatchWeight=0.5 # 
@@ -15,7 +21,13 @@ precinctScoreWeight=1   #
 F2Fweight=-1            #  -1 if we have a true friends list
 
 rm -f xxMatches.csv 
-node MatchFriendsAndScoreVoterList.js MansfieldAllFullHeuristicWithALLPhones TwoLineFriendsList  xxMatches 1953 8 16  MAN 1 B \
+node MatchFriendsAndScoreVoterList.js MansfieldAllFullHeuristicWithALLPhones TwoLineFriendsList  xxMatches \
+$birthYear         \
+$birthMonth           \
+$birthDate           \
+$ward               \
+$wardNumber           \
+$wardLetter           \
 $voteScoreWeight        \
 $maxVoteScoreAllowed    \
 $ageMatchWeight         \
@@ -31,7 +43,13 @@ $knownByWeight        \
 head -2000 xxMatches.csv >xx2000Matches.csv
 
 rm -f xxMatches.csv 
-node MatchFriendsAndScoreVoterList.js MansfieldAllFullHeuristicWithALLPhones TwoLineFriendsList xxMatches 1953 8 16  MAN 1 B \
+node MatchFriendsAndScoreVoterList.js MansfieldAllFullHeuristicWithALLPhones TwoLineFriendsList  xxMatches \
+$birthYear         \
+$birthMonth           \
+$birthDate           \
+$ward               \
+$wardNumber           \
+$wardLetter           \
 $voteScoreWeight        \
 $maxVoteScoreAllowed    \
 $ageMatchWeight         \
