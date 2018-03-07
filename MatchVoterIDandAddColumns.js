@@ -1,5 +1,5 @@
 /**
- * Created by Ken Stanley on 3/4/18 - t
+ * Created by Ken Stanley on 3/4/18 - 
  *
  * TODO:
  *   add parseLargeFile
@@ -34,11 +34,46 @@
  *        Comments by Ken Stanley
  *  
  */
+debugOutput = true; 
+longOutput = false; 
+var volunteers; 
+var thisVolsFriends;
 const fs = require('fs');
+const sortedMap = require("collections/sorted-map");
+
+const writeOutput = (text) => {
+  fs.appendFile(outputFileName, text, (err) => {
+    if (err) throw err;
+  });
+};
+
+const writeOneLine = (entry) => { 
+   if ( longOutput ) { 
+      outputLine =  entry.ID + ',' + entry.fName_large + ',' + entry.mName_large + ',' + entry.lName_large + ',' +
+      entry.age + ',' + entry.sex + ',' + entry.party + ',' + entry.address + ',' + entry.phone + ',' + entry.city + ',' +
+      entry.state + ',' + entry.zip + ',' + entry.id + ',' + entry.suffix + ',' + entry.dob + ',' +
+      entry.precinct + ',' + entry.knownBy + ',' + entry.precinctScore + ',' + entry.voteScore + ',' + entry.under40 + ',' + entry.over70 + ',' + 
+      entry.hasPhone + ',' + entry.precinctMatchScore + ',' + entry.ageMatchScore + ',' +
+      entry.organizersScore + ',' + 
+      entry.maxVoteScore + ',' + 
+      entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
+      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore ; 
+    } else {
+      outputLine = entry.ID + ',' + entry.precinct + ',' + entry.phone + ',' + entry.address ;
+    }
+    for ( i=0 ; i<volunteers.length-1 ; i++ ) {
+      outputLine = outputLine + ',' + entry.friends[i] ; 
+    }
+    outputLine = outputLine + '\n' ; 
+    writeOutput( outputLine ) ; 
+}   
+
+
 
 fileOfVolunteers = "fileOfVolunteers"; 
 largeFileName = "MansfieldAllFullHeuristicWithALLPhones.csv";
 let largeFile = [];   // This is built by parseLargeFile 
+let outputFileName = "outputFile" ;  
 
 //function to parse the large file and store name details to memory
 const parseLargeFile = function(data) {
@@ -78,7 +113,14 @@ const parseLargeFile = function(data) {
       let organizersScore = splitRow[23].trim().replace(/\r?\n?/g, '');
       let maxVoteScore = splitRow[4].trim().replace(/\r?\n?/g, '');  // This is from the old idea that volunteers,i.e. those asking people to vote 
                                                                      // less interested in a high vote score than organizers, i.e. those asking for volunteers
+      let friends = [] ;    // friends[i] = 1 if volName[i] knows this voter. volFriendsFile[i] has a list of all the friends that volName[i] knows
+                            // 
 
+      for ( i=0 ; i<volunteers.length-1 ; i++ ) {
+         if ( debugOutput ) console.log( " i = " + i + " ID = " + ID + " thisVolsFriends[i].has(ID) =  " 
+             + thisVolsFriends[i].has(ID)) ; 
+         friends[i] = thisVolsFriends[i].has(ID) ; 
+      }
       let nameObject = {
         ID: ID,
         fName: firstName,
@@ -106,10 +148,11 @@ const parseLargeFile = function(data) {
         over70: over70,
         hasPhone: hasPhone,
         organizersScore: organizersScore,
-        maxVoteScore: maxVoteScore
+        maxVoteScore: maxVoteScore,
+        friends: friends
       };
-      updateFrequencies(nameObject);
       largeFile.push(nameObject);
+      writeOneLine( nameObject ) ; 
     }
   }
 };
@@ -120,7 +163,7 @@ const printDate = function( d ) {
 
 // parse input arguments
 process.argv.forEach(function (val, index, array) {
-  if (array.length <= 2 && index == 0) {
+  if (array.length <= 4 && index == 0) {
     console.log("no input/output files specified. Defaults will be used");
   }
   if (index === 2) {
@@ -130,6 +173,10 @@ process.argv.forEach(function (val, index, array) {
   if (index === 3) {
     if ( debugOutput ) { console.log('fileOfVolunteers: ' + val); }
     fileOfVolunteers = val;
+  }
+  if (index === 4) {
+    if ( debugOutput ) { console.log('outputFileName: ' + val); }
+    outputFileName = val;
   }
   
 }
@@ -146,24 +193,56 @@ const init = function() {
   console.log(volunteerLines) ; 
 
   let volList = []; 
+  let volName = [] ; 
   let volListFile = []; 
   let volFriendsFile = []; 
-  var volunteers = volunteerLines.split("\n") ; 
+  volunteers = volunteerLines.split("\n") ;  // an array of volunteers, one line per volunteer (aka one line per line in the volunteer file)
 
+  if ( debugOutput ) console.log("volunteers.length = " +  volunteers.length ) ;
+
+  thisVolsFriends = [] ;    // an array of sorted maps, one map for each volunteer, listing that volunteers identified friends
+
+  // 
+  // foreach volunteer, we consider that volunteers friends
+  //   we put those friends into a sortedMap named thisVolsFriends[i] 
+  // 
   for ( i=0 ; i<volunteers.length-1 ; i++ ) {
+    thisVolsFriends[i] = new sortedMap(); 
+    
     row =  volunteers[i].split(","); 
-    volFriendsFile[i] = row[0];
-    volListFile[i] = row[1];   // Someday we may allow multiple vol lists 
+    volName[i] = row[0];
+    volFriendsFile[i] = row[1];
+    volListFile[i] = row[2];   // Someday we may allow multiple vol lists 
     console.log( " i = " + i + "volunteers[" + i + "] = " + volunteers[i] ) ;   
     console.log(" volFriendsFile[" +i+ "]= " + volFriendsFile[i] ) ; 
     console.log(" volListFile[" +i+ "]= " + volListFile[i] ) ; 
 
     volList[i] =  fs.readFileSync( volListFile[i], 'utf8');  // This is the list that this vol has looked through 
-    
+    theseFriends = volList[i].split("\n"); 
+    for (indexJ = 1; indexJ < theseFriends.length-1; indexJ++ ) { 
+       row = theseFriends[indexJ].split(",") ; 
+       console.log("indexJ = " + indexJ + " this line is " + theseFriends[indexJ] + " row = " + row  + " end of line\n" )  ; 
+       console.assert(row[0].lastIndexOf("OH") === 0," The " + i + "th row of " + volListFile[i] + 
+           " does not appear to start with a voter ID , it is: " + theseFriends[i] ) ; 
+       thisVolsFriends[i].set(row[0],1); // volName[i] knows this voter 
+    } 
 
 } 
- 
-  console.log(volunteers.length ) ;
+  let headers = 'ID, Precinct, Phone, Name (Age) Address, \n';
+  
+    if ( longOutput ) {
+      headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
+        'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone ,is bdate ,organizersScore,maxVoteScore,' +
+        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
+    }
+
+  for ( i=0 ; i<volunteers.length-1 ; i++ ) {
+    headers = headers + "," + volName[i] ;
+    console.log( "volName[i] = " + volName[i] ) ; 
+  }
+  writeOutput(headers);
+  parseLargeFile(largeFileContents) ; 
+
 };
 
 init();

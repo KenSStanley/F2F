@@ -1,0 +1,602 @@
+ID, Precinct, Phone, Name (Age) Address, 
+,bogus VolunteerID, Precinct, Phone, Name (Age) Address, 
+,bogus VolunteerID, Precinct, Phone, Name (Age) Address, 
+,bogus VolunteerOH0019493155,MAN 4 - B,(419) 524-2938,Stephen Parker (28) 566 W 3Rd St,false
+OH0020128048,MAN 4 - B,(419) 610-1415,Justin Adkins (27) 464 W 6Th St,false
+OH0019240731,MAN 4 - B,(419) 747-3270,Jesse Mccormack (28) 622 1/2 Park Ave W,true
+OH0023559183,MAN 4 - B,(419) 368-4131,William Goley (28) 653 W 4Th St,false
+OH0022727000,MAN 4 - B,(863) 206-3869,Charlsey Dyer (28) 125 Western Ave,true
+OH0018707459,MAN 4 - B,(419) 775-1163,Sarah Fernandez (30) 119 Lasalle St,false
+OH0018818688,MAN 4 - B,(419) 571-0381,Alvin Vance Grose (29) 151 Oxford Ave,false
+OH0022240446,MAN 4 - B,(567) 274-8946,Destiny Morris (28) 598 Garfield Pl,false
+OH0021153250,MAN 4 - B,(419) 545-1758,Brittany Ludwig (29) 96 Boston Ave,false
+OH0019559905,MAN 4 - B,(419) 747-4678,Anthony Fernandez (28) 119 Lasalle St,false
+OH0023101882,MAN 4 - B,(419) 606-3612,Lenail Parker (20) 566 W 3Rd St,false
+OH0024463523,MAN 4 - B,(740) 892-2960,Jacob Curie (27) 63 Western Ave,false
+OH0024223432,MAN 4 - B,(419) 709-8446,Ramonda Dorsey (21) 746 W 4Th St,false
+OH0021606026,MAN 4 - B,(419) 526-1800,Alex Culler (24) 104 Brookwood Way N,false
+OH0019365381,MAN 4 - B,(740) 244-9117,Danzio Jackson (28) 248 Helen Ave,false
+OH0019662198,MAN 4 - B,(419) 522-1894,Matthew Holmes (27) 839 W 3Rd St,false
+OH0018669128,MAN 6 - A,(419) 565-5758,Nathan Heath (29) 158 W 2Nd St,false
+OH0022762626,MAN 4 - B,(727) 517-0999,Adam Kindinger (28) 287 Lenox Ave,false
+OH0019992280,MAN 4 - B,(419) 756-1554,Jordan Jones (28) 228 Brookwood Way N,false
+OH0023547886,MAN 4 - B,(614) 203-8816,Jalana Gieseman (19) 289 Stadium St,false
+OH0020139962,MAN 4 - B,(567) 307-7156,Kelly Brooks (28) 836 W 3Rd St,false
+OH0021784322,MAN 4 - B,(419) 982-0120,Damber Hayes (27) 834 W 3Rd St,false
+OH0019926778,MAN 4 - B,(419) 775-5724,Bobbie Norris (27) 41 Oxford Ave,false
+OH0019559966,MAN 4 - B,(419) 529-8980,Tyler Vaughan (29) 175 Concord Ave,false
+OH0021789793,MAN 4 - B,(419) 961-3783,Natalie Kentosh (27) 56 Brickman Ave,false
+OH0023393015,MAN 4 - B,(260) 438-2824,Ana Dimas (21) 142 Buckeye Ave,false
+OH0012704196,MAN 6 - A,(419) 524-9931,Meaghan Toler (32) 154 E 1St St,false
+OH0021138824,MAN 4 - B,(602) 481-7810,Atricia Bradley (26) 56 N Linden Rd,false
+OH0018751763,MAN 4 - B,(419) 982-0120,Brandi Hayes (29) 834 W 3Rd St,false
+OH0020136408,MAN 4 - B,(419) 522-1447,Myasha Huffman (27) 657 W 4Th St,false
+OH0023952785,MAN 4 - B,(567) 560-8072,Alicia Bonnett (26) 226 Wimbledon Dr,false
+OH0012702160,MAN 4 - B,(419) 521-5147,Nazarra Crayton (32) 32 Western Ave,false
+OH0023110919,MAN 4 - B,(419) 522-4459,Devin Jackson (20) 1179 W 4Th St,false
+OH0019269279,MAN 4 - B,(419) 775-5477,Sabrina York (29) 839 W 3Rd St,false
+OH0021040406,MAN 4 - B,(928) 550-0552,Jody Peavy (25) 653 1/2 W 4Th St,false
+OH0015643580,MAN 4 - B,(567) 307-7073,Latoya Curry (28) 87 Western Ave,false
+OH0022479301,MAN 4 - B,(419) 989-3042,Halee Bloom (27) 71 West Park Blvd,false
+OH0022574683,MAN 4 - B,(567) 560-3548,Stephanie Bogolis (24) 571 Garfield Pl,false
+OH0023612266,MAN 4 - B,(419) 775-5206,Gillian Ensman (19) 66 Ausdale Ave,false
+OH0024046100,MAN 4 - B,(419) 756-7921,Frederick Lyons (19) 348 W 6Th St,false
+OH0020178396,MAN 4 - B,(419) 775-5500,David Brent (27) 412 W 6Th St,false
+OH0022735741,MAN 4 - B,(419) 775-7656,Tyler Vance Grose (24) 151 Oxford Ave,false
+OH0023195454,MAN 4 - B,(419) 982-3137,Cassandra Howard (28) 248 Elmwood Dr,false
+OH0018164989,MAN 4 - B,(419) 775-5889,Nathaniel Wieland (30) 211 Rae Ave,false
+OH0021272225,MAN 6 - A,(419) 775-5016,Raven Hoefler (26) 53 W 2Nd St,false
+OH0023878386,MAN 4 - B,(419) 522-7299,Saquann Johnson (20) 266 Parkway Dr,false
+OH0023547732,MAN 4 - B,(419) 522-0909,Maliyah Hale (20) 129 Western Ave,false
+OH0023030904,MAN 4 - B,(567) 560-4985,Brianna Dininger (24) 113 Lasalle St,false
+OH0023582184,MAN 4 - B,(419) 524-9322,Giovanni Watkins (19) 33 West Park Blvd,false
+OH0018759963,MAN 4 - B,(202) 270-6690,Corey Cathers (29) 565 Garfield Pl,false
+OH0023559256,MAN 4 - B,(419) 522-5072,Terrell Diehl (19) 567 Heineman Blvd,false
+OH0021852305,MAN 4 - B,(419) 522-1274,Jasmine Mask (24) 170 Lasalle St,false
+OH0023862155,MAN 4 - B,(419) 522-1746,Dallas Holmes (19) 838 W 3Rd St,false
+OH0021624868,MAN 4 - B,(419) 524-8036,Angela Vega (28) 211 Rae Ave,false
+OH0023108797,MAN 4 - B,(567) 307-1391,Amanda Carter (28) 839 W 3Rd St,false
+OH0018680944,MAN 4 - B,(419) 529-3083,Kenneth Metz (30) 72 N Linden Rd,false
+OH0021629583,MAN 4 - B,(419) 884-5027,Kelly Elkins (24) 228 Parkway Dr,false
+OH0020239996,MAN 4 - B,(419) 544-3065,Jimmy Skinner (27) 162 Brookwood Way N,false
+OH0021686171,MAN 4 - B,(419) 989-2689,Brittany Turner (23) 690 W 4Th St,false
+OH0012689854,MAN 4 - B,(419) 775-5633,Ian Stumbo (32) 85 Lasalle St,false
+OH0019814009,MAN 4 - D,(419) 709-9304,David Carroll (27) 387 Hanna Rd,false
+OH0012700360,MAN 4 - B,(419) 525-0390,Jared Mayer (31) 564 Park Ave W,false
+OH0024000845,MAN 4 - B,(765) 749-5569,Darryl Mccoy (25) 178 Boston Ave,false
+OH0022639571,MAN 4 - B,(419) 370-1064,Damien Beauford (31) 620 W 4Th St,false
+OH0023238136,MAN 4 - B,(419) 756-9361,Jason Hively (20) 803 Burton Ave,false
+OH0023697544,MAN 4 - B,(419) 668-8458,Chelsie Betancourt (20) 231 Parkway Dr,false
+OH0023686533,MAN 4 - B,(419) 522-5515,Devin Shire (20) 748 W 3Rd St,false
+OH0015940996,MAN 4 - B,(567) 560-4302,Tyronza Brown (31) 100 E Cook Rd,false
+OH0023959499,MAN 4 - B,(419) 524-3497,Menawsha Parks (20) 248 Helen Ave,false
+OH0022532831,MAN 4 - B,(567) 560-4118,Viktor Theiss (29) 1232 Silver Ln,false
+OH0024185758,MAN 4 - B,(419) 775-7666,David Figley (28) 231 Rae Ave,false
+OH0024058663,MAN 4 - B,(419) 775-7301,Brittany Pereira (22) 261 Elmwood Dr,false
+OH0015869810,MAN 4 - B,(419) 522-5789,Heaven Mckinney (31) 100 Western Ave,false
+OH0022563477,MAN 4 - B,(419) 775-5873,Courtney Frontz (22) 1179 W 4Th St,false
+OH0022698336,MAN 4 - B,(567) 241-5062,Alexiz Rucker (22) 250 Westbrook Ave,false
+OH0021044613,MAN 4 - B,(928) 380-1226,Dominique Chester (27) 844 W 3Rd St,false
+OH0023078943,MAN 4 - B,(419) 526-0081,Bryan Warne (22) 61 Ausdale Ave,false
+OH0019603232,MAN 4 - E,(567) 560-4748,Samantha Dashkovitz (27) 538 Burns St,false
+OH0022735761,MAN 4 - B,(419) 775-7656,Ta Janai Wade (21) 173 Western Ave,false
+OH0020194833,MAN 4 - B,(419) 610-8050,Keisha Burton (28) 33 Western Ave,false
+OH0024072629,MAN 4 - B,(614) 843-8485,Kristen Barker (21) 410 W 6Th St,false
+OH0022874200,MAN 4 - B,(419) 610-1714,John Goodwin (21) 1231 Silver Ln,false
+OH0019560030,MAN 6 - D,(419) 961-7926,Alicia Jones (27) 248 Greendale Ave,false
+OH0021384901,MAN 4 - B,(419) 631-7409,Clinton Rowe (26) 239 Concord Ave,false
+OH0022964035,MAN 4 - D,(614) 889-2685,William Sly (27) 1149 Boyle Rd,false
+OH0019855924,MAN 4 - C,(419) 775-5514,Natascha Merchant (29) 190 Gerke Ave,false
+OH0021717020,MAN 6 - A,(419) 295-9547,Rashod Sewell (25) 257 E 2Nd St,false
+OH0022155139,MAN 4 - B,(419) 775-5861,Tevin Hardin (23) 84 Brookwood Way N,false
+OH0021936157,MAN 4 - B,(419) 521-4750,Arica Parker (26) 372 W 6Th St,false
+OH0023445876,MAN 4 - B,(419) 709-9591,Mckay Chester (26) 844 W 3Rd St,false
+OH0022356148,MAN 4 - B,(419) 524-8306,Janisha Mack (22) 275 Helen Ave,false
+OH0024063695,MAN 4 - B,(330) 733-6804,Hannah Backensto (22) 292 Stadium St,false
+OH0022897118,MAN 4 - B,(419) 610-6749,Ma Tia Porter (22) 605 W 3Rd St,false
+OH0022268154,MAN 4 - B,(419) 632-7085,Ryan Bullis (26) 140 Buckeye Ave,false
+OH0023649694,MAN 4 - B,(440) 506-0059,Jeffrey Kinds (29) 72 Ausdale Ave,false
+OH0022795529,MAN 4 - B,(419) 632-3501,Hannah Mutchler (25) 77 Brickman Ave,false
+OH0023225484,MAN 4 - E,(567) 560-2612,Jawuan Pinkston (20) 808 Mcpherson St,false
+OH0021285260,MAN 4 - B,(419) 775-8832,Dalana Nabors (25) 693 W 4Th St,false
+OH0023977465,MAN 4 - B,(567) 560-5700,Lucas Heminger (26) 70 N Linden Rd,false
+OH0012699810,MAN 4 - B,(419) 524-2938,Paula Parker (56) 566 W 3Rd St,false
+OH0018683338,MAN 4 - B,(419) 756-9834,Amber Klinetop (29) 87 Western Ave,false
+OH0022131695,MAN 4 - B,(419) 524-0826,Yasmeen Al Shatti (25) 390 W 6Th St,false
+OH0019774231,MAN 4 - E,(567) 844-0035,Christina Tucker (27) 623 Mcpherson St,false
+OH0021788265,MAN 4 - B,(419) 524-7519,Andrea Beidelschies (24) 50 N Linden Rd,false
+OH0021110969,MAN 4 - B,(419) 747-5882,Brittney Vanriper (26) 266 Helen Ave,false
+OH0023023376,MAN 4 - B,(419) 524-0714,Jeff Saxon (26) 84 Lasalle St,false
+OH0019662742,MAN 6 - A,(567) 560-8101,Cliff Wright (29) 145 W 2Nd St,false
+OH0019661353,MAN 4 - B,(419) 747-6948,Kristen Adams (28) 221 Brookwood Way N,false
+OH0021310954,MAN 4 - B,(419) 775-7662,Yasmaine Mccrary (25) 757 W 3Rd St,false
+OH0024158089,MAN 4 - B,(567) 274-9144,Aaron Gladney (26) 573 Garfield Pl,false
+OH0019200286,MAN 4 - E,(330) 723-0753,Amanda Camak (30) 600 Sackman St,false
+OH0022875165,MAN 4 - B,(419) 775-5464,Tyrell Powell (25) 268 Rae Ave,false
+OH0021977814,MAN 5 - B,(419) 610-8648,Antania Delk (23) 120 Harker St,false
+OH0022677959,MAN 4 - B,(419) 571-8317,Erin Bouchard (25) 142 Buckeye Ave,false
+OH0022589026,MAN 4 - B,(419) 709-9414,Lisa Goodman (32) 197 Wimbledon Dr,false
+OH0019282889,MAN 4 - E,(567) 560-3162,Cedric Tanner (30) 661 Springmill St,false
+OH0022748790,MAN 4 - B,(567) 560-5237,Ryan Vanriper (24) 266 Helen Ave,false
+OH0023409556,MAN 4 - B,(419) 756-3495,Matthew Hanners (31) 622 1/2 Park Ave W,false
+OH0023689462,MAN 4 - B,(419) 526-4703,Collene Hrivnak (25) 65 West Park Blvd,false
+OH0021525842,MAN 5 - B,(419) 610-7659,Brittany Delk (27) 120 Harker St,false
+OH0019425003,MAN 5 - B,(419) 612-8325,Jasmine Lindsay (28) 207 Harker St,false
+OH0012670744,MAN 4 - B,(567) 560-2867,Jerrick Feagin (32) 259 Rae Ave,false
+OH0020204833,MAN 4 - C,(419) 525-0071,Lakendra Davis (27) 135 E Cook Rd,false
+OH0012664637,MAN 4 - B,(419) 571-7250,Lorie Myers (59) 244 Elmwood Dr,false
+OH0024456161,MAN 6 - D,(740) 892-2960,Andrew Bluester (18) 86 Home Ave,false
+OH0023090232,MAN 5 - B,(419) 612-1534,Kaitlin Durbin (27) 211 N Main St,false
+OH0020412931,MAN 6 - D,(419) 961-4132,Brentt Coopwood (28) 224 Reform St,false
+OH0019123349,MAN 5 - B,(419) 709-9713,Alexandra Conrad (28) 211 N Main St,false
+OH0020050966,MAN 4 - B,(419) 610-4175,Cordereo Bentley (30) 644 W 3Rd St,false
+OH0022801273,MAN 4 - B,(419) 527-6910,Aaron Neighbers (30) 32 Oxford Ave,false
+OH0018798209,MAN 4 - B,(567) 560-2286,Justin Teeters (29) 349 Stadium St,false
+OH0024455327,MAN 4 - B,(740) 892-2960,Braydon Burgy (18) 34 Western Ave,false
+OH0019638194,MAN 4 - D,(419) 747-3987,Courtney Carroll (27) 277 Pomerene Rd,false
+OH0024455755,MAN 4 - B,(740) 892-2960,Heidi Smith (18) 77 West Park Blvd,false
+OH0018943026,MAN 6 - D,(419) 884-0092,Danielle Palesh (29) 240 Reform St,false
+OH0019498309,MAN 4 - B,(419) 631-9935,Holly Schillinger (29) 813 Burton Ave,false
+OH0018303202,MAN 4 - B,(419) 961-8450,Tira Robertson (30) 405 Spayer Ln,false
+OH0014361010,MAN 4 - B,(419) 755-1994,Marcus Edwards (54) 452 Spayer Ln,false
+OH0023301734,MAN 4 - E,(419) 522-0905,Jamaica Bridges (22) 792 Mcpherson St,false
+OH0012664326,MAN 4 - B,(419) 522-3402,John Hill (63) 382 Spayer Ln,false
+OH0022563688,MAN 6 - D,(419) 524-1399,Alegeia Martin (22) 177 S Adams St,false
+OH0019096856,MAN 6 - D,(419) 961-5740,Stephanie Garrison (29) 514 Beethoven St,false
+OH0021134002,MAN 4 - B,(520) 574-1138,Chasiti Smith (25) 262 Parkway Dr,false
+OH0012664757,MAN 4 - B,(419) 612-8506,David Holbrook (55) 230 Westbrook Ave,false
+OH0021184938,MAN 6 - A,(419) 522-7114,Nicholas Dewalt (25) 317 E 1St St,false
+OH0012699772,MAN 4 - B,(419) 525-0390,Ladonna Mayer (68) 564 Park Ave W,false
+OH0019830361,MAN 5 - B,(567) 560-5513,Holly Roman (27) 211 N Main St,false
+OH0022079190,MAN 4 - B,(419) 295-8540,Ryan Spaulding (30) 94 Lasalle St,false
+OH0012665160,MAN 4 - B,(419) 522-2717,Gerald Pugh (57) 452 Spayer Ln,false
+OH0012700128,MAN 4 - B,(419) 522-6939,Richard Gleisinger (56) 608 Park Ave W,false
+OH0014438319,MAN 4 - B,(419) 775-5521,Zachary Taylor (31) 227 Elmwood Dr,false
+OH0023849318,MAN 4 - C,(419) 525-3246,Nyasha Oden (24) 411 Sherman Pl,false
+OH0020156140,MAN 4 - B,(419) 756-1111,Brittaney Workman (28) 830 W 3Rd St,false
+OH0020399930,MAN 4 - B,(567) 307-7241,Cameron Douros (28) 678 W 3Rd St,false
+OH0019326636,MAN 4 - B,(419) 589-5450,Jammie Darby (28) 345 Spayer Ln,false
+OH0019620680,MAN 4 - B,(419) 589-9392,Steven Cash (27) 135 Buckeye Ave,false
+OH0020836238,MAN 4 - B,(419) 522-9678,Cody Knuckles (27) 635 W 3Rd St,false
+OH0019866236,MAN 4 - B,(419) 526-0084,Cliff Mills (27) 350 Spayer Ln,false
+OH0019606341,MAN 6 - A,(419) 775-7078,Bobby Hines (27) 207 E 1St St,false
+OH0019814001,MAN 4 - C,(419) 884-7734,Najah Lucas (27) 276 1/2 W 3Rd St,false
+OH0024158336,MAN 4 - C,(419) 756-3626,Nicole Sawdy (27) 43 Penn Ave,false
+OH0024317767,MAN 4 - B,(419) 529-0507,Joshua Hamrick (19) 170 Boston Ave,false
+OH0024254773,MAN 4 - B,(419) 709-9834,Kathryn Carroll (19) 198 Wimbledon Dr,false
+OH0022264338,MAN 5 - B,(419) 545-1041,Jacob Hamm (23) 201 Crestline Ave,false
+OH0022347236,MAN 4 - B,(419) 524-6390,Amanda Noble (27) 103 Helen Ave,false
+OH0024183318,MAN 4 - B,(419) 526-3796,Alicia Betancourt (19) 231 Parkway Dr,false
+OH0024455029,MAN 4 - B,(740) 892-2960,Alisaya Kintz (19) 743 W 3Rd St,false
+OH0024272980,MAN 4 - B,(216) 221-5489,Khristian Jones (19) 237 Parkway Dr,false
+OH0024349421,MAN 4 - B,(567) 560-4874,Cody Ellis (18) 648 W 4Th St,false
+OH0024332733,MAN 4 - B,(419) 755-4905,Cameron Hoffman (18) 104 Western Ave,false
+OH0012714047,MAN 4 - B,(419) 775-8861,Richard Catron (64) 131 Lasalle St,false
+OH0019732290,MAN 6 - A,(419) 543-3503,Phillippia Roane (27) 219 E 1St St,false
+OH0020133549,MAN 6 - A,(419) 522-1769,Tayamarie Jordan (27) 129 Columbia Ave,false
+OH0019844981,MAN 2 - C,(419) 756-6741,Jeb Baker (27) 234 S Diamond St,false
+OH0020048841,MAN 4 - E,(419) 512-3541,Brendan Jefferson (27) 532 King St,false
+OH0012664392,MAN 4 - B,(419) 522-3402,Marsha Hill (60) 382 Spayer Ln,false
+OH0022405582,MAN 6 - A,(419) 632-3125,Victavia Jacocks (23) 161 S Diamond St,false
+OH0012664459,MAN 4 - B,(567) 560-5700,Mary Heminger (75) 70 N Linden Rd,false
+OH0020064535,MAN 4 - E,(419) 508-3609,Tiffany Hale (27) 634 Sackman St,false
+OH0021826967,MAN 3 - A,(419) 526-3174,Frederick Craig (23) 88 Carpenter Rd,false
+OH0021153223,MAN 4 - C,(419) 522-8522,Diane Anderson (25) 67 Rowland Ave,false
+OH0020433277,MAN 4 - C,(419) 526-0227,Nicole Myers (27) 236 Clairmont Ave,false
+OH0020087237,MAN 4 - E,(419) 747-1097,Kenneth Williams (27) 791 King St,false
+OH0020898793,MAN 4 - B,(419) 775-5570,Nicholas Demorst (27) 251 Parkway Dr,false
+OH0021039839,MAN 4 - E,(419) 524-9871,Jalisa Crittenden (25) 286 Grace St,false
+OH0022107695,MAN 5 - B,(419) 522-7053,Chateya Reed (23) 578 Bowman St,false
+OH0021384658,MAN 6 - D,(419) 961-7926,Alexis Jones Hudgens (24) 248 Greendale Ave,false
+OH0023147465,MAN 4 - B,(419) 756-2071,Alicia Clever (20) 87 Western Ave,false
+OH0023652365,MAN 4 - B,(419) 543-7408,Shirley Owens (20) 65 Helen Ave,false
+OH0021308873,MAN 4 - C,(567) 560-5023,Marissa Sheffield (26) 74 Sycamore St,false
+OH0023557807,MAN 4 - B,(419) 528-1380,Demerio Bentley (20) 644 W 3Rd St,false
+OH0019106174,MAN 5 - B,(419) 522-3713,Kevin Black (29) 451 Daisy St,false
+OH0024193424,MAN 4 - B,(419) 709-9312,Dearick Guill (19) 29 Western Ave,false
+OH0019879277,MAN 6 - A,(302) 632-8911,Charles Adkins Davis (29) 207 E 1St St,false
+OH0024038920,MAN 4 - E,(567) 307-2891,Shannica Black (28) 647 Sackman St,false
+OH0015911506,MAN 4 - B,(419) 775-7033,Miatta Curry (33) 620 W 4Th St,false
+OH0018986498,MAN 4 - B,(419) 512-4615,Rockie Mounts (31) 209 Wimbledon Dr,false
+OH0020055161,MAN 4 - C,(567) 560-5098,David Crabtree (27) 120 Rae Ave,false
+OH0021133946,MAN 4 - B,(419) 756-5937,Ikea Jones (29) 102 Boston Ave,false
+ID, Precinct, Phone, Name (Age) Address, 
+,bogus VolunteerOH0019493155,MAN 4 - B,(419) 524-2938,Stephen Parker (28) 566 W 3Rd St,false
+OH0020128048,MAN 4 - B,(419) 610-1415,Justin Adkins (27) 464 W 6Th St,false
+OH0019240731,MAN 4 - B,(419) 747-3270,Jesse Mccormack (28) 622 1/2 Park Ave W,true
+OH0023559183,MAN 4 - B,(419) 368-4131,William Goley (28) 653 W 4Th St,false
+OH0022727000,MAN 4 - B,(863) 206-3869,Charlsey Dyer (28) 125 Western Ave,true
+OH0018707459,MAN 4 - B,(419) 775-1163,Sarah Fernandez (30) 119 Lasalle St,false
+OH0018818688,MAN 4 - B,(419) 571-0381,Alvin Vance Grose (29) 151 Oxford Ave,false
+OH0022240446,MAN 4 - B,(567) 274-8946,Destiny Morris (28) 598 Garfield Pl,false
+OH0021153250,MAN 4 - B,(419) 545-1758,Brittany Ludwig (29) 96 Boston Ave,false
+OH0019559905,MAN 4 - B,(419) 747-4678,Anthony Fernandez (28) 119 Lasalle St,false
+OH0023101882,MAN 4 - B,(419) 606-3612,Lenail Parker (20) 566 W 3Rd St,false
+OH0024463523,MAN 4 - B,(740) 892-2960,Jacob Curie (27) 63 Western Ave,false
+OH0024223432,MAN 4 - B,(419) 709-8446,Ramonda Dorsey (21) 746 W 4Th St,false
+OH0021606026,MAN 4 - B,(419) 526-1800,Alex Culler (24) 104 Brookwood Way N,false
+OH0019365381,MAN 4 - B,(740) 244-9117,Danzio Jackson (28) 248 Helen Ave,false
+OH0019662198,MAN 4 - B,(419) 522-1894,Matthew Holmes (27) 839 W 3Rd St,false
+OH0018669128,MAN 6 - A,(419) 565-5758,Nathan Heath (29) 158 W 2Nd St,false
+OH0022762626,MAN 4 - B,(727) 517-0999,Adam Kindinger (28) 287 Lenox Ave,false
+OH0019992280,MAN 4 - B,(419) 756-1554,Jordan Jones (28) 228 Brookwood Way N,false
+OH0023547886,MAN 4 - B,(614) 203-8816,Jalana Gieseman (19) 289 Stadium St,false
+OH0020139962,MAN 4 - B,(567) 307-7156,Kelly Brooks (28) 836 W 3Rd St,false
+OH0021784322,MAN 4 - B,(419) 982-0120,Damber Hayes (27) 834 W 3Rd St,false
+OH0019926778,MAN 4 - B,(419) 775-5724,Bobbie Norris (27) 41 Oxford Ave,false
+OH0019559966,MAN 4 - B,(419) 529-8980,Tyler Vaughan (29) 175 Concord Ave,false
+OH0021789793,MAN 4 - B,(419) 961-3783,Natalie Kentosh (27) 56 Brickman Ave,false
+OH0023393015,MAN 4 - B,(260) 438-2824,Ana Dimas (21) 142 Buckeye Ave,false
+OH0012704196,MAN 6 - A,(419) 524-9931,Meaghan Toler (32) 154 E 1St St,false
+OH0021138824,MAN 4 - B,(602) 481-7810,Atricia Bradley (26) 56 N Linden Rd,false
+OH0018751763,MAN 4 - B,(419) 982-0120,Brandi Hayes (29) 834 W 3Rd St,false
+OH0020136408,MAN 4 - B,(419) 522-1447,Myasha Huffman (27) 657 W 4Th St,false
+OH0023952785,MAN 4 - B,(567) 560-8072,Alicia Bonnett (26) 226 Wimbledon Dr,false
+OH0012702160,MAN 4 - B,(419) 521-5147,Nazarra Crayton (32) 32 Western Ave,false
+OH0023110919,MAN 4 - B,(419) 522-4459,Devin Jackson (20) 1179 W 4Th St,false
+OH0019269279,MAN 4 - B,(419) 775-5477,Sabrina York (29) 839 W 3Rd St,false
+OH0021040406,MAN 4 - B,(928) 550-0552,Jody Peavy (25) 653 1/2 W 4Th St,false
+OH0015643580,MAN 4 - B,(567) 307-7073,Latoya Curry (28) 87 Western Ave,false
+OH0022479301,MAN 4 - B,(419) 989-3042,Halee Bloom (27) 71 West Park Blvd,false
+OH0022574683,MAN 4 - B,(567) 560-3548,Stephanie Bogolis (24) 571 Garfield Pl,false
+OH0023612266,MAN 4 - B,(419) 775-5206,Gillian Ensman (19) 66 Ausdale Ave,false
+OH0024046100,MAN 4 - B,(419) 756-7921,Frederick Lyons (19) 348 W 6Th St,false
+OH0020178396,MAN 4 - B,(419) 775-5500,David Brent (27) 412 W 6Th St,false
+OH0022735741,MAN 4 - B,(419) 775-7656,Tyler Vance Grose (24) 151 Oxford Ave,false
+OH0023195454,MAN 4 - B,(419) 982-3137,Cassandra Howard (28) 248 Elmwood Dr,false
+OH0018164989,MAN 4 - B,(419) 775-5889,Nathaniel Wieland (30) 211 Rae Ave,false
+OH0021272225,MAN 6 - A,(419) 775-5016,Raven Hoefler (26) 53 W 2Nd St,false
+OH0023878386,MAN 4 - B,(419) 522-7299,Saquann Johnson (20) 266 Parkway Dr,false
+OH0023547732,MAN 4 - B,(419) 522-0909,Maliyah Hale (20) 129 Western Ave,false
+OH0023030904,MAN 4 - B,(567) 560-4985,Brianna Dininger (24) 113 Lasalle St,false
+OH0023582184,MAN 4 - B,(419) 524-9322,Giovanni Watkins (19) 33 West Park Blvd,false
+OH0018759963,MAN 4 - B,(202) 270-6690,Corey Cathers (29) 565 Garfield Pl,false
+OH0023559256,MAN 4 - B,(419) 522-5072,Terrell Diehl (19) 567 Heineman Blvd,false
+OH0021852305,MAN 4 - B,(419) 522-1274,Jasmine Mask (24) 170 Lasalle St,false
+OH0023862155,MAN 4 - B,(419) 522-1746,Dallas Holmes (19) 838 W 3Rd St,false
+OH0021624868,MAN 4 - B,(419) 524-8036,Angela Vega (28) 211 Rae Ave,false
+OH0023108797,MAN 4 - B,(567) 307-1391,Amanda Carter (28) 839 W 3Rd St,false
+OH0018680944,MAN 4 - B,(419) 529-3083,Kenneth Metz (30) 72 N Linden Rd,false
+OH0021629583,MAN 4 - B,(419) 884-5027,Kelly Elkins (24) 228 Parkway Dr,false
+OH0020239996,MAN 4 - B,(419) 544-3065,Jimmy Skinner (27) 162 Brookwood Way N,false
+OH0021686171,MAN 4 - B,(419) 989-2689,Brittany Turner (23) 690 W 4Th St,false
+OH0012689854,MAN 4 - B,(419) 775-5633,Ian Stumbo (32) 85 Lasalle St,false
+OH0019814009,MAN 4 - D,(419) 709-9304,David Carroll (27) 387 Hanna Rd,false
+OH0012700360,MAN 4 - B,(419) 525-0390,Jared Mayer (31) 564 Park Ave W,false
+OH0024000845,MAN 4 - B,(765) 749-5569,Darryl Mccoy (25) 178 Boston Ave,false
+OH0022639571,MAN 4 - B,(419) 370-1064,Damien Beauford (31) 620 W 4Th St,false
+OH0023238136,MAN 4 - B,(419) 756-9361,Jason Hively (20) 803 Burton Ave,false
+OH0023697544,MAN 4 - B,(419) 668-8458,Chelsie Betancourt (20) 231 Parkway Dr,false
+OH0023686533,MAN 4 - B,(419) 522-5515,Devin Shire (20) 748 W 3Rd St,false
+OH0015940996,MAN 4 - B,(567) 560-4302,Tyronza Brown (31) 100 E Cook Rd,false
+OH0023959499,MAN 4 - B,(419) 524-3497,Menawsha Parks (20) 248 Helen Ave,false
+OH0022532831,MAN 4 - B,(567) 560-4118,Viktor Theiss (29) 1232 Silver Ln,false
+OH0024185758,MAN 4 - B,(419) 775-7666,David Figley (28) 231 Rae Ave,false
+OH0024058663,MAN 4 - B,(419) 775-7301,Brittany Pereira (22) 261 Elmwood Dr,false
+OH0015869810,MAN 4 - B,(419) 522-5789,Heaven Mckinney (31) 100 Western Ave,false
+OH0022563477,MAN 4 - B,(419) 775-5873,Courtney Frontz (22) 1179 W 4Th St,false
+OH0022698336,MAN 4 - B,(567) 241-5062,Alexiz Rucker (22) 250 Westbrook Ave,false
+OH0021044613,MAN 4 - B,(928) 380-1226,Dominique Chester (27) 844 W 3Rd St,false
+OH0023078943,MAN 4 - B,(419) 526-0081,Bryan Warne (22) 61 Ausdale Ave,false
+OH0019603232,MAN 4 - E,(567) 560-4748,Samantha Dashkovitz (27) 538 Burns St,false
+OH0022735761,MAN 4 - B,(419) 775-7656,Ta Janai Wade (21) 173 Western Ave,false
+OH0020194833,MAN 4 - B,(419) 610-8050,Keisha Burton (28) 33 Western Ave,false
+OH0024072629,MAN 4 - B,(614) 843-8485,Kristen Barker (21) 410 W 6Th St,false
+OH0022874200,MAN 4 - B,(419) 610-1714,John Goodwin (21) 1231 Silver Ln,false
+OH0019560030,MAN 6 - D,(419) 961-7926,Alicia Jones (27) 248 Greendale Ave,false
+OH0021384901,MAN 4 - B,(419) 631-7409,Clinton Rowe (26) 239 Concord Ave,false
+OH0022964035,MAN 4 - D,(614) 889-2685,William Sly (27) 1149 Boyle Rd,false
+OH0019855924,MAN 4 - C,(419) 775-5514,Natascha Merchant (29) 190 Gerke Ave,false
+OH0021717020,MAN 6 - A,(419) 295-9547,Rashod Sewell (25) 257 E 2Nd St,false
+OH0022155139,MAN 4 - B,(419) 775-5861,Tevin Hardin (23) 84 Brookwood Way N,false
+OH0021936157,MAN 4 - B,(419) 521-4750,Arica Parker (26) 372 W 6Th St,false
+OH0023445876,MAN 4 - B,(419) 709-9591,Mckay Chester (26) 844 W 3Rd St,false
+OH0022356148,MAN 4 - B,(419) 524-8306,Janisha Mack (22) 275 Helen Ave,false
+OH0024063695,MAN 4 - B,(330) 733-6804,Hannah Backensto (22) 292 Stadium St,false
+OH0022897118,MAN 4 - B,(419) 610-6749,Ma Tia Porter (22) 605 W 3Rd St,false
+OH0022268154,MAN 4 - B,(419) 632-7085,Ryan Bullis (26) 140 Buckeye Ave,false
+OH0023649694,MAN 4 - B,(440) 506-0059,Jeffrey Kinds (29) 72 Ausdale Ave,false
+OH0022795529,MAN 4 - B,(419) 632-3501,Hannah Mutchler (25) 77 Brickman Ave,false
+OH0023225484,MAN 4 - E,(567) 560-2612,Jawuan Pinkston (20) 808 Mcpherson St,false
+OH0021285260,MAN 4 - B,(419) 775-8832,Dalana Nabors (25) 693 W 4Th St,false
+OH0023977465,MAN 4 - B,(567) 560-5700,Lucas Heminger (26) 70 N Linden Rd,false
+OH0012699810,MAN 4 - B,(419) 524-2938,Paula Parker (56) 566 W 3Rd St,false
+OH0018683338,MAN 4 - B,(419) 756-9834,Amber Klinetop (29) 87 Western Ave,false
+OH0022131695,MAN 4 - B,(419) 524-0826,Yasmeen Al Shatti (25) 390 W 6Th St,false
+OH0019774231,MAN 4 - E,(567) 844-0035,Christina Tucker (27) 623 Mcpherson St,false
+OH0021788265,MAN 4 - B,(419) 524-7519,Andrea Beidelschies (24) 50 N Linden Rd,false
+OH0021110969,MAN 4 - B,(419) 747-5882,Brittney Vanriper (26) 266 Helen Ave,false
+OH0023023376,MAN 4 - B,(419) 524-0714,Jeff Saxon (26) 84 Lasalle St,false
+OH0019662742,MAN 6 - A,(567) 560-8101,Cliff Wright (29) 145 W 2Nd St,false
+OH0019661353,MAN 4 - B,(419) 747-6948,Kristen Adams (28) 221 Brookwood Way N,false
+OH0021310954,MAN 4 - B,(419) 775-7662,Yasmaine Mccrary (25) 757 W 3Rd St,false
+OH0024158089,MAN 4 - B,(567) 274-9144,Aaron Gladney (26) 573 Garfield Pl,false
+OH0019200286,MAN 4 - E,(330) 723-0753,Amanda Camak (30) 600 Sackman St,false
+OH0022875165,MAN 4 - B,(419) 775-5464,Tyrell Powell (25) 268 Rae Ave,false
+OH0021977814,MAN 5 - B,(419) 610-8648,Antania Delk (23) 120 Harker St,false
+OH0022677959,MAN 4 - B,(419) 571-8317,Erin Bouchard (25) 142 Buckeye Ave,false
+OH0022589026,MAN 4 - B,(419) 709-9414,Lisa Goodman (32) 197 Wimbledon Dr,false
+OH0019282889,MAN 4 - E,(567) 560-3162,Cedric Tanner (30) 661 Springmill St,false
+OH0022748790,MAN 4 - B,(567) 560-5237,Ryan Vanriper (24) 266 Helen Ave,false
+OH0023409556,MAN 4 - B,(419) 756-3495,Matthew Hanners (31) 622 1/2 Park Ave W,false
+OH0023689462,MAN 4 - B,(419) 526-4703,Collene Hrivnak (25) 65 West Park Blvd,false
+OH0021525842,MAN 5 - B,(419) 610-7659,Brittany Delk (27) 120 Harker St,false
+OH0019425003,MAN 5 - B,(419) 612-8325,Jasmine Lindsay (28) 207 Harker St,false
+OH0012670744,MAN 4 - B,(567) 560-2867,Jerrick Feagin (32) 259 Rae Ave,false
+OH0020204833,MAN 4 - C,(419) 525-0071,Lakendra Davis (27) 135 E Cook Rd,false
+OH0012664637,MAN 4 - B,(419) 571-7250,Lorie Myers (59) 244 Elmwood Dr,false
+OH0024456161,MAN 6 - D,(740) 892-2960,Andrew Bluester (18) 86 Home Ave,false
+OH0023090232,MAN 5 - B,(419) 612-1534,Kaitlin Durbin (27) 211 N Main St,false
+OH0020412931,MAN 6 - D,(419) 961-4132,Brentt Coopwood (28) 224 Reform St,false
+OH0019123349,MAN 5 - B,(419) 709-9713,Alexandra Conrad (28) 211 N Main St,false
+OH0020050966,MAN 4 - B,(419) 610-4175,Cordereo Bentley (30) 644 W 3Rd St,false
+OH0022801273,MAN 4 - B,(419) 527-6910,Aaron Neighbers (30) 32 Oxford Ave,false
+OH0018798209,MAN 4 - B,(567) 560-2286,Justin Teeters (29) 349 Stadium St,false
+OH0024455327,MAN 4 - B,(740) 892-2960,Braydon Burgy (18) 34 Western Ave,false
+OH0019638194,MAN 4 - D,(419) 747-3987,Courtney Carroll (27) 277 Pomerene Rd,false
+OH0024455755,MAN 4 - B,(740) 892-2960,Heidi Smith (18) 77 West Park Blvd,false
+OH0018943026,MAN 6 - D,(419) 884-0092,Danielle Palesh (29) 240 Reform St,false
+OH0019498309,MAN 4 - B,(419) 631-9935,Holly Schillinger (29) 813 Burton Ave,false
+OH0018303202,MAN 4 - B,(419) 961-8450,Tira Robertson (30) 405 Spayer Ln,false
+OH0014361010,MAN 4 - B,(419) 755-1994,Marcus Edwards (54) 452 Spayer Ln,false
+OH0023301734,MAN 4 - E,(419) 522-0905,Jamaica Bridges (22) 792 Mcpherson St,false
+OH0012664326,MAN 4 - B,(419) 522-3402,John Hill (63) 382 Spayer Ln,false
+OH0022563688,MAN 6 - D,(419) 524-1399,Alegeia Martin (22) 177 S Adams St,false
+OH0019096856,MAN 6 - D,(419) 961-5740,Stephanie Garrison (29) 514 Beethoven St,false
+OH0021134002,MAN 4 - B,(520) 574-1138,Chasiti Smith (25) 262 Parkway Dr,false
+OH0012664757,MAN 4 - B,(419) 612-8506,David Holbrook (55) 230 Westbrook Ave,false
+OH0021184938,MAN 6 - A,(419) 522-7114,Nicholas Dewalt (25) 317 E 1St St,false
+OH0012699772,MAN 4 - B,(419) 525-0390,Ladonna Mayer (68) 564 Park Ave W,false
+OH0019830361,MAN 5 - B,(567) 560-5513,Holly Roman (27) 211 N Main St,false
+OH0022079190,MAN 4 - B,(419) 295-8540,Ryan Spaulding (30) 94 Lasalle St,false
+OH0012665160,MAN 4 - B,(419) 522-2717,Gerald Pugh (57) 452 Spayer Ln,false
+OH0012700128,MAN 4 - B,(419) 522-6939,Richard Gleisinger (56) 608 Park Ave W,false
+OH0014438319,MAN 4 - B,(419) 775-5521,Zachary Taylor (31) 227 Elmwood Dr,false
+OH0023849318,MAN 4 - C,(419) 525-3246,Nyasha Oden (24) 411 Sherman Pl,false
+OH0020156140,MAN 4 - B,(419) 756-1111,Brittaney Workman (28) 830 W 3Rd St,false
+OH0020399930,MAN 4 - B,(567) 307-7241,Cameron Douros (28) 678 W 3Rd St,false
+OH0019326636,MAN 4 - B,(419) 589-5450,Jammie Darby (28) 345 Spayer Ln,false
+OH0019620680,MAN 4 - B,(419) 589-9392,Steven Cash (27) 135 Buckeye Ave,false
+OH0020836238,MAN 4 - B,(419) 522-9678,Cody Knuckles (27) 635 W 3Rd St,false
+OH0019866236,MAN 4 - B,(419) 526-0084,Cliff Mills (27) 350 Spayer Ln,false
+OH0019606341,MAN 6 - A,(419) 775-7078,Bobby Hines (27) 207 E 1St St,false
+OH0019814001,MAN 4 - C,(419) 884-7734,Najah Lucas (27) 276 1/2 W 3Rd St,false
+OH0024158336,MAN 4 - C,(419) 756-3626,Nicole Sawdy (27) 43 Penn Ave,false
+OH0024317767,MAN 4 - B,(419) 529-0507,Joshua Hamrick (19) 170 Boston Ave,false
+OH0024254773,MAN 4 - B,(419) 709-9834,Kathryn Carroll (19) 198 Wimbledon Dr,false
+OH0022264338,MAN 5 - B,(419) 545-1041,Jacob Hamm (23) 201 Crestline Ave,false
+OH0022347236,MAN 4 - B,(419) 524-6390,Amanda Noble (27) 103 Helen Ave,false
+OH0024183318,MAN 4 - B,(419) 526-3796,Alicia Betancourt (19) 231 Parkway Dr,false
+OH0024455029,MAN 4 - B,(740) 892-2960,Alisaya Kintz (19) 743 W 3Rd St,false
+OH0024272980,MAN 4 - B,(216) 221-5489,Khristian Jones (19) 237 Parkway Dr,false
+OH0024349421,MAN 4 - B,(567) 560-4874,Cody Ellis (18) 648 W 4Th St,false
+OH0024332733,MAN 4 - B,(419) 755-4905,Cameron Hoffman (18) 104 Western Ave,false
+OH0012714047,MAN 4 - B,(419) 775-8861,Richard Catron (64) 131 Lasalle St,false
+OH0019732290,MAN 6 - A,(419) 543-3503,Phillippia Roane (27) 219 E 1St St,false
+OH0020133549,MAN 6 - A,(419) 522-1769,Tayamarie Jordan (27) 129 Columbia Ave,false
+OH0019844981,MAN 2 - C,(419) 756-6741,Jeb Baker (27) 234 S Diamond St,false
+OH0020048841,MAN 4 - E,(419) 512-3541,Brendan Jefferson (27) 532 King St,false
+OH0012664392,MAN 4 - B,(419) 522-3402,Marsha Hill (60) 382 Spayer Ln,false
+OH0022405582,MAN 6 - A,(419) 632-3125,Victavia Jacocks (23) 161 S Diamond St,false
+OH0012664459,MAN 4 - B,(567) 560-5700,Mary Heminger (75) 70 N Linden Rd,false
+OH0020064535,MAN 4 - E,(419) 508-3609,Tiffany Hale (27) 634 Sackman St,false
+OH0021826967,MAN 3 - A,(419) 526-3174,Frederick Craig (23) 88 Carpenter Rd,false
+OH0021153223,MAN 4 - C,(419) 522-8522,Diane Anderson (25) 67 Rowland Ave,false
+OH0020433277,MAN 4 - C,(419) 526-0227,Nicole Myers (27) 236 Clairmont Ave,false
+OH0020087237,MAN 4 - E,(419) 747-1097,Kenneth Williams (27) 791 King St,false
+OH0020898793,MAN 4 - B,(419) 775-5570,Nicholas Demorst (27) 251 Parkway Dr,false
+OH0021039839,MAN 4 - E,(419) 524-9871,Jalisa Crittenden (25) 286 Grace St,false
+OH0022107695,MAN 5 - B,(419) 522-7053,Chateya Reed (23) 578 Bowman St,false
+OH0021384658,MAN 6 - D,(419) 961-7926,Alexis Jones Hudgens (24) 248 Greendale Ave,false
+OH0023147465,MAN 4 - B,(419) 756-2071,Alicia Clever (20) 87 Western Ave,false
+OH0023652365,MAN 4 - B,(419) 543-7408,Shirley Owens (20) 65 Helen Ave,false
+OH0021308873,MAN 4 - C,(567) 560-5023,Marissa Sheffield (26) 74 Sycamore St,false
+OH0023557807,MAN 4 - B,(419) 528-1380,Demerio Bentley (20) 644 W 3Rd St,false
+OH0019106174,MAN 5 - B,(419) 522-3713,Kevin Black (29) 451 Daisy St,false
+OH0024193424,MAN 4 - B,(419) 709-9312,Dearick Guill (19) 29 Western Ave,false
+OH0019879277,MAN 6 - A,(302) 632-8911,Charles Adkins Davis (29) 207 E 1St St,false
+OH0024038920,MAN 4 - E,(567) 307-2891,Shannica Black (28) 647 Sackman St,false
+OH0015911506,MAN 4 - B,(419) 775-7033,Miatta Curry (33) 620 W 4Th St,false
+OH0018986498,MAN 4 - B,(419) 512-4615,Rockie Mounts (31) 209 Wimbledon Dr,false
+OH0020055161,MAN 4 - C,(567) 560-5098,David Crabtree (27) 120 Rae Ave,false
+OH0021133946,MAN 4 - B,(419) 756-5937,Ikea Jones (29) 102 Boston Ave,false
+ID, Precinct, Phone, Name (Age) Address, 
+,bogus Volunteer,another bogus VolunteerOH0019493155,MAN 4 - B,(419) 524-2938,Stephen Parker (28) 566 W 3Rd St,false,false
+OH0020128048,MAN 4 - B,(419) 610-1415,Justin Adkins (27) 464 W 6Th St,false,false
+OH0019240731,MAN 4 - B,(419) 747-3270,Jesse Mccormack (28) 622 1/2 Park Ave W,true,true
+OH0023559183,MAN 4 - B,(419) 368-4131,William Goley (28) 653 W 4Th St,false,false
+OH0022727000,MAN 4 - B,(863) 206-3869,Charlsey Dyer (28) 125 Western Ave,true,false
+OH0018707459,MAN 4 - B,(419) 775-1163,Sarah Fernandez (30) 119 Lasalle St,false,false
+OH0018818688,MAN 4 - B,(419) 571-0381,Alvin Vance Grose (29) 151 Oxford Ave,false,false
+OH0022240446,MAN 4 - B,(567) 274-8946,Destiny Morris (28) 598 Garfield Pl,false,false
+OH0021153250,MAN 4 - B,(419) 545-1758,Brittany Ludwig (29) 96 Boston Ave,false,false
+OH0019559905,MAN 4 - B,(419) 747-4678,Anthony Fernandez (28) 119 Lasalle St,false,false
+OH0023101882,MAN 4 - B,(419) 606-3612,Lenail Parker (20) 566 W 3Rd St,false,false
+OH0024463523,MAN 4 - B,(740) 892-2960,Jacob Curie (27) 63 Western Ave,false,false
+OH0024223432,MAN 4 - B,(419) 709-8446,Ramonda Dorsey (21) 746 W 4Th St,false,false
+OH0021606026,MAN 4 - B,(419) 526-1800,Alex Culler (24) 104 Brookwood Way N,false,false
+OH0019365381,MAN 4 - B,(740) 244-9117,Danzio Jackson (28) 248 Helen Ave,false,false
+OH0019662198,MAN 4 - B,(419) 522-1894,Matthew Holmes (27) 839 W 3Rd St,false,false
+OH0018669128,MAN 6 - A,(419) 565-5758,Nathan Heath (29) 158 W 2Nd St,false,false
+OH0022762626,MAN 4 - B,(727) 517-0999,Adam Kindinger (28) 287 Lenox Ave,false,false
+OH0019992280,MAN 4 - B,(419) 756-1554,Jordan Jones (28) 228 Brookwood Way N,false,false
+OH0023547886,MAN 4 - B,(614) 203-8816,Jalana Gieseman (19) 289 Stadium St,false,false
+OH0020139962,MAN 4 - B,(567) 307-7156,Kelly Brooks (28) 836 W 3Rd St,false,false
+OH0021784322,MAN 4 - B,(419) 982-0120,Damber Hayes (27) 834 W 3Rd St,false,false
+OH0019926778,MAN 4 - B,(419) 775-5724,Bobbie Norris (27) 41 Oxford Ave,false,false
+OH0019559966,MAN 4 - B,(419) 529-8980,Tyler Vaughan (29) 175 Concord Ave,false,false
+OH0021789793,MAN 4 - B,(419) 961-3783,Natalie Kentosh (27) 56 Brickman Ave,false,false
+OH0023393015,MAN 4 - B,(260) 438-2824,Ana Dimas (21) 142 Buckeye Ave,false,false
+OH0012704196,MAN 6 - A,(419) 524-9931,Meaghan Toler (32) 154 E 1St St,false,false
+OH0021138824,MAN 4 - B,(602) 481-7810,Atricia Bradley (26) 56 N Linden Rd,false,false
+OH0018751763,MAN 4 - B,(419) 982-0120,Brandi Hayes (29) 834 W 3Rd St,false,false
+OH0020136408,MAN 4 - B,(419) 522-1447,Myasha Huffman (27) 657 W 4Th St,false,false
+OH0023952785,MAN 4 - B,(567) 560-8072,Alicia Bonnett (26) 226 Wimbledon Dr,false,false
+OH0012702160,MAN 4 - B,(419) 521-5147,Nazarra Crayton (32) 32 Western Ave,false,false
+OH0023110919,MAN 4 - B,(419) 522-4459,Devin Jackson (20) 1179 W 4Th St,false,false
+OH0019269279,MAN 4 - B,(419) 775-5477,Sabrina York (29) 839 W 3Rd St,false,false
+OH0021040406,MAN 4 - B,(928) 550-0552,Jody Peavy (25) 653 1/2 W 4Th St,false,false
+OH0015643580,MAN 4 - B,(567) 307-7073,Latoya Curry (28) 87 Western Ave,false,false
+OH0022479301,MAN 4 - B,(419) 989-3042,Halee Bloom (27) 71 West Park Blvd,false,false
+OH0022574683,MAN 4 - B,(567) 560-3548,Stephanie Bogolis (24) 571 Garfield Pl,false,false
+OH0023612266,MAN 4 - B,(419) 775-5206,Gillian Ensman (19) 66 Ausdale Ave,false,false
+OH0024046100,MAN 4 - B,(419) 756-7921,Frederick Lyons (19) 348 W 6Th St,false,false
+OH0020178396,MAN 4 - B,(419) 775-5500,David Brent (27) 412 W 6Th St,false,false
+OH0022735741,MAN 4 - B,(419) 775-7656,Tyler Vance Grose (24) 151 Oxford Ave,false,false
+OH0023195454,MAN 4 - B,(419) 982-3137,Cassandra Howard (28) 248 Elmwood Dr,false,false
+OH0018164989,MAN 4 - B,(419) 775-5889,Nathaniel Wieland (30) 211 Rae Ave,false,false
+OH0021272225,MAN 6 - A,(419) 775-5016,Raven Hoefler (26) 53 W 2Nd St,false,true
+OH0023878386,MAN 4 - B,(419) 522-7299,Saquann Johnson (20) 266 Parkway Dr,false,false
+OH0023547732,MAN 4 - B,(419) 522-0909,Maliyah Hale (20) 129 Western Ave,false,false
+OH0023030904,MAN 4 - B,(567) 560-4985,Brianna Dininger (24) 113 Lasalle St,false,false
+OH0023582184,MAN 4 - B,(419) 524-9322,Giovanni Watkins (19) 33 West Park Blvd,false,true
+OH0018759963,MAN 4 - B,(202) 270-6690,Corey Cathers (29) 565 Garfield Pl,false,false
+OH0023559256,MAN 4 - B,(419) 522-5072,Terrell Diehl (19) 567 Heineman Blvd,false,false
+OH0021852305,MAN 4 - B,(419) 522-1274,Jasmine Mask (24) 170 Lasalle St,false,false
+OH0023862155,MAN 4 - B,(419) 522-1746,Dallas Holmes (19) 838 W 3Rd St,false,false
+OH0021624868,MAN 4 - B,(419) 524-8036,Angela Vega (28) 211 Rae Ave,false,false
+OH0023108797,MAN 4 - B,(567) 307-1391,Amanda Carter (28) 839 W 3Rd St,false,false
+OH0018680944,MAN 4 - B,(419) 529-3083,Kenneth Metz (30) 72 N Linden Rd,false,false
+OH0021629583,MAN 4 - B,(419) 884-5027,Kelly Elkins (24) 228 Parkway Dr,false,false
+OH0020239996,MAN 4 - B,(419) 544-3065,Jimmy Skinner (27) 162 Brookwood Way N,false,false
+OH0021686171,MAN 4 - B,(419) 989-2689,Brittany Turner (23) 690 W 4Th St,false,false
+OH0012689854,MAN 4 - B,(419) 775-5633,Ian Stumbo (32) 85 Lasalle St,false,false
+OH0019814009,MAN 4 - D,(419) 709-9304,David Carroll (27) 387 Hanna Rd,false,false
+OH0012700360,MAN 4 - B,(419) 525-0390,Jared Mayer (31) 564 Park Ave W,false,false
+OH0024000845,MAN 4 - B,(765) 749-5569,Darryl Mccoy (25) 178 Boston Ave,false,false
+OH0022639571,MAN 4 - B,(419) 370-1064,Damien Beauford (31) 620 W 4Th St,false,false
+OH0023238136,MAN 4 - B,(419) 756-9361,Jason Hively (20) 803 Burton Ave,false,false
+OH0023697544,MAN 4 - B,(419) 668-8458,Chelsie Betancourt (20) 231 Parkway Dr,false,false
+OH0023686533,MAN 4 - B,(419) 522-5515,Devin Shire (20) 748 W 3Rd St,false,false
+OH0015940996,MAN 4 - B,(567) 560-4302,Tyronza Brown (31) 100 E Cook Rd,false,false
+OH0023959499,MAN 4 - B,(419) 524-3497,Menawsha Parks (20) 248 Helen Ave,false,false
+OH0022532831,MAN 4 - B,(567) 560-4118,Viktor Theiss (29) 1232 Silver Ln,false,false
+OH0024185758,MAN 4 - B,(419) 775-7666,David Figley (28) 231 Rae Ave,false,false
+OH0024058663,MAN 4 - B,(419) 775-7301,Brittany Pereira (22) 261 Elmwood Dr,false,false
+OH0015869810,MAN 4 - B,(419) 522-5789,Heaven Mckinney (31) 100 Western Ave,false,false
+OH0022563477,MAN 4 - B,(419) 775-5873,Courtney Frontz (22) 1179 W 4Th St,false,false
+OH0022698336,MAN 4 - B,(567) 241-5062,Alexiz Rucker (22) 250 Westbrook Ave,false,false
+OH0021044613,MAN 4 - B,(928) 380-1226,Dominique Chester (27) 844 W 3Rd St,false,false
+OH0023078943,MAN 4 - B,(419) 526-0081,Bryan Warne (22) 61 Ausdale Ave,false,false
+OH0019603232,MAN 4 - E,(567) 560-4748,Samantha Dashkovitz (27) 538 Burns St,false,false
+OH0022735761,MAN 4 - B,(419) 775-7656,Ta Janai Wade (21) 173 Western Ave,false,false
+OH0020194833,MAN 4 - B,(419) 610-8050,Keisha Burton (28) 33 Western Ave,false,false
+OH0024072629,MAN 4 - B,(614) 843-8485,Kristen Barker (21) 410 W 6Th St,false,false
+OH0022874200,MAN 4 - B,(419) 610-1714,John Goodwin (21) 1231 Silver Ln,false,false
+OH0019560030,MAN 6 - D,(419) 961-7926,Alicia Jones (27) 248 Greendale Ave,false,false
+OH0021384901,MAN 4 - B,(419) 631-7409,Clinton Rowe (26) 239 Concord Ave,false,false
+OH0022964035,MAN 4 - D,(614) 889-2685,William Sly (27) 1149 Boyle Rd,false,false
+OH0019855924,MAN 4 - C,(419) 775-5514,Natascha Merchant (29) 190 Gerke Ave,false,false
+OH0021717020,MAN 6 - A,(419) 295-9547,Rashod Sewell (25) 257 E 2Nd St,false,false
+OH0022155139,MAN 4 - B,(419) 775-5861,Tevin Hardin (23) 84 Brookwood Way N,false,false
+OH0021936157,MAN 4 - B,(419) 521-4750,Arica Parker (26) 372 W 6Th St,false,false
+OH0023445876,MAN 4 - B,(419) 709-9591,Mckay Chester (26) 844 W 3Rd St,false,false
+OH0022356148,MAN 4 - B,(419) 524-8306,Janisha Mack (22) 275 Helen Ave,false,false
+OH0024063695,MAN 4 - B,(330) 733-6804,Hannah Backensto (22) 292 Stadium St,false,false
+OH0022897118,MAN 4 - B,(419) 610-6749,Ma Tia Porter (22) 605 W 3Rd St,false,false
+OH0022268154,MAN 4 - B,(419) 632-7085,Ryan Bullis (26) 140 Buckeye Ave,false,false
+OH0023649694,MAN 4 - B,(440) 506-0059,Jeffrey Kinds (29) 72 Ausdale Ave,false,false
+OH0022795529,MAN 4 - B,(419) 632-3501,Hannah Mutchler (25) 77 Brickman Ave,false,false
+OH0023225484,MAN 4 - E,(567) 560-2612,Jawuan Pinkston (20) 808 Mcpherson St,false,false
+OH0021285260,MAN 4 - B,(419) 775-8832,Dalana Nabors (25) 693 W 4Th St,false,false
+OH0023977465,MAN 4 - B,(567) 560-5700,Lucas Heminger (26) 70 N Linden Rd,false,false
+OH0012699810,MAN 4 - B,(419) 524-2938,Paula Parker (56) 566 W 3Rd St,false,false
+OH0018683338,MAN 4 - B,(419) 756-9834,Amber Klinetop (29) 87 Western Ave,false,false
+OH0022131695,MAN 4 - B,(419) 524-0826,Yasmeen Al Shatti (25) 390 W 6Th St,false,false
+OH0019774231,MAN 4 - E,(567) 844-0035,Christina Tucker (27) 623 Mcpherson St,false,false
+OH0021788265,MAN 4 - B,(419) 524-7519,Andrea Beidelschies (24) 50 N Linden Rd,false,false
+OH0021110969,MAN 4 - B,(419) 747-5882,Brittney Vanriper (26) 266 Helen Ave,false,false
+OH0023023376,MAN 4 - B,(419) 524-0714,Jeff Saxon (26) 84 Lasalle St,false,false
+OH0019662742,MAN 6 - A,(567) 560-8101,Cliff Wright (29) 145 W 2Nd St,false,false
+OH0019661353,MAN 4 - B,(419) 747-6948,Kristen Adams (28) 221 Brookwood Way N,false,false
+OH0021310954,MAN 4 - B,(419) 775-7662,Yasmaine Mccrary (25) 757 W 3Rd St,false,false
+OH0024158089,MAN 4 - B,(567) 274-9144,Aaron Gladney (26) 573 Garfield Pl,false,false
+OH0019200286,MAN 4 - E,(330) 723-0753,Amanda Camak (30) 600 Sackman St,false,false
+OH0022875165,MAN 4 - B,(419) 775-5464,Tyrell Powell (25) 268 Rae Ave,false,false
+OH0021977814,MAN 5 - B,(419) 610-8648,Antania Delk (23) 120 Harker St,false,false
+OH0022677959,MAN 4 - B,(419) 571-8317,Erin Bouchard (25) 142 Buckeye Ave,false,false
+OH0022589026,MAN 4 - B,(419) 709-9414,Lisa Goodman (32) 197 Wimbledon Dr,false,false
+OH0019282889,MAN 4 - E,(567) 560-3162,Cedric Tanner (30) 661 Springmill St,false,false
+OH0022748790,MAN 4 - B,(567) 560-5237,Ryan Vanriper (24) 266 Helen Ave,false,false
+OH0023409556,MAN 4 - B,(419) 756-3495,Matthew Hanners (31) 622 1/2 Park Ave W,false,false
+OH0023689462,MAN 4 - B,(419) 526-4703,Collene Hrivnak (25) 65 West Park Blvd,false,false
+OH0021525842,MAN 5 - B,(419) 610-7659,Brittany Delk (27) 120 Harker St,false,false
+OH0019425003,MAN 5 - B,(419) 612-8325,Jasmine Lindsay (28) 207 Harker St,false,false
+OH0012670744,MAN 4 - B,(567) 560-2867,Jerrick Feagin (32) 259 Rae Ave,false,false
+OH0020204833,MAN 4 - C,(419) 525-0071,Lakendra Davis (27) 135 E Cook Rd,false,false
+OH0012664637,MAN 4 - B,(419) 571-7250,Lorie Myers (59) 244 Elmwood Dr,false,false
+OH0024456161,MAN 6 - D,(740) 892-2960,Andrew Bluester (18) 86 Home Ave,false,false
+OH0023090232,MAN 5 - B,(419) 612-1534,Kaitlin Durbin (27) 211 N Main St,false,false
+OH0020412931,MAN 6 - D,(419) 961-4132,Brentt Coopwood (28) 224 Reform St,false,false
+OH0019123349,MAN 5 - B,(419) 709-9713,Alexandra Conrad (28) 211 N Main St,false,false
+OH0020050966,MAN 4 - B,(419) 610-4175,Cordereo Bentley (30) 644 W 3Rd St,false,false
+OH0022801273,MAN 4 - B,(419) 527-6910,Aaron Neighbers (30) 32 Oxford Ave,false,false
+OH0018798209,MAN 4 - B,(567) 560-2286,Justin Teeters (29) 349 Stadium St,false,false
+OH0024455327,MAN 4 - B,(740) 892-2960,Braydon Burgy (18) 34 Western Ave,false,false
+OH0019638194,MAN 4 - D,(419) 747-3987,Courtney Carroll (27) 277 Pomerene Rd,false,false
+OH0024455755,MAN 4 - B,(740) 892-2960,Heidi Smith (18) 77 West Park Blvd,false,false
+OH0018943026,MAN 6 - D,(419) 884-0092,Danielle Palesh (29) 240 Reform St,false,false
+OH0019498309,MAN 4 - B,(419) 631-9935,Holly Schillinger (29) 813 Burton Ave,false,false
+OH0018303202,MAN 4 - B,(419) 961-8450,Tira Robertson (30) 405 Spayer Ln,false,false
+OH0014361010,MAN 4 - B,(419) 755-1994,Marcus Edwards (54) 452 Spayer Ln,false,false
+OH0023301734,MAN 4 - E,(419) 522-0905,Jamaica Bridges (22) 792 Mcpherson St,false,false
+OH0012664326,MAN 4 - B,(419) 522-3402,John Hill (63) 382 Spayer Ln,false,false
+OH0022563688,MAN 6 - D,(419) 524-1399,Alegeia Martin (22) 177 S Adams St,false,false
+OH0019096856,MAN 6 - D,(419) 961-5740,Stephanie Garrison (29) 514 Beethoven St,false,false
+OH0021134002,MAN 4 - B,(520) 574-1138,Chasiti Smith (25) 262 Parkway Dr,false,false
+OH0012664757,MAN 4 - B,(419) 612-8506,David Holbrook (55) 230 Westbrook Ave,false,false
+OH0021184938,MAN 6 - A,(419) 522-7114,Nicholas Dewalt (25) 317 E 1St St,false,false
+OH0012699772,MAN 4 - B,(419) 525-0390,Ladonna Mayer (68) 564 Park Ave W,false,false
+OH0019830361,MAN 5 - B,(567) 560-5513,Holly Roman (27) 211 N Main St,false,false
+OH0022079190,MAN 4 - B,(419) 295-8540,Ryan Spaulding (30) 94 Lasalle St,false,false
+OH0012665160,MAN 4 - B,(419) 522-2717,Gerald Pugh (57) 452 Spayer Ln,false,false
+OH0012700128,MAN 4 - B,(419) 522-6939,Richard Gleisinger (56) 608 Park Ave W,false,false
+OH0014438319,MAN 4 - B,(419) 775-5521,Zachary Taylor (31) 227 Elmwood Dr,false,false
+OH0023849318,MAN 4 - C,(419) 525-3246,Nyasha Oden (24) 411 Sherman Pl,false,false
+OH0020156140,MAN 4 - B,(419) 756-1111,Brittaney Workman (28) 830 W 3Rd St,false,false
+OH0020399930,MAN 4 - B,(567) 307-7241,Cameron Douros (28) 678 W 3Rd St,false,false
+OH0019326636,MAN 4 - B,(419) 589-5450,Jammie Darby (28) 345 Spayer Ln,false,false
+OH0019620680,MAN 4 - B,(419) 589-9392,Steven Cash (27) 135 Buckeye Ave,false,false
+OH0020836238,MAN 4 - B,(419) 522-9678,Cody Knuckles (27) 635 W 3Rd St,false,false
+OH0019866236,MAN 4 - B,(419) 526-0084,Cliff Mills (27) 350 Spayer Ln,false,false
+OH0019606341,MAN 6 - A,(419) 775-7078,Bobby Hines (27) 207 E 1St St,false,false
+OH0019814001,MAN 4 - C,(419) 884-7734,Najah Lucas (27) 276 1/2 W 3Rd St,false,false
+OH0024158336,MAN 4 - C,(419) 756-3626,Nicole Sawdy (27) 43 Penn Ave,false,false
+OH0024317767,MAN 4 - B,(419) 529-0507,Joshua Hamrick (19) 170 Boston Ave,false,false
+OH0024254773,MAN 4 - B,(419) 709-9834,Kathryn Carroll (19) 198 Wimbledon Dr,false,false
+OH0022264338,MAN 5 - B,(419) 545-1041,Jacob Hamm (23) 201 Crestline Ave,false,false
+OH0022347236,MAN 4 - B,(419) 524-6390,Amanda Noble (27) 103 Helen Ave,false,false
+OH0024183318,MAN 4 - B,(419) 526-3796,Alicia Betancourt (19) 231 Parkway Dr,false,false
+OH0024455029,MAN 4 - B,(740) 892-2960,Alisaya Kintz (19) 743 W 3Rd St,false,false
+OH0024272980,MAN 4 - B,(216) 221-5489,Khristian Jones (19) 237 Parkway Dr,false,false
+OH0024349421,MAN 4 - B,(567) 560-4874,Cody Ellis (18) 648 W 4Th St,false,false
+OH0024332733,MAN 4 - B,(419) 755-4905,Cameron Hoffman (18) 104 Western Ave,false,false
+OH0012714047,MAN 4 - B,(419) 775-8861,Richard Catron (64) 131 Lasalle St,false,false
+OH0019732290,MAN 6 - A,(419) 543-3503,Phillippia Roane (27) 219 E 1St St,false,false
+OH0020133549,MAN 6 - A,(419) 522-1769,Tayamarie Jordan (27) 129 Columbia Ave,false,false
+OH0019844981,MAN 2 - C,(419) 756-6741,Jeb Baker (27) 234 S Diamond St,false,false
+OH0020048841,MAN 4 - E,(419) 512-3541,Brendan Jefferson (27) 532 King St,false,false
+OH0012664392,MAN 4 - B,(419) 522-3402,Marsha Hill (60) 382 Spayer Ln,false,false
+OH0022405582,MAN 6 - A,(419) 632-3125,Victavia Jacocks (23) 161 S Diamond St,false,false
+OH0012664459,MAN 4 - B,(567) 560-5700,Mary Heminger (75) 70 N Linden Rd,false,false
+OH0020064535,MAN 4 - E,(419) 508-3609,Tiffany Hale (27) 634 Sackman St,false,false
+OH0021826967,MAN 3 - A,(419) 526-3174,Frederick Craig (23) 88 Carpenter Rd,false,false
+OH0021153223,MAN 4 - C,(419) 522-8522,Diane Anderson (25) 67 Rowland Ave,false,false
+OH0020433277,MAN 4 - C,(419) 526-0227,Nicole Myers (27) 236 Clairmont Ave,false,false
+OH0020087237,MAN 4 - E,(419) 747-1097,Kenneth Williams (27) 791 King St,false,false
+OH0020898793,MAN 4 - B,(419) 775-5570,Nicholas Demorst (27) 251 Parkway Dr,false,false
+OH0021039839,MAN 4 - E,(419) 524-9871,Jalisa Crittenden (25) 286 Grace St,false,false
+OH0022107695,MAN 5 - B,(419) 522-7053,Chateya Reed (23) 578 Bowman St,false,false
+OH0021384658,MAN 6 - D,(419) 961-7926,Alexis Jones Hudgens (24) 248 Greendale Ave,false,false
+OH0023147465,MAN 4 - B,(419) 756-2071,Alicia Clever (20) 87 Western Ave,false,false
+OH0023652365,MAN 4 - B,(419) 543-7408,Shirley Owens (20) 65 Helen Ave,false,false
+OH0021308873,MAN 4 - C,(567) 560-5023,Marissa Sheffield (26) 74 Sycamore St,false,false
+OH0023557807,MAN 4 - B,(419) 528-1380,Demerio Bentley (20) 644 W 3Rd St,false,false
+OH0019106174,MAN 5 - B,(419) 522-3713,Kevin Black (29) 451 Daisy St,false,false
+OH0024193424,MAN 4 - B,(419) 709-9312,Dearick Guill (19) 29 Western Ave,false,false
+OH0019879277,MAN 6 - A,(302) 632-8911,Charles Adkins Davis (29) 207 E 1St St,false,false
+OH0024038920,MAN 4 - E,(567) 307-2891,Shannica Black (28) 647 Sackman St,false,false
+OH0015911506,MAN 4 - B,(419) 775-7033,Miatta Curry (33) 620 W 4Th St,false,false
+OH0018986498,MAN 4 - B,(419) 512-4615,Rockie Mounts (31) 209 Wimbledon Dr,false,false
+OH0020055161,MAN 4 - C,(567) 560-5098,David Crabtree (27) 120 Rae Ave,false,false
+OH0021133946,MAN 4 - B,(419) 756-5937,Ikea Jones (29) 102 Boston Ave,false,false
