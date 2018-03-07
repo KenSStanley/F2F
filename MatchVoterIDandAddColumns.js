@@ -2,7 +2,8 @@
  * Created by Ken Stanley on 3/4/18 - 
  *
  * TODO:
- *   The code now runs but has several issues, among them: The header is messed up, it only includes one output column, the output column says 'false' but I want it to say '0'
+ *   The code now runs but has several issues, among them: The header is messed up, it only includes one output column, 
+ *   the output column says 'false' but I want it to say '0'
  *   add data to each record in parseLargeFile 
  *     knownBy - a simple array, indexed by volunteer # which is blank is this volunteer does not know this voter and 1 if this vol knows this voter
  *     LATER:
@@ -62,7 +63,7 @@ const writeOneLine = (entry) => {
       outputLine = entry.ID + ',' + entry.precinct + ',' + entry.phone + ',' + entry.address ;
     }
     for ( i=0 ; i<volunteers.length-1 ; i++ ) {
-      outputLine = outputLine + ',' + entry.friends[i] ; 
+      outputLine = outputLine + ',' + ( entry.friends[i] === true ? 1 : 0 ) ; 
     }
     outputLine = outputLine + '\n' ; 
     writeOutput( outputLine ) ; 
