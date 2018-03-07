@@ -4,9 +4,6 @@
  *
  * TODO:
  *  compute age match  - DONE 
- *  compute organizer's score - sanity check it 
- *  compute volunteer's score 
- *  clean up the way that birthdates are printed
  *  
  */
 const fs = require('fs');
