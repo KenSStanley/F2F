@@ -2,11 +2,11 @@
  * Created by Ken Stanley on 3/4/18 - 
  *
  * TODO:
- *   add parseLargeFile
- *   put it in git
+ *   The code now runs but has several issues, among them: The header is messed up, it only includes one output column, the output column says 'false' but I want it to say '0'
  *   add data to each record in parseLargeFile 
  *     knownBy - a simple array, indexed by volunteer # which is blank is this volunteer does not know this voter and 1 if this vol knows this voter
  *     LATER:
+ *       how mnay lists is this voter on - i.e. how often have we asked volunteers to look to see if they know this voter? 
  *       volunteersWhoKnowThisVoter 
  *       phoneNumberStatus 
  *        volunteerComments : linked list of name and comments, printed as a single cell in the output 
@@ -117,7 +117,7 @@ const parseLargeFile = function(data) {
                             // 
 
       for ( i=0 ; i<volunteers.length-1 ; i++ ) {
-         if ( debugOutput ) console.log( " i = " + i + " ID = " + ID + " thisVolsFriends[i].has(ID) =  " 
+         if ( debugOutput && thisVolsFriends[i].has(ID)  ) console.log( " i = " + i + " ID = " + ID + " thisVolsFriends[i].has(ID) =  " 
              + thisVolsFriends[i].has(ID)) ; 
          friends[i] = thisVolsFriends[i].has(ID) ; 
       }
@@ -228,18 +228,19 @@ const init = function() {
     } 
 
 } 
-  let headers = 'ID, Precinct, Phone, Name (Age) Address, \n';
+  let headers = 'ID, Precinct, Phone, Name (Age) Address';
   
     if ( longOutput ) {
       headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
         'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone ,is bdate ,organizersScore,maxVoteScore,' +
-        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
+        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore';
     }
 
   for ( i=0 ; i<volunteers.length-1 ; i++ ) {
     headers = headers + "," + volName[i] ;
     console.log( "volName[i] = " + volName[i] ) ; 
   }
+  headers = headers + "\n" ;
   writeOutput(headers);
   parseLargeFile(largeFileContents) ; 
 
