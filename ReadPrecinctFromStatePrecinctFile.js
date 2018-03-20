@@ -12,8 +12,6 @@
  *   A file containing a list of precinct identifiers that Gibbs recieved votes from 
  */
 debugOutput = true; 
-var volunteers; 
-var thisVolsFriends;
 const fs = require('fs');
 
 const writeOutput = (text) => {
