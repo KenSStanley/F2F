@@ -5,6 +5,8 @@ https://www.sos.state.oh.us/elections/election-results-and-data/2014-elections-r
 
 I then open it in excel and save the "master" tab as a csv file 
 
+I am also exploring using: https://www.zamzar.com/convert/xlsx-to-csv/
+
 I add line feeds to that file with tr '\r' '\n' <  2016Precinct.csv >2016PrecinctLF.csv
 
 I then figure out how many lines form the header with:
