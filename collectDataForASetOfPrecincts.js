@@ -62,9 +62,9 @@ process.argv.forEach(function (val, index, array) {
 }
 );
 
-const writeVoteTotals = function( precinct, voteTotals) { 
+const writeVoteTotals = function( precinct, county, precinctName, precinctCode, voteTotals) { 
 
-    let outputLine = precinct; 
+    let outputLine = precinct + "," + county + "," + precinctName + "," + precinctCode; 
     for (let indexI=0;indexI<voteTotals.length;indexI++) {
        outputLine = outputLine + "," + voteTotals[indexI];
     }
@@ -84,7 +84,7 @@ const init = function() {
   var precinctLines = precinctFileContents.split("\n");
   let precincts = new sortedMap();  
   let candidates = new sortedMap();
-  let header = "Precinct"; 
+  let header = "Precinct, county, precinctName, precinctCode"; 
   for (indexI=1;indexI<candidateLines.length-1;indexI++) {
      candidates.set(candidateLines[indexI],indexI-1); 
      header = header + "," + candidateLines[indexI] ; 
@@ -96,6 +96,9 @@ const init = function() {
   }
   let inputFileLines = inputFileContents.split("\n"); 
   let currentPrecinctName = "bogus";
+  let currentCounty =  "bogus";
+  let currentPrecintName =  "bogus";
+  let currentPrecinctCode =  "bogus";
   let voteTotals = [] ; 
   for (let indexJ=0;indexJ<candidateLines.length;indexJ++) {
       voteTotals[indexJ]="";
@@ -105,6 +108,9 @@ const init = function() {
       let splitRow = inputFileLines[indexI].split(',');
       let precinctID = splitRow[0] + splitRow[1] + splitRow[2];
       let voteCount = splitRow[7]; 
+      let county = splitRow[0];
+      let precinctName = splitRow[1] ; 
+      let precinctCode = splitRow[2] ; 
       if (debugOutput) { console.log("precinct name from input file:" + precinctID ); }
       //
       // This will ignore the last good precinct unless we add a bogus precinct
@@ -115,12 +121,15 @@ const init = function() {
           if (debugOutput) console.log("candidate name:" + candidate);
           if ( ( currentPrecinctName != precinctID ) ) {
               if ( ( currentPrecinctName != "bogus" ) && ( currentPrecinctName != precinctID ) ) {
-                writeVoteTotals( currentPrecinctName, voteTotals ) ; 
+                writeVoteTotals( currentPrecinctName, currectCounty, currentPrecintName, currentPrecinctCode, voteTotals ) ; 
               }
               for (let indexJ=0;indexJ<candidateLines.length;indexJ++) {
                   voteTotals[indexJ]="";
               }
               currentPrecinctName = precinctID ; 
+              currectCounty = county; 
+              currentPrecintName = precinctName ; 
+              currentPrecinctCode = precinctCode ; 
           }
           if ( candidates.has(candidate) ) {
               voteTotals[candidates.get(candidate)] = voteCount; 
