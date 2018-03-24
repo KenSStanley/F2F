@@ -7,6 +7,7 @@
  *  
  */
 const fs = require('fs');
+const sortedMap = require("collections/sorted-map");
 
 var debugOutput = false; 
 var longOutput = true; 
@@ -42,6 +43,7 @@ var ageMatchWeight = 1 ;
 var under40Weight = .075 ;
 var over70Weight = -0.05 ; 
 var hasPhoneWeight = 1.5 ; 
+var landlineWeight = -50.5 ; 
 var knownByWeight = -0.25  ;  // should be -1 
 var precinctScoreWeight = 1 ; 
 var F2Fweight = -1 ; // -1 if we have a true friends list
@@ -133,6 +135,22 @@ process.argv.forEach(function (val, index, array) {
     knownByWeight = val ;
   }
  if ( index === 21 )  {
+    if ( true ) { console.log('logMultiplier ' + val); }
+    logMultiplier = val ;
+  }
+ if ( index === 22 )  {
+    if ( true ) { console.log('logDivider ' + val); }
+    logDivider = val ;
+  }
+ if ( index === 23 )  {
+    if ( true ) { console.log('maxFriendScore ' + val); }
+    maxFriendScore = val ;
+  }
+ if ( index === 24 )  {
+    if ( true ) { console.log('landlineWeight ' + val); }
+    landlineWeight = val ;
+  }
+ if ( index === 25 )  {
     longOutput = true ;
     if ( val == 0 ) {
       longOutput = false ;
@@ -149,6 +167,7 @@ process.argv.forEach(function (val, index, array) {
 // Write file header
 const init = function() {
   console.log('Reading data from files..');
+
   readInput(largeFileName, parseLargeFile).then(()=>{
     return readInput(smallFileName, parseSmallFile)
   }).then(() => {
@@ -184,6 +203,14 @@ const readInput = function (path, parsingFunction) {
 
 //function to parse the large file and store name details to memory
 const parseLargeFile = function(data) {
+
+  let prefixes =  ["521","756","522","775","524","525","529","747","774","526","884","589"];   // "610" might be a landline - see google spreadsheet "New Sand Box" "Area Code with Prefix" tabreaCode =  (419)
+
+  var prefixMap = new sortedMap(); 
+  for (let indexI=0; indexI<prefixes.length; indexI++) {
+      prefixMap.set(prefixes[indexI],prefixes[indexI]); 
+      }
+
   let rows = data.split("\n");
   //iterate each line and parse the data
   for (let line = 0; line < rows.length; line++) {
@@ -202,6 +229,15 @@ const parseLargeFile = function(data) {
       let party = 'U'; 
       let address = splitRow[10].trim().replace(/\r?\n?/g, '');  // Name (Age) Address
       let phone = splitRow[3].trim().replace(/\r?\n?/g, '');
+      let areaCode = phone.slice(0,5);
+      let prefix = phone.slice(6,9);
+      let landline =  ( ( areaCode === "(419)" ) && prefixMap.has(prefix) ) ;
+      if ( debugOutput ) { 
+            console.log("areaCode = ", areaCode );
+            console.log("prefix = ", prefix );
+//            if ( areaCode === "(419)" ) console.log(" AreaCode is 419 " ) ; 
+            if ( landline ) console.log(" landline  " ) ; 
+      }
       let city = 'U';
       let state =  'OH';
       let zip = '99999';
@@ -247,6 +283,7 @@ const parseLargeFile = function(data) {
         under40: under40,
         over70: over70,
         hasPhone: hasPhone,
+        landline: landline,
         organizersScore: organizersScore,
         maxVoteScore: maxVoteScore
       };
@@ -387,7 +424,7 @@ const calculateOver70Score = ( bdate_large ) => {
     return Math.max(0, dayDiff/365.25 - 70 );  
 }
 const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
-    precinctMatchScore, voteScore, hasPhone, knownBy, F2Fscore ) => { 
+    precinctMatchScore, voteScore, hasPhone, landline, knownBy, F2Fscore ) => { 
      if ( debugOutput ) { console.log("voteScoreWeight = " + voteScoreWeight + 
 	" voteScore = " + voteScore + 
 	" precinctScoreWeight = " + precinctScoreWeight + 
@@ -396,7 +433,7 @@ const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70
 	" ageMatchScore = " + ageMatchScore + 
  "" ) ;      } 
     return voteScoreWeight * Math.min(voteScore,maxVoteScoreAllowed) + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
-           under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + 
+           under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + landlineWeight * landline
            precinctScoreWeight * precinctScore + knownByWeight * knownBy + F2Fscore * F2Fweight; 
 };   
 
@@ -435,7 +472,7 @@ const processData = function() {
 //    precinctMatchScore, voteScore, hasPhone, knownBy ) => { 
   if ( debugOutput ) {  console.log( " largeEntry.precinctScore = " + largeEntry.precinctScore ) ; }
     let newOrganizersScore = 0 - calculateOrganizersScore( largeEntry.precinctScore, ageMatchScore, largeEntry.under40, largeEntry.over70, 
-        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.knownBy, minScore ); 
+        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.landline, largeEntry.knownBy, minScore ); 
 /*
     console.log("newUnder40score = " + newUnder40score );
   console.log("largeEntry.under40 = " + largeEntry.under40 );
@@ -445,18 +482,6 @@ if ( false ) {
     console.assert( Math.abs(newOver70score - largeEntry.over70) < 0.1 , "The new over70 score is " + newOver70score + 
       " should be closer to " + largeEntry.over70 ) ; 
 }
-/*
-    console.assert( Math.abs( newOrganizersScore - largeEntry.organizersScore ) < .05 , "The new organizers score is: " +
-      newOrganizersScore + "Should be: " + largeEntry.organizersScore + "\n fName_large = " + fName_large + 
-      "\n precinctScore = " + precinctScore + 
-      "\n ageMatchScore = " + ageMatchScore + 
-      "\n largeEntry.under40 = " + largeEntry.under40 + 
-      "\n largeEntry.over70 = " + largeEntry.over70 + 
-      "\n precinctMatchScore = " + precinctMatchScore + 
-      "\n largeEntry.voteScore = " + largeEntry.voteScore + 
-      "\n largeEntry.hasPhone = " + largeEntry.hasPhone + 
-      "\n" );
-*/
  
     return {ID: largeEntry.ID, fName_large: fName_large, mName_large: mName_large, lName_large: lName_large,
       age:largeEntry.age, sex:largeEntry.sex, party:largeEntry.party, address:largeEntry.address,
@@ -465,7 +490,7 @@ if ( false ) {
       mName_small: minScoreEntry.mName, lName_small: minScoreEntry.lName, firstNameScore: minScoreBreakdown.firstNameScore,
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
       precinct:largeEntry.precinct, precinctScore:largeEntry.precinctScore, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
-      hasPhone:largeEntry.hasPhone, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
+      hasPhone:largeEntry.hasPhone, landline:largeEntry.landline, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
       organizersScore:newOrganizersScore, maxVoteScore:largeEntry.maxVoteScore  
     };
       //console.log('large entry: ' + JSON.stringify(largeEntry));

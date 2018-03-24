@@ -1,0 +1,24 @@
+This is how I make the state voter file small enough to work with in google
+docs.
+First I download the voter file from
+https://www.sos.state.oh.us/elections/election-results-and-data/2014-elections-results/
+
+I then open it in excel and save the "master" tab as a csv file 
+
+I am also exploring using: https://www.zamzar.com/convert/xlsx-to-csv/
+
+I add line feeds to that file with tr '\r' '\n' <  2016Precinct.csv >2016PrecinctLF.csv
+
+I then figure out how many lines form the header with:
+head -178 2016PrecinctLF.csv | tail -33 
+
+I copy those header lines into the output file: 
+ head -176 2016PrecinctLF.csv >2016OH7counties.csv
+
+I limit the file to just the counties that Harbaugh has a piece of:
+egrep -E "Ashland|Coshocton|Holmes|Huron|Knox|Knox|Lorain|Medina|Richland|Stark|Tuscarawas" 2016PrecinctLF.csv >> 2016OH7counties.csv
+
+I then sort the sheet by the number of Gibbs voters and eliminate precincts
+that have no Gibss voters. 
+
+I then add a header row in which I compute the total number of votes in that column and eliminate the columns for races that receive no votes. 
