@@ -16,6 +16,7 @@ ageMatchWeight=1        #
 under40Weight=.075      #
 over70Weight=-0.05      # 
 hasPhoneWeight=1.25     # 
+landlineScore=-0.5      #
 knownByWeight=-0.25     #  should be -2 
 precinctScoreWeight=1   # 
 F2Fweight=-1            #  -1 if we have a true friends list
@@ -44,6 +45,7 @@ $knownByWeight        \
 $logMultiplier \
 $logDivider \
 $maxFriendScore \
+$landlineScore \
 0
 
 head -2000 xxMatches.csv >xx2000Matches.csv
@@ -69,6 +71,7 @@ $knownByWeight        \
 $logMultiplier \
 $logDivider \
 $maxFriendScore \
+$landlineScore \
 1
 
 head -2000 xxMatches.csv >xx2000LongOutput.csv
