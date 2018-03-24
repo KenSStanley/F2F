@@ -35,6 +35,7 @@
  *        Comments by Ken Stanley
  *  
  */
+theWholeFile = ""; 
 debugOutput = true; 
 longOutput = false; 
 var volunteers; 
@@ -48,7 +49,9 @@ const writeOutput = (text) => {
   });
 };
 
-const writeOneLine = (entry) => { 
+var writeOneLine = (entry) => { 
+
+   var outputLine = "";  
    if ( longOutput ) { 
       outputLine =  entry.ID + ',' + entry.fName_large + ',' + entry.mName_large + ',' + entry.lName_large + ',' +
       entry.age + ',' + entry.sex + ',' + entry.party + ',' + entry.address + ',' + entry.phone + ',' + entry.city + ',' +
@@ -66,7 +69,7 @@ const writeOneLine = (entry) => {
       outputLine = outputLine + ',' + ( entry.friends[i] === true ? 1 : 0 ) ; 
     }
     outputLine = outputLine + '\n' ; 
-    writeOutput( outputLine ) ; 
+    return outputLine ; 
 }   
 
 
@@ -153,7 +156,7 @@ const parseLargeFile = function(data) {
         friends: friends
       };
       largeFile.push(nameObject);
-      writeOneLine( nameObject ) ; 
+      theWholeFile = theWholeFile + writeOneLine( nameObject ) ; 
     }
   }
 };
@@ -223,9 +226,12 @@ const init = function() {
     for (indexJ = 1; indexJ < theseFriends.length-1; indexJ++ ) { 
        row = theseFriends[indexJ].split(",") ; 
        console.log("indexJ = " + indexJ + " this line is " + theseFriends[indexJ] + " row = " + row  + " end of line\n" )  ; 
-       console.assert(row[0].lastIndexOf("OH") === 0," The " + i + "th row of " + volListFile[i] + 
-           " does not appear to start with a voter ID , it is: " + theseFriends[i] ) ; 
-       thisVolsFriends[i].set(row[0],1); // volName[i] knows this voter 
+       // row 1 is optional (the other rows are expected to behave or else )
+       if ( (indexJ > 1 ) || (row[0].lastIndexOf("OH") > 0)) { 
+         console.assert(row[0].lastIndexOf("OH") === 0," The " + indexJ + "th row of " + volListFile[i] + 
+             " does not appear to start with a voter ID , it is: " + theseFriends[indexJ] ) ; 
+         thisVolsFriends[i].set(row[0],1); // volName[i] knows this voter 
+       }
     } 
 
 } 
@@ -244,7 +250,7 @@ const init = function() {
   headers = headers + "\n" ;
   writeOutput(headers);
   parseLargeFile(largeFileContents) ; 
-
+  writeOutput(theWholeFile) ; 
 };
 
 init();
