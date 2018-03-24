@@ -133,6 +133,18 @@ process.argv.forEach(function (val, index, array) {
     knownByWeight = val ;
   }
  if ( index === 21 )  {
+    if ( true ) { console.log('logMultiplier ' + val); }
+    logMultiplier = val ;
+  }
+ if ( index === 22 )  {
+    if ( true ) { console.log('logDivider ' + val); }
+    logDivider = val ;
+  }
+ if ( index === 23 )  {
+    if ( true ) { console.log('maxFriendScore ' + val); }
+    maxFriendScore = val ;
+  }
+ if ( index === 24 )  {
     longOutput = true ;
     if ( val == 0 ) {
       longOutput = false ;
