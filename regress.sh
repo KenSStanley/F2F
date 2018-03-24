@@ -1,4 +1,6 @@
 #
+# This is way out of date, see xx.sh for now
+#
 # This regression test is not giong to work until we fix the date reporting and/or switch from today to a fixed date 
 #
 rm -f KensNewestMatches.csv 
