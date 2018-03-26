@@ -5,7 +5,7 @@
 *    The format of a door will be: address,apt,zip
  *
  * Inputs
- *    MansfieldDemPrecincts.csv - created by downloading the doorsToAvoid data from the state website and running collectDemocraticMansfieldPrecincts.sh
+ *    MansfieldDemPrecincts.csv - created by downloading voter data from the state website and running collectDemocraticMansfieldPrecincts.sh
  *    doorsToAvoid.csv - A list of doors to avoid 
  * 
  * Outputs:
@@ -15,7 +15,7 @@
  * I am not interested in knocking on a door with one Republican and one Dem. But, I will knock on a door of a household 
  * with more Dems than Reps. Not all Dems and Reps are created equal, so we score them. 
  */
-debugOutput = false; 
+debugOutput = true; 
 const fs = require('fs');
 const sortedMap = require("collections/sorted-map");  //  npm install collections
 
@@ -34,7 +34,7 @@ const writeOneLine = (entry) => {
 
 let inputFileName = "MansfieldDemPrecincts.csv"
 let doorsToAvoidFileName = "doorsToAvoid.csv" ;  
-let outputFileName = "doorsToAvoid.csv" ;  
+let outputFileName = "MansfieldDemDoors.csv" ;  
 
 
 // parse input arguments
@@ -58,25 +58,29 @@ process.argv.forEach(function (val, index, array) {
 }
 );
 
-//initialization function
-// Write file header
+//initialization and main function
 const init = function() {
 
   const addressPosition = 11;
   const aptPosition = 12; 
   const zipPosition = 15; 
-  const general2012Pos = 85;
+  const primary2012Pos = 84;
   const general2017Pos = 101; 
 
   var inputFileContents = fs.readFileSync(inputFileName, 'utf8');
   var doorsToAvoidFileContents = fs.readFileSync(doorsToAvoidFileName, 'utf8');
 
-  var doorsToAvoidLines = doorsToAvoidContents.split("\n");
+  var doorsToAvoidLines = doorsToAvoidFileContents.split("\n");
   doorsToAvoid = new sortedMap();  
   for (indexI=1;indexI<doorsToAvoidLines.length-1;indexI++) {
      doorsToAvoid.set(doorsToAvoidLines[indexI],1); 
   }
   inputFileLines = inputFileContents.split("\n"); 
+  header = "Doors to Knock On" + "\n"; 
+  writeOutput( header ) ;
+ 
+  if ( debugOutput ) { console.log("inputFileLines.length = " + inputFileLines.length ) } ;  
+
   previousDoor = "bogus" ; 
   householdVoteScore = -13; 
   for (indexI=1;indexI<(inputFileLines.length);indexI++) {
@@ -85,27 +89,27 @@ const init = function() {
       let address = splitRow[addressPosition] ; 
       let apt = splitRow[aptPosition] ; 
       let zip = splitRow[zipPosition] ; 
-      let door = address + "'" + apt + "," + zip ; A
+      let door = address + "," + apt + "," + zip ; 
       let demVotes = 0 ;
       let repVotes = 0 ; 
       let otherVotes = 0 ; 
       if ( door!=previousDoor ) {
         if ( householdVoteScore>0 ) {
-          if ( !doorsToAvoid.has( previousDoor  ) writeOutput( previousDoor ) ; 
+          if ( !doorsToAvoid.has( previousDoor  ) ) writeOutput( previousDoor + "\n" ) ; 
         }
         householdVoteScore = 0 ; 
         previousDoor = door ; 
       }
-      for (indexI=general2012Pos; indexI<=general2017Pos; indexI++ ) { 
-	if ( splitRow[indexI] === "D" ) demVotes++; 
-	if ( splitRow[indexI] === "R" ) repVotes++; 
-	if ( splitRow[indexI] === "X" ) otherVotes++; 
+      for (indexJ=primary2012Pos; indexJ<=general2017Pos; indexJ++ ) { 
+	if ( splitRow[indexJ] === "D" ) demVotes++; 
+	if ( splitRow[indexJ] === "R" ) repVotes++; 
+	if ( splitRow[indexJ] === "X" ) otherVotes++; 
       }
       if ( repVotes > demVotes+1 ) {
          voterScore = -1.5;   // One strong Republican can be overcome by a strong Dem and a weak Dem
       } else if ( repVotes == demVotes+1 ) { 
          voterScore = -1;     // One weak Republican can be overcome by two weak Dems
-      } else if ( demVotes > repVotes + 1 ) && ( demVotes+otherVotes > 3 ) ) {
+      } else if(  ( demVotes > repVotes + 1 ) && ( demVotes+otherVotes > 3 ) ) {
          voterScore = 1 ;     // Strong Dem: At least four total votes, two presidentials and two primaries
       } else if ( demVotes >= repVotes + 1 ) {
          voterScore = .75 ;   // Weak Dem  
@@ -114,20 +118,17 @@ const init = function() {
       } 
       if (debugOutput) { console.log(" repVotes = " + repVotes + " demVotes = " + demVotes + " otherVotes = " + otherVotes + " voterScore = " + voterScore )  } 
       householdVoteScore+=voterScore; 
-      if (debugOutput) { console.log(" householdVoteScore = " + householdVoteScore ; } 
+      if (debugOutput) { console.log(" householdVoteScore = " + householdVoteScore ) ; } 
   }
-  headers = "Candidate Name\n" ;
-  writeOutput(headers);
 /*
   for (const [key, value] of candidates) {
         console.log(key, value);
-  
-  */
 
   candidatesAsArray = candidates.toArray();
   for (indexI=0;indexI<candidatesAsArray.length;indexI++) {
      writeOutput(candidatesAsArray[indexI]+"\n");
   }
+  */
 
 };
 
