@@ -15,7 +15,7 @@
  * I am not interested in knocking on a door with one Republican and one Dem. But, I will knock on a door of a household 
  * with more Dems than Reps. Not all Dems and Reps are created equal, so we score them. 
  */
-debugOutput = true; 
+debugOutput = false; 
 const fs = require('fs');
 const sortedMap = require("collections/sorted-map");  //  npm install collections
 
