@@ -25,10 +25,6 @@ const writeOutput = (text) => {
   });
 };
 
-const writeOneLine = (entry) => { 
-    outputLine = entry.doorsToAvoidID + "\n"; 
-    writeOutput( outputLine ) ; 
-}   
 
 
 
