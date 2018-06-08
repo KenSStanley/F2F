@@ -4,7 +4,7 @@
  * TODO:
  *
  * Inputs:
- *   County download file
+ *   County download file    aka RICHLAND.txt
  * Outputs:
  *   Header and records of all voters under the age of 23 on April 13, 2018 
  */
@@ -58,7 +58,8 @@ const parseLargeFile = function(data) {
       console.log(" X.valueOf()= " , "X".valueOf()) ; 
       console.log(" general2017.valueOf()==X.valueOf() = " , general2017.trim().valueOf()=="X".trim().valueOf() ) ; 
       */
-      if ( calculateUnder23( dob ) && (general2017.valueOf()=="X".valueOf()) ) { 
+      //  if ( calculateUnder23( dob ) && (general2017.valueOf()=="X".valueOf()) ) { 
+      if ( calculateUnder23( dob ) ) {
           outputData = outputData + rows[line] + "\n"; 
       }
       
