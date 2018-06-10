@@ -37,6 +37,7 @@
  */
 theWholeFile = ""; 
 debugOutput = true; 
+longerOutput = true; 
 longOutput = false; 
 var volunteers; 
 var thisVolsFriends;
@@ -62,7 +63,9 @@ var writeOneLine = (entry) => {
       entry.maxVoteScore + ',' + 
       entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
       entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore ; 
-    } else {
+    } else if (longerOutput )  {
+      outputLine = entry.ID + ',' + entry.precinct + ',' + entry.phone + ',' + entry.address + ',' + entry.precinct ;
+    } else { 
       outputLine = entry.ID + ',' + entry.precinct + ',' + entry.phone + ',' + entry.address ;
     }
     for ( i=0 ; i<volunteers.length-1 ; i++ ) {
@@ -221,6 +224,8 @@ const init = function() {
     console.log(" volFriendsFile[" +i+ "]= " + volFriendsFile[i] ) ; 
     console.log(" volListFile[" +i+ "]= " + volListFile[i] ) ; 
 
+    console.log( " volName[ " + i + "] = " + volName[i] ); 
+
     volList[i] =  fs.readFileSync( volListFile[i], 'utf8');  // This is the list that this vol has looked through 
     theseFriends = volList[i].split("\n"); 
     for (indexJ = 1; indexJ < theseFriends.length-1; indexJ++ ) { 
@@ -230,6 +235,8 @@ const init = function() {
        if ( (indexJ > 1 ) || (row[0].lastIndexOf("OH") > 0)) { 
          console.assert(row[0].lastIndexOf("OH") === 0," The " + indexJ + "th row of " + volListFile[i] + 
              " does not appear to start with a voter ID , it is: " + theseFriends[indexJ] ) ; 
+       }
+       if ( (row[0].lastIndexOf("OH") == 0)) {
          thisVolsFriends[i].set(row[0],1); // volName[i] knows this voter 
        }
     } 
@@ -241,7 +248,9 @@ const init = function() {
       headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
         'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone ,is bdate ,organizersScore,maxVoteScore,' +
         'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore';
-    }
+    } else if ( longerOutput ) { 
+      headers = 'ID, Precinct, Phone, Name (Age) Address,precinct';
+    } 
 
   for ( i=0 ; i<volunteers.length-1 ; i++ ) {
     headers = headers + "," + volName[i] ;
