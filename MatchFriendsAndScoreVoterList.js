@@ -22,12 +22,14 @@ let middleNameFrequency = {};
 let middleInitialFrequency = {};
 let lastNameFrequency = {};
 let lastInitialFrequency = {};
+let nicknameMapping = {};
 
 let logMultiplier = 1/10;   // this is basically the minimum friend score (pre Log) that it takes to get any friend points
 let logDivider = 2;         // this controls how quickly you ramp up to being considered 100% likely to be a friend
 let maxFriendScore = 1.25;  // This is the most that you can get for being a friend
 let largeFileName = 'LargeFile';
 let smallFileName = 'SmallFile';
+let nicknameFileName = 'nicknameFile.csv';
 let alreadyCheckedFileName = 'alreadyCheckedFile';
 let knownUnknownWeight = -2 ;
 let outputFileName = 'output';
@@ -175,11 +177,47 @@ if ( index === 27 )  {
 }
 );
 
+const parseNicknameFile = function(data) {
+  let rows = data.split("\n");
+  //iterate each line and parse the data
+  for (let line = 0; line < rows.length; line++) {
+    if (rows[line].trim().replace(/\r?\n?/g, '')) {
+      let splitRow = rows[line].split(',');
+      let nickname = splitRow[0].trim().toLowerCase().replace(/\r?\n?/g, '');
+      let realName = splitRow[1].trim().toLowerCase().replace(/\r?\n?/g, '');
+
+      if (nicknameMapping.hasOwnProperty(realName)) {
+        nicknameMapping[realName].push(nickname);
+      }
+      else {
+        nicknameMapping[realName] = [nickname];
+      }
+    }
+  }
+};
+
+
+const calculateNicknameScore = (fName_large, fName_small) => {
+  let nicknames = nicknameMapping[fName_large];
+  if (nicknames) {
+    if (nicknames.includes(fName_small)){
+      return (firstNameFrequency[fName_large]/largeFile.length)*2;
+    }
+    return 1;
+  } else {
+    return 1;
+  }
+};
+
+
+
 //initialization function
 // Write file header
 const init = function() {
   console.log('Reading data from files..');
 
+   let nicknameFromFile = fs.readFileSync( nicknameFileName, 'utf8');
+   parseNicknameFile( nicknameFromFile ) ; 
    let knownUnknowns = fs.readFileSync( alreadyCheckedFileName, 'utf8');  // This is the list that this vol has looked through
    let theseKnownUnknowns = knownUnknowns.split("\n");
     for (indexJ = 1; indexJ < theseKnownUnknowns.length-1; indexJ++ ) {
@@ -397,7 +435,7 @@ const calculateFirstNameScore = (name_large, name_small) => {
   if  (name_large === name_small) {
     return firstNameFrequency[name_large]/largeFile.length;
   } else if ( name_large.charAt(0) === name_small.charAt(0)){
-    return firstInitialFrequency[name_large.charAt(0)]/largeFile.length;
+    return 2*firstInitialFrequency[name_large.charAt(0)]/largeFile.length;
   } else {
     return 1;
   }
@@ -489,13 +527,19 @@ const processData = function() {
     let minScoreEntry = {};
     let minScoreBreakdown = {};
 
+  if ( debugOutput ) {  console.log(" minScore = " + minScore ) }; 
     //small file iteration
     smallFile.map((smallEntry) => {
       let {fName:fName_small, mName:mName_small, lName:lName_small} = smallEntry;
-      let firstNameScore = calculateFirstNameScore(fName_large, fName_small);
+      let origFirstNameScore = calculateFirstNameScore(fName_large, fName_small);
       let middleNameScore = calculateMiddleNameScore(mName_large, mName_small);
       let lastNameScore = calculateLastNameScore(lName_large, lName_small);
+      let nicknameScore = calculateNicknameScore(fName_large, fName_small);
+      let firstNameScore = Math.min( origFirstNameScore, nicknameScore ) ; 
       let bayesian = (firstNameScore*middleNameScore*lastNameScore)*largeFile.length;
+
+      if ( debugOutput ) {  console.log(" fName_large = " + fName_large + " fName_small = " + fName_small + " nicknameScore = " + nicknameScore ) };
+
       let score = -Math.min(maxFriendScore,Math.max(0,Math.log2(logMultiplier/bayesian)/logDivider)); 
       //keeping track of the min score, the corresponding entry and the score breakdown for this large file iteration
       if (score < minScore) {
