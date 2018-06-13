@@ -1,0 +1,2 @@
+rm MansfieldDemPrecinctsFewerColumns.csv
+node snagDataFor9DemPrecinctsFromCountyVoterFile.js
