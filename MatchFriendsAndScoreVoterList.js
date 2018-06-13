@@ -3,7 +3,7 @@
  * Updated by Ken Stanley on 2/17/18 - Adding the ability to score all friends from a Facebook friend list
  *
  * TODO:
- *  compute age match  - DONE 
+ *   Add the ability to ignore voters that this volunteer has already rejected. 
  *  
  */
 const fs = require('fs');
@@ -11,6 +11,7 @@ const sortedMap = require("collections/sorted-map");
 
 var debugOutput = false; 
 var longOutput = true; 
+var knownUnknownsAsMap = new sortedMap() ;  
 
 let largeFile = [];
 let smallFile = [];
@@ -21,12 +22,16 @@ let middleNameFrequency = {};
 let middleInitialFrequency = {};
 let lastNameFrequency = {};
 let lastInitialFrequency = {};
+let nicknameMapping = {};
 
 let logMultiplier = 1/10;   // this is basically the minimum friend score (pre Log) that it takes to get any friend points
 let logDivider = 2;         // this controls how quickly you ramp up to being considered 100% likely to be a friend
 let maxFriendScore = 1.25;  // This is the most that you can get for being a friend
 let largeFileName = 'LargeFile';
 let smallFileName = 'SmallFile';
+let nicknameFileName = 'nicknameFile.csv';
+let alreadyCheckedFileName = 'alreadyCheckedFile';
+let knownUnknownWeight = -2 ;
 let outputFileName = 'output';
 var birthdate = new Date(2017,0,1,0,0,0);
 birthdate.setFullYear(2020, 0, 14);
@@ -43,7 +48,7 @@ var ageMatchWeight = 1 ;
 var under40Weight = .075 ;
 var over70Weight = -0.05 ; 
 var hasPhoneWeight = 1.5 ; 
-var landlineWeight = -50.5 ; 
+var landlineWeight = -0.5 ; 
 var knownByWeight = -0.25  ;  // should be -1 
 var precinctScoreWeight = 1 ; 
 var F2Fweight = -1 ; // -1 if we have a true friends list
@@ -150,6 +155,7 @@ process.argv.forEach(function (val, index, array) {
     if ( true ) { console.log('landlineWeight ' + val); }
     landlineWeight = val ;
   }
+
  if ( index === 25 )  {
     longOutput = true ;
     if ( val == 0 ) {
@@ -157,16 +163,81 @@ process.argv.forEach(function (val, index, array) {
     }
     if ( true ) { console.log('val =' + val + 'longOutput = ' + longOutput ); }
   }
+if ( index === 26 )  {
+    if ( true ) { console.log('alreadyCheckedFileName ' + val); }
+    alreadyCheckedFileName = val ;
+  } 
+if ( index === 27 )  {
+    if ( true ) { console.log('knownUnknownWeight ' + val); }
+    knownUnknownWeight = val ;
+  } 
   
   precinctVol = ward + " " + precinctNum + " - " + precinctLet ; 
 
 }
 );
 
+const parseNicknameFile = function(data) {
+  let rows = data.split("\n");
+  //iterate each line and parse the data
+  for (let line = 0; line < rows.length; line++) {
+    if (rows[line].trim().replace(/\r?\n?/g, '')) {
+      let splitRow = rows[line].split(',');
+      let nickname = splitRow[0].trim().toLowerCase().replace(/\r?\n?/g, '');
+      let realName = splitRow[1].trim().toLowerCase().replace(/\r?\n?/g, '');
+
+      if (nicknameMapping.hasOwnProperty(realName)) {
+        nicknameMapping[realName].push(nickname);
+      }
+      else {
+        nicknameMapping[realName] = [nickname];
+      }
+    }
+  }
+};
+
+
+const calculateNicknameScore = (fName_large, fName_small) => {
+  let nicknames = nicknameMapping[fName_large];
+  if (nicknames) {
+    if (nicknames.includes(fName_small)){
+      return (firstNameFrequency[fName_large]/largeFile.length)*2;
+    }
+    return 1;
+  } else {
+    return 1;
+  }
+};
+
+
+
 //initialization function
 // Write file header
 const init = function() {
   console.log('Reading data from files..');
+
+   let nicknameFromFile = fs.readFileSync( nicknameFileName, 'utf8');
+   parseNicknameFile( nicknameFromFile ) ; 
+   let knownUnknowns = fs.readFileSync( alreadyCheckedFileName, 'utf8');  // This is the list that this vol has looked through
+   let theseKnownUnknowns = knownUnknowns.split("\n");
+    for (indexJ = 1; indexJ < theseKnownUnknowns.length-1; indexJ++ ) {
+       row = theseKnownUnknowns[indexJ].split(",") ;
+       // row 1 is optional (the other rows are expected to behave or else )
+       if ( (indexJ > 1 ) || (row[0].lastIndexOf("OH") > 0)) {
+         console.assert(row[0].lastIndexOf("OH") === 0," The " + indexJ + "th row of " + alreadyCheckedFileName +
+             " does not appear to start with a voter ID , it is: " + theseKnownUnknowns[indexJ]  ) ;
+       }
+       if ( (row[0].lastIndexOf("OH") == 0)) {
+         if (debugOutput) {
+         if ( indexJ < 9 ) {
+             console.log( "Known ID = " + row[0] ) ; 
+	}
+	}
+         knownUnknownsAsMap.set(row[0],1); // volName[i] knows this voter
+       }
+    }
+
+
 
   readInput(largeFileName, parseLargeFile).then(()=>{
     return readInput(smallFileName, parseSmallFile)
@@ -177,7 +248,7 @@ const init = function() {
     if ( longOutput ) {
       headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
         'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + printDate(birthdate) + ',organizersScore,maxVoteScore,' +
-        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore\n';
+        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore,knownUnknown\n';
     }
     writeOutput(headers);
     processData();
@@ -218,6 +289,7 @@ const parseLargeFile = function(data) {
       let splitRow = rows[line].split(',');
       let ID = splitRow[0].trim().replace(/\r?\n?/g, '');
       if (ID === 'SOS_VOTERID' && line === 0) continue;
+      let knownUnknown=knownUnknownsAsMap.has(ID)+0 ; 
       let firstName = splitRow[7].trim().toLowerCase().replace(/\r?\n?/g, '');
       let firstInitial = firstName ? firstName.charAt(0) : '';
       let middleName = splitRow[8].trim().toLowerCase().replace(/\r?\n?/g, '');
@@ -237,6 +309,10 @@ const parseLargeFile = function(data) {
             console.log("prefix = ", prefix );
 //            if ( areaCode === "(419)" ) console.log(" AreaCode is 419 " ) ; 
             if ( landline ) console.log(" landline  " ) ; 
+      }
+      if ( debugOutput ) { 
+          console.log( " ID = " , ID ) ; 
+         if ( knownUnknown )  console.log(" knownUnknown " ) ; 
       }
       let city = 'U';
       let state =  'OH';
@@ -284,6 +360,7 @@ const parseLargeFile = function(data) {
         over70: over70,
         hasPhone: hasPhone,
         landline: landline,
+        knownUnknown: knownUnknown,
         organizersScore: organizersScore,
         maxVoteScore: maxVoteScore
       };
@@ -358,7 +435,7 @@ const calculateFirstNameScore = (name_large, name_small) => {
   if  (name_large === name_small) {
     return firstNameFrequency[name_large]/largeFile.length;
   } else if ( name_large.charAt(0) === name_small.charAt(0)){
-    return firstInitialFrequency[name_large.charAt(0)]/largeFile.length;
+    return 2*firstInitialFrequency[name_large.charAt(0)]/largeFile.length;
   } else {
     return 1;
   }
@@ -424,7 +501,7 @@ const calculateOver70Score = ( bdate_large ) => {
     return Math.max(0, dayDiff/365.25 - 70 );  
 }
 const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
-    precinctMatchScore, voteScore, hasPhone, landline, knownBy, F2Fscore ) => { 
+    precinctMatchScore, voteScore, hasPhone, landline, knownBy, F2Fscore, knownUnknown ) => { 
      if ( debugOutput ) { console.log("voteScoreWeight = " + voteScoreWeight + 
 	" voteScore = " + voteScore + 
 	" precinctScoreWeight = " + precinctScoreWeight + 
@@ -432,8 +509,10 @@ const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70
 	" ageMatchWeight = " + ageMatchWeight + 
 	" ageMatchScore = " + ageMatchScore + 
  "" ) ;      } 
+    
     return voteScoreWeight * Math.min(voteScore,maxVoteScoreAllowed) + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
-           under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + landlineWeight * landline
+           under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + landlineWeight * landline + 
+           knownUnknown * knownUnknownWeight + 
            precinctScoreWeight * precinctScore + knownByWeight * knownBy + F2Fscore * F2Fweight; 
 };   
 
@@ -448,13 +527,19 @@ const processData = function() {
     let minScoreEntry = {};
     let minScoreBreakdown = {};
 
+  if ( debugOutput ) {  console.log(" minScore = " + minScore ) }; 
     //small file iteration
     smallFile.map((smallEntry) => {
       let {fName:fName_small, mName:mName_small, lName:lName_small} = smallEntry;
-      let firstNameScore = calculateFirstNameScore(fName_large, fName_small);
+      let origFirstNameScore = calculateFirstNameScore(fName_large, fName_small);
       let middleNameScore = calculateMiddleNameScore(mName_large, mName_small);
       let lastNameScore = calculateLastNameScore(lName_large, lName_small);
+      let nicknameScore = calculateNicknameScore(fName_large, fName_small);
+      let firstNameScore = Math.min( origFirstNameScore, nicknameScore ) ; 
       let bayesian = (firstNameScore*middleNameScore*lastNameScore)*largeFile.length;
+
+      if ( debugOutput ) {  console.log(" fName_large = " + fName_large + " fName_small = " + fName_small + " nicknameScore = " + nicknameScore ) };
+
       let score = -Math.min(maxFriendScore,Math.max(0,Math.log2(logMultiplier/bayesian)/logDivider)); 
       //keeping track of the min score, the corresponding entry and the score breakdown for this large file iteration
       if (score < minScore) {
@@ -472,7 +557,7 @@ const processData = function() {
 //    precinctMatchScore, voteScore, hasPhone, knownBy ) => { 
   if ( debugOutput ) {  console.log( " largeEntry.precinctScore = " + largeEntry.precinctScore ) ; }
     let newOrganizersScore = 0 - calculateOrganizersScore( largeEntry.precinctScore, ageMatchScore, largeEntry.under40, largeEntry.over70, 
-        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.landline, largeEntry.knownBy, minScore ); 
+        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.landline, largeEntry.knownBy, minScore, largeEntry.knownUnknown ); 
 /*
     console.log("newUnder40score = " + newUnder40score );
   console.log("largeEntry.under40 = " + largeEntry.under40 );
@@ -491,7 +576,7 @@ if ( false ) {
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
       precinct:largeEntry.precinct, precinctScore:largeEntry.precinctScore, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
       hasPhone:largeEntry.hasPhone, landline:largeEntry.landline, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
-      organizersScore:newOrganizersScore, maxVoteScore:largeEntry.maxVoteScore  
+      organizersScore:newOrganizersScore, maxVoteScore:largeEntry.maxVoteScore, knownUnknown:largeEntry.knownUnknown 
     };
       //console.log('large entry: ' + JSON.stringify(largeEntry));
       //console.log('minScoreEntry: ' + JSON.stringify(minScoreEntry) + '\n' + 'min score: ' + minScore + '\n' + 'minScorebreakdown: ' + JSON.stringify(minScoreBreakdown) + '\n');
@@ -509,7 +594,7 @@ if ( false ) {
       entry.organizersScore + ',' + 
       entry.maxVoteScore + ',' + 
       entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
-      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + '\n'; 
+      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + ',' + entry.knownUnknown + '\n'; 
      } else {
       return entry.ID + ',' + entry.phone + ',' + entry.address + ',' + -entry.organizersScore.toFixed(2) + '\n' ;
      }

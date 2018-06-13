@@ -4,7 +4,7 @@
  * TODO:
  *
  * Inputs:
- *   County download file
+ *   County download file aka RICHLAND.txt
  * Outputs:
  *   Addresses for all records with a Mansfield address
  *   i.e. address, Mansfield, OH, Zip 
@@ -18,13 +18,18 @@ const writeOutput = (text) => {
   });
 };
 
+// See RichalndTwoRows to see the ROCHLAND.txt header
+const sosIdPos = 0 ; 
 const birthdatePos = 7 ;
 const addressPos = 11 ; 
+const aptPos = 12; 
 const cityPos = 13; 
 const zipPos = 15 ;
-const general2017Pos = 101; 
+const primary2017Pos = 102; 
+const precinctPos = 38; 
+const primary2006Pos = 61;   // PRIMARY-05/02/2006
 
-let inputFileName = "Precinct2016Gibbs"
+let inputFileName = "RICHLAND.txt"
 let outputFileName = "outputFile" ;  
 
 let Apr13_18 = new Date(2018,4,13); 
@@ -40,20 +45,25 @@ const calculateUnder23 = ( bdate ) => {
 const parseLargeFile = function(data) {
  
   let rows = data.split("\n");
-  let outputData = "ADDRESS,CITY,STATE,ZIP\n"; 
+  let outputData = "SOSID,PRECINCT,ADDRESS,APT,DOOR,CITY,STATE,ZIP,republican pulls,democratic pulls,R-D pulls\n"; 
 
   //iterate each line and parse the data
   for (let line = 0; line < rows.length; line++) {
     if (rows[line].trim().replace(/\r?\n?/g, '')) {
       let splitRow = rows[line].split(',');
- 
+
+      let sosId = splitRow[sosIdPos] ;  
       let birthdate = splitRow[birthdatePos] ; 
 
+      let precinct = splitRow[precinctPos].replace("\"","").replace("\"","");
+      let apt = splitRow[aptPos].replace("\"","").replace("\"","");
       let address = splitRow[addressPos].replace("\"","").replace("\"","").replace("1/2 ",""); 
+      if ( splitRow[addressPos].includes("1/2") ) apt = "1/2 " + apt ; 
       let city = splitRow[cityPos].replace("\"","").replace("\"","");
       let zip = splitRow[zipPos].replace("\"","").replace("\"","");
 
 
+//          console.log( "TOP output data =", outputData ) ;
       /*
       console.log( " general2017 = " , general2017 ) ; 
       console.log( " general2017.valueOf() = " , general2017.replace('"','').replace('"','').valueOf() ) ; 
@@ -62,7 +72,23 @@ const parseLargeFile = function(data) {
       */
       //  if ( calculateUnder23( dob ) && (general2017.valueOf()=="X".valueOf()) ) { 
       if ( city == "MANSFIELD" ) {
-          outputData = outputData + address + ",MANSFIELD,OH," + zip + "\n"; 
+          RepublicanPulls = 0 ; 
+          DemocraticPulls = 0 ; 
+          for (let column = primary2006Pos; column <= primary2017Pos; column++) {
+            voteMark = splitRow[column];
+            if ( voteMark.includes("R") ) RepublicanPulls++ ; 
+            if ( voteMark.includes("D") ) DemocraticPulls++ ; 
+          }
+          netRep =  RepublicanPulls-DemocraticPulls ; 
+          door =  splitRow[addressPos].replace("\"","").replace("\"","") + " " + splitRow[aptPos].replace("\"","").replace("\"","") ; 
+//          outputData = outputData + " " + precinct + "," + sosId + "," + address + "," + apt + "," + door +  ",MANSFIELD,OH," + zip + "," + RepublicanPulls + "," 
+//             + DemocraticPulls + "," + RepublicanPulls-DemocraticPulls + "\n"; 
+          outputData = outputData + " " + precinct  + "," + sosId + "," + address + "," + apt + "," + door +  ",MANSFIELD,OH," + zip + "," + RepublicanPulls + "," 
+               + DemocraticPulls + "," + netRep + "\n"; 
+//               + DemocraticPulls + "," + RepublicanPulls-DemocraticPulls + "\n"; 
+
+//          console.log( " door = " , door ) ;
+//          console.log( "output data =", outputData ) ;
       }
       
     }
@@ -93,7 +119,6 @@ process.argv.forEach(function (val, index, array) {
 const init = function() {
 
   var inputFileContents = fs.readFileSync(inputFileName, 'utf8');
-
 
   parseLargeFile(inputFileContents) ; 
 
