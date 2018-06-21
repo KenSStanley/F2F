@@ -1,4 +1,5 @@
 /**
+ * 
  * Created by Ken Stanley on 3/24/18 - orderBuildings.js 
  *
  * NOTE:
@@ -36,7 +37,7 @@
  *
  */
 var debugOutput = false; 
-var lessDebugOutput = false; 
+var lessDebugOutput = true; 
 const fs = require('fs');
 const sortedMap = require("collections/sorted-map");  //  npm install collections
 
@@ -67,7 +68,7 @@ process.argv.forEach(function (val, index, array) {
   }
   if (index === 4) {
     if ( debugOutput ) { console.log('orderTurfOutFileName: ' + val); }
-    orderTurfOutFileName = val;
+    orderTurfOutputFileName = val;
   }
   
 }
@@ -89,9 +90,9 @@ const init = function() {
   const turfPos = 0 ; 
   const addressPos = 1; 
   const orderPos = 2; 
-  const indexPos = 3 ; // Ignored
-  const latPos = 4; 
-  const longPos = 5 ; 
+  const indexPos = 9 ; // Ignored
+  const latPos = 10; 
+  const longPos = 11 ; 
 
 //  positions in the gpsCoordinate file
   const GPSaddressPos = 0 ; 
@@ -153,7 +154,7 @@ const init = function() {
      let GPSlong = GPSsplitRow[GPSlongPos];
 
           if ( debugOutput) console.log(" GPSsplitrow = " + GPSsplitRow  + "\n" ) ;
-     if ( debugOutput) console.log(" GPSaddress = " , GPSaddress + "\n" ) ;
+     if ( lessDebugOutput) console.log(" GPSaddress = " , GPSaddress + "\n" ) ;
      if ( debugOutput) console.log(" GPSlat = " , GPSlat + "\n" ) ;
      if ( debugOutput) console.log(" GPSlong = " , GPSlong + "\n" ) ;
 
@@ -192,7 +193,10 @@ const init = function() {
        }
      }
      closestBldg = closestIndex; 
-       if ( debugOutput) console.log(" DOWN HERE closestBldg = " , closestBldg )
+       if ( lessDebugOutput) console.log(" DOWN HERE closestBldg = " , closestBldg );
+       if ( lessDebugOutput) console.log(" DOWN HERE closestTurf = " , closestTurf );
+       if ( lessDebugOutput) console.log(" DOWN HERE turfs[closestTurf][closestBldg] = " + turfs[closestTurf][closestBldg].address ) ; 
+
      debugOutput = 0 ; 
 
      if (debugOutput) console.log( " line : ", Error().lineNumber ) ; 
@@ -214,6 +218,8 @@ const init = function() {
        // If the new bldg is closer to the second bldg than the first bldg is, it is between the two. Otherwise it
        // it is on the other side of the first bldg from the second bldg. 
        //    
+       //
+       debugOutput = lessDebugOutput ; 
        if (debugOutput) console.log( "NO exact match line : ", Error().lineNumber ) ; 
        secondClosestIndex = -13; 
        secondMinDist = 10000000 ; 
@@ -223,6 +229,7 @@ const init = function() {
        if ( debugOutput) console.log(" closestTurf = " , closestTurf )
        if ( debugOutput) console.log(" thisTurf.length = " , thisTurf.length )
        if ( lessDebugOutput) console.log(" thisTurf = " , thisTurf )
+       debugOutput = 0 ; 
        for (indexBldg = 0; indexBldg < thisTurf.length; indexBldg++ ) { 
           let latDiff = GPSlat - thisTurf[indexBldg].lat ; 
           let longDiff = GPSlong - thisTurf[indexBldg].long ; 
@@ -232,33 +239,46 @@ const init = function() {
             secondMinDist = distanceToThisBldg; 
             secondBldgIndex = indexBldg ; 
           }
-       } 
-       let firstOrder = thisTurf[firstBldgIndex][orderPos]; 
-       let secondOrder = thisTurf[secondBldgIndex][orderPos] ; 
+       }
+
+        if ( lessDebugOutput) console.log("firstBldgIndex = " + firstBldgIndex + " thisTurf[firstBldgIndex] = " +  thisTurf[firstBldgIndex].address  ) ; 
+        if ( lessDebugOutput) console.log("secondBldgIndex = " + secondBldgIndex + " thisTurf[secondBldgIndex] = " +  thisTurf[secondBldgIndex].address  ) ; 
+
+       let firstOrder = thisTurf[firstBldgIndex].order; 
+       let secondOrder = thisTurf[secondBldgIndex].order ; 
+//
+//      First we have to figure out whether the new address is between the two
+//      or on the other side of the closest index.
+//        BldgDist = the distance between the closest and the second closest
+//        buidings. If this is larger than the distance to the second closest
+//        building, we assume that it is on the other side of the closest
+//        building
+//
+//
+//
+         if ( lessDebugOutput) console.log(" thisTurf = " + thisTurf ) ;
+
+       if ( lessDebugOutput) console.log(" firstOrder = " + firstOrder ) ; 
+       if ( lessDebugOutput) console.log(" secondOrder = " + secondOrder ) ; 
        let headedUp = firstOrder < secondOrder; 
        let bldgLatDiff = thisTurf[firstBldgIndex].lat - thisTurf[secondBldgIndex].lat ; 
        let bldgLongDiff = thisTurf[firstBldgIndex].long - thisTurf[secondBldgIndex].long ; 
        let bldgDist = computeDistance( bldgLatDiff,bldgLongDiff ) ; 
        if ( bldgDist > secondMinDist ) {
-          headedUp = ! headedUp; 
+            thisOrder = ( firstOrder + secondOrder ) / 2 ; 
+       } else {
+         if ( firstOrder < secondOrder ) { 
+             thisOrder = 0.0 + Number(firstOrder) - 0.5; 
+         } else {
+             thisOrder = 0.0 + Number(firstOrder) + 0.5; 
+         }
        }
-       if ( headedUp ) { 
-          if ( firstBldgIndex < thisTurf.length-1 ) {
-              nextOrder = thisTurf[firstBldgIndex+1].order ; 
-           } else { 
-              nextOrder = firstOrder + 1 ; 
-           }
-       } else { 
-           if ( firstBldgIndex > 0 ) {
-              nextOrder = thisTurf[firstBldgIndex-1].order ; 
-           } else { 
-              nextOrder = firstOrder - 1 ; 
-           }
-       }
-       if (debugOutput) console.log( "NO exact match line : ", Error().lineNumber ) ; 
-       thisOrder = ( firstOrder + nextOrder ) / 2 ; 
+       if (lessDebugOutput) console.log( "NO exact match line : ", Error().lineNumber ) ; 
+       if  (lessDebugOutput) console.log( " headedUp = " +  headedUp +  " bldgDist = " + bldgDist + " secondMinDist = " + secondMinDist ) ; 
+       if  (lessDebugOutput) console.log( " firstOrder = "  + firstOrder + " thisOrder = " + thisOrder ) ; 
+ //      thisOrder = ( firstOrder + thisOrder ) / 2 ; 
        let orderLineForThisBldg = closestTurf + "," + GPSaddress + "," + thisOrder + "," + indexGPS + "," + GPSlat + "," + GPSlong ; 
-       outputContents = outputContents + orderLineForThisBldg + "\n" ; 
+      outputContents = outputContents + orderLineForThisBldg + "\n" ; 
      }
   }  // End of foreach building loop; 
 
