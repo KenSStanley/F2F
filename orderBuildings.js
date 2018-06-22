@@ -1,25 +1,25 @@
 /**
  * 
  * Created by Ken Stanley on 3/24/18 - orderBuildings.js 
- *
- * NOTE:
- *    The format of a door will be: address,apt,zip
- *    The format of a building will be: address Mansfield OH or maybe address,zip - we'll see 
- * TODO:
- *  2) Add a sanity check, for each address in the orderTurfFile, make sure that the GPS coordinate listed
- *     in the GPS coordinate file  
  *  
+ *  orderBuilding.js takes two files. The first, orderTurfFileName, is a list of addresses each of
+ *  which has been assigned to a turf and been given an ordering within that
+ *  turf. The second, addressesToAddFileName, is a list of addresses that we
+ *  wish to assign to a trud and give a reasonable ordering to. 
+ *  
+ *  orderBuildingsRegress.sh runs this code on small input files (<10 lines per
+ *  file) 
+ *
  *    
  * Inputs
  *    orderTurfFile - This file contains the order number for each of the building that has been ordered
- *      MUST BE SORTED 
+ *      MUST BE SORTED and the the order numbers are consecutive integers. 
  *    GPSCoordinatesFile - This must include GPS coordinates for every building in this precinct 
  * 
  * Outputs:
  *    orderTurfOutputFile - This file contains the order number for each of the building that has been ordered
  *      
  * Algorithm:
- *    Copy orderTurfFile to orderTurfOutputFile 
  *    Read in the known ordering 
  *    For each building in the GPSCoordinatesFile that is not in the orderTurfFile:
  *      Compute the distance from this new building to every building in the set of ordered buildings
@@ -29,16 +29,12 @@
  *      If the distance between closest building and second closest building is less than the distance 
  *        from the new building to the second closest buiding, then
  *                   HeadedUp = !HeadedUp
- *      If Headup
- *         OrderNumber = ( Order(closest building) + next higher order(closest building) ) / 2
- *      else
- *         OrderNumber = ( Order(closest building) + next lower order(closest building) ) / 2
- *      Turf = Turf of closest building
  *
  */
 var debugOutput = false; 
-var lessDebugOutput = true; 
-var evenlessDebug = true; 
+var lessDebugOutput = false; 
+var evenlessDebug = false; 
+var regressionTest = false; 
 const fs = require('fs');
 const sortedMap = require("collections/sorted-map");  //  npm install collections
 
@@ -51,7 +47,7 @@ const writeOutput = (text) => {
 
 let orderTurfFileName = "orderTurf.csv"
 let orderTurfOutputFileName = "orderTurfOut.csv" ;  
-let GPSCoordinatesFileName = "GPSCoordiantes.csv" ;  
+let addressesToAddFileName = "GPSCoordiantes.csv" ;  
 
 
 // parse input arguments
@@ -64,12 +60,16 @@ process.argv.forEach(function (val, index, array) {
     orderTurfFileName = val;
   }
   if (index === 3) {
-    if ( debugOutput ) { console.log('GPSCoordinatesFileName: ' + val); }
-    GPSCoordinatesFileName = val;
+    if ( debugOutput ) { console.log('addressesToAddFileName: ' + val); }
+    addressesToAddFileName = val;
   }
   if (index === 4) {
     if ( debugOutput ) { console.log('orderTurfOutFileName: ' + val); }
     orderTurfOutputFileName = val;
+  }
+  if (index === 5) {
+    if ( debugOutput ) { console.log('orderTurfOutFileName: ' + val); }
+    regressionTest =  val ;
   }
   
 }
@@ -77,10 +77,8 @@ process.argv.forEach(function (val, index, array) {
 
 const squareIt = function( x ) { return x * x }; 
 
+// hard coded for Mansfield's latitude. 
 const computeDistance = function( latDiff, longDiff ) {
-   if (debugOutput) console.log(" In computeDistance latDiff = " , latDiff ) ;
-   if (debugOutput) console.log(" In computeDistance longDiff = " , longDiff ) ;
-   if (debugOutput) console.log(" In computeDistance Math.sqrt(squareIt(364.74*1000*(latDiff)) + squareIt(276.27*1000*(longDiff))) = " , Math.sqrt(squareIt(364.74*1000*(latDiff)) + squareIt(276.27*1000*(longDiff))) ) ;
    return Math.sqrt(squareIt(364.74*1000*(latDiff)) + squareIt(276.27*1000*(longDiff))) ; 
 }
 
@@ -101,14 +99,14 @@ const init = function() {
   const GPSlongPos = 2; 
 
   var orderTurfContents = fs.readFileSync(orderTurfFileName, 'utf8');
-  var GPSCoordinatesContents = fs.readFileSync(GPSCoordinatesFileName, 'utf8');
+  var addressesToAddContents = fs.readFileSync(addressesToAddFileName, 'utf8');
 //   var orderTurfOutput = orderTurfContents ; 
   let header = "Turf, address, order, index, lat, long "; 
   var outputContents = header + "\n" ; 
 
   var turfOrderAndGPS = [] ; 
   var allTurfOrderAndGPS = []; 
-  var GPSCoordinateLines = GPSCoordinatesContents.split("\n");
+  var addressesToAddLines = addressesToAddContents.split("\n");
   var orderTurfLines= orderTurfContents.split("\n");
  
   var turfs = [] ;  
@@ -148,10 +146,10 @@ const init = function() {
 //
 //   Take one GPS coordinate at a time
 //
-   if (evenlessDebug ) console.log(" GPSCoordinateLines.length = " + GPSCoordinateLines.length ) ; 
-   for ( indexGPS = 1; indexGPS< GPSCoordinateLines.length-1; indexGPS++ ) { 
+   if (evenlessDebug ) console.log(" addressesToAddLines.length = " + addressesToAddLines.length ) ; 
+   for ( indexGPS = 1; indexGPS< addressesToAddLines.length-1; indexGPS++ ) { 
      if (evenlessDebug ) console.log(" indexGPS = " + indexGPS ) ; 
-     let GPSsplitRow = GPSCoordinateLines[indexGPS].split(","); 
+     let GPSsplitRow = addressesToAddLines[indexGPS].split(","); 
      let GPSaddress = GPSsplitRow[GPSaddressPos];
      let GPSlat = GPSsplitRow[GPSlatPos];
      let GPSlong = GPSsplitRow[GPSlongPos];
@@ -222,7 +220,6 @@ const init = function() {
        // it is on the other side of the first bldg from the second bldg. 
        //    
        //
-       debugOutput = lessDebugOutput ; 
        if (debugOutput) console.log( "NO exact match line : ", Error().lineNumber ) ; 
        secondClosestIndex = -13; 
        secondMinDist = 10000000 ; 
@@ -269,10 +266,13 @@ const init = function() {
        let bldgLatDiff = thisTurf[firstBldgIndex].lat - thisTurf[secondBldgIndex].lat ; 
        let bldgLongDiff = thisTurf[firstBldgIndex].long - thisTurf[secondBldgIndex].long ; 
        let bldgDist = computeDistance( bldgLatDiff,bldgLongDiff ) ; 
+       // On the off chance that more than one house gets added in this location, this prevents them 
+       // from having the exact same value for order. We turn randomization off for regressoin testing. 
+       if ( ! regressionTest ) headedUp = Math.random() * headedUp ;
        if ( bldgDist > secondMinDist ) {
-            thisOrder = firstOrder  + Math.random() * headedUp ;
+            thisOrder = firstOrder  + headedUp ;
        } else {
-            thisOrder = firstOrder  - Math.random() *  headedUp ;
+            thisOrder = firstOrder  - headedUp ;
             
        }
        if (lessDebugOutput) console.log( "NO exact match line : ", Error().lineNumber ) ; 
