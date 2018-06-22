@@ -38,6 +38,7 @@
  */
 var debugOutput = false; 
 var lessDebugOutput = true; 
+var evenlessDebug = true; 
 const fs = require('fs');
 const sortedMap = require("collections/sorted-map");  //  npm install collections
 
@@ -124,7 +125,7 @@ const init = function() {
    for (indexI = 2; indexI <orderTurfLines.length-1 ; indexI++ ) { 
      let splitRow = orderTurfLines[indexI].split(","); 
      let turf = splitRow[turfPos] ; 
-     if (debugOutput) console.log( " turf = " + turf + " orderTurfLines[indexI] = " , orderTurfLines[indexI] ) ; 
+     if (lessDebugOutput) console.log( " turf = " + turf + " orderTurfLines[indexI] = " , orderTurfLines[indexI] ) ; 
      let address = splitRow[addressPos] ; 
      let order = splitRow[orderPos] ; 
      if (lessDebugOutput) console.log( " line 129 order = " , order ) ; 
@@ -139,7 +140,7 @@ const init = function() {
         lat: lat, 
         long: long
         }
-     if (debugOutput) console.log( " turf = " + turf + " turfIndices[turf] = " + turfIndices[turf] ) ; 
+     if (lessDebugOutput) console.log( " turf = " + turf + " turfIndices[turf] = " + turfIndices[turf] ) ; 
      turfs[turf][turfIndices[turf]] = nameObject; 
      turfIndices[turf]++; 
    }
@@ -147,7 +148,9 @@ const init = function() {
 //
 //   Take one GPS coordinate at a time
 //
-   for ( indexGPS = 2; indexGPS< GPSCoordinateLines.length-1; indexGPS++ ) { 
+   if (evenlessDebug ) console.log(" GPSCoordinateLines.length = " + GPSCoordinateLines.length ) ; 
+   for ( indexGPS = 1; indexGPS< GPSCoordinateLines.length-1; indexGPS++ ) { 
+     if (evenlessDebug ) console.log(" indexGPS = " + indexGPS ) ; 
      let GPSsplitRow = GPSCoordinateLines[indexGPS].split(","); 
      let GPSaddress = GPSsplitRow[GPSaddressPos];
      let GPSlat = GPSsplitRow[GPSlatPos];
@@ -227,7 +230,7 @@ const init = function() {
        let firstBldgIndex = closestIndex ; 
        thisTurf = turfs[closestTurf]; 
        if ( debugOutput) console.log(" closestTurf = " , closestTurf )
-       if ( debugOutput) console.log(" thisTurf.length = " , thisTurf.length )
+       if ( lessDebugOutput) console.log(" thisTurf.length = " , thisTurf.length )
        if ( lessDebugOutput) console.log(" thisTurf = " , thisTurf )
        debugOutput = 0 ; 
        for (indexBldg = 0; indexBldg < thisTurf.length; indexBldg++ ) { 
@@ -244,8 +247,8 @@ const init = function() {
         if ( lessDebugOutput) console.log("firstBldgIndex = " + firstBldgIndex + " thisTurf[firstBldgIndex] = " +  thisTurf[firstBldgIndex].address  ) ; 
         if ( lessDebugOutput) console.log("secondBldgIndex = " + secondBldgIndex + " thisTurf[secondBldgIndex] = " +  thisTurf[secondBldgIndex].address  ) ; 
 
-       let firstOrder = thisTurf[firstBldgIndex].order; 
-       let secondOrder = thisTurf[secondBldgIndex].order ; 
+       let firstOrder = Number(thisTurf[firstBldgIndex].order); 
+       let secondOrder = Number(thisTurf[secondBldgIndex].order) ; 
 //
 //      First we have to figure out whether the new address is between the two
 //      or on the other side of the closest index.
@@ -260,18 +263,17 @@ const init = function() {
 
        if ( lessDebugOutput) console.log(" firstOrder = " + firstOrder ) ; 
        if ( lessDebugOutput) console.log(" secondOrder = " + secondOrder ) ; 
-       let headedUp = firstOrder < secondOrder; 
+       let headedUp = -0.5 ; 
+       if ( firstOrder < secondOrder ) headedUp = 0.5 ; 
+
        let bldgLatDiff = thisTurf[firstBldgIndex].lat - thisTurf[secondBldgIndex].lat ; 
        let bldgLongDiff = thisTurf[firstBldgIndex].long - thisTurf[secondBldgIndex].long ; 
        let bldgDist = computeDistance( bldgLatDiff,bldgLongDiff ) ; 
        if ( bldgDist > secondMinDist ) {
-            thisOrder = ( firstOrder + secondOrder ) / 2 ; 
+            thisOrder = firstOrder  + Math.random() * headedUp ;
        } else {
-         if ( firstOrder < secondOrder ) { 
-             thisOrder = 0.0 + Number(firstOrder) - 0.5; 
-         } else {
-             thisOrder = 0.0 + Number(firstOrder) + 0.5; 
-         }
+            thisOrder = firstOrder  - Math.random() *  headedUp ;
+            
        }
        if (lessDebugOutput) console.log( "NO exact match line : ", Error().lineNumber ) ; 
        if  (lessDebugOutput) console.log( " headedUp = " +  headedUp +  " bldgDist = " + bldgDist + " secondMinDist = " + secondMinDist ) ; 
