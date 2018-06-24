@@ -6,7 +6,7 @@
  * Inputs:
  *   County download file    aka RICHLAND.txt
  * Outputs:
- *   Header and records of all voters under the age of 23 on April 13, 2018 
+ *   relevant columns for the 9 Democratic precincts 
  */
 debugOutput = true; 
 const fs = require('fs');
@@ -29,7 +29,7 @@ const writeOutput = (text) => {
   const aptPosition = 12; 
   const zipPosition = 15; 
   const primary2012Pos = 84;
-  const general2017Pos = 101; 
+  const primaryMay18Pos = 102; 
 
 let inputFileName = "MansfieldDemPrecincts.csv";
 let outputFileName = "MansfieldDemPrecinctsFewerColumns.csv" ;  
@@ -38,7 +38,7 @@ let outputFileName = "MansfieldDemPrecinctsFewerColumns.csv" ;
 const parseLargeFile = function(data) {
  
   let rows = data.split("\n");
-  let outputData = " sosId , lastName , firstName, middleName , address , apt , zip , door , demVotes , repVotes , otherVotes, PRIMARY-03/06/2012,GENERAL-11/06/2012,PRIMARY-05/07/2013,PRIMARY-09/10/2013,PRIMARY-10/01/2013,GENERAL-11/05/2013,PRIMARY-05/06/2014,GENERAL-11/04/2014,PRIMARY-05/05/2015,PRIMARY-09/15/2015,GENERAL-11/03/2015,PRIMARY-03/15/2016,GENERAL-06/07/2016,PRIMARY-09/13/2016,GENERAL-11/08/2016,PRIMARY-05/02/2017,PRIMARY-09/12/2017,GENERAL-11/07/2017\n";
+  let outputData = " sosId , lastName , firstName, middleName , bday, voterStatus, precinct, address , apt , zip , door , demVotes , repVotes , otherVotes, PRIMARY-03/06/2012,GENERAL-11/06/2012,PRIMARY-05/07/2013,PRIMARY-09/10/2013,PRIMARY-10/01/2013,GENERAL-11/05/2013,PRIMARY-05/06/2014,GENERAL-11/04/2014,PRIMARY-05/05/2015,PRIMARY-09/15/2015,GENERAL-11/03/2015,PRIMARY-03/15/2016,GENERAL-06/07/2016,PRIMARY-09/13/2016,GENERAL-11/08/2016,PRIMARY-05/02/2017,PRIMARY-09/12/2017,GENERAL-11/07/2017,PRIMARY-05/08/2018\n";
 
   //iterate each line and parse the data
   for (let line = 1; line < rows.length; line++) {
@@ -48,6 +48,9 @@ const parseLargeFile = function(data) {
       let lastName = splitRow[lastNamePosition];
       let firstName = splitRow[firstNamePosition];
       let middleName = splitRow[middleNamePosition];
+      let bday = splitRow[bdayPosition] ; 
+      let voterStatus = splitRow[voterStatusPosition] ; 
+      let precinct = splitRow[precinctPosition] ; 
       let address = splitRow[addressPosition] ; 
       let apt = splitRow[aptPosition] ; 
       let zip = splitRow[zipPosition] ; 
@@ -57,9 +60,10 @@ const parseLargeFile = function(data) {
       let otherVotes = 0 ; 
 
       
-      let outputline = sosId + "," + lastName  + "," + firstName  + "," + middleName  + "," + address  + "," + apt  + "," + zip  + "," + door  + "," + demVotes + "," + repVotes + "," + otherVotes ;
+      let outputline = sosId + "," + lastName  + "," + firstName  + "," + middleName  + "," + bday + "," + voterStatus + "," + 
+          precinct + "," + address  + "," + apt  + "," + zip  + "," + door  + "," + demVotes + "," + repVotes + "," + otherVotes ;
 
-      for (indexJ=primary2012Pos; indexJ<=general2017Pos; indexJ++ ) { 
+      for (indexJ=primary2012Pos; indexJ<=primaryMay18Pos; indexJ++ ) { 
           outputline = outputline + "," +  splitRow[indexJ] ; 
 	if ( splitRow[indexJ].includes("D" )) demVotes++; 
 	if ( splitRow[indexJ].includes( "R") ) repVotes++; 
