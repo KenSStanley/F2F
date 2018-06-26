@@ -1,6 +1,7 @@
 //CSV to JSON converter
 const fs = require('fs');
 
+
 convertFile("Mansfield6A  - Turf 8 MAN 6A", "Turf8", "Man6a");
 convertFile("Mansfield6A  - Turf 7 MAN 6A", "Turf7", "Man6a");
 convertFile("Mansfield6A  - Turf 6 MAN 6A", "Turf6", "Man6a");
@@ -10,6 +11,7 @@ convertFile("Mansfield6A  - Turf 3 MAN 6A", "Turf3", "Man6a");
 convertFile("Mansfield6A  - Turf 2 MAN 6A", "Turf2", "Man6a");
 convertFile("Mansfield6A  - Turf 1 MAN 6A", "Turf1", "Man6a");
 convertFile("Mansfield6A  -  Mansfield6A Original", "unknown", "Man6a");
+
 //convertFile("Mansfield voters in 9 Dem Precincts - In 24June18Not in23DEC17","unknown", "Man6a");
 //convertFile("Mansfield voters in 9 Dem Precincts - Sheet4","unknown", "Man6a");
 
@@ -46,13 +48,15 @@ function convertFile(fileName, thisTurf, precinct) {
                 //console.log("Unnamed Val "+j+" - "+oneVal);
                 continue;
             }
-            console.log("- "+oneName+":  "+oneVal);
             if (oneName.startsWith("x")) {
+                console.log("  "+oneName+":  "+oneVal);
                 continue;
             }
-            if (oneVal.startsWith("\"")) {
-                oneVal = unquote(oneVal);
+            if (!tackableField(oneName)) {
+                console.log("  "+oneName+":  "+oneVal);
+                continue;
             }
+            console.log("- "+oneName+":  "+oneVal);
             if (oneName == "Name_Age_Address") {
                 var parenOpen = oneVal.indexOf("(");
                 var parenClose = oneVal.indexOf(")");
@@ -63,6 +67,24 @@ function convertFile(fileName, thisTurf, precinct) {
             else {
                 o[oneName] = oneVal.trim();
             }
+        }
+        if ((!o.name) && o.firstName && o.lastName) {
+            o.name = o.firstName +" "+ o.lastName;
+            console.log("Converting name: "+o.name+"-"+o.firstName+"-"+o.lastName);
+            delete o.firstName;
+            delete o.lastName;
+        }
+        if ((!o.age) && o.bday) {
+            var dashPos = o.bday.indexOf("-");
+            var year = Number(o.bday.substring(0,dashPos));
+            o.age = 2018-year;
+            console.log("Converting bday: "+o.bday+" - "+o.age);
+            delete o.bday;
+        }
+        if (o.precinctf) {
+            o.precinct = convertPrecinct(o.precinctf);
+            console.log("Converting precinct: ("+o.precinctf+") - "+o.precinct);
+            delete o.precinctf;
         }
         total.push(o);
         
@@ -123,8 +145,66 @@ function parseLine(val) {
         }
         ch = val[i++];
     }
+    
     res.push(curVal);
     return res;
+}
+
+function tackableField(fieldName) {
+    if (fieldName=="SOS_VOTERID") {
+        return true;
+    }
+    if (fieldName=="longitude") {
+        return true;
+    }
+    if (fieldName=="latitude") {
+        return true;
+    }
+    if (fieldName=="order") {
+        return true;
+    }
+    if (fieldName=="full_order") {
+        return true;
+    }
+    if (fieldName=="mappableAddress") {
+        return true;
+    }
+    if (fieldName=="shortAddress") {
+        return true;
+    }
+    if (fieldName=="age") {
+        return true;
+    }
+    if (fieldName=="name") {
+        return true;
+    }
+    if (fieldName=="firstName") {
+        return true;
+    }
+    if (fieldName=="lastName") {
+        return true;
+    }
+    if (fieldName=="Name_Age_Address") {
+        return true;
+    }
+    if (fieldName=="bday") {
+        return true;
+    }
+    if (fieldName=="precinctf") {
+        return true;
+    }
+    return false;
+}
+
+function convertPrecinct(value) {
+    //if (value == "MAN 3 - A") {
+    //    return "Man3a"
+    //}
+    //if (value == "MAN 6 - A") {
+    //    return "Man6a"
+    //}
+    var stripped = value.replace(/ /g, "").replace("-", "");
+    return stripped.substring(0,1) + stripped.substring(1).toLowerCase();
 }
 
 console.log("ALL DONE");

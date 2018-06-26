@@ -41,7 +41,7 @@ function generateCSV(turfName) {
         }
         if (lastAddress!=item.mappableAddress) {
             output += ",,,";
-            output += item.full_order;
+            output += Math.floor(item.full_order);
             output += "\n";
             lastAddress = item.mappableAddress;
         }

@@ -1,0 +1,462 @@
+New record: OH0018050676, KATHERINE BILGER (53) 101 HEDGES ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0018986520,  Karlan Thompson (29) 101 HEDGES ST Mansfield OH
+    Position near 36
+    distance is 0
+---------------
+New record: OH0021484485, SANTANA MATTHEWS (42) 137 STURGES AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0021419241,  Christopher Gurik (42) 137 STURGES AVE Mansfield OH
+    Position near 21
+    distance is 0
+---------------
+New record: OH0015430796, JESSICA RAMIREZ (37) 118 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0019814207,  Jessica Dotson (29) 118 ARTHUR AVE Mansfield OH
+    Position near 56
+    distance is 0
+---------------
+New record: OH0015340474, BRYAN STEBELTON (50) 87 E 1ST ST Mansfield OH 44902
+    Should be in Turf5
+    Nearest house OH0023233343,  Richard Vanwagner (43) 87 E 1st ST Mansfield OH
+    Position near 28
+    distance is 0
+---------------
+New record: OH0019814207, JESSICA DOTSON (30) 99 S FOSTER ST Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0021371885,  Richard Rogers (37) 99 S FOSTER ST Mansfield OH
+    Position near 5
+    distance is 0
+---------------
+New record: OH0018159005, CASSANDRA THATCHER (36) 161 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0021629153,  Roby Martin (55) 161 W 2ND ST Mansfield OH
+    Position near 36
+    distance is 0.0003378806446053847
+---------------
+New record: OH0024500037, TYLER SMITH (28) 143 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0021138980,  Dominique Crutcher (32) 147 ARTHUR AVE Mansfield OH
+    Position near 45
+    distance is 0.00009182341749461098
+---------------
+New record: OH0024063369, THOMAS HIRST (28) 38 S WELDON AVE Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0012714174,  Brian Senokozlieff (58) 102 W 2ND ST Mansfield OH
+    Position near 9
+    distance is 0.0003556720539965906
+---------------
+New record: OH0023479010, KATHY BUNTON (63) 111 S DIAMOND ST Mansfield OH 44902
+    Should be in Turf5
+    Nearest house OH0012703936,  Theora Mills (41) 98 S FRANKLIN ST Mansfield OH
+    Position near 30.6
+    distance is 0.00034993725152059204
+---------------
+New record: OH0018527989, CHARLES DAVIS (53) 154 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0012668599,  Louis Strubhar (60) 154 W 2ND ST Mansfield OH
+    Position near 17
+    distance is 0
+---------------
+New record: OH0017772691, LINDSAY DODD (34) 135 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0012668717,  Robert Wellington (53) 129 COLUMBIA AVE Mansfield OH
+    Position near 5
+    distance is 0.00011809999999456977
+---------------
+New record: OH0024516078, JOHNNY CRUTCHER (52) 147 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0021138980,  Dominique Crutcher (32) 147 ARTHUR AVE Mansfield OH
+    Position near 45
+    distance is 0
+---------------
+New record: OH0024614423, CHRISTINA SENTIERI (49) 183 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0024187671,  Korbin Dodrill (21) 183 W 2ND ST Mansfield OH
+    Position near 39
+    distance is 0
+---------------
+New record: OH0024518404, GWENDELYN ROBINSON (21) 114 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0021136556,  Elizabeth Fekete (27) 114 ARTHUR AVE Mansfield OH
+    Position near 57
+    distance is 0
+---------------
+New record: OH0024495773, ANTONIO SHEPARD (38) 96 E 2ND ST Mansfield OH 44902
+    Should be in Turf5
+    Nearest house OH0012669400,  Aubrey Shepard (71) 96 E 2ND ST Mansfield OH
+    Position near 1.5
+    distance is 0
+---------------
+New record: OH0012665013, JESSEKA WATTS (35) 161 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0021629153,  Roby Martin (55) 161 W 2ND ST Mansfield OH
+    Position near 36
+    distance is 0.0003378806446053847
+---------------
+New record: OH0020847894, KAREN BROYLES (54) 281 E 1ST ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012704136,  Donald Travis (55) 281 E 1st ST Mansfield OH
+    Position near 24
+    distance is 0
+---------------
+New record: OH0024554860, BRANDY RUHL (33) 307 E 1ST ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012704076,  Damien Bailey Harris (39) 307 E 1st ST Mansfield OH
+    Position near 19
+    distance is 0
+---------------
+New record: OH0023124585, LESLIE WORKMAN (23) 60 HEDGES ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0021261899,  James Fields (66) 60 HEDGES ST Mansfield OH
+    Position near 55
+    distance is 0
+---------------
+New record: OH0023259916, SARAH SCHAVE (25) 219 W 1ST ST Mansfield OH 44902
+    Should be in Turf1
+    Nearest house OH0012668523,  Tammy Adams (57) 219 W 1st ST Mansfield OH
+    Position near 12
+    distance is 0
+---------------
+New record: OH0021280558, ADRIAN WHITE (26) 235 E 1ST ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012703774,  Melinda White (51) 235 E 1st ST Mansfield OH
+    Position near 31
+    distance is 0
+---------------
+New record: OH0019733149, DEANNA MCCOTTRELL (35) 179 E 2ND ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0021773325,  Arlonda Hayes (39) 179 E 2ND ST Mansfield OH
+    Position near 8
+    distance is 0
+---------------
+New record: OH0021372276, IVORY SANDERFER (25) 250 SUPERIOR AVE Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012703815,  Patrick Kelly (72) 250 SUPERIOR AVE Mansfield OH
+    Position near 37
+    distance is 0
+---------------
+New record: OH0012667987, KAREN BROWN (45) 55 W ARCH ST Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0012687146,  Michael King (39) 57 W ARCH ST Mansfield OH
+    Position near 33
+    distance is 0.000023046474782086624
+---------------
+New record: OH0023978095, QUANESHIA TARTT (26) 110 S ADAMS ST Mansfield OH 44902
+    Should be in Turf5
+    Nearest house OH0022340361,  Shavatia Jefferson (22) 110 S ADAMS ST Mansfield OH
+    Position near 26
+    distance is 0
+---------------
+New record: OH0024631034, CHEROKEE HOPSON (18) 159 S MULBERRY ST Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0012668900,  Jeanette Sulskis (55) 163 S MULBERRY ST Mansfield OH
+    Position near 36
+    distance is 0.00008249860604924919
+---------------
+New record: OH0017878832, JOSEPH ROGERS (51) 218 E 1ST ST Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012668149,  Andrea Cotton (44) 218 E 1st ST Mansfield OH
+    Position near 3
+    distance is 0
+---------------
+New record: OH0024596535, JANEA BLACK (27) 166 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0020606275,  Whitney Cheathem (27) 166 COLUMBIA AVE Mansfield OH
+    Position near 31
+    distance is 0.000005203844722313935
+---------------
+New record: OH0023767861, AUDREY GIBSON (23) 55 W ARCH ST Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0012687146,  Michael King (39) 57 W ARCH ST Mansfield OH
+    Position near 33
+    distance is 0.000023046474782086624
+---------------
+New record: OH0012660689, NORBERT WELKER (62) 193 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0020294809,  Monya Angel (50) 51 STURGES AVE Mansfield OH
+    Position near 23
+    distance is 0.00015171684150873317
+---------------
+New record: OH0024516073, PAUL PARKS (44) 236 E 1ST ST Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0023703247,  Kristine Jackson (44) 236 E 1st ST Mansfield OH
+    Position near 56
+    distance is 0
+---------------
+New record: OH0018054041, ARLILLIAN NIXON (31) 262 SUPERIOR AVE Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012668217,  Brandon Lindsay (45) 258 SUPERIOR AVE Mansfield OH
+    Position near 35
+    distance is 0.00014412914348495574
+---------------
+New record: OH0024581812, PATRICIA MOORE (35) 159 S MULBERRY ST Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0012668900,  Jeanette Sulskis (55) 163 S MULBERRY ST Mansfield OH
+    Position near 36
+    distance is 0.00008249860604924919
+---------------
+New record: OH0024472652, HUMBERTO MARTINEZ (52) 93 S MAIN ST Mansfield OH 44902
+    Should be in Turf4
+    Nearest house OH0012732080,  Jason Wynn (43) 68 S MAIN ST Mansfield OH
+    Position near 17
+    distance is 0.0009157936940146243
+---------------
+New record: OH0019066887, THOMAS TUCKER (32) 151 W 1ST ST Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0023235235,  Angel Thornsberry (36) 151 W 1st ST Mansfield OH
+    Position near 10
+    distance is 0
+---------------
+New record: OH0024472646, TESSA CARNES (19) 130 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0020410866,  Tara Hatfield (39) 136 COLUMBIA AVE Mansfield OH
+    Position near 36
+    distance is 0.00011476489010254525
+---------------
+New record: OH0021545986, DESTINY MARSHALL (27) 324 SUPERIOR AVE Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012670064,  Mary Dulin (68) 324 SUPERIOR AVE Mansfield OH
+    Position near 27
+    distance is 0
+---------------
+New record: OH0024608460, JORDAN MOORE (32) 154 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0012668599,  Louis Strubhar (60) 154 W 2ND ST Mansfield OH
+    Position near 17
+    distance is 0
+---------------
+New record: OH0023396689, CLAYTON GREER (64) 124 S ADAMS ST Mansfield OH 44902
+    Should be in Turf5
+    Nearest house OH0012704092,  Toki Chapman (56) 124 S ADAMS ST Mansfield OH
+    Position near 24
+    distance is 0
+---------------
+New record: OH0024632210, MARLA MACK (59) 69 S FOSTER ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012704021,  Ellen Scott (37) 69 S FOSTER ST Mansfield OH
+    Position near 36
+    distance is 0
+---------------
+New record: OH0015878361, WILLIE BOND (67) 268 SUPERIOR AVE Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012701161,  Linda Russell (49) 268 SUPERIOR AVE Mansfield OH
+    Position near 34
+    distance is 0
+---------------
+New record: OH0012703702, ROBERT WHITE (62) 235 E 1ST ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012703774,  Melinda White (51) 235 E 1st ST Mansfield OH
+    Position near 31
+    distance is 0
+---------------
+New record: OH0024158287, CHRIS BOSIOKOVIC (50) 136 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0020410866,  Tara Hatfield (39) 136 COLUMBIA AVE Mansfield OH
+    Position near 36
+    distance is 0
+---------------
+New record: OH0024643360, MARISA GUTIERREZ (30) 92 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0012714174,  Brian Senokozlieff (58) 102 W 2ND ST Mansfield OH
+    Position near 9
+    distance is 0.00023254550091959147
+---------------
+New record: OH0020648851, JOELY FISHER (28) 105 BOWERS AVE Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0022563216,  Amber Rachel (29) 105 BOWERS AVE Mansfield OH
+    Position near 50
+    distance is 0
+---------------
+New record: OH0024651730, JAYLASIA LEWIS (18) 167 S MULBERRY ST Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0019265963,  Jewel Oneil (31) 167 S MULBERRY ST Mansfield OH
+    Position near 37
+    distance is 0
+---------------
+New record: OH0023265310, MARK PORTER (62) 158 W 2ND ST Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0012668599,  Louis Strubhar (60) 154 W 2ND ST Mansfield OH
+    Position near 17
+    distance is 0.00010799208303888247
+---------------
+New record: OH0012669675, TERRY SNEED (47) 227 W 1ST ST Mansfield OH 44902
+    Should be in Turf1
+    Nearest house OH0022594741,  Melissa Myers (34) 227 W 1st ST Mansfield OH
+    Position near 13
+    distance is 0
+---------------
+New record: OH0020823108, ALAINA THOMPSON (30) 39 W ARCH ST Mansfield OH 44902
+    Should be in Turf4
+    Nearest house OH0020146122,  Wahnita Rife (27) 39 W ARCH ST Mansfield OH
+    Position near 43
+    distance is 0
+---------------
+New record: OH0024599478, ROSE CADY (69) 127 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0012668790,  Shawny Walker (42) 123 ARTHUR AVE Mansfield OH
+    Position near 43
+    distance is 0.00011363120170256627
+---------------
+New record: OH0021803510, KIM STYER (45) 170 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0022269584,  Felecia Hicks (24) 170 ARTHUR AVE Mansfield OH
+    Position near 29.5
+    distance is 0
+---------------
+New record: OH0024599598, DAVID COURTS (19) 226 E 2ND ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012703708,  Toya Bowman (58) 226 E 2ND ST Mansfield OH
+    Position near 42
+    distance is 0
+---------------
+New record: OH0023140390, BRIAN LUNSFORD (53) 59 W ARCH ST Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0012668745,  Sam Rayburn (46) 61 W ARCH ST Mansfield OH
+    Position near 35
+    distance is 0.00006336955105031482
+---------------
+New record: OH0021255548, PAULA SHINE (35) 129 CLEVELAND AVE Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0023251039,  Donna Allen (54) 129 CLEVELAND AVE Mansfield OH
+    Position near 40
+    distance is 0
+---------------
+New record: OH0024582950, RICHARD CASTLE (48) 115 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0012683797,  Kisha Robson (35) 115 ARTHUR AVE Mansfield OH
+    Position near 41
+    distance is 0
+---------------
+New record: OH0012693095, SARAH SIGLER (42) 40 W ARCH ST Mansfield OH 44902
+    Should be in Turf4
+    Nearest house OH0012668356,  Vincent Kapala (218) 40 W ARCH ST Mansfield OH
+    Position near 41
+    distance is 0
+---------------
+New record: OH0024612889, DYLAN GRABER (21) 151 W 1ST ST Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0023235235,  Angel Thornsberry (36) 151 W 1st ST Mansfield OH
+    Position near 10
+    distance is 0
+---------------
+New record: OH0012658607, MICHELLE BOSIOKOVIC (48) 136 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0020410866,  Tara Hatfield (39) 136 COLUMBIA AVE Mansfield OH
+    Position near 36
+    distance is 0
+---------------
+New record: OH0023100914, TASIANA DUBOSE (24) 219 E ARCH ST Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0016034139,  Brittany Hairston (32) 219 E ARCH ST Mansfield OH
+    Position near 13
+    distance is 0
+---------------
+New record: OH0024046100, FREDERICK LYONS (20) 160 GLESSNER AVE Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0012680400,  Larinda Henson (56) 160 GLESSNER AVE Mansfield OH
+    Position near 47
+    distance is 0
+---------------
+New record: OH0024494512, MICHELE FLASPOLLER (44) 75 W 1ST ST Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0021040071,  Elijah Holmes (54) 75 W 1st ST Mansfield OH
+    Position near 29
+    distance is 0
+---------------
+New record: OH0023490985, JONATHAN SPEARS (21) 174 E 2ND ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0022046540,  Dalton Mitchell (25) 53 HEDGES ST Mansfield OH
+    Position near 54
+    distance is 0.00033472264638261987
+---------------
+New record: OH0012672990, TERRY LAWSON (59) 75 STURGES AVE Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0020294809,  Monya Angel (50) 51 STURGES AVE Mansfield OH
+    Position near 23
+    distance is 0.00048533037201363026
+---------------
+New record: OH0024294468, LILLIE WOODRUFF (90) 27 W 2ND ST Mansfield OH 44902
+    Should be in Turf4
+    Nearest house OH0021449267,  Scott Hout (52) 59 S WALNUT ST Mansfield OH
+    Position near 15
+    distance is 0.0006062610411253841
+---------------
+New record: OH0024607994, KRISTINA HOPSON (38) 127 ARTHUR AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0012668790,  Shawny Walker (42) 123 ARTHUR AVE Mansfield OH
+    Position near 43
+    distance is 0.00011363120170256627
+---------------
+New record: OH0022729168, ANITA WINDBIGLER (57) 170 GLESSNER AVE Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0023128572,  Marie Cavna (27) 170 GLESSNER AVE Mansfield OH
+    Position near 50
+    distance is 0
+---------------
+New record: OH0012717798, LISA TOTTEN (56) 58 STURGES AVE Mansfield OH 44902
+    Should be in Turf2
+    Nearest house OH0012668707,  Sally Collins (44) 58 STURGES AVE Mansfield OH
+    Position near 42.5
+    distance is 0
+---------------
+New record: OH0012669412, KAROLYN COFFEE (76) 260 E 1ST ST Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012703692,  Barbara Holt (77) 256 E 1st ST Mansfield OH
+    Position near 54
+    distance is 0.00014512408484111984
+---------------
+New record: OH0024565284, ROY WALDE (53) 159 S MULBERRY ST Mansfield OH 44903
+    Should be in Turf3
+    Nearest house OH0012668900,  Jeanette Sulskis (55) 163 S MULBERRY ST Mansfield OH
+    Position near 36
+    distance is 0.00008249860604924919
+---------------
+New record: OH0022836093, RAHMAN HINTON (43) 222 E 1ST ST Mansfield OH 44902
+    Should be in Turf7
+    Nearest house OH0012668149,  Andrea Cotton (44) 218 E 1st ST Mansfield OH
+    Position near 3
+    distance is 0.0001270713579094038
+---------------
+New record: OH0023624090, AREANA HATTEN (21) 106 HEDGES ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0012694977,  Melissa Hatten (42) 106 HEDGES ST Mansfield OH
+    Position near 39
+    distance is 0
+---------------
+New record: OH0024226805, RAHMAN HINTON (24) 106 HEDGES ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0012694977,  Melissa Hatten (42) 106 HEDGES ST Mansfield OH
+    Position near 39
+    distance is 0
+---------------
+New record: OH0024607704, WILLIE GRIER (49) 156 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0019773441,  Johnathon Cotton (31) 156 COLUMBIA AVE Mansfield OH
+    Position near 33
+    distance is 0.00000520384473651429
+---------------
+New record: OH0021339969, KIMBERLY MONROE (59) 190 E 2ND ST Mansfield OH 44902
+    Should be in Turf6
+    Nearest house OH0012703655,  Carlie Mahaffey (218) 184 E 2ND ST Mansfield OH
+    Position near 12
+    distance is 0.0002006839555070593
+---------------
+New record: OH0024223084, LAKEITA PAYNE (35) 69 W NEWLON PL Mansfield OH 44902
+    Should be in Turf3
+    Nearest house OH0015903366,  Christina Morrow (42) 69 W NEWLON PL Mansfield OH
+    Position near 24
+    distance is 0
+---------------
+New record: OH0024487492, ZANAIREAH KELLY DAVIS (20) 138 COLUMBIA AVE Mansfield OH 44903
+    Should be in Turf1
+    Nearest house OH0023890493,  Ardis Kelly (60) 138 COLUMBIA AVE Mansfield OH
+    Position near 35
+    distance is 0
+---------------
+New record: OH0024645109, TIMOTHY MACK (57) 69 S FOSTER ST Mansfield OH 44902
+    Should be in Turf8
+    Nearest house OH0012704021,  Ellen Scott (37) 69 S FOSTER ST Mansfield OH
+    Position near 36
+    distance is 0
+---------------

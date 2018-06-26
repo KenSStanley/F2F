@@ -7,10 +7,10 @@
     "age": "55",
     "shortAddress": "284 Park Ave E",
     "mappableAddress": "284 PARK AVE E Mansfield OH",
-    "longitude": "40.7579476",
-    "latitude": "-82.5052009",
+    "latitude": "40.7579476",
+    "longitude": "-82.5052009",
     "order": "1",
-    "full_order": "1.001"
+    "full_order": "1"
   },
   {
     "turf": "Turf8",
@@ -20,10 +20,10 @@
     "age": "80",
     "shortAddress": "293 E 2Nd St",
     "mappableAddress": "293 E 2ND ST Mansfield OH",
-    "longitude": "40.7570761",
-    "latitude": "-82.5051163",
+    "latitude": "40.7570761",
+    "longitude": "-82.5051163",
     "order": "2",
-    "full_order": "2.001"
+    "full_order": "2"
   },
   {
     "turf": "Turf8",
@@ -33,10 +33,10 @@
     "age": "40",
     "shortAddress": "279 E 2Nd St",
     "mappableAddress": "279 E 2ND ST Mansfield OH",
-    "longitude": "40.7570394",
-    "latitude": "-82.5055171",
+    "latitude": "40.7570394",
+    "longitude": "-82.5055171",
     "order": "3",
-    "full_order": "3.001"
+    "full_order": "3"
   },
   {
     "turf": "Turf8",
@@ -46,10 +46,10 @@
     "age": "38",
     "shortAddress": "277 E 2Nd St",
     "mappableAddress": "277 E 2ND ST Mansfield OH",
-    "longitude": "40.7570359",
-    "latitude": "-82.5055555",
+    "latitude": "40.7570359",
+    "longitude": "-82.5055555",
     "order": "4",
-    "full_order": "4.001"
+    "full_order": "4"
   },
   {
     "turf": "Turf8",
@@ -59,10 +59,10 @@
     "age": "70",
     "shortAddress": "273 E 2Nd St",
     "mappableAddress": "273 E 2ND ST Mansfield OH",
-    "longitude": "40.7570753",
-    "latitude": "-82.5057083",
+    "latitude": "40.7570753",
+    "longitude": "-82.5057083",
     "order": "5",
-    "full_order": "5.001"
+    "full_order": "5"
   },
   {
     "turf": "Turf8",
@@ -72,10 +72,10 @@
     "age": "93",
     "shortAddress": "273 E 2Nd St",
     "mappableAddress": "273 E 2ND ST Mansfield OH",
-    "longitude": "40.7570753",
-    "latitude": "-82.5057083",
+    "latitude": "40.7570753",
+    "longitude": "-82.5057083",
     "order": "5",
-    "full_order": "5.002"
+    "full_order": "5.001"
   },
   {
     "turf": "Turf8",
@@ -85,10 +85,10 @@
     "age": "40",
     "shortAddress": "263 E 2Nd St",
     "mappableAddress": "263 E 2ND ST Mansfield OH",
-    "longitude": "40.7571056",
-    "latitude": "-82.5061735",
+    "latitude": "40.7571056",
+    "longitude": "-82.5061735",
     "order": "6",
-    "full_order": "6.001"
+    "full_order": "6"
   },
   {
     "turf": "Turf8",
@@ -98,10 +98,10 @@
     "age": "57",
     "shortAddress": "257 E 2Nd St",
     "mappableAddress": "257 E 2ND ST Mansfield OH",
-    "longitude": "40.7571138",
-    "latitude": "-82.5063004",
+    "latitude": "40.7571138",
+    "longitude": "-82.5063004",
     "order": "7",
-    "full_order": "7.001"
+    "full_order": "7"
   },
   {
     "turf": "Turf8",
@@ -111,10 +111,10 @@
     "age": "27",
     "shortAddress": "257 E 2Nd St",
     "mappableAddress": "257 E 2ND ST Mansfield OH",
-    "longitude": "40.7571138",
-    "latitude": "-82.5063004",
+    "latitude": "40.7571138",
+    "longitude": "-82.5063004",
     "order": "7",
-    "full_order": "7.002"
+    "full_order": "7.001"
   },
   {
     "turf": "Turf8",
@@ -124,10 +124,10 @@
     "age": "25",
     "shortAddress": "257 E 2Nd St",
     "mappableAddress": "257 E 2ND ST Mansfield OH",
-    "longitude": "40.7571138",
-    "latitude": "-82.5063004",
+    "latitude": "40.7571138",
+    "longitude": "-82.5063004",
     "order": "7",
-    "full_order": "7.003"
+    "full_order": "7.002"
   },
   {
     "turf": "Turf8",
@@ -137,10 +137,10 @@
     "age": "51",
     "shortAddress": "264 E 2Nd St",
     "mappableAddress": "264 E 2ND ST Mansfield OH",
-    "longitude": "40.756609",
-    "latitude": "-82.506142",
+    "latitude": "40.756609",
+    "longitude": "-82.506142",
     "order": "8",
-    "full_order": "8.001"
+    "full_order": "8"
   },
   {
     "turf": "Turf8",
@@ -150,10 +150,10 @@
     "age": "52",
     "shortAddress": "264 E 2Nd St",
     "mappableAddress": "264 E 2ND ST Mansfield OH",
-    "longitude": "40.756609",
-    "latitude": "-82.506142",
+    "latitude": "40.756609",
+    "longitude": "-82.506142",
     "order": "8",
-    "full_order": "8.002"
+    "full_order": "8.001"
   },
   {
     "turf": "Turf8",
@@ -163,10 +163,10 @@
     "age": "66",
     "shortAddress": "264 E 2Nd St",
     "mappableAddress": "264 E 2ND ST Mansfield OH",
-    "longitude": "40.756609",
-    "latitude": "-82.506142",
+    "latitude": "40.756609",
+    "longitude": "-82.506142",
     "order": "8",
-    "full_order": "8.003"
+    "full_order": "8.002"
   },
   {
     "turf": "Turf8",
@@ -176,10 +176,10 @@
     "age": "24",
     "shortAddress": "264 E 2Nd St",
     "mappableAddress": "264 E 2ND ST Mansfield OH",
-    "longitude": "40.756609",
-    "latitude": "-82.506142",
+    "latitude": "40.756609",
+    "longitude": "-82.506142",
     "order": "8",
-    "full_order": "8.004"
+    "full_order": "8.003"
   },
   {
     "turf": "Turf8",
@@ -189,10 +189,10 @@
     "age": "78",
     "shortAddress": "268 E 2Nd St",
     "mappableAddress": "268 E 2ND ST Mansfield OH",
-    "longitude": "40.7567614",
-    "latitude": "-82.5060255",
+    "latitude": "40.7567614",
+    "longitude": "-82.5060255",
     "order": "9",
-    "full_order": "9.001"
+    "full_order": "9"
   },
   {
     "turf": "Turf8",
@@ -202,10 +202,10 @@
     "age": "85",
     "shortAddress": "268 E 2Nd St",
     "mappableAddress": "268 E 2ND ST Mansfield OH",
-    "longitude": "40.7567614",
-    "latitude": "-82.5060255",
+    "latitude": "40.7567614",
+    "longitude": "-82.5060255",
     "order": "9",
-    "full_order": "9.002"
+    "full_order": "9.001"
   },
   {
     "turf": "Turf8",
@@ -215,10 +215,10 @@
     "age": "77",
     "shortAddress": "274 E 2Nd St",
     "mappableAddress": "274 E 2ND ST Mansfield OH",
-    "longitude": "40.7567604",
-    "latitude": "-82.5057083",
+    "latitude": "40.7567604",
+    "longitude": "-82.5057083",
     "order": "10",
-    "full_order": "10.001"
+    "full_order": "10"
   },
   {
     "turf": "Turf8",
@@ -228,10 +228,10 @@
     "age": "85",
     "shortAddress": "274 E 2Nd St",
     "mappableAddress": "274 E 2ND ST Mansfield OH",
-    "longitude": "40.7567604",
-    "latitude": "-82.5057083",
+    "latitude": "40.7567604",
+    "longitude": "-82.5057083",
     "order": "10",
-    "full_order": "10.002"
+    "full_order": "10.001"
   },
   {
     "turf": "Turf8",
@@ -241,10 +241,10 @@
     "age": "85",
     "shortAddress": "290 E 2Nd St",
     "mappableAddress": "290 E 2ND ST Mansfield OH",
-    "longitude": "40.7567246",
-    "latitude": "-82.5051586",
+    "latitude": "40.7567246",
+    "longitude": "-82.5051586",
     "order": "11",
-    "full_order": "11.001"
+    "full_order": "11"
   },
   {
     "turf": "Turf8",
@@ -254,10 +254,10 @@
     "age": "59",
     "shortAddress": "290 E 2Nd St",
     "mappableAddress": "290 E 2ND ST Mansfield OH",
-    "longitude": "40.7567246",
-    "latitude": "-82.5051586",
+    "latitude": "40.7567246",
+    "longitude": "-82.5051586",
     "order": "11",
-    "full_order": "11.002"
+    "full_order": "11.001"
   },
   {
     "turf": "Turf8",
@@ -267,10 +267,10 @@
     "age": "50",
     "shortAddress": "290 E 2Nd St",
     "mappableAddress": "290 E 2ND ST Mansfield OH",
-    "longitude": "40.7567246",
-    "latitude": "-82.5051586",
+    "latitude": "40.7567246",
+    "longitude": "-82.5051586",
     "order": "11",
-    "full_order": "11.003"
+    "full_order": "11.002"
   },
   {
     "turf": "Turf8",
@@ -280,10 +280,10 @@
     "age": "90",
     "shortAddress": "295 E 2Nd St",
     "mappableAddress": "295 E 2ND ST Mansfield OH",
-    "longitude": "40.7570569",
-    "latitude": "-82.5048203",
+    "latitude": "40.7570569",
+    "longitude": "-82.5048203",
     "order": "12",
-    "full_order": "12.001"
+    "full_order": "12"
   },
   {
     "turf": "Turf8",
@@ -293,10 +293,10 @@
     "age": "45",
     "shortAddress": "309 E 2Nd St",
     "mappableAddress": "309 E 2ND ST Mansfield OH",
-    "longitude": "40.7570687",
-    "latitude": "-82.5043974",
+    "latitude": "40.7570687",
+    "longitude": "-82.5043974",
     "order": "13",
-    "full_order": "13.001"
+    "full_order": "13"
   },
   {
     "turf": "Turf8",
@@ -306,10 +306,10 @@
     "age": "59",
     "shortAddress": "309 E 2Nd St",
     "mappableAddress": "309 E 2ND ST Mansfield OH",
-    "longitude": "40.7570687",
-    "latitude": "-82.5043974",
+    "latitude": "40.7570687",
+    "longitude": "-82.5043974",
     "order": "13",
-    "full_order": "13.002"
+    "full_order": "13.001"
   },
   {
     "turf": "Turf8",
@@ -319,10 +319,10 @@
     "age": "40",
     "shortAddress": "309 E 2Nd St",
     "mappableAddress": "309 E 2ND ST Mansfield OH",
-    "longitude": "40.7570687",
-    "latitude": "-82.5043974",
+    "latitude": "40.7570687",
+    "longitude": "-82.5043974",
     "order": "13",
-    "full_order": "13.003"
+    "full_order": "13.002"
   },
   {
     "turf": "Turf8",
@@ -332,10 +332,10 @@
     "age": "34",
     "shortAddress": "309 E 2Nd St",
     "mappableAddress": "309 E 2ND ST Mansfield OH",
-    "longitude": "40.7570687",
-    "latitude": "-82.5043974",
+    "latitude": "40.7570687",
+    "longitude": "-82.5043974",
     "order": "13",
-    "full_order": "13.004"
+    "full_order": "13.003"
   },
   {
     "turf": "Turf8",
@@ -345,10 +345,10 @@
     "age": "23",
     "shortAddress": "309 E 2Nd St",
     "mappableAddress": "309 E 2ND ST Mansfield OH",
-    "longitude": "40.7570687",
-    "latitude": "-82.5043974",
+    "latitude": "40.7570687",
+    "longitude": "-82.5043974",
     "order": "13",
-    "full_order": "13.005"
+    "full_order": "13.004"
   },
   {
     "turf": "Turf8",
@@ -358,10 +358,10 @@
     "age": "20",
     "shortAddress": "309 E 2Nd St",
     "mappableAddress": "309 E 2ND ST Mansfield OH",
-    "longitude": "40.7570687",
-    "latitude": "-82.5043974",
+    "latitude": "40.7570687",
+    "longitude": "-82.5043974",
     "order": "13",
-    "full_order": "13.006"
+    "full_order": "13.005"
   },
   {
     "turf": "Turf8",
@@ -371,10 +371,10 @@
     "age": "46",
     "shortAddress": "320 E 2Nd St",
     "mappableAddress": "320 E 2ND ST Mansfield OH",
-    "longitude": "40.756533",
-    "latitude": "-82.504125",
+    "latitude": "40.756533",
+    "longitude": "-82.504125",
     "order": "14",
-    "full_order": "14.001"
+    "full_order": "14"
   },
   {
     "turf": "Turf8",
@@ -384,10 +384,10 @@
     "age": "62",
     "shortAddress": "332 E 2Nd St",
     "mappableAddress": "332 E 2ND ST Mansfield OH",
-    "longitude": "40.75651",
-    "latitude": "-82.503548",
+    "latitude": "40.75651",
+    "longitude": "-82.503548",
     "order": "15",
-    "full_order": "15.001"
+    "full_order": "15"
   },
   {
     "turf": "Turf8",
@@ -397,10 +397,10 @@
     "age": "57",
     "shortAddress": "346 E 2Nd St",
     "mappableAddress": "346 E 2ND ST Mansfield OH",
-    "longitude": "40.7566319",
-    "latitude": "-82.5031288",
+    "latitude": "40.7566319",
+    "longitude": "-82.5031288",
     "order": "16",
-    "full_order": "16.001"
+    "full_order": "16"
   },
   {
     "turf": "Turf8",
@@ -410,10 +410,10 @@
     "age": "29",
     "shortAddress": "346 E 2Nd St",
     "mappableAddress": "346 E 2ND ST Mansfield OH",
-    "longitude": "40.7566319",
-    "latitude": "-82.5031288",
+    "latitude": "40.7566319",
+    "longitude": "-82.5031288",
     "order": "16",
-    "full_order": "16.002"
+    "full_order": "16.001"
   },
   {
     "turf": "Turf8",
@@ -423,10 +423,10 @@
     "age": "50",
     "shortAddress": "346 E 2Nd St",
     "mappableAddress": "346 E 2ND ST Mansfield OH",
-    "longitude": "40.7566319",
-    "latitude": "-82.5031288",
+    "latitude": "40.7566319",
+    "longitude": "-82.5031288",
     "order": "16",
-    "full_order": "16.003"
+    "full_order": "16.002"
   },
   {
     "turf": "Turf8",
@@ -436,10 +436,10 @@
     "age": "46",
     "shortAddress": "90 Oak St",
     "mappableAddress": "90 OAK ST Mansfield OH",
-    "longitude": "40.756554",
-    "latitude": "-82.5025367",
+    "latitude": "40.756554",
+    "longitude": "-82.5025367",
     "order": "17",
-    "full_order": "17.001"
+    "full_order": "17"
   },
   {
     "turf": "Turf8",
@@ -449,10 +449,10 @@
     "age": "20",
     "shortAddress": "90 Oak St",
     "mappableAddress": "90 OAK ST Mansfield OH",
-    "longitude": "40.756554",
-    "latitude": "-82.5025367",
+    "latitude": "40.756554",
+    "longitude": "-82.5025367",
     "order": "17",
-    "full_order": "17.002"
+    "full_order": "17.001"
   },
   {
     "turf": "Turf8",
@@ -462,10 +462,10 @@
     "age": "38",
     "shortAddress": "310 Marshall Ave",
     "mappableAddress": "310 MARSHALL AVE Mansfield OH",
-    "longitude": "40.7561378",
-    "latitude": "-82.5046089",
+    "latitude": "40.7561378",
+    "longitude": "-82.5046089",
     "order": "18",
-    "full_order": "18.001"
+    "full_order": "18"
   },
   {
     "turf": "Turf8",
@@ -475,10 +475,10 @@
     "age": "33",
     "shortAddress": "310 Marshall Ave",
     "mappableAddress": "310 MARSHALL AVE Mansfield OH",
-    "longitude": "40.7561378",
-    "latitude": "-82.5046089",
+    "latitude": "40.7561378",
+    "longitude": "-82.5046089",
     "order": "18",
-    "full_order": "18.002"
+    "full_order": "18.001"
   },
   {
     "turf": "Turf8",
@@ -488,10 +488,10 @@
     "age": "54",
     "shortAddress": "310 Marshall Ave",
     "mappableAddress": "310 MARSHALL AVE Mansfield OH",
-    "longitude": "40.7561378",
-    "latitude": "-82.5046089",
+    "latitude": "40.7561378",
+    "longitude": "-82.5046089",
     "order": "18",
-    "full_order": "18.003"
+    "full_order": "18.002"
   },
   {
     "turf": "Turf8",
@@ -501,10 +501,10 @@
     "age": "39",
     "shortAddress": "307 E 1st St",
     "mappableAddress": "307 E 1st ST Mansfield OH",
-    "longitude": "40.7558788",
-    "latitude": "-82.5048626",
+    "latitude": "40.7558788",
+    "longitude": "-82.5048626",
     "order": "19",
-    "full_order": "19.001"
+    "full_order": "19"
   },
   {
     "turf": "Turf8",
@@ -514,10 +514,10 @@
     "age": "37",
     "shortAddress": "313 E 1st St",
     "mappableAddress": "313 E 1st ST Mansfield OH",
-    "longitude": "40.7558623",
-    "latitude": "-82.5046089",
+    "latitude": "40.7558623",
+    "longitude": "-82.5046089",
     "order": "20",
-    "full_order": "20.001"
+    "full_order": "20"
   },
   {
     "turf": "Turf8",
@@ -527,10 +527,10 @@
     "age": "25",
     "shortAddress": "317 E 1st St",
     "mappableAddress": "317 E 1st ST Mansfield OH",
-    "longitude": "40.7558824",
-    "latitude": "-82.5043128",
+    "latitude": "40.7558824",
+    "longitude": "-82.5043128",
     "order": "21",
-    "full_order": "21.001"
+    "full_order": "21"
   },
   {
     "turf": "Turf8",
@@ -540,10 +540,10 @@
     "age": "22",
     "shortAddress": "317 E 1st St",
     "mappableAddress": "317 E 1st ST Mansfield OH",
-    "longitude": "40.7558824",
-    "latitude": "-82.5043128",
+    "latitude": "40.7558824",
+    "longitude": "-82.5043128",
     "order": "21",
-    "full_order": "21.002"
+    "full_order": "21.001"
   },
   {
     "turf": "Turf8",
@@ -553,10 +553,10 @@
     "age": "55",
     "shortAddress": "331 E 1st St",
     "mappableAddress": "331 E 1st ST Mansfield OH",
-    "longitude": "40.7558521",
-    "latitude": "-82.5038477",
+    "latitude": "40.7558521",
+    "longitude": "-82.5038477",
     "order": "22",
-    "full_order": "22.001"
+    "full_order": "22"
   },
   {
     "turf": "Turf8",
@@ -566,10 +566,10 @@
     "age": "22",
     "shortAddress": "331 E 1st St",
     "mappableAddress": "331 E 1st ST Mansfield OH",
-    "longitude": "40.7558521",
-    "latitude": "-82.5038477",
+    "latitude": "40.7558521",
+    "longitude": "-82.5038477",
     "order": "22",
-    "full_order": "22.002"
+    "full_order": "22.001"
   },
   {
     "turf": "Turf8",
@@ -579,10 +579,10 @@
     "age": "22",
     "shortAddress": "297 E 1st St",
     "mappableAddress": "297 E 1st ST Mansfield OH",
-    "longitude": "40.7558916",
-    "latitude": "-82.5052115",
+    "latitude": "40.7558916",
+    "longitude": "-82.5052115",
     "order": "23",
-    "full_order": "23.001"
+    "full_order": "23"
   },
   {
     "turf": "Turf8",
@@ -592,10 +592,10 @@
     "age": "24",
     "shortAddress": "297 E 1st St",
     "mappableAddress": "297 E 1st ST Mansfield OH",
-    "longitude": "40.7558916",
-    "latitude": "-82.5052115",
+    "latitude": "40.7558916",
+    "longitude": "-82.5052115",
     "order": "23",
-    "full_order": "23.002"
+    "full_order": "23.001"
   },
   {
     "turf": "Turf8",
@@ -605,10 +605,10 @@
     "age": "22",
     "shortAddress": "297 E 1st St",
     "mappableAddress": "297 E 1st ST Mansfield OH",
-    "longitude": "40.7558916",
-    "latitude": "-82.5052115",
+    "latitude": "40.7558916",
+    "longitude": "-82.5052115",
     "order": "23",
-    "full_order": "23.003"
+    "full_order": "23.002"
   },
   {
     "turf": "Turf8",
@@ -618,10 +618,10 @@
     "age": "55",
     "shortAddress": "281 E 1st St",
     "mappableAddress": "281 E 1st ST Mansfield OH",
-    "longitude": "40.7558972",
-    "latitude": "-82.5057506",
+    "latitude": "40.7558972",
+    "longitude": "-82.5057506",
     "order": "24",
-    "full_order": "24.001"
+    "full_order": "24"
   },
   {
     "turf": "Turf8",
@@ -631,10 +631,10 @@
     "age": "55",
     "shortAddress": "277 E 1st St",
     "mappableAddress": "277 E 1st ST Mansfield OH",
-    "longitude": "40.7558977",
-    "latitude": "-82.5059092",
+    "latitude": "40.7558977",
+    "longitude": "-82.5059092",
     "order": "25",
-    "full_order": "25.001"
+    "full_order": "25"
   },
   {
     "turf": "Turf8",
@@ -644,10 +644,10 @@
     "age": "55",
     "shortAddress": "277 E 1st St",
     "mappableAddress": "277 E 1st ST Mansfield OH",
-    "longitude": "40.7558977",
-    "latitude": "-82.5059092",
+    "latitude": "40.7558977",
+    "longitude": "-82.5059092",
     "order": "25",
-    "full_order": "25.002"
+    "full_order": "25.001"
   },
   {
     "turf": "Turf8",
@@ -657,10 +657,10 @@
     "age": "32",
     "shortAddress": "273 E 1st St",
     "mappableAddress": "273 E 1st ST Mansfield OH",
-    "longitude": "40.7559558",
-    "latitude": "-82.5060466",
+    "latitude": "40.7559558",
+    "longitude": "-82.5060466",
     "order": "26",
-    "full_order": "26.001"
+    "full_order": "26"
   },
   {
     "turf": "Turf8",
@@ -670,10 +670,10 @@
     "age": "58",
     "shortAddress": "273 E 1st St",
     "mappableAddress": "273 E 1st ST Mansfield OH",
-    "longitude": "40.7559558",
-    "latitude": "-82.5060466",
+    "latitude": "40.7559558",
+    "longitude": "-82.5060466",
     "order": "26",
-    "full_order": "26.002"
+    "full_order": "26.001"
   },
   {
     "turf": "Turf8",
@@ -683,8 +683,8 @@
     "age": "33",
     "shortAddress": "273 E 1st St APT 2",
     "mappableAddress": "273 E 1st ST Mansfield OH",
-    "longitude": "40.7559558",
-    "latitude": "-82.5060466",
+    "latitude": "40.7559558",
+    "longitude": "-82.5060466",
     "order": "26",
     "full_order": "26.003"
   },
@@ -696,10 +696,10 @@
     "age": "34",
     "shortAddress": "267 E 1st St",
     "mappableAddress": "267 E 1st ST Mansfield OH",
-    "longitude": "40.7559723",
-    "latitude": "-82.5063004",
+    "latitude": "40.7559723",
+    "longitude": "-82.5063004",
     "order": "27",
-    "full_order": "27.001"
+    "full_order": "27"
   },
   {
     "turf": "Turf8",
@@ -709,10 +709,10 @@
     "age": "83",
     "shortAddress": "261 E 1st St",
     "mappableAddress": "261 E 1st ST Mansfield OH",
-    "longitude": "40.7559046",
-    "latitude": "-82.5064695",
+    "latitude": "40.7559046",
+    "longitude": "-82.5064695",
     "order": "28",
-    "full_order": "28.001"
+    "full_order": "28"
   },
   {
     "turf": "Turf8",
@@ -722,10 +722,10 @@
     "age": "60",
     "shortAddress": "63 Bentley St",
     "mappableAddress": "63 BENTLEY ST Mansfield OH",
-    "longitude": "40.7561856",
-    "latitude": "-82.5065541",
+    "latitude": "40.7561856",
+    "longitude": "-82.5065541",
     "order": "29",
-    "full_order": "29.001"
+    "full_order": "29"
   },
   {
     "turf": "Turf8",
@@ -735,10 +735,10 @@
     "age": "64",
     "shortAddress": "239 E 1st St",
     "mappableAddress": "239 E 1st ST Mansfield OH",
-    "longitude": "40.7559541",
-    "latitude": "-82.5072307",
+    "latitude": "40.7559541",
+    "longitude": "-82.5072307",
     "order": "30",
-    "full_order": "30.001"
+    "full_order": "30"
   },
   {
     "turf": "Turf8",
@@ -748,10 +748,10 @@
     "age": "60",
     "shortAddress": "239 E 1st St",
     "mappableAddress": "239 E 1st ST Mansfield OH",
-    "longitude": "40.7559541",
-    "latitude": "-82.5072307",
+    "latitude": "40.7559541",
+    "longitude": "-82.5072307",
     "order": "30",
-    "full_order": "30.002"
+    "full_order": "30.001"
   },
   {
     "turf": "Turf8",
@@ -761,10 +761,10 @@
     "age": "51",
     "shortAddress": "235 E 1st St",
     "mappableAddress": "235 E 1st ST Mansfield OH",
-    "longitude": "40.7559834",
-    "latitude": "-82.5073787",
+    "latitude": "40.7559834",
+    "longitude": "-82.5073787",
     "order": "31",
-    "full_order": "31.001"
+    "full_order": "31"
   },
   {
     "turf": "Turf8",
@@ -774,10 +774,10 @@
     "age": "56",
     "shortAddress": "235 E 1st St",
     "mappableAddress": "235 E 1st ST Mansfield OH",
-    "longitude": "40.7559834",
-    "latitude": "-82.5073787",
+    "latitude": "40.7559834",
+    "longitude": "-82.5073787",
     "order": "31",
-    "full_order": "31.002"
+    "full_order": "31.001"
   },
   {
     "turf": "Turf8",
@@ -787,10 +787,10 @@
     "age": "64",
     "shortAddress": "233 E 1st St",
     "mappableAddress": "233 E 1st ST Mansfield OH",
-    "longitude": "40.7561209",
-    "latitude": "-82.5074342",
+    "latitude": "40.7561209",
+    "longitude": "-82.5074342",
     "order": "32",
-    "full_order": "32.001"
+    "full_order": "32"
   },
   {
     "turf": "Turf8",
@@ -800,10 +800,10 @@
     "age": "37",
     "shortAddress": "233 E 1st St",
     "mappableAddress": "233 E 1st ST Mansfield OH",
-    "longitude": "40.7561209",
-    "latitude": "-82.5074342",
+    "latitude": "40.7561209",
+    "longitude": "-82.5074342",
     "order": "32",
-    "full_order": "32.002"
+    "full_order": "32.001"
   },
   {
     "turf": "Turf8",
@@ -813,10 +813,10 @@
     "age": "45",
     "shortAddress": "223 E 1st St",
     "mappableAddress": "223 E 1st ST Mansfield OH",
-    "longitude": "40.7559926",
-    "latitude": "-82.5078227",
+    "latitude": "40.7559926",
+    "longitude": "-82.5078227",
     "order": "33",
-    "full_order": "33.001"
+    "full_order": "33"
   },
   {
     "turf": "Turf8",
@@ -826,10 +826,10 @@
     "age": "27",
     "shortAddress": "219 E 1st St",
     "mappableAddress": "219 E 1st ST Mansfield OH",
-    "longitude": "40.7560008",
-    "latitude": "-82.5079496",
+    "latitude": "40.7560008",
+    "longitude": "-82.5079496",
     "order": "34",
-    "full_order": "34.001"
+    "full_order": "34"
   },
   {
     "turf": "Turf8",
@@ -839,10 +839,10 @@
     "age": "35",
     "shortAddress": "215 E 1st St",
     "mappableAddress": "215 E 1st ST Mansfield OH",
-    "longitude": "40.7560118",
-    "latitude": "-82.5081187",
+    "latitude": "40.7560118",
+    "longitude": "-82.5081187",
     "order": "35",
-    "full_order": "35.001"
+    "full_order": "35"
   },
   {
     "turf": "Turf8",
@@ -852,10 +852,10 @@
     "age": "37",
     "shortAddress": "69 S Foster St",
     "mappableAddress": "69 S FOSTER ST Mansfield OH",
-    "longitude": "40.7563098",
-    "latitude": "-82.5080937",
+    "latitude": "40.7563098",
+    "longitude": "-82.5080937",
     "order": "36",
-    "full_order": "36.001"
+    "full_order": "36"
   },
   {
     "turf": "Turf8",
@@ -865,10 +865,10 @@
     "age": "218",
     "shortAddress": "223 Marshall Ave",
     "mappableAddress": "223 MARSHALL AVE Mansfield OH",
-    "longitude": "40.7565007",
-    "latitude": "-82.5079178",
+    "latitude": "40.7565007",
+    "longitude": "-82.5079178",
     "order": "37",
-    "full_order": "37.001"
+    "full_order": "37"
   },
   {
     "turf": "Turf8",
@@ -878,10 +878,10 @@
     "age": "38",
     "shortAddress": "59 S Foster St",
     "mappableAddress": "59 S FOSTER ST Mansfield OH",
-    "longitude": "40.7564964",
-    "latitude": "-82.508082",
+    "latitude": "40.7564964",
+    "longitude": "-82.508082",
     "order": "38",
-    "full_order": "38.001"
+    "full_order": "38"
   },
   {
     "turf": "Turf8",
@@ -891,10 +891,10 @@
     "age": "46",
     "shortAddress": "210 E 2Nd St",
     "mappableAddress": "210 E 2ND ST Mansfield OH",
-    "longitude": "40.7568357",
-    "latitude": "-82.5080764",
+    "latitude": "40.7568357",
+    "longitude": "-82.5080764",
     "order": "39",
-    "full_order": "39.001"
+    "full_order": "39"
   },
   {
     "turf": "Turf8",
@@ -904,10 +904,10 @@
     "age": "45",
     "shortAddress": "210 E 2Nd St",
     "mappableAddress": "210 E 2ND ST Mansfield OH",
-    "longitude": "40.7568357",
-    "latitude": "-82.5080764",
+    "latitude": "40.7568357",
+    "longitude": "-82.5080764",
     "order": "39",
-    "full_order": "39.002"
+    "full_order": "39.001"
   },
   {
     "turf": "Turf8",
@@ -917,10 +917,10 @@
     "age": "21",
     "shortAddress": "210 E 2Nd St",
     "mappableAddress": "210 E 2ND ST Mansfield OH",
-    "longitude": "40.7568357",
-    "latitude": "-82.5080764",
+    "latitude": "40.7568357",
+    "longitude": "-82.5080764",
     "order": "39",
-    "full_order": "39.003"
+    "full_order": "39.002"
   },
   {
     "turf": "Turf8",
@@ -930,10 +930,10 @@
     "age": "19",
     "shortAddress": "210 E 2Nd St",
     "mappableAddress": "210 E 2ND ST Mansfield OH",
-    "longitude": "40.7568357",
-    "latitude": "-82.5080764",
+    "latitude": "40.7568357",
+    "longitude": "-82.5080764",
     "order": "39",
-    "full_order": "39.004"
+    "full_order": "39.003"
   },
   {
     "turf": "Turf8",
@@ -943,10 +943,10 @@
     "age": "48",
     "shortAddress": "216 E 2Nd St",
     "mappableAddress": "216 E 2ND ST Mansfield OH",
-    "longitude": "40.7567853",
-    "latitude": "-82.5079073",
+    "latitude": "40.7567853",
+    "longitude": "-82.5079073",
     "order": "40",
-    "full_order": "40.001"
+    "full_order": "40"
   },
   {
     "turf": "Turf8",
@@ -956,10 +956,10 @@
     "age": "25",
     "shortAddress": "216 E 2Nd St",
     "mappableAddress": "216 E 2ND ST Mansfield OH",
-    "longitude": "40.7567853",
-    "latitude": "-82.5079073",
+    "latitude": "40.7567853",
+    "longitude": "-82.5079073",
     "order": "40",
-    "full_order": "40.002"
+    "full_order": "40.001"
   },
   {
     "turf": "Turf8",
@@ -969,10 +969,10 @@
     "age": "28",
     "shortAddress": "222 E 2Nd St",
     "mappableAddress": "222 E 2ND ST Mansfield OH",
-    "longitude": "40.7567771",
-    "latitude": "-82.5077804",
+    "latitude": "40.7567771",
+    "longitude": "-82.5077804",
     "order": "41",
-    "full_order": "41.001"
+    "full_order": "41"
   },
   {
     "turf": "Turf8",
@@ -982,10 +982,10 @@
     "age": "58",
     "shortAddress": "226 E 2Nd St",
     "mappableAddress": "226 E 2ND ST Mansfield OH",
-    "longitude": "40.756662",
-    "latitude": "-82.50748",
+    "latitude": "40.756662",
+    "longitude": "-82.50748",
     "order": "42",
-    "full_order": "42.001"
+    "full_order": "42"
   },
   {
     "turf": "Turf8",
@@ -995,10 +995,10 @@
     "age": "80",
     "shortAddress": "238 E 2Nd St",
     "mappableAddress": "238 E 2ND ST Mansfield OH",
-    "longitude": "40.7567697",
-    "latitude": "-82.5070615",
+    "latitude": "40.7567697",
+    "longitude": "-82.5070615",
     "order": "43",
-    "full_order": "43.001"
+    "full_order": "43"
   },
   {
     "turf": "Turf8",
@@ -1008,10 +1008,10 @@
     "age": "57",
     "shortAddress": "238 E 2Nd St",
     "mappableAddress": "238 E 2ND ST Mansfield OH",
-    "longitude": "40.7567697",
-    "latitude": "-82.5070615",
+    "latitude": "40.7567697",
+    "longitude": "-82.5070615",
     "order": "43",
-    "full_order": "43.002"
+    "full_order": "43.001"
   },
   {
     "turf": "Turf8",
@@ -1021,10 +1021,10 @@
     "age": "53",
     "shortAddress": "244 E 2Nd St",
     "mappableAddress": "244 E 2ND ST Mansfield OH",
-    "longitude": "40.7567587",
-    "latitude": "-82.5068924",
+    "latitude": "40.7567587",
+    "longitude": "-82.5068924",
     "order": "44",
-    "full_order": "44.001"
+    "full_order": "44"
   },
   {
     "turf": "Turf8",
@@ -1034,10 +1034,10 @@
     "age": "61",
     "shortAddress": "244 E 2Nd St",
     "mappableAddress": "244 E 2ND ST Mansfield OH",
-    "longitude": "40.7567587",
-    "latitude": "-82.5068924",
+    "latitude": "40.7567587",
+    "longitude": "-82.5068924",
     "order": "44",
-    "full_order": "44.002"
+    "full_order": "44.001"
   },
   {
     "turf": "Turf8",
@@ -1047,10 +1047,10 @@
     "age": "49",
     "shortAddress": "247 E 2Nd St",
     "mappableAddress": "247 E 2ND ST Mansfield OH",
-    "longitude": "40.7571259",
-    "latitude": "-82.506841",
+    "latitude": "40.7571259",
+    "longitude": "-82.506841",
     "order": "45",
-    "full_order": "45.001"
+    "full_order": "45"
   },
   {
     "turf": "Turf8",
@@ -1060,10 +1060,10 @@
     "age": "31",
     "shortAddress": "247 E 2Nd St",
     "mappableAddress": "247 E 2ND ST Mansfield OH",
-    "longitude": "40.7571259",
-    "latitude": "-82.506841",
+    "latitude": "40.7571259",
+    "longitude": "-82.506841",
     "order": "45",
-    "full_order": "45.002"
+    "full_order": "45.001"
   },
   {
     "turf": "Turf8",
@@ -1073,10 +1073,10 @@
     "age": "60",
     "shortAddress": "245 E 2Nd St",
     "mappableAddress": "245 E 2ND ST Mansfield OH",
-    "longitude": "40.7570924",
-    "latitude": "-82.5068501",
+    "latitude": "40.7570924",
+    "longitude": "-82.5068501",
     "order": "46",
-    "full_order": "46.001"
+    "full_order": "46"
   },
   {
     "turf": "Turf8",
@@ -1086,10 +1086,10 @@
     "age": "30",
     "shortAddress": "227 E 2Nd St",
     "mappableAddress": "227 E 2ND ST Mansfield OH",
-    "longitude": "40.7571853",
-    "latitude": "-82.5073998",
+    "latitude": "40.7571853",
+    "longitude": "-82.5073998",
     "order": "47",
-    "full_order": "47.001"
+    "full_order": "47"
   },
   {
     "turf": "Turf8",
@@ -1099,10 +1099,10 @@
     "age": "41",
     "shortAddress": "223 E 2Nd St",
     "mappableAddress": "223 E 2ND ST Mansfield OH",
-    "longitude": "40.7571963",
-    "latitude": "-82.507569",
+    "latitude": "40.7571963",
+    "longitude": "-82.507569",
     "order": "48",
-    "full_order": "48.001"
+    "full_order": "48"
   },
   {
     "turf": "Turf8",
@@ -1112,10 +1112,10 @@
     "age": "34",
     "shortAddress": "223 E 2Nd St",
     "mappableAddress": "223 E 2ND ST Mansfield OH",
-    "longitude": "40.7571963",
-    "latitude": "-82.507569",
+    "latitude": "40.7571963",
+    "longitude": "-82.507569",
     "order": "48",
-    "full_order": "48.002"
+    "full_order": "48.001"
   },
   {
     "turf": "Turf8",
@@ -1125,10 +1125,10 @@
     "age": "28",
     "shortAddress": "223 E 2Nd St",
     "mappableAddress": "223 E 2ND ST Mansfield OH",
-    "longitude": "40.7571963",
-    "latitude": "-82.507569",
+    "latitude": "40.7571963",
+    "longitude": "-82.507569",
     "order": "48",
-    "full_order": "48.003"
+    "full_order": "48.002"
   },
   {
     "turf": "Turf8",
@@ -1138,10 +1138,10 @@
     "age": "36",
     "shortAddress": "223 E 2Nd St",
     "mappableAddress": "223 E 2ND ST Mansfield OH",
-    "longitude": "40.7571963",
-    "latitude": "-82.507569",
+    "latitude": "40.7571963",
+    "longitude": "-82.507569",
     "order": "48",
-    "full_order": "48.004"
+    "full_order": "48.003"
   },
   {
     "turf": "Turf8",
@@ -1151,10 +1151,10 @@
     "age": "37",
     "shortAddress": "219 E 2Nd St",
     "mappableAddress": "219 E 2ND ST Mansfield OH",
-    "longitude": "40.757168",
-    "latitude": "-82.5077381",
+    "latitude": "40.757168",
+    "longitude": "-82.5077381",
     "order": "49",
-    "full_order": "49.001"
+    "full_order": "49"
   },
   {
     "turf": "Turf8",
@@ -1164,10 +1164,10 @@
     "age": "80",
     "shortAddress": "213 E 2Nd St",
     "mappableAddress": "213 E 2ND ST Mansfield OH",
-    "longitude": "40.757179",
-    "latitude": "-82.5079073",
+    "latitude": "40.757179",
+    "longitude": "-82.5079073",
     "order": "50",
-    "full_order": "50.001"
+    "full_order": "50"
   },
   {
     "turf": "Turf8",
@@ -1177,10 +1177,10 @@
     "age": "61",
     "shortAddress": "15 S Foster St",
     "mappableAddress": "15 S FOSTER ST Mansfield OH",
-    "longitude": "40.7577017",
-    "latitude": "-82.5080764",
+    "latitude": "40.7577017",
+    "longitude": "-82.5080764",
     "order": "51",
-    "full_order": "51.001"
+    "full_order": "51"
   },
   {
     "turf": "Turf8",
@@ -1190,10 +1190,10 @@
     "age": "65",
     "shortAddress": "210 Park Ave E",
     "mappableAddress": "210 PARK AVE E Mansfield OH",
-    "longitude": "40.757992",
-    "latitude": "-82.508016",
+    "latitude": "40.757992",
+    "longitude": "-82.508016",
     "order": "52",
-    "full_order": "52.001"
+    "full_order": "52"
   },
   {
     "turf": "Turf8",
@@ -1203,10 +1203,10 @@
     "age": "50",
     "shortAddress": "210 Park Ave E",
     "mappableAddress": "210 PARK AVE E Mansfield OH",
-    "longitude": "40.757992",
-    "latitude": "-82.508016",
+    "latitude": "40.757992",
+    "longitude": "-82.508016",
     "order": "52",
-    "full_order": "52.002"
+    "full_order": "52.001"
   },
   {
     "turf": "Turf8",
@@ -1216,10 +1216,10 @@
     "age": "31",
     "shortAddress": "212 Park Ave E",
     "mappableAddress": "212 PARK AVE E Mansfield OH",
-    "longitude": "40.757985",
-    "latitude": "-82.507854",
+    "latitude": "40.757985",
+    "longitude": "-82.507854",
     "order": "53",
-    "full_order": "53.001"
+    "full_order": "53"
   },
   {
     "turf": "Turf8",
@@ -1229,10 +1229,10 @@
     "age": "27",
     "shortAddress": "214 1/2 Park Ave E",
     "mappableAddress": "214  PARK AVE E Mansfield OH",
-    "longitude": "#N/A",
     "latitude": "#N/A",
+    "longitude": "#N/A",
     "order": "54",
-    "full_order": "54.001"
+    "full_order": "54"
   },
   {
     "turf": "Turf8",
@@ -1242,10 +1242,10 @@
     "age": "22",
     "shortAddress": "214 1/2 Park Ave E",
     "mappableAddress": "214  PARK AVE E Mansfield OH",
-    "longitude": "#N/A",
     "latitude": "#N/A",
+    "longitude": "#N/A",
     "order": "54",
-    "full_order": "54.002"
+    "full_order": "54.001"
   },
   {
     "turf": "Turf8",
@@ -1255,10 +1255,10 @@
     "age": "35",
     "shortAddress": "214 Park Ave E",
     "mappableAddress": "214 PARK AVE E Mansfield OH",
-    "longitude": "40.7580916",
-    "latitude": "-82.5078323",
+    "latitude": "40.7580916",
+    "longitude": "-82.5078323",
     "order": "54",
-    "full_order": "55.001"
+    "full_order": "54.003"
   },
   {
     "turf": "Turf8",
@@ -1268,9 +1268,9 @@
     "age": "33",
     "shortAddress": "214 Park Ave E",
     "mappableAddress": "214 PARK AVE E Mansfield OH",
-    "longitude": "40.7580916",
-    "latitude": "-82.5078323",
+    "latitude": "40.7580916",
+    "longitude": "-82.5078323",
     "order": "54",
-    "full_order": "55.002"
+    "full_order": "54.004"
   }
 ]
