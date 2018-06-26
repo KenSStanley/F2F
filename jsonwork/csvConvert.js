@@ -1,15 +1,15 @@
 //CSV to JSON converter
 const fs = require('fs');
 
-//convertFile("Mansfield6A  - Turf 8 MAN 6A", "Turf8", "Man6a");
+convertFile("Mansfield6A  - Turf 8 MAN 6A", "Turf8", "Man6a");
 convertFile("Mansfield6A  - Turf 7 MAN 6A", "Turf7", "Man6a");
-//convertFile("Mansfield6A  - Turf 6 MAN 6A", "Turf6", "Man6a");
-//convertFile("Mansfield6A  - Turf 5 MAN 6A", "Turf5", "Man6a");
-//convertFile("Mansfield6A  - Turf 4 MAN 6A", "Turf4", "Man6a");
-//convertFile("Mansfield6A  - Turf 3 MAN 6A", "Turf3", "Man6a");
-//convertFile("Mansfield6A  - Turf 2 MAN 6A", "Turf2", "Man6a");
-//convertFile("Mansfield6A  - Turf 1 MAN 6A", "Turf1", "Man6a");
-//convertFile("Mansfield6A  -  Mansfield6A Original", "unknown", "Man6a");
+convertFile("Mansfield6A  - Turf 6 MAN 6A", "Turf6", "Man6a");
+convertFile("Mansfield6A  - Turf 5 MAN 6A", "Turf5", "Man6a");
+convertFile("Mansfield6A  - Turf 4 MAN 6A", "Turf4", "Man6a");
+convertFile("Mansfield6A  - Turf 3 MAN 6A", "Turf3", "Man6a");
+convertFile("Mansfield6A  - Turf 2 MAN 6A", "Turf2", "Man6a");
+convertFile("Mansfield6A  - Turf 1 MAN 6A", "Turf1", "Man6a");
+convertFile("Mansfield6A  -  Mansfield6A Original", "unknown", "Man6a");
 //convertFile("Mansfield voters in 9 Dem Precincts - In 24June18Not in23DEC17","unknown", "Man6a");
 //convertFile("Mansfield voters in 9 Dem Precincts - Sheet4","unknown", "Man6a");
 
@@ -53,7 +53,16 @@ function convertFile(fileName, thisTurf, precinct) {
             if (oneVal.startsWith("\"")) {
                 oneVal = unquote(oneVal);
             }
-            o[oneName] = oneVal.trim();
+            if (oneName == "Name_Age_Address") {
+                var parenOpen = oneVal.indexOf("(");
+                var parenClose = oneVal.indexOf(")");
+                o.name = oneVal.substring(0,parenOpen).trim();
+                o.age = oneVal.substring(parenOpen+1, parenClose).trim();
+                o.shortAddress = oneVal.substring(parenClose+1).trim();
+            }
+            else {
+                o[oneName] = oneVal.trim();
+            }
         }
         total.push(o);
         
