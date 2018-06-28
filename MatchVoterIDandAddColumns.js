@@ -36,7 +36,7 @@
  *  
  */
 theWholeFile = ""; 
-debugOutput = true; 
+debugOutput = false; 
 longerOutput = true; 
 longOutput = false; 
 var volunteers; 
@@ -197,7 +197,7 @@ const init = function() {
 
   var volunteerLines = fs.readFileSync( fileOfVolunteers, 'utf8');  
 
-  console.log(volunteerLines) ; 
+  //  console.log(volunteerLines) ; 
 
   let volList = []; 
   let volName = [] ; 
@@ -230,7 +230,7 @@ const init = function() {
     theseFriends = volList[i].split("\n"); 
     for (indexJ = 1; indexJ < theseFriends.length-1; indexJ++ ) { 
        row = theseFriends[indexJ].split(",") ; 
-       console.log("indexJ = " + indexJ + " this line is " + theseFriends[indexJ] + " row = " + row  + " end of line\n" )  ; 
+       if (debugOutput) console.log("indexJ = " + indexJ + " this line is " + theseFriends[indexJ] + " row = " + row  + " end of line\n" )  ; 
        // row 1 is optional (the other rows are expected to behave or else )
        if ( (indexJ > 1 ) || (row[0].lastIndexOf("OH") > 0)) { 
          console.assert(row[0].lastIndexOf("OH") === 0," The " + indexJ + "th row of " + volListFile[i] + 
