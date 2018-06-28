@@ -1,10 +1,11 @@
 /**
  * Created by Ken Stanley on 3/20/18 - 
+ *  Modified 28 JUNE 18 
  *
  * TODO:
  *
  * Inputs:
- *   County download file    aka RICHLAND.txt
+ *   The Mansfield precincts from the County download file    aka MansfieldDemPrecincts.csv
  * Outputs:
  *   relevant columns for the 9 Democratic precincts 
  */
@@ -59,19 +60,21 @@ const parseLargeFile = function(data) {
       let repVotes = 0 ; 
       let otherVotes = 0 ; 
 
-      
       let outputline = sosId + "," + lastName  + "," + firstName  + "," + middleName  + "," + bday + "," + voterStatus + "," + 
-          precinct + "," + address  + "," + apt  + "," + zip  + "," + door  + "," + demVotes + "," + repVotes + "," + otherVotes ;
+          precinct + "," + address  + "," + apt  + "," + zip  + "," + door ;
 
+      
       for (indexJ=primary2012Pos; indexJ<=primaryMay18Pos; indexJ++ ) { 
-          outputline = outputline + "," +  splitRow[indexJ] ; 
+        outputline = outputline + "," +  splitRow[indexJ] ; 
+//        console.log(" vote is " + splitRow[indexJ] ) ;     
 	if ( splitRow[indexJ].includes("D" )) demVotes++; 
 	if ( splitRow[indexJ].includes( "R") ) repVotes++; 
 	if ( splitRow[indexJ].includes("X" ) ) otherVotes++; 
       }
+       outputline = outputline + "," + demVotes + "," + repVotes + "," + otherVotes ;
 
 
-          outputData = outputData + outputline + "\n"; 
+      outputData = outputData + outputline + "\n"; 
       
     }
   }
