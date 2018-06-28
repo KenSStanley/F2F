@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+tr {
+    border-bottom: 1px solid gray;
+}
+td {
+    padding: 5px;
+    border-bottom: 1px solid lightgray;
+}
+th {
+    padding: 5px;
+    background-color: lightskyblue;
+    border-bottom: 1px solid lightgray;
+}

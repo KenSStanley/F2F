@@ -1,0 +1,4664 @@
+[
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "385 HOME AVE Mansfield OH 44902",
+    "Latitude": "40.751743",
+    "Longitude": "-82.502401"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "206 EDUCATIONAL PL Mansfield OH 44902",
+    "Latitude": "40.7526574",
+    "Longitude": "-82.5114698"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "259 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7511895",
+    "Longitude": "-82.5120512"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "202 EDUCATIONAL PL Mansfield OH 44902",
+    "Latitude": "40.7527545",
+    "Longitude": "-82.5114487"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "438 BEETHOVEN ST Mansfield OH 44902",
+    "Latitude": "40.745999",
+    "Longitude": "-82.507445"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "325 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.7525308",
+    "Longitude": "-82.5043856"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "294 GREENDALE AVE Mansfield OH 44902",
+    "Latitude": "40.7497003",
+    "Longitude": "-82.5054969"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "444 BIRD CAGE Mansfield OH 44902",
+    "Latitude": "40.7494744",
+    "Longitude": "-82.5002107"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "181 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7531831",
+    "Longitude": "-82.5082033"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "127 N FORD RD Mansfield OH 44905",
+    "Latitude": "40.761533",
+    "Longitude": "-82.455722"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "284 REFORM ST Mansfield OH 44902",
+    "Latitude": "40.7431193",
+    "Longitude": "-82.5060044"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "390 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.7521233",
+    "Longitude": "-82.5021984"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "244 HEDGES ST Mansfield OH 44902",
+    "Latitude": "40.751532",
+    "Longitude": "-82.5102211"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "146 FORD ST Mansfield OH 44902",
+    "Latitude": "40.748224",
+    "Longitude": "-82.5112478"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "520 WOODVILLE RD Mansfield OH 44907",
+    "Latitude": "40.7440924",
+    "Longitude": "-82.5040168"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "205 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7526799",
+    "Longitude": "-82.5119666"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "487 REMBRANDT ST Mansfield OH 44902",
+    "Latitude": "40.7445521",
+    "Longitude": "-82.5050317"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "181 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7531831",
+    "Longitude": "-82.5082033"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "384 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.752137",
+    "Longitude": "-82.5024098"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "313 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.7525487",
+    "Longitude": "-82.5048176"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "173 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7534221",
+    "Longitude": "-82.5082456"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "177 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7536128",
+    "Longitude": "-82.5142076"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "358 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.752115",
+    "Longitude": "-82.503352"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "616 S DIAMOND ST Mansfield OH 44907",
+    "Latitude": "40.7453733",
+    "Longitude": "-82.5037093"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "373 DALE AVE Mansfield OH 44902",
+    "Latitude": "40.750907",
+    "Longitude": "-82.502835"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "265 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7512325",
+    "Longitude": "-82.5133197"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "201 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7526375",
+    "Longitude": "-82.5082878"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "293 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7505992",
+    "Longitude": "-82.5129004"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "86 HOME AVE Mansfield OH 44902",
+    "Latitude": "40.7517699",
+    "Longitude": "-82.5131083"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "150 HOME AVE Mansfield OH 44902",
+    "Latitude": "40.7516215",
+    "Longitude": "-82.510825"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "239 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7517351",
+    "Longitude": "-82.5119666"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "509 REMBRANDT ST Mansfield OH 44902",
+    "Latitude": "40.7440064",
+    "Longitude": "-82.5051163"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "438 BEETHOVEN ST Mansfield OH 44902",
+    "Latitude": "40.745999",
+    "Longitude": "-82.507445"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "487 REMBRANDT ST Mansfield OH 44902",
+    "Latitude": "40.7445521",
+    "Longitude": "-82.5050317"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "129 DALE AVE Mansfield OH 44902",
+    "Latitude": "40.7511565",
+    "Longitude": "-82.5115438"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "313 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.7525487",
+    "Longitude": "-82.5048176"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "365 DALE AVE Mansfield OH 44902",
+    "Latitude": "40.750915",
+    "Longitude": "-82.5030699"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "438 BEETHOVEN ST Mansfield OH 44902",
+    "Latitude": "40.745999",
+    "Longitude": "-82.507445"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "211 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7525197",
+    "Longitude": "-82.5119243"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "415 LINCOLN AVE Mansfield OH 44902",
+    "Latitude": "40.7468163",
+    "Longitude": "-82.5047357"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "127 HOME AVE Mansfield OH 44902",
+    "Latitude": "40.7519028",
+    "Longitude": "-82.5116475"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "189 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7531418",
+    "Longitude": "-82.5119587"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "146 FORD ST Mansfield OH 44902",
+    "Latitude": "40.748224",
+    "Longitude": "-82.5112478"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "438 BEETHOVEN ST Mansfield OH 44902",
+    "Latitude": "40.745999",
+    "Longitude": "-82.507445"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "326 HOME AVE Mansfield OH 44902",
+    "Latitude": "40.751306",
+    "Longitude": "-82.504425"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "222 REFORM ST Mansfield OH 44902",
+    "Latitude": "40.742972",
+    "Longitude": "-82.508189"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "494 REMBRANDT ST Mansfield OH 44902",
+    "Latitude": "40.7443938",
+    "Longitude": "-82.5056238"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "411 BIRD CAGE Mansfield OH 44902",
+    "Latitude": "40.7499141",
+    "Longitude": "-82.5015217"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "262 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.752238",
+    "Longitude": "-82.506691"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "294 GREENDALE AVE Mansfield OH 44902",
+    "Latitude": "40.7497003",
+    "Longitude": "-82.5054969"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "599 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.745843",
+    "Longitude": "-82.5039957"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "216 REFORM ST Mansfield OH 44902",
+    "Latitude": "40.742932",
+    "Longitude": "-82.508377"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "457 BIRD CAGE Mansfield OH 44902",
+    "Latitude": "40.7498827",
+    "Longitude": "-82.4998301"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "379 DALE AVE Mansfield OH 44902",
+    "Latitude": "40.7508989",
+    "Longitude": "-82.502601"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "562 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7460336",
+    "Longitude": "-82.5054123"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "494 REMBRANDT ST Mansfield OH 44902",
+    "Latitude": "40.7443938",
+    "Longitude": "-82.5056238"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "211 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7525197",
+    "Longitude": "-82.5119243"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "217 S FRANKLIN ST Mansfield OH 44902",
+    "Latitude": "40.7523796",
+    "Longitude": "-82.5134043"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "228 REFORM ST Mansfield OH 44902",
+    "Latitude": "40.742979",
+    "Longitude": "-82.507865"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "438 BEETHOVEN ST Mansfield OH 44902",
+    "Latitude": "40.745999",
+    "Longitude": "-82.507445"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "266 REMY AVE Mansfield OH 44902",
+    "Latitude": "40.752232",
+    "Longitude": "-82.506547"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "363 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7495827",
+    "Longitude": "-82.5109518"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "326 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.749786",
+    "Longitude": "-82.5122626"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "239 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7517351",
+    "Longitude": "-82.5119666"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "211 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7522805",
+    "Longitude": "-82.5082456"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "339 FAIR ST Mansfield OH 44902",
+    "Latitude": "40.7489913",
+    "Longitude": "-82.5115438"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "130 DALE AVE Mansfield OH 44902",
+    "Latitude": "40.750917",
+    "Longitude": "-82.511579"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "288 GREENLAWN AVE Mansfield OH 44902",
+    "Latitude": "40.752967",
+    "Longitude": "-82.50564"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "225 HILLSIDE CIR Mansfield OH 44907",
+    "Latitude": "40.7400825",
+    "Longitude": "-82.5040732"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "89 FLINT ST Mansfield OH 44902",
+    "Latitude": "40.7531788",
+    "Longitude": "-82.5129814"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "317 GREENLAWN AVE Mansfield OH 44902",
+    "Latitude": "40.753349",
+    "Longitude": "-82.504599"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "227 HILLSIDE CIR Mansfield OH 44907",
+    "Latitude": "40.7412326",
+    "Longitude": "-82.506778"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "297 GREENLAWN AVE Mansfield OH 44902",
+    "Latitude": "40.75338",
+    "Longitude": "-82.505329"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "483 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7476195",
+    "Longitude": "-82.5073998"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "177 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7536128",
+    "Longitude": "-82.5142076"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "365 DALE AVE Mansfield OH 44902",
+    "Latitude": "40.750915",
+    "Longitude": "-82.5030699"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "289 ORANGE ST Mansfield OH 44902",
+    "Latitude": "40.7658642",
+    "Longitude": "-82.5048309"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "292 4TH AVE Mansfield OH 44905",
+    "Latitude": "40.7660709",
+    "Longitude": "-82.498057"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "307 4TH AVE Mansfield OH 44905",
+    "Latitude": "40.766472",
+    "Longitude": "-82.498856"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "297 ORANGE ST Mansfield OH 44902",
+    "Latitude": "40.7658491",
+    "Longitude": "-82.5045983"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "406 WAYNE ST Mansfield OH 44902",
+    "Latitude": "40.769194",
+    "Longitude": "-82.5062581"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "283 3RD AVE Mansfield OH 44905",
+    "Latitude": "40.76574",
+    "Longitude": "-82.5011833"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "329 2ND AVE Mansfield OH 44902",
+    "Latitude": "40.7670152",
+    "Longitude": "-82.5024098"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "381 ORANGE ST Mansfield OH 44902",
+    "Latitude": "40.7657002",
+    "Longitude": "-82.501455"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "289 AUBURN AVE Mansfield OH 44902",
+    "Latitude": "40.7692156",
+    "Longitude": "-82.5045438"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "398 4TH AVE Mansfield OH 44905",
+    "Latitude": "40.768931",
+    "Longitude": "-82.498095"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "287 CENTRAL AVE Mansfield OH 44905",
+    "Latitude": "40.765899",
+    "Longitude": "-82.500273"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "473 ORANGE ST Mansfield OH 44905",
+    "Latitude": "40.765868",
+    "Longitude": "-82.497901"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "318 2ND AVE Mansfield OH 44902",
+    "Latitude": "40.76674",
+    "Longitude": "-82.501792"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "328 2ND AVE Mansfield OH 44902",
+    "Latitude": "40.767014",
+    "Longitude": "-82.50179"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "311 MYERS AVE Mansfield OH 44902",
+    "Latitude": "40.7668132",
+    "Longitude": "-82.5041437"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "405 3RD AVE Mansfield OH 44905",
+    "Latitude": "40.7691373",
+    "Longitude": "-82.5009644"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "283 ASHLAND RD Mansfield OH 44905",
+    "Latitude": "40.7633011",
+    "Longitude": "-82.4976521"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "287 CENTRAL AVE Mansfield OH 44905",
+    "Latitude": "40.765899",
+    "Longitude": "-82.500273"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "347 AUBURN AVE Mansfield OH 44902",
+    "Latitude": "40.7694213",
+    "Longitude": "-82.5024944"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "426 4TH AVE Mansfield OH 44905",
+    "Latitude": "40.769727",
+    "Longitude": "-82.49811"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "314 GRACE ST Mansfield OH 44902",
+    "Latitude": "40.7699025",
+    "Longitude": "-82.5036891"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "360 4TH AVE Mansfield OH 44905",
+    "Latitude": "40.767927",
+    "Longitude": "-82.498081"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "365 2ND AVE Mansfield OH 44902",
+    "Latitude": "40.7680018",
+    "Longitude": "-82.5024521"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "324 1ST AVE Mansfield OH 44902",
+    "Latitude": "40.7669943",
+    "Longitude": "-82.5032979"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "297 ORANGE ST Mansfield OH 44902",
+    "Latitude": "40.7658491",
+    "Longitude": "-82.5045983"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "302 3RD AVE Mansfield OH 44905",
+    "Latitude": "40.766308",
+    "Longitude": "-82.500422"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "382 ORANGE ST Mansfield OH 44902",
+    "Latitude": "40.7653804",
+    "Longitude": "-82.5014795"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "338 WAYNE ST Mansfield OH 44902",
+    "Latitude": "40.7672579",
+    "Longitude": "-82.5062898"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "288 CENTRAL AVE Mansfield OH 44905",
+    "Latitude": "40.765914",
+    "Longitude": "-82.499481"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "385 2ND AVE Mansfield OH 44902",
+    "Latitude": "40.7685894",
+    "Longitude": "-82.5024098"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "364 2ND AVE Mansfield OH 44902",
+    "Latitude": "40.768011",
+    "Longitude": "-82.501772"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "396 GRACE ST Mansfield OH 44905",
+    "Latitude": "40.769838",
+    "Longitude": "-82.500708"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "350 ORANGE ST Mansfield OH 44902",
+    "Latitude": "40.765215",
+    "Longitude": "-82.5025579"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "101 HEDGES ST Mansfield OH 44902",
+    "Latitude": "40.7554023",
+    "Longitude": "-82.509641"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "137 STURGES AVE Mansfield OH 44903",
+    "Latitude": "40.7549428",
+    "Longitude": "-82.5231709"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "118 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7555425",
+    "Longitude": "-82.5227059"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7562621",
+    "Longitude": "-82.5128757"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "99 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7554818",
+    "Longitude": "-82.5081398"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "161 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.757235",
+    "Longitude": "-82.5215012"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "143 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7547781",
+    "Longitude": "-82.5224522"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "38 S WELDON AVE Mansfield OH 44902",
+    "Latitude": "40.757588",
+    "Longitude": "-82.5190244"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "111 S DIAMOND ST Mansfield OH 44902",
+    "Latitude": "40.7553334",
+    "Longitude": "-82.5139007"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "154 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7578864",
+    "Longitude": "-82.521427"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "135 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7550189",
+    "Longitude": "-82.5213107"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "147 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7546966",
+    "Longitude": "-82.5224099"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "183 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7572445",
+    "Longitude": "-82.5223026"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "114 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7556229",
+    "Longitude": "-82.522731"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "96 E 2ND ST Mansfield OH 44902",
+    "Latitude": "40.756932",
+    "Longitude": "-82.512046"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "161 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.757235",
+    "Longitude": "-82.5215012"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "281 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7558972",
+    "Longitude": "-82.5057506"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "307 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7558788",
+    "Longitude": "-82.5048626"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "60 HEDGES ST Mansfield OH 44902",
+    "Latitude": "40.7565686",
+    "Longitude": "-82.5100215"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "219 W 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7562015",
+    "Longitude": "-82.5237628"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "235 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7559834",
+    "Longitude": "-82.5073787"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "179 E 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7572084",
+    "Longitude": "-82.5089644"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "250 SUPERIOR AVE Mansfield OH 44902",
+    "Latitude": "40.754646",
+    "Longitude": "-82.506985"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "55 W ARCH ST Mansfield OH 44902",
+    "Latitude": "40.7543499",
+    "Longitude": "-82.5179586"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "110 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.755449",
+    "Longitude": "-82.512157"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "159 S MULBERRY ST Mansfield OH 44903",
+    "Latitude": "40.7542011",
+    "Longitude": "-82.5179914"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "218 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7556521",
+    "Longitude": "-82.5080341"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "166 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7542491",
+    "Longitude": "-82.5218508"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "55 W ARCH ST Mansfield OH 44902",
+    "Latitude": "40.7543499",
+    "Longitude": "-82.5179586"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "193 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7572812",
+    "Longitude": "-82.522748"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "236 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7556094",
+    "Longitude": "-82.5073688"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "262 SUPERIOR AVE Mansfield OH 44902",
+    "Latitude": "40.7546279",
+    "Longitude": "-82.506552"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "159 S MULBERRY ST Mansfield OH 44903",
+    "Latitude": "40.7542011",
+    "Longitude": "-82.5179914"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "93 S MAIN ST Mansfield OH 44902",
+    "Latitude": "40.755937",
+    "Longitude": "-82.515444"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "151 W 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7560817",
+    "Longitude": "-82.5213107"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "130 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7551306",
+    "Longitude": "-82.521818"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "324 SUPERIOR AVE Mansfield OH 44902",
+    "Latitude": "40.754529",
+    "Longitude": "-82.504246"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "154 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7578864",
+    "Longitude": "-82.521427"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "124 S ADAMS ST Mansfield OH 44902",
+    "Latitude": "40.7549063",
+    "Longitude": "-82.5123049"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "69 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7563098",
+    "Longitude": "-82.5080937"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "268 SUPERIOR AVE Mansfield OH 44902",
+    "Latitude": "40.754616",
+    "Longitude": "-82.506264"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "235 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7559834",
+    "Longitude": "-82.5073787"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "136 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7550203",
+    "Longitude": "-82.5217863"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "92 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.757692",
+    "Longitude": "-82.5191334"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "105 BOWERS AVE Mansfield OH 44902",
+    "Latitude": "40.7549823",
+    "Longitude": "-82.5040586"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "167 S MULBERRY ST Mansfield OH 44903",
+    "Latitude": "40.7540257",
+    "Longitude": "-82.5181398"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "158 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7578087",
+    "Longitude": "-82.521502"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "227 W 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7562272",
+    "Longitude": "-82.5241035"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "39 W ARCH ST Mansfield OH 44902",
+    "Latitude": "40.7543333",
+    "Longitude": "-82.517421"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "127 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7552871",
+    "Longitude": "-82.5224099"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "170 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7541096",
+    "Longitude": "-82.5227869"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "226 E 2ND ST Mansfield OH 44902",
+    "Latitude": "40.756662",
+    "Longitude": "-82.50748"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "59 W ARCH ST Mansfield OH 44902",
+    "Latitude": "40.7544009",
+    "Longitude": "-82.5181139"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "129 CLEVELAND AVE Mansfield OH 44902",
+    "Latitude": "40.754537",
+    "Longitude": "-82.507425"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "115 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7555864",
+    "Longitude": "-82.5223843"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "40 W ARCH ST Mansfield OH 44902",
+    "Latitude": "40.7546171",
+    "Longitude": "-82.5175479"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "151 W 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7560817",
+    "Longitude": "-82.5213107"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "136 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7550203",
+    "Longitude": "-82.5217863"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "219 E ARCH ST Mansfield OH 44902",
+    "Latitude": "40.754235",
+    "Longitude": "-82.5080341"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "160 GLESSNER AVE Mansfield OH 44903",
+    "Latitude": "40.7537528",
+    "Longitude": "-82.521818"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "75 W 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7560076",
+    "Longitude": "-82.518613"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "174 E 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7569182",
+    "Longitude": "-82.509345"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "75 STURGES AVE Mansfield OH 44902",
+    "Latitude": "40.7568863",
+    "Longitude": "-82.5227904"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "27 W 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7570358",
+    "Longitude": "-82.5169162"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "127 ARTHUR AVE Mansfield OH 44903",
+    "Latitude": "40.7552871",
+    "Longitude": "-82.5224099"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "170 GLESSNER AVE Mansfield OH 44903",
+    "Latitude": "40.7537409",
+    "Longitude": "-82.5222408"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "58 STURGES AVE Mansfield OH 44902",
+    "Latitude": "40.7572231",
+    "Longitude": "-82.5240376"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "260 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.755494",
+    "Longitude": "-82.506502"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "159 S MULBERRY ST Mansfield OH 44903",
+    "Latitude": "40.7542011",
+    "Longitude": "-82.5179914"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "222 E 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7556438",
+    "Longitude": "-82.5079073"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "106 HEDGES ST Mansfield OH 44902",
+    "Latitude": "40.7552806",
+    "Longitude": "-82.5101907"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "106 HEDGES ST Mansfield OH 44902",
+    "Latitude": "40.7552806",
+    "Longitude": "-82.5101907"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "156 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7544398",
+    "Longitude": "-82.521838"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "190 E 2ND ST Mansfield OH 44902",
+    "Latitude": "40.7568797",
+    "Longitude": "-82.508753"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "69 W NEWLON PL Mansfield OH 44902",
+    "Latitude": "40.755472",
+    "Longitude": "-82.5184686"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "138 COLUMBIA AVE Mansfield OH 44903",
+    "Latitude": "40.7548916",
+    "Longitude": "-82.5217758"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "69 S FOSTER ST Mansfield OH 44902",
+    "Latitude": "40.7563098",
+    "Longitude": "-82.5080937"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "112 BOUGHTON AVE Mansfield OH 44902",
+    "Latitude": "40.7616757",
+    "Longitude": "-82.5201692"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "572 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.7743949",
+    "Longitude": "-82.5227059"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "533 N MULBERRY ST Mansfield OH 44902",
+    "Latitude": "40.7728364",
+    "Longitude": "-82.519461"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "344 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.768177",
+    "Longitude": "-82.5227059"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "154 N MULBERRY ST Mansfield OH 44902",
+    "Latitude": "40.7627229",
+    "Longitude": "-82.5175056"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "214 MILLER ST Mansfield OH 44902",
+    "Latitude": "40.764514",
+    "Longitude": "-82.5194889"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "94 VALE AVE Mansfield OH 44902",
+    "Latitude": "40.7694289",
+    "Longitude": "-82.5183089"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "210 N MULBERRY ST Mansfield OH 44902",
+    "Latitude": "40.7642863",
+    "Longitude": "-82.5173365"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "149 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7609617",
+    "Longitude": "-82.5209936"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "473 DAISY ST Mansfield OH 44903",
+    "Latitude": "40.7714839",
+    "Longitude": "-82.5181647"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "464 DAISY ST Mansfield OH 44903",
+    "Latitude": "40.7713",
+    "Longitude": "-82.5175796"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "144 BUCKINGHAM AVE Mansfield OH 44903",
+    "Latitude": "40.7708376",
+    "Longitude": "-82.5200424"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "462 N MULBERRY ST Mansfield OH 44902",
+    "Latitude": "40.7709237",
+    "Longitude": "-82.5189431"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "185 HARKER ST Mansfield OH 44903",
+    "Latitude": "40.7714032",
+    "Longitude": "-82.5214798"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "226 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.7649516",
+    "Longitude": "-82.5228855"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "496 GRANT ST Mansfield OH 44903",
+    "Latitude": "40.7723953",
+    "Longitude": "-82.5216067"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "462 N MULBERRY ST Mansfield OH 44902",
+    "Latitude": "40.7709237",
+    "Longitude": "-82.5189431"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "141 N WALNUT ST Mansfield OH 44902",
+    "Latitude": "40.762367",
+    "Longitude": "-82.516638"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "340 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.7680617",
+    "Longitude": "-82.5227481"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "124 W 3RD ST Mansfield OH 44902",
+    "Latitude": "40.7602533",
+    "Longitude": "-82.5200831"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "537 N MULBERRY ST Mansfield OH 44902",
+    "Latitude": "40.772981",
+    "Longitude": "-82.519577"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "94 VALE AVE Mansfield OH 44902",
+    "Latitude": "40.7694289",
+    "Longitude": "-82.5183089"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "166 W DICKSON AVE Mansfield OH 44903",
+    "Latitude": "40.7606293",
+    "Longitude": "-82.5220917"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "124 W 3RD ST Mansfield OH 44902",
+    "Latitude": "40.7602533",
+    "Longitude": "-82.5200831"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "129 W 5TH ST Mansfield OH 44902",
+    "Latitude": "40.7630112",
+    "Longitude": "-82.5201269"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "106 W 5TH ST Mansfield OH 44902",
+    "Latitude": "40.7632922",
+    "Longitude": "-82.5193025"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "316 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.767292",
+    "Longitude": "-82.5224099"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "111 W 5TH ST Mansfield OH 44902",
+    "Latitude": "40.7629362",
+    "Longitude": "-82.5195773"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "345 HIGH ST Mansfield OH 44903",
+    "Latitude": "40.7681532",
+    "Longitude": "-82.5217335"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "211 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7641971",
+    "Longitude": "-82.5155989"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "232 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.7650395",
+    "Longitude": "-82.522875"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "625 LIDA ST Mansfield OH 44903",
+    "Latitude": "40.7758454",
+    "Longitude": "-82.5208034"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "185 W 5TH ST Mansfield OH 44902",
+    "Latitude": "40.7630276",
+    "Longitude": "-82.5221985"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "597 LIDA ST Mansfield OH 44903",
+    "Latitude": "40.7751005",
+    "Longitude": "-82.5208456"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "608 LIDA ST Mansfield OH 44903",
+    "Latitude": "40.7754976",
+    "Longitude": "-82.520296"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "921 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7867591",
+    "Longitude": "-82.5141223"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "112 BOUGHTON AVE Mansfield OH 44902",
+    "Latitude": "40.7616757",
+    "Longitude": "-82.5201692"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "205 BUCKINGHAM AVE Mansfield OH 44903",
+    "Latitude": "40.7703926",
+    "Longitude": "-82.5222177"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "116 BOUGHTON AVE Mansfield OH 44902",
+    "Latitude": "40.761846",
+    "Longitude": "-82.5200635"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "140 HARKER ST Mansfield OH 44903",
+    "Latitude": "40.7718077",
+    "Longitude": "-82.519831"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "597 LIDA ST Mansfield OH 44903",
+    "Latitude": "40.7751005",
+    "Longitude": "-82.5208456"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "117 W TEMPLE CT Mansfield OH 44903",
+    "Latitude": "40.7616904",
+    "Longitude": "-82.5197887"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "34 W 4TH ST Mansfield OH 44902",
+    "Latitude": "40.7613066",
+    "Longitude": "-82.5166342"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "45 ORCHARD ST Mansfield OH 44903",
+    "Latitude": "40.7699693",
+    "Longitude": "-82.5164803"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "99 W DICKSON AVE Mansfield OH 44903",
+    "Latitude": "40.7603924",
+    "Longitude": "-82.5191968"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "326 PRESCOTT ST Mansfield OH 44903",
+    "Latitude": "40.7675684",
+    "Longitude": "-82.5200001"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "66 ORCHARD ST Mansfield OH 44903",
+    "Latitude": "40.7702654",
+    "Longitude": "-82.5172519"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "328 HIGH ST Mansfield OH 44903",
+    "Latitude": "40.7677268",
+    "Longitude": "-82.5212262"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "466 DAISY ST Mansfield OH 44903",
+    "Latitude": "40.7714181",
+    "Longitude": "-82.5175796"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "345 HIGH ST Mansfield OH 44903",
+    "Latitude": "40.7681532",
+    "Longitude": "-82.5217335"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "252 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.76566",
+    "Longitude": "-82.5228855"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "166 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7616876",
+    "Longitude": "-82.5215644"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "124 W 3RD ST Mansfield OH 44902",
+    "Latitude": "40.7602533",
+    "Longitude": "-82.5200831"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "124 W 3RD ST Mansfield OH 44902",
+    "Latitude": "40.7602533",
+    "Longitude": "-82.5200831"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "211 N MAIN ST Mansfield OH 44902",
+    "Latitude": "40.7641971",
+    "Longitude": "-82.5155989"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "149 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7609617",
+    "Longitude": "-82.5209936"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "517 LIDA ST Mansfield OH 44903",
+    "Latitude": "40.7728153",
+    "Longitude": "-82.5208034"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "111 W 5TH ST Mansfield OH 44902",
+    "Latitude": "40.7629362",
+    "Longitude": "-82.5195773"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "482 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.7720468",
+    "Longitude": "-82.5226531"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "316 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.767292",
+    "Longitude": "-82.5224099"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "690 KING ST Mansfield OH 44903",
+    "Latitude": "40.7746328",
+    "Longitude": "-82.5386874"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "378 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.7712875",
+    "Longitude": "-82.5287935"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "535 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772675",
+    "Longitude": "-82.534173"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "640 KING ST Mansfield OH 44903",
+    "Latitude": "40.774478",
+    "Longitude": "-82.538717"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "604 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.76903",
+    "Longitude": "-82.537226"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "618 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.773219",
+    "Longitude": "-82.536822"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "576 ARNOLD AVE Mansfield OH 44903",
+    "Latitude": "40.774765",
+    "Longitude": "-82.535291"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "446 WOODRIDGE DR Mansfield OH 44906",
+    "Latitude": "40.770522",
+    "Longitude": "-82.5452509"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "684 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768983",
+    "Longitude": "-82.541558"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "720 KING ST Mansfield OH 44903",
+    "Latitude": "40.7742246",
+    "Longitude": "-82.5395989"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "750 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.7733536",
+    "Longitude": "-82.54141"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "474 COLLINS DR Mansfield OH 44903",
+    "Latitude": "40.771873",
+    "Longitude": "-82.539059"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "496 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.7706163",
+    "Longitude": "-82.5324155"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "572 REED ST Mansfield OH 44903",
+    "Latitude": "40.76968",
+    "Longitude": "-82.535627"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "555 ALLISON AVE Mansfield OH 44903",
+    "Latitude": "40.773699",
+    "Longitude": "-82.542434"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "760 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.7733981",
+    "Longitude": "-82.5414113"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "592 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.771259",
+    "Longitude": "-82.535712"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "474 COLLINS DR Mansfield OH 44903",
+    "Latitude": "40.771873",
+    "Longitude": "-82.539059"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "521 BRYDEN RD Mansfield OH 44903",
+    "Latitude": "40.773173",
+    "Longitude": "-82.5478773"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "659 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768531",
+    "Longitude": "-82.540345"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "685 KING ST Mansfield OH 44903",
+    "Latitude": "40.7736729",
+    "Longitude": "-82.538536"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "560 ARNOLD AVE Mansfield OH 44903",
+    "Latitude": "40.7747559",
+    "Longitude": "-82.535004"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "797 KING ST Mansfield OH 44903",
+    "Latitude": "40.7736019",
+    "Longitude": "-82.54333"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "815 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772502",
+    "Longitude": "-82.544353"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "579 SPRINGMILL ST Mansfield OH 44903",
+    "Latitude": "40.770164",
+    "Longitude": "-82.526751"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "474 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.770656",
+    "Longitude": "-82.531679"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "452 WOODRIDGE DR Mansfield OH 44906",
+    "Latitude": "40.770368",
+    "Longitude": "-82.544814"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "643 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768475",
+    "Longitude": "-82.539392"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "633 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772625",
+    "Longitude": "-82.537767"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "770 KING ST Mansfield OH 44903",
+    "Latitude": "40.774289",
+    "Longitude": "-82.541317"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "670 KING ST Mansfield OH 44903",
+    "Latitude": "40.7744134",
+    "Longitude": "-82.5380511"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "740 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.773398",
+    "Longitude": "-82.541411"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "439 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772653",
+    "Longitude": "-82.530557"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "539 ALLISON AVE Mansfield OH 44903",
+    "Latitude": "40.7732675",
+    "Longitude": "-82.542431"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "685 KING ST Mansfield OH 44903",
+    "Latitude": "40.7736729",
+    "Longitude": "-82.538536"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "820 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.773156",
+    "Longitude": "-82.544569"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "423 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.77279",
+    "Longitude": "-82.5298959"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "647 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768485",
+    "Longitude": "-82.539608"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "651 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.770149",
+    "Longitude": "-82.537969"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "650 KING ST Mansfield OH 44903",
+    "Latitude": "40.7744118",
+    "Longitude": "-82.5374275"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "531 KING ST Mansfield OH 44903",
+    "Latitude": "40.77372",
+    "Longitude": "-82.533822"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "660 KING ST Mansfield OH 44903",
+    "Latitude": "40.7744126",
+    "Longitude": "-82.5377393"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "685 KING ST Mansfield OH 44903",
+    "Latitude": "40.7736729",
+    "Longitude": "-82.538536"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "750 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.7733536",
+    "Longitude": "-82.54141"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "487 KING ST Mansfield OH 44903",
+    "Latitude": "40.773742",
+    "Longitude": "-82.532218"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1185 HARWOOD DR Mansfield OH 44906",
+    "Latitude": "40.756767",
+    "Longitude": "-82.5612187"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "831 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772531",
+    "Longitude": "-82.544849"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "803 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772663",
+    "Longitude": "-82.543977"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "611 KING ST Mansfield OH 44903",
+    "Latitude": "40.773677",
+    "Longitude": "-82.536468"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "621 KING ST Mansfield OH 44903",
+    "Latitude": "40.773672",
+    "Longitude": "-82.537037"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "464 HOLZWORTH DR Mansfield OH 44903",
+    "Latitude": "40.771415",
+    "Longitude": "-82.533533"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "770 KING ST Mansfield OH 44903",
+    "Latitude": "40.774289",
+    "Longitude": "-82.541317"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "468 COLLINS DR Mansfield OH 44903",
+    "Latitude": "40.771704",
+    "Longitude": "-82.539057"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "670 KING ST Mansfield OH 44903",
+    "Latitude": "40.7744134",
+    "Longitude": "-82.5380511"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "539 ALLISON AVE Mansfield OH 44903",
+    "Latitude": "40.7732675",
+    "Longitude": "-82.542431"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "509 ALLISON AVE Mansfield OH 44903",
+    "Latitude": "40.772633",
+    "Longitude": "-82.542596"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "404 LAWNSDALE AVE Mansfield OH 44903",
+    "Latitude": "40.769984",
+    "Longitude": "-82.535979"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "651 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768497",
+    "Longitude": "-82.539833"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "654 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768999",
+    "Longitude": "-82.540042"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "416 REED ST Mansfield OH 44903",
+    "Latitude": "40.769641",
+    "Longitude": "-82.5299409"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "765 FLORAL CT Mansfield OH 44903",
+    "Latitude": "40.77266",
+    "Longitude": "-82.543118"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "691 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.772589",
+    "Longitude": "-82.539843"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "392 ST CLAIR ST Mansfield OH 44903",
+    "Latitude": "40.7695669",
+    "Longitude": "-82.5285082"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "555 ALLISON AVE Mansfield OH 44903",
+    "Latitude": "40.773699",
+    "Longitude": "-82.542434"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "361 CEDAR ST Mansfield OH 44903",
+    "Latitude": "40.768705",
+    "Longitude": "-82.524323"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "720 KING ST Mansfield OH 44903",
+    "Latitude": "40.7742246",
+    "Longitude": "-82.5395989"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "524 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.7706448",
+    "Longitude": "-82.5334974"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "468 STARK ST Mansfield OH 44903",
+    "Latitude": "40.771709",
+    "Longitude": "-82.537848"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "446 WOODRIDGE DR Mansfield OH 44906",
+    "Latitude": "40.770522",
+    "Longitude": "-82.5452509"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "660 KING ST Mansfield OH 44903",
+    "Latitude": "40.7744126",
+    "Longitude": "-82.5377393"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "810 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.773156",
+    "Longitude": "-82.544071"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "710 KING ST Mansfield OH 44903",
+    "Latitude": "40.7742279",
+    "Longitude": "-82.539278"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "555 ALLISON AVE Mansfield OH 44903",
+    "Latitude": "40.773699",
+    "Longitude": "-82.542434"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "778 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.773156",
+    "Longitude": "-82.542817"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "720 KING ST Mansfield OH 44903",
+    "Latitude": "40.7742246",
+    "Longitude": "-82.5395989"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "472 HOLZWORTH DR Mansfield OH 44903",
+    "Latitude": "40.77172",
+    "Longitude": "-82.533529"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "2139 S MAIN ST Mansfield OH 44907",
+    "Latitude": "40.7005712",
+    "Longitude": "-82.5112901"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "684 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768983",
+    "Longitude": "-82.541558"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "521 BRYDEN RD Mansfield OH 44903",
+    "Latitude": "40.773173",
+    "Longitude": "-82.5478773"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "521 BRYDEN RD Mansfield OH 44903",
+    "Latitude": "40.773173",
+    "Longitude": "-82.5478773"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "770 KING ST Mansfield OH 44903",
+    "Latitude": "40.774289",
+    "Longitude": "-82.541317"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "623 MCPHERSON ST Mansfield OH 44903",
+    "Latitude": "40.770831",
+    "Longitude": "-82.536918"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "362 CEDAR ST Mansfield OH 44903",
+    "Latitude": "40.7687289",
+    "Longitude": "-82.5239319"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "513 HOWARD ST Mansfield OH 44903",
+    "Latitude": "40.772732",
+    "Longitude": "-82.533009"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "456 REED ST Mansfield OH 44903",
+    "Latitude": "40.769611",
+    "Longitude": "-82.531384"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "765 FLORAL CT Mansfield OH 44903",
+    "Latitude": "40.77266",
+    "Longitude": "-82.543118"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "461 HOWARD ST Mansfield OH 44903",
+    "Latitude": "40.771348",
+    "Longitude": "-82.53299"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "740 BURNS ST Mansfield OH 44903",
+    "Latitude": "40.773398",
+    "Longitude": "-82.541411"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "633 SACKMAN ST Mansfield OH 44903",
+    "Latitude": "40.768458",
+    "Longitude": "-82.538959"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "521 KING ST Mansfield OH 44903",
+    "Latitude": "40.773725",
+    "Longitude": "-82.533461"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "690 KING ST Mansfield OH 44903",
+    "Latitude": "40.7746328",
+    "Longitude": "-82.5386874"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1668 KENMORE DR Mansfield OH 44906",
+    "Latitude": "40.75425",
+    "Longitude": "-82.574158"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1199 BOYLE RD Mansfield OH 44906",
+    "Latitude": "40.788989",
+    "Longitude": "-82.540414"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "388 HARMON AVE Mansfield OH 44903",
+    "Latitude": "40.780246",
+    "Longitude": "-82.528346"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1120 BOYLE RD Mansfield OH 44906",
+    "Latitude": "40.7884874",
+    "Longitude": "-82.5396922"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "283 GRANDVIEW AVE Mansfield OH 44903",
+    "Latitude": "40.778766",
+    "Longitude": "-82.524534"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "987 SPRINGMILL ST Mansfield OH 44906",
+    "Latitude": "40.778227",
+    "Longitude": "-82.53768"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1203 STONE RD Mansfield OH 44906",
+    "Latitude": "40.789931",
+    "Longitude": "-82.536777"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "285 GRANDVIEW AVE Mansfield OH 44903",
+    "Latitude": "40.7787629",
+    "Longitude": "-82.5246099"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "579 WARREN RD Mansfield OH 44906",
+    "Latitude": "40.7882279",
+    "Longitude": "-82.537127"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "544 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7736874",
+    "Longitude": "-82.5239319"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "437 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7707936",
+    "Longitude": "-82.5243652"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "743 BOWMAN ST Mansfield OH 44903",
+    "Latitude": "40.7787859",
+    "Longitude": "-82.5232879"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "515 WOODLAND AVE Mansfield OH 44903",
+    "Latitude": "40.7730128",
+    "Longitude": "-82.5256652"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "323 CHARLES ST Mansfield OH 44903",
+    "Latitude": "40.780786",
+    "Longitude": "-82.52595"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1239 POND RD Mansfield OH 44906",
+    "Latitude": "40.790515",
+    "Longitude": "-82.534347"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "591 DEAN RD Mansfield OH 44906",
+    "Latitude": "40.78906",
+    "Longitude": "-82.537501"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "522 SPRINGMILL ST Mansfield OH 44903",
+    "Latitude": "40.7697932",
+    "Longitude": "-82.524566"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "284 W LONGVIEW AVE Mansfield OH 44903",
+    "Latitude": "40.77704",
+    "Longitude": "-82.52464"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "279 HARKER ST Mansfield OH 44903",
+    "Latitude": "40.77135",
+    "Longitude": "-82.5249042"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "443 CHARLES ST Mansfield OH 44903",
+    "Latitude": "40.780678",
+    "Longitude": "-82.530479"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1058 COUNTRY CLUB DR Mansfield OH 44906",
+    "Latitude": "40.789103",
+    "Longitude": "-82.5421269"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "638 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7763294",
+    "Longitude": "-82.5240164"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "500 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7725096",
+    "Longitude": "-82.5239742"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "407 DEAN RD Mansfield OH 44906",
+    "Latitude": "40.789131",
+    "Longitude": "-82.5320799"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "692 W LONGVIEW AVE Mansfield OH 44906",
+    "Latitude": "40.7768234",
+    "Longitude": "-82.5393781"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "283 GRANDVIEW AVE Mansfield OH 44903",
+    "Latitude": "40.778766",
+    "Longitude": "-82.524534"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "412 POMERENE RD Mansfield OH 44906",
+    "Latitude": "40.7862994",
+    "Longitude": "-82.5322574"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "626 STOCKING AVE Mansfield OH 44903",
+    "Latitude": "40.7761367",
+    "Longitude": "-82.5263522"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "591 DEAN RD Mansfield OH 44906",
+    "Latitude": "40.78906",
+    "Longitude": "-82.537501"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "525 WARREN RD Mansfield OH 44906",
+    "Latitude": "40.788252",
+    "Longitude": "-82.535231"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "306 WARREN RD Mansfield OH 44906",
+    "Latitude": "40.788882",
+    "Longitude": "-82.528425"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "445 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7709903",
+    "Longitude": "-82.5243652"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "334 LOUIS ST Mansfield OH 44903",
+    "Latitude": "40.782473",
+    "Longitude": "-82.5263499"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "657 W LONGVIEW AVE Mansfield OH 44906",
+    "Latitude": "40.7769819",
+    "Longitude": "-82.537823"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "646 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7765628",
+    "Longitude": "-82.5239742"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "97 CHILTON AVE Mansfield OH 44907",
+    "Latitude": "40.7410659",
+    "Longitude": "-82.519202"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "396 LOUIS ST Mansfield OH 44903",
+    "Latitude": "40.782428",
+    "Longitude": "-82.528575"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "629 STOCKING AVE Mansfield OH 44903",
+    "Latitude": "40.7761481",
+    "Longitude": "-82.5266798"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "578 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7746712",
+    "Longitude": "-82.5239319"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "756 MARCELLA AVE Mansfield OH 44903",
+    "Latitude": "40.7796979",
+    "Longitude": "-82.5235925"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "365 HARDING RD Mansfield OH 44906",
+    "Latitude": "40.7867101",
+    "Longitude": "-82.5306215"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "624 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7759359",
+    "Longitude": "-82.5240164"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "646 JOHNS AVE Mansfield OH 44903",
+    "Latitude": "40.7765628",
+    "Longitude": "-82.5239742"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "657 STELTZ LN Mansfield OH 44906",
+    "Latitude": "40.777488",
+    "Longitude": "-82.538548"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "534 WOODLAND AVE Mansfield OH 44903",
+    "Latitude": "40.7735364",
+    "Longitude": "-82.5252425"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1117 POND RD Mansfield OH 44906",
+    "Latitude": "40.790858",
+    "Longitude": "-82.53435"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "296 FERN AVE Mansfield OH 44903",
+    "Latitude": "40.7783749",
+    "Longitude": "-82.524932"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "518 WARREN RD Mansfield OH 44906",
+    "Latitude": "40.788744",
+    "Longitude": "-82.534873"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "407 DEAN RD Mansfield OH 44906",
+    "Latitude": "40.789131",
+    "Longitude": "-82.5320799"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "522 SPRINGMILL ST Mansfield OH 44903",
+    "Latitude": "40.7697932",
+    "Longitude": "-82.524566"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "298 HARMON AVE Mansfield OH 44903",
+    "Latitude": "40.7802938",
+    "Longitude": "-82.5250839"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "657 W LONGVIEW AVE Mansfield OH 44906",
+    "Latitude": "40.7769819",
+    "Longitude": "-82.537823"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "28 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7596232",
+    "Longitude": "-82.5349933"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "110 WILLOW ST Mansfield OH 44903",
+    "Latitude": "40.7616364",
+    "Longitude": "-82.5251945"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "24 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7595563",
+    "Longitude": "-82.5347894"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "143 RAE AVE Mansfield OH 44903",
+    "Latitude": "40.7628576",
+    "Longitude": "-82.5365714"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "225 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7610403",
+    "Longitude": "-82.5237205"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "39 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7598633",
+    "Longitude": "-82.531668"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "459 SHERMAN PL Mansfield OH 44903",
+    "Latitude": "40.7614258",
+    "Longitude": "-82.5320908"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "22 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.7594142",
+    "Longitude": "-82.5286878"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "43 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7599814",
+    "Longitude": "-82.531668"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "606 HEINEMAN BLVD Mansfield OH 44903",
+    "Latitude": "40.7620858",
+    "Longitude": "-82.5374168"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "133 N BENTON ST Mansfield OH 44903",
+    "Latitude": "40.7623857",
+    "Longitude": "-82.5262571"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "142 RAE AVE Mansfield OH 44903",
+    "Latitude": "40.7627854",
+    "Longitude": "-82.5360642"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "279 SHERIDAN AVE Mansfield OH 44903",
+    "Latitude": "40.7642174",
+    "Longitude": "-82.5253693"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "88 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7613229",
+    "Longitude": "-82.5347538"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "122 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.7621091",
+    "Longitude": "-82.5286667"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "40 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.7599116",
+    "Longitude": "-82.5331411"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "192 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7641267",
+    "Longitude": "-82.5377131"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "85 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.761249",
+    "Longitude": "-82.533838"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "409 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.762852",
+    "Longitude": "-82.530241"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "47 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7600995",
+    "Longitude": "-82.531668"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "392 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7620092",
+    "Longitude": "-82.5295544"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "410 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.763505",
+    "Longitude": "-82.530235"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "303 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.7650649",
+    "Longitude": "-82.5262993"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "338 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.7604987",
+    "Longitude": "-82.5278303"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "303 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.7650649",
+    "Longitude": "-82.5262993"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "192 ATCHESON AVE Mansfield OH 44903",
+    "Latitude": "40.7641159",
+    "Longitude": "-82.5322331"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "302 HERMAN AVE Mansfield OH 44903",
+    "Latitude": "40.7627088",
+    "Longitude": "-82.5263839"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "143 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.76277",
+    "Longitude": "-82.5352188"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "352 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7616826",
+    "Longitude": "-82.5281594"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "37 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.759797",
+    "Longitude": "-82.529094"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "126 N BENTON ST Mansfield OH 44903",
+    "Latitude": "40.7622091",
+    "Longitude": "-82.5259611"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "750 WALNUT DR S Mansfield OH 44904",
+    "Latitude": "40.688476",
+    "Longitude": "-82.538922"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "318 SHERIDAN AVE Mansfield OH 44903",
+    "Latitude": "40.7645102",
+    "Longitude": "-82.5268489"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "266 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.7604619",
+    "Longitude": "-82.525183"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "398 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7620229",
+    "Longitude": "-82.5297658"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "204 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.764469",
+    "Longitude": "-82.534393"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "218 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.7648185",
+    "Longitude": "-82.5326714"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "218 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.7648185",
+    "Longitude": "-82.5326714"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "90 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.76112",
+    "Longitude": "-82.533081"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "126 N BENTON ST Mansfield OH 44903",
+    "Latitude": "40.7622091",
+    "Longitude": "-82.5259611"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "47 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7600995",
+    "Longitude": "-82.531668"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "352 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7616826",
+    "Longitude": "-82.5281594"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "110 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7618346",
+    "Longitude": "-82.5347538"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "394 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.763508",
+    "Longitude": "-82.52956"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "132 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.7623452",
+    "Longitude": "-82.5286667"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "376 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.7633878",
+    "Longitude": "-82.5289626"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "467 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.7602396",
+    "Longitude": "-82.53266"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "212 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.7646246",
+    "Longitude": "-82.5330872"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "327 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.7650721",
+    "Longitude": "-82.527018"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "225 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7610403",
+    "Longitude": "-82.5237205"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "286 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.7603564",
+    "Longitude": "-82.5259189"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "124 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7622282",
+    "Longitude": "-82.5347538"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "110 WILLOW ST Mansfield OH 44903",
+    "Latitude": "40.7616364",
+    "Longitude": "-82.5251945"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "303 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.7650649",
+    "Longitude": "-82.5262993"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "146 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.7628121",
+    "Longitude": "-82.5285821"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "406 SHERMAN PL Mansfield OH 44903",
+    "Latitude": "40.7616676",
+    "Longitude": "-82.5302661"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "359 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.7650309",
+    "Longitude": "-82.5282017"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "38 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7597938",
+    "Longitude": "-82.5312031"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "216 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.760352",
+    "Longitude": "-82.5234246"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "173 N BENTON ST Mansfield OH 44903",
+    "Latitude": "40.7635628",
+    "Longitude": "-82.5263522"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "242 SHERIDAN AVE Mansfield OH 44903",
+    "Latitude": "40.764649",
+    "Longitude": "-82.524171"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "324 SHERIDAN AVE Mansfield OH 44903",
+    "Latitude": "40.7644818",
+    "Longitude": "-82.527018"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "217 GERKE AVE Mansfield OH 44903",
+    "Latitude": "40.76479",
+    "Longitude": "-82.53073"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "560 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.764018",
+    "Longitude": "-82.535163"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "304 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.7634648",
+    "Longitude": "-82.5264108"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "232 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.763578",
+    "Longitude": "-82.5237729"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "231 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.765056",
+    "Longitude": "-82.5235359"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "336 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.7604743",
+    "Longitude": "-82.5277367"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "376 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7618189",
+    "Longitude": "-82.5290472"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "399 SHERMAN PL Mansfield OH 44903",
+    "Latitude": "40.761286",
+    "Longitude": "-82.5299349"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "142 RAE AVE Mansfield OH 44903",
+    "Latitude": "40.7627854",
+    "Longitude": "-82.5360642"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "232 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.763578",
+    "Longitude": "-82.5237729"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "122 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.7621091",
+    "Longitude": "-82.5286667"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "39 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7598633",
+    "Longitude": "-82.531668"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "258 W 3RD ST Mansfield OH 44903",
+    "Latitude": "40.760454",
+    "Longitude": "-82.524923"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "115 WASHINGTON AVE Mansfield OH 44903",
+    "Latitude": "40.7619462",
+    "Longitude": "-82.5276733"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "603 W 4TH ST Mansfield OH 44906",
+    "Latitude": "40.763922",
+    "Longitude": "-82.536663"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "530 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.763653",
+    "Longitude": "-82.534125"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "274 W DICKSON AVE Mansfield OH 44903",
+    "Latitude": "40.7608993",
+    "Longitude": "-82.5253132"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "514 PARK AVE W Mansfield OH 44906",
+    "Latitude": "40.7592334",
+    "Longitude": "-82.5342157"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "149 WILLOW ST Mansfield OH 44903",
+    "Latitude": "40.7628897",
+    "Longitude": "-82.5253798"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "38 PENN AVE Mansfield OH 44903",
+    "Latitude": "40.7597938",
+    "Longitude": "-82.5312031"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "426 W 5TH ST Mansfield OH 44903",
+    "Latitude": "40.7634964",
+    "Longitude": "-82.5311562"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "190 GERKE AVE Mansfield OH 44903",
+    "Latitude": "40.764018",
+    "Longitude": "-82.53021"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "263 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7610875",
+    "Longitude": "-82.5250573"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "24 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7595563",
+    "Longitude": "-82.5347894"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "138 SYCAMORE ST Mansfield OH 44903",
+    "Latitude": "40.7625787",
+    "Longitude": "-82.5286375"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "286 GRACE ST Mansfield OH 44902",
+    "Latitude": "40.7698454",
+    "Longitude": "-82.504778"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "236 CLAIRMONT AVE Mansfield OH 44903",
+    "Latitude": "40.762529",
+    "Longitude": "-82.524019"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "147 N BENTON ST Mansfield OH 44903",
+    "Latitude": "40.7628159",
+    "Longitude": "-82.5262148"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "469 W 4TH ST Mansfield OH 44903",
+    "Latitude": "40.7624995",
+    "Longitude": "-82.5322598"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "191 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.76412",
+    "Longitude": "-82.538435"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "131 BUCKEYE AVE Mansfield OH 44906",
+    "Latitude": "40.7626202",
+    "Longitude": "-82.5572377"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "408 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.766232",
+    "Longitude": "-82.530174"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "425 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.765899",
+    "Longitude": "-82.530787"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "84 BROOKWOOD WAY N Mansfield OH 44906",
+    "Latitude": "40.7617353",
+    "Longitude": "-82.5633434"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "797 BURTON AVE Mansfield OH 44906",
+    "Latitude": "40.7610865",
+    "Longitude": "-82.5444752"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "333 STADIUM ST Mansfield OH 44906",
+    "Latitude": "40.7684993",
+    "Longitude": "-82.5495466"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "200 BOSTON AVE Mansfield OH 44906",
+    "Latitude": "40.7646617",
+    "Longitude": "-82.5541106"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "109 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7618253",
+    "Longitude": "-82.5352188"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "56 BROOKWOOD WAY N Mansfield OH 44906",
+    "Latitude": "40.7609535",
+    "Longitude": "-82.5634279"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "224 PARKWAY DR Mansfield OH 44906",
+    "Latitude": "40.7650011",
+    "Longitude": "-82.5372601"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1232 SILVER LN Mansfield OH 44906",
+    "Latitude": "40.7639683",
+    "Longitude": "-82.5601321"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "181 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.763874",
+    "Longitude": "-82.53844"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "37 OXFORD AVE Mansfield OH 44906",
+    "Latitude": "40.7600751",
+    "Longitude": "-82.553181"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "121 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7621827",
+    "Longitude": "-82.5383044"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "263 RAE AVE Mansfield OH 44903",
+    "Latitude": "40.766052",
+    "Longitude": "-82.536298"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "195 CONCORD AVE Mansfield OH 44906",
+    "Latitude": "40.764444",
+    "Longitude": "-82.556073"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "295 STADIUM ST Mansfield OH 44906",
+    "Latitude": "40.7675968",
+    "Longitude": "-82.5495889"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "226 WIMBLEDON DR Mansfield OH 44906",
+    "Latitude": "40.7650622",
+    "Longitude": "-82.5604351"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "187 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.764011",
+    "Longitude": "-82.538437"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "248 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.765703",
+    "Longitude": "-82.534413"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7613991",
+    "Longitude": "-82.5386637"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "601 HEINEMAN BLVD Mansfield OH 44903",
+    "Latitude": "40.7618021",
+    "Longitude": "-82.53729"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "678 W 3RD ST Mansfield OH 44906",
+    "Latitude": "40.7605227",
+    "Longitude": "-82.5401747"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "210 BROOKWOOD WAY N Mansfield OH 44906",
+    "Latitude": "40.7652594",
+    "Longitude": "-82.5633645"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "210 WEST PARK BLVD Mansfield OH 44906",
+    "Latitude": "40.7645003",
+    "Longitude": "-82.5402752"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "142 BUCKEYE AVE Mansfield OH 44906",
+    "Latitude": "40.7628208",
+    "Longitude": "-82.5569372"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "94 LASALLE ST Mansfield OH 44906",
+    "Latitude": "40.7620315",
+    "Longitude": "-82.5621392"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "267 RAE AVE Mansfield OH 44903",
+    "Latitude": "40.766181",
+    "Longitude": "-82.536287"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "113 LASALLE ST Mansfield OH 44906",
+    "Latitude": "40.7625474",
+    "Longitude": "-82.5628152"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "84 BROOKWOOD WAY N Mansfield OH 44906",
+    "Latitude": "40.7617353",
+    "Longitude": "-82.5633434"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "65 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7606839",
+    "Longitude": "-82.5352188"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "562 GARFIELD PL Mansfield OH 44903",
+    "Latitude": "40.7613181",
+    "Longitude": "-82.5358951"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7613991",
+    "Longitude": "-82.5386637"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "151 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7630248",
+    "Longitude": "-82.538241"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "232 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.7655401",
+    "Longitude": "-82.5236148"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "222 CONCORD AVE Mansfield OH 44906",
+    "Latitude": "40.765003",
+    "Longitude": "-82.555314"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "318 STADIUM ST Mansfield OH 44906",
+    "Latitude": "40.768077",
+    "Longitude": "-82.548958"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "409 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.7658515",
+    "Longitude": "-82.530197"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "236 WIMBLEDON DR Mansfield OH 44906",
+    "Latitude": "40.7654139",
+    "Longitude": "-82.560187"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "757 W 3RD ST Mansfield OH 44906",
+    "Latitude": "40.760057",
+    "Longitude": "-82.543165"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "52 BRICKMAN AVE Mansfield OH 44906",
+    "Latitude": "40.7603828",
+    "Longitude": "-82.543334"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "45 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7600568",
+    "Longitude": "-82.535261"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "48 BROOKWOOD WAY N Mansfield OH 44906",
+    "Latitude": "40.7607173",
+    "Longitude": "-82.5634279"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "65 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7606839",
+    "Longitude": "-82.5352188"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "79 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7609594",
+    "Longitude": "-82.5352188"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7613991",
+    "Longitude": "-82.5386637"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "711 W 4TH ST Mansfield OH 44906",
+    "Latitude": "40.764514",
+    "Longitude": "-82.540136"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "38 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7600369",
+    "Longitude": "-82.537683"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "232 PARKWAY DR Mansfield OH 44906",
+    "Latitude": "40.765308",
+    "Longitude": "-82.536829"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "224 LASALLE ST Mansfield OH 44906",
+    "Latitude": "40.7657341",
+    "Longitude": "-82.5621814"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "1232 SILVER LN Mansfield OH 44906",
+    "Latitude": "40.7639683",
+    "Longitude": "-82.5601321"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "345 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.765948",
+    "Longitude": "-82.5277789"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7613991",
+    "Longitude": "-82.5386637"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "146 OXFORD AVE Mansfield OH 44906",
+    "Latitude": "40.7627189",
+    "Longitude": "-82.5526739"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "236 BUCKEYE AVE Mansfield OH 44906",
+    "Latitude": "40.7654764",
+    "Longitude": "-82.5566672"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "224 PARKWAY DR Mansfield OH 44906",
+    "Latitude": "40.7650011",
+    "Longitude": "-82.5372601"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "200 BOSTON AVE Mansfield OH 44906",
+    "Latitude": "40.7646617",
+    "Longitude": "-82.5541106"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "559 GARFIELD PL Mansfield OH 44903",
+    "Latitude": "40.7610316",
+    "Longitude": "-82.535726"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "616 PARK AVE W Mansfield OH 44906",
+    "Latitude": "40.7592333",
+    "Longitude": "-82.5383466"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "653 W 4TH ST Mansfield OH 44906",
+    "Latitude": "40.764529",
+    "Longitude": "-82.5381589"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "77 WEST PARK BLVD Mansfield OH 44906",
+    "Latitude": "40.7609059",
+    "Longitude": "-82.5416857"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "227 BUCKEYE AVE Mansfield OH 44906",
+    "Latitude": "40.765305",
+    "Longitude": "-82.557385"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "570 W 3RD ST Mansfield OH 44906",
+    "Latitude": "40.7605216",
+    "Longitude": "-82.53636"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "231 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.765203",
+    "Longitude": "-82.5350689"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "616 PARK AVE W Mansfield OH 44906",
+    "Latitude": "40.7592333",
+    "Longitude": "-82.5383466"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "414 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.766405",
+    "Longitude": "-82.530375"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "344 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.7662629",
+    "Longitude": "-82.5277789"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "230 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.765209",
+    "Longitude": "-82.534474"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "289 STADIUM ST Mansfield OH 44906",
+    "Latitude": "40.767377",
+    "Longitude": "-82.549619"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "222 CONCORD AVE Mansfield OH 44906",
+    "Latitude": "40.765003",
+    "Longitude": "-82.555314"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "634 W 4TH ST Mansfield OH 44906",
+    "Latitude": "40.764839",
+    "Longitude": "-82.537545"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "38 WESTERN AVE Mansfield OH 44906",
+    "Latitude": "40.7600369",
+    "Longitude": "-82.537683"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "648 W 4TH ST Mansfield OH 44906",
+    "Latitude": "40.764987",
+    "Longitude": "-82.537992"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "796 W 3RD ST Mansfield OH 44906",
+    "Latitude": "40.7602385",
+    "Longitude": "-82.5450128"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "263 RAE AVE Mansfield OH 44903",
+    "Latitude": "40.766052",
+    "Longitude": "-82.536298"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "444 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.765526",
+    "Longitude": "-82.53142"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "95 LASALLE ST Mansfield OH 44906",
+    "Latitude": "40.7620357",
+    "Longitude": "-82.5628152"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "41 WEST PARK BLVD Mansfield OH 44906",
+    "Latitude": "40.7599684",
+    "Longitude": "-82.5424042"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "44 OXFORD AVE Mansfield OH 44906",
+    "Latitude": "40.7603178",
+    "Longitude": "-82.5526739"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "242 ROWLAND AVE Mansfield OH 44903",
+    "Latitude": "40.765488",
+    "Longitude": "-82.533101"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "37 BRICKMAN AVE Mansfield OH 44906",
+    "Latitude": "40.7599827",
+    "Longitude": "-82.5438412"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "839 W 3RD ST Mansfield OH 44906",
+    "Latitude": "40.7599858",
+    "Longitude": "-82.5460178"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "333 STADIUM ST Mansfield OH 44906",
+    "Latitude": "40.7684993",
+    "Longitude": "-82.5495466"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "368 W 6TH ST Mansfield OH 44903",
+    "Latitude": "40.765457",
+    "Longitude": "-82.528495"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "330 SPAYER LN Mansfield OH 44903",
+    "Latitude": "40.7662748",
+    "Longitude": "-82.5273562"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "109 HELEN AVE Mansfield OH 44903",
+    "Latitude": "40.7618253",
+    "Longitude": "-82.5352188"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "109 CARPENTER RD Mansfield OH 44903",
+    "Latitude": "40.7557765",
+    "Longitude": "-82.5275253"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "38 BALDWIN AVE Mansfield OH 44906",
+    "Latitude": "40.7578961",
+    "Longitude": "-82.5319851"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "163 CARPENTER RD Mansfield OH 44903",
+    "Latitude": "40.754263",
+    "Longitude": "-82.527392"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "69 BARTLEY AVE Mansfield OH 44906",
+    "Latitude": "40.7568758",
+    "Longitude": "-82.5324125"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "71 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7570054",
+    "Longitude": "-82.5248884"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "20 DOUGLAS AVE Mansfield OH 44906",
+    "Latitude": "40.7582881",
+    "Longitude": "-82.5304422"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "140 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7552145",
+    "Longitude": "-82.5264473"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "566 SUMMIT ST Mansfield OH 44906",
+    "Latitude": "40.7577498",
+    "Longitude": "-82.5361064"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "150 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7546423",
+    "Longitude": "-82.5264262"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "42 MARION AVE Mansfield OH 44903",
+    "Latitude": "40.7585138",
+    "Longitude": "-82.5248197"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "12 SUMMIT CT Mansfield OH 44906",
+    "Latitude": "40.7582325",
+    "Longitude": "-82.5350497"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7564218",
+    "Longitude": "-82.5289645"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "49 SHERMAN AVE Mansfield OH 44906",
+    "Latitude": "40.7575859",
+    "Longitude": "-82.5337288"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "91 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7562972",
+    "Longitude": "-82.5288781"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "110 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7557445",
+    "Longitude": "-82.5264262"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "55 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7570601",
+    "Longitude": "-82.5257709"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "140 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7552145",
+    "Longitude": "-82.5264473"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "87 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7564218",
+    "Longitude": "-82.5289645"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "106 CARPENTER RD Mansfield OH 44903",
+    "Latitude": "40.7558936",
+    "Longitude": "-82.5281171"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "49 SHERMAN AVE Mansfield OH 44906",
+    "Latitude": "40.7575859",
+    "Longitude": "-82.5337288"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "300 GLESSNER AVE Mansfield OH 44903",
+    "Latitude": "40.7536252",
+    "Longitude": "-82.5268278"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "115 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.755697",
+    "Longitude": "-82.5296451"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "144 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7549171",
+    "Longitude": "-82.5252002"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "151 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7547353",
+    "Longitude": "-82.5296813"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "150 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7546423",
+    "Longitude": "-82.5264262"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "312 GLESSNER AVE Mansfield OH 44903",
+    "Latitude": "40.7535638",
+    "Longitude": "-82.5273985"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "195 WESTWOOD AVE Mansfield OH 44906",
+    "Latitude": "40.7535614",
+    "Longitude": "-82.5370786"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "100 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7560673",
+    "Longitude": "-82.5301885"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "171 POPLAR ST Mansfield OH 44903",
+    "Latitude": "40.7541277",
+    "Longitude": "-82.5310868"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "120 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7555075",
+    "Longitude": "-82.5252002"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "115 POPLAR ST Mansfield OH 44903",
+    "Latitude": "40.7556552",
+    "Longitude": "-82.5311185"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "135 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7550805",
+    "Longitude": "-82.5296918"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "243 W 1ST ST Mansfield OH 44902",
+    "Latitude": "40.7562619",
+    "Longitude": "-82.5246929"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "100 CARPENTER RD Mansfield OH 44903",
+    "Latitude": "40.7560483",
+    "Longitude": "-82.5280749"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "254 MARION AVE Mansfield OH 44903",
+    "Latitude": "40.7563398",
+    "Longitude": "-82.5319639"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "10 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7579407",
+    "Longitude": "-82.5253904"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "50 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.757193",
+    "Longitude": "-82.524597"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "50 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.757193",
+    "Longitude": "-82.524597"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "567 MAPLE ST Mansfield OH 44906",
+    "Latitude": "40.7544285",
+    "Longitude": "-82.5364868"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "150 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7546671",
+    "Longitude": "-82.5249888"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "40 MARION AVE Mansfield OH 44903",
+    "Latitude": "40.7584846",
+    "Longitude": "-82.5246562"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "113 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.755675",
+    "Longitude": "-82.5259611"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "145 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7548507",
+    "Longitude": "-82.529639"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "91 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7562972",
+    "Longitude": "-82.5288781"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "254 MARION AVE Mansfield OH 44903",
+    "Latitude": "40.7563398",
+    "Longitude": "-82.5319639"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "122 POPLAR ST Mansfield OH 44903",
+    "Latitude": "40.7554583",
+    "Longitude": "-82.5315729"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "140 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7552145",
+    "Longitude": "-82.5264473"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "79 SHERMAN AVE Mansfield OH 44906",
+    "Latitude": "40.7567304",
+    "Longitude": "-82.5337393"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "199 DAWSON AVE Mansfield OH 44906",
+    "Latitude": "40.7534683",
+    "Longitude": "-82.5356415"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "10 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7579407",
+    "Longitude": "-82.5253904"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "90 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7562765",
+    "Longitude": "-82.5252213"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "123 POPLAR ST Mansfield OH 44903",
+    "Latitude": "40.7554584",
+    "Longitude": "-82.5311185"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "199 WESTWOOD AVE Mansfield OH 44906",
+    "Latitude": "40.7534433",
+    "Longitude": "-82.5370786"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "136 BARTLEY AVE Mansfield OH 44903",
+    "Latitude": "40.7551688",
+    "Longitude": "-82.5327248"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "69 BARTLEY AVE Mansfield OH 44906",
+    "Latitude": "40.7568758",
+    "Longitude": "-82.5324125"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "140 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7552145",
+    "Longitude": "-82.5264473"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "50 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7575165",
+    "Longitude": "-82.5294699"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "170 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7542958",
+    "Longitude": "-82.5301885"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "25 DOUGLAS AVE Mansfield OH 44906",
+    "Latitude": "40.7581525",
+    "Longitude": "-82.5300944"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "172 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7540611",
+    "Longitude": "-82.5250522"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "10 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7579407",
+    "Longitude": "-82.5253904"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "50 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.757193",
+    "Longitude": "-82.524597"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "33 DOUGLAS AVE Mansfield OH 44906",
+    "Latitude": "40.7578643",
+    "Longitude": "-82.5299772"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "171 POPLAR ST Mansfield OH 44903",
+    "Latitude": "40.7541277",
+    "Longitude": "-82.5310868"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "310 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.750317",
+    "Longitude": "-82.5301463"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "433 PARKER ST Mansfield OH 44906",
+    "Latitude": "40.7572451",
+    "Longitude": "-82.5314858"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "283 PARK AVE W Mansfield OH 44906",
+    "Latitude": "40.758615",
+    "Longitude": "-82.525969"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "153 BARTLEY AVE Mansfield OH 44903",
+    "Latitude": "40.7545564",
+    "Longitude": "-82.5323867"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "373 PARK AVE W Mansfield OH 44906",
+    "Latitude": "40.758289",
+    "Longitude": "-82.529224"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "433 PARKER ST Mansfield OH 44906",
+    "Latitude": "40.7572451",
+    "Longitude": "-82.5314858"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "140 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.7552145",
+    "Longitude": "-82.5264473"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "82 BARTLEY AVE Mansfield OH 44906",
+    "Latitude": "40.7566336",
+    "Longitude": "-82.5328516"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "481 DIRLAM CT Mansfield OH 44906",
+    "Latitude": "40.7577888",
+    "Longitude": "-82.533063"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "10 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7579407",
+    "Longitude": "-82.5253904"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "10 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7579407",
+    "Longitude": "-82.5253904"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "73 W SMILEY AVE Mansfield OH 44875",
+    "Latitude": "40.8865854",
+    "Longitude": "-82.6669269"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "85 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7564319",
+    "Longitude": "-82.528777"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "90 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7562765",
+    "Longitude": "-82.5252213"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "280 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7511831",
+    "Longitude": "-82.5301463"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "139 LIND AVE Mansfield OH 44903",
+    "Latitude": "40.7550769",
+    "Longitude": "-82.5288781"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "162 WOOD ST Mansfield OH 44903",
+    "Latitude": "40.754364",
+    "Longitude": "-82.5263839"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "170 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7542958",
+    "Longitude": "-82.5301885"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "95 VENNUM AVE Mansfield OH 44903",
+    "Latitude": "40.7561891",
+    "Longitude": "-82.529639"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "71 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7570054",
+    "Longitude": "-82.5248884"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "162 POPLAR ST Mansfield OH 44903",
+    "Latitude": "40.7543863",
+    "Longitude": "-82.5315835"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "70 BARTLEY AVE Mansfield OH 44906",
+    "Latitude": "40.7569091",
+    "Longitude": "-82.5328516"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "35 BALDWIN AVE Mansfield OH 44906",
+    "Latitude": "40.7579575",
+    "Longitude": "-82.5314144"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "120 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7555075",
+    "Longitude": "-82.5252002"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "449 PARKER ST Mansfield OH 44906",
+    "Latitude": "40.7572571",
+    "Longitude": "-82.5319957"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "90 BLYMYER AVE Mansfield OH 44903",
+    "Latitude": "40.7562765",
+    "Longitude": "-82.5252213"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "189 WESTWOOD AVE Mansfield OH 44906",
+    "Latitude": "40.7538709",
+    "Longitude": "-82.5369941"
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "mappable address": "100 CARPENTER RD Mansfield OH 44903",
+    "Latitude": "40.7560483",
+    "Longitude": "-82.528074"
+  }
+]

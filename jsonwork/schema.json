@@ -1,0 +1,51 @@
+[
+{
+    "fieldName": "turf",
+    "description":"the name of the turf without the precinct, e.g. 'Turf1'"
+},
+{
+    "fieldName": "precinct",
+    "description":"the name of the precinct compressed, e.g. 'Man6a'"
+},
+{
+    "fieldName": "SOS_VOTERID",
+    "description":"the official voter id"
+},
+{
+    "fieldName": "Name_Age_Address",
+    "description":"the combination of these three values.   Probably should break these into three different fields for the JSON file"
+},
+{
+    "fieldName": "name",
+    "description":"the name of the voter in question assocaited with voterid"
+},
+{
+    "fieldName": "age",
+    "description":"the age of the voter in question"
+},
+{
+    "fieldName": "shortAddress",
+    "description":"the address of the door including apartment number or other detail, but no city and state"
+},
+{
+    "fieldName": "mappableAddress",
+    "description":"the full address but without apartment number or other things that the maps don't accept"
+},
+{
+    "fieldName": "longitude",
+    "description":"numeric longitude value in decimal degrees"
+},
+{
+    "fieldName": "latitude",
+    "description":"numeric latitude value in decimal degrees"
+},
+{
+    "fieldName": "order",
+    "description":"an integer approximate order"
+},
+{
+    "fieldName": "full_order",
+    "description":"decimal number with precise position of the line in the list, unique position for each person mentioned at a single address"
+}
+]
+

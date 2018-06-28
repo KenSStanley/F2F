@@ -1,0 +1,6662 @@
+[
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0019973595",
+    "mappableAddress": "385 HOME AVE Mansfield OH 44902",
+    "latitude": "40.751743",
+    "longitude": "-82.502401",
+    "name": "BARRON WEBBER",
+    "age": 51
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023206503",
+    "mappableAddress": "206 EDUCATIONAL PL Mansfield OH 44902",
+    "latitude": "40.7526574",
+    "longitude": "-82.5114698",
+    "name": "SOPHIA GEARY",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012720936",
+    "mappableAddress": "259 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7511895",
+    "longitude": "-82.5120512",
+    "name": "LISA BISTLINE",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024287799",
+    "mappableAddress": "202 EDUCATIONAL PL Mansfield OH 44902",
+    "latitude": "40.7527545",
+    "longitude": "-82.5114487",
+    "name": "WILLIE HALEY",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0022388392",
+    "mappableAddress": "438 BEETHOVEN ST Mansfield OH 44902",
+    "latitude": "40.745999",
+    "longitude": "-82.507445",
+    "name": "KARA ALLEN",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024039025",
+    "mappableAddress": "325 REMY AVE Mansfield OH 44902",
+    "latitude": "40.7525308",
+    "longitude": "-82.5043856",
+    "name": "WALTER PHILLIPS",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0020211769",
+    "mappableAddress": "294 GREENDALE AVE Mansfield OH 44902",
+    "latitude": "40.7497003",
+    "longitude": "-82.5054969",
+    "name": "NATHAN BOWEN",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024596440",
+    "mappableAddress": "444 BIRD CAGE Mansfield OH 44902",
+    "latitude": "40.7494744",
+    "longitude": "-82.5002107",
+    "name": "MEGAN KAUFMAN",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0020846546",
+    "mappableAddress": "181 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7531831",
+    "longitude": "-82.5082033",
+    "name": "LEROY MASON",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021153250",
+    "mappableAddress": "127 N FORD RD Mansfield OH 44905",
+    "latitude": "40.761533",
+    "longitude": "-82.455722",
+    "name": "BRITTANY LUDWIG",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012724377",
+    "mappableAddress": "284 REFORM ST Mansfield OH 44902",
+    "latitude": "40.7431193",
+    "longitude": "-82.5060044",
+    "name": "BRENDA STEEL",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012669491",
+    "mappableAddress": "390 REMY AVE Mansfield OH 44902",
+    "latitude": "40.7521233",
+    "longitude": "-82.5021984",
+    "name": "ROGER BAKER",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024527864",
+    "mappableAddress": "244 HEDGES ST Mansfield OH 44902",
+    "latitude": "40.751532",
+    "longitude": "-82.5102211",
+    "name": "ROBERT KING",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0019762683",
+    "mappableAddress": "146 FORD ST Mansfield OH 44902",
+    "latitude": "40.748224",
+    "longitude": "-82.5112478",
+    "name": "LISA MITCHELL",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024541535",
+    "mappableAddress": "520 WOODVILLE RD Mansfield OH 44907",
+    "latitude": "40.7440924",
+    "longitude": "-82.5040168",
+    "name": "STREAT MCCULLOUGH",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023708362",
+    "mappableAddress": "205 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7526799",
+    "longitude": "-82.5119666",
+    "name": "DARYLETTA WHEELER",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012666991",
+    "mappableAddress": "487 REMBRANDT ST Mansfield OH 44902",
+    "latitude": "40.7445521",
+    "longitude": "-82.5050317",
+    "name": "RENIA CHEATHEM",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012676002",
+    "mappableAddress": "181 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7531831",
+    "longitude": "-82.5082033",
+    "name": "JUSTINA GIBBS",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0022310175",
+    "mappableAddress": "384 REMY AVE Mansfield OH 44902",
+    "latitude": "40.752137",
+    "longitude": "-82.5024098",
+    "name": "TREVOR MANSFIELD",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023692885",
+    "mappableAddress": "313 REMY AVE Mansfield OH 44902",
+    "latitude": "40.7525487",
+    "longitude": "-82.5048176",
+    "name": "VICTORIA CARSEY",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023231907",
+    "mappableAddress": "173 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7534221",
+    "longitude": "-82.5082456",
+    "name": "CYNTHIA HUFFMAN",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021504282",
+    "mappableAddress": "177 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7536128",
+    "longitude": "-82.5142076",
+    "name": "VANDA HALL",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023990038",
+    "mappableAddress": "358 REMY AVE Mansfield OH 44902",
+    "latitude": "40.752115",
+    "longitude": "-82.503352",
+    "name": "QWAMEL COWAN",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024599558",
+    "mappableAddress": "616 S DIAMOND ST Mansfield OH 44907",
+    "latitude": "40.7453733",
+    "longitude": "-82.5037093",
+    "name": "MELINDA COFFMAN",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012663909",
+    "mappableAddress": "373 DALE AVE Mansfield OH 44902",
+    "latitude": "40.750907",
+    "longitude": "-82.502835",
+    "name": "TAMI HOLLEY",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0019762520",
+    "mappableAddress": "265 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7512325",
+    "longitude": "-82.5133197",
+    "name": "DOROTHY ADAMS",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024613587",
+    "mappableAddress": "201 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7526375",
+    "longitude": "-82.5082878",
+    "name": "AUSTIN WHEATCRAFT",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024565273",
+    "mappableAddress": "293 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7505992",
+    "longitude": "-82.5129004",
+    "name": "SHERRI RODRIGUEZ",
+    "age": 54
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024560319",
+    "mappableAddress": "86 HOME AVE Mansfield OH 44902",
+    "latitude": "40.7517699",
+    "longitude": "-82.5131083",
+    "name": "ANDREW BLUESTER",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012701315",
+    "mappableAddress": "150 HOME AVE Mansfield OH 44902",
+    "latitude": "40.7516215",
+    "longitude": "-82.510825",
+    "name": "NYSHIA BROOKS",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012667081",
+    "mappableAddress": "239 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7517351",
+    "longitude": "-82.5119666",
+    "name": "PATRICIA WILSON",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023845302",
+    "mappableAddress": "509 REMBRANDT ST Mansfield OH 44902",
+    "latitude": "40.7440064",
+    "longitude": "-82.5051163",
+    "name": "CODY SEXTON",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012664653",
+    "mappableAddress": "438 BEETHOVEN ST Mansfield OH 44902",
+    "latitude": "40.745999",
+    "longitude": "-82.507445",
+    "name": "KEITH ALLEN",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024093175",
+    "mappableAddress": "487 REMBRANDT ST Mansfield OH 44902",
+    "latitude": "40.7445521",
+    "longitude": "-82.5050317",
+    "name": "JOSEPH CORDER",
+    "age": 51
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023393382",
+    "mappableAddress": "129 DALE AVE Mansfield OH 44902",
+    "latitude": "40.7511565",
+    "longitude": "-82.5115438",
+    "name": "MANUEL BENNINGTON",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024647530",
+    "mappableAddress": "313 REMY AVE Mansfield OH 44902",
+    "latitude": "40.7525487",
+    "longitude": "-82.5048176",
+    "name": "MIKE GOODWIN",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024506649",
+    "mappableAddress": "365 DALE AVE Mansfield OH 44902",
+    "latitude": "40.750915",
+    "longitude": "-82.5030699",
+    "name": "AMY MOUNT",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012704877",
+    "mappableAddress": "438 BEETHOVEN ST Mansfield OH 44902",
+    "latitude": "40.745999",
+    "longitude": "-82.507445",
+    "name": "KIMBERLY ALLEN",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024596361",
+    "mappableAddress": "211 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7525197",
+    "longitude": "-82.5119243",
+    "name": "MAX SINDEN",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024495788",
+    "mappableAddress": "415 LINCOLN AVE Mansfield OH 44902",
+    "latitude": "40.7468163",
+    "longitude": "-82.5047357",
+    "name": "BENJERMAN GOLDEN",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024608098",
+    "mappableAddress": "127 HOME AVE Mansfield OH 44902",
+    "latitude": "40.7519028",
+    "longitude": "-82.5116475",
+    "name": "WILLIAM JOSEPH",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021716265",
+    "mappableAddress": "189 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7531418",
+    "longitude": "-82.5119587",
+    "name": "ASHLEY RUSSELL",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021080793",
+    "mappableAddress": "146 FORD ST Mansfield OH 44902",
+    "latitude": "40.748224",
+    "longitude": "-82.5112478",
+    "name": "KALIND BEAUFORD",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0022459613",
+    "mappableAddress": "438 BEETHOVEN ST Mansfield OH 44902",
+    "latitude": "40.745999",
+    "longitude": "-82.507445",
+    "name": "KEITH ALLEN",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024489468",
+    "mappableAddress": "326 HOME AVE Mansfield OH 44902",
+    "latitude": "40.751306",
+    "longitude": "-82.504425",
+    "name": "ADRIAN CRUTCHFIELD",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012704759",
+    "mappableAddress": "222 REFORM ST Mansfield OH 44902",
+    "latitude": "40.742972",
+    "longitude": "-82.508189",
+    "name": "BRIAN LUKOWSKI",
+    "age": 51
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012700866",
+    "mappableAddress": "494 REMBRANDT ST Mansfield OH 44902",
+    "latitude": "40.7443938",
+    "longitude": "-82.5056238",
+    "name": "NANCY ROMAN",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021039204",
+    "mappableAddress": "411 BIRD CAGE Mansfield OH 44902",
+    "latitude": "40.7499141",
+    "longitude": "-82.5015217",
+    "name": "LATONYA GREEN",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0018532781",
+    "mappableAddress": "262 REMY AVE Mansfield OH 44902",
+    "latitude": "40.752238",
+    "longitude": "-82.506691",
+    "name": "BRYANT NEAROR",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0020211760",
+    "mappableAddress": "294 GREENDALE AVE Mansfield OH 44902",
+    "latitude": "40.7497003",
+    "longitude": "-82.5054969",
+    "name": "DUSTY RUSSELL",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012667693",
+    "mappableAddress": "599 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.745843",
+    "longitude": "-82.5039957",
+    "name": "LINDA BRADY",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023234465",
+    "mappableAddress": "216 REFORM ST Mansfield OH 44902",
+    "latitude": "40.742932",
+    "longitude": "-82.508377",
+    "name": "ANNA BROCK",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024527870",
+    "mappableAddress": "457 BIRD CAGE Mansfield OH 44902",
+    "latitude": "40.7498827",
+    "longitude": "-82.4998301",
+    "name": "AMY WRIGHT",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024653907",
+    "mappableAddress": "379 DALE AVE Mansfield OH 44902",
+    "latitude": "40.7508989",
+    "longitude": "-82.502601",
+    "name": "MADISEN SWANGER",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0020943008",
+    "mappableAddress": "562 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7460336",
+    "longitude": "-82.5054123",
+    "name": "PAUL BOHNWAGNER",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012700784",
+    "mappableAddress": "494 REMBRANDT ST Mansfield OH 44902",
+    "latitude": "40.7443938",
+    "longitude": "-82.5056238",
+    "name": "RAMON ROMAN",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024656840",
+    "mappableAddress": "211 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7525197",
+    "longitude": "-82.5119243",
+    "name": "ASHLEY SINDEN",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012683336",
+    "mappableAddress": "217 S FRANKLIN ST Mansfield OH 44902",
+    "latitude": "40.7523796",
+    "longitude": "-82.5134043",
+    "name": "LOIS RENCHEN",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024608165",
+    "mappableAddress": "228 REFORM ST Mansfield OH 44902",
+    "latitude": "40.742979",
+    "longitude": "-82.507865",
+    "name": "RACHEL LAMB",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0020812481",
+    "mappableAddress": "438 BEETHOVEN ST Mansfield OH 44902",
+    "latitude": "40.745999",
+    "longitude": "-82.507445",
+    "name": "KAYLA ALLEN",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0015938479",
+    "mappableAddress": "266 REMY AVE Mansfield OH 44902",
+    "latitude": "40.752232",
+    "longitude": "-82.506547",
+    "name": "MARY HOOSE",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023233732",
+    "mappableAddress": "363 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7495827",
+    "longitude": "-82.5109518",
+    "name": "JASON THOMPSON",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024593696",
+    "mappableAddress": "326 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.749786",
+    "longitude": "-82.5122626",
+    "name": "RICHARD JOHNSTON",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024645137",
+    "mappableAddress": "239 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7517351",
+    "longitude": "-82.5119666",
+    "name": "PAUL POORE",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023945587",
+    "mappableAddress": "211 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7522805",
+    "longitude": "-82.5082456",
+    "name": "JAMES HARRIS",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024467215",
+    "mappableAddress": "339 FAIR ST Mansfield OH 44902",
+    "latitude": "40.7489913",
+    "longitude": "-82.5115438",
+    "name": "LAUREN MILES",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021917045",
+    "mappableAddress": "130 DALE AVE Mansfield OH 44902",
+    "latitude": "40.750917",
+    "longitude": "-82.511579",
+    "name": "BRENT WINDBIGLER",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021941439",
+    "mappableAddress": "288 GREENLAWN AVE Mansfield OH 44902",
+    "latitude": "40.752967",
+    "longitude": "-82.50564",
+    "name": "BRENDON WEIR",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021740994",
+    "mappableAddress": "225 HILLSIDE CIR Mansfield OH 44907",
+    "latitude": "40.7400825",
+    "longitude": "-82.5040732",
+    "name": "MARANDA SHAW",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0021349909",
+    "mappableAddress": "89 FLINT ST Mansfield OH 44902",
+    "latitude": "40.7531788",
+    "longitude": "-82.5129814",
+    "name": "GERALD LAWHORN",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024580042",
+    "mappableAddress": "317 GREENLAWN AVE Mansfield OH 44902",
+    "latitude": "40.753349",
+    "longitude": "-82.504599",
+    "name": "ZOE GREER",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023247467",
+    "mappableAddress": "227 HILLSIDE CIR Mansfield OH 44907",
+    "latitude": "40.7412326",
+    "longitude": "-82.506778",
+    "name": "MICHELLE BAUCH",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0023972917",
+    "mappableAddress": "297 GREENLAWN AVE Mansfield OH 44902",
+    "latitude": "40.75338",
+    "longitude": "-82.505329",
+    "name": "SCOTT EBERHARDT",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0024534214",
+    "mappableAddress": "483 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7476195",
+    "longitude": "-82.5073998",
+    "name": "KATRINA COYNE",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0012700229",
+    "mappableAddress": "177 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7536128",
+    "longitude": "-82.5142076",
+    "name": "DOUGLAS HALL",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6d",
+    "SOS_VOTERID": "OH0022345514",
+    "mappableAddress": "365 DALE AVE Mansfield OH 44902",
+    "latitude": "40.750915",
+    "longitude": "-82.5030699",
+    "name": "MICHAEL MOUNT",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0020902300",
+    "mappableAddress": "289 ORANGE ST Mansfield OH 44902",
+    "latitude": "40.7658642",
+    "longitude": "-82.5048309",
+    "name": "JERICA HARDING",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024650069",
+    "mappableAddress": "292 4TH AVE Mansfield OH 44905",
+    "latitude": "40.7660709",
+    "longitude": "-82.498057",
+    "name": "RICHARD COLEMAN",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024560317",
+    "mappableAddress": "307 4TH AVE Mansfield OH 44905",
+    "latitude": "40.766472",
+    "longitude": "-82.498856",
+    "name": "RACHEL REED",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023103598",
+    "mappableAddress": "297 ORANGE ST Mansfield OH 44902",
+    "latitude": "40.7658491",
+    "longitude": "-82.5045983",
+    "name": "KELSEY WADE",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024506039",
+    "mappableAddress": "406 WAYNE ST Mansfield OH 44902",
+    "latitude": "40.769194",
+    "longitude": "-82.5062581",
+    "name": "GEORGE MONROE",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0021099275",
+    "mappableAddress": "283 3RD AVE Mansfield OH 44905",
+    "latitude": "40.76574",
+    "longitude": "-82.5011833",
+    "name": "ANGELEYEA SHAFFER",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0012677892",
+    "mappableAddress": "329 2ND AVE Mansfield OH 44902",
+    "latitude": "40.7670152",
+    "longitude": "-82.5024098",
+    "name": "DAWN SNELLING",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0018746157",
+    "mappableAddress": "381 ORANGE ST Mansfield OH 44902",
+    "latitude": "40.7657002",
+    "longitude": "-82.501455",
+    "name": "ALFREDO PIZARRO",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0012703338",
+    "mappableAddress": "289 AUBURN AVE Mansfield OH 44902",
+    "latitude": "40.7692156",
+    "longitude": "-82.5045438",
+    "name": "EARL WHIPPLE",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023078943",
+    "mappableAddress": "398 4TH AVE Mansfield OH 44905",
+    "latitude": "40.768931",
+    "longitude": "-82.498095",
+    "name": "BRYAN WARNE",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023568127",
+    "mappableAddress": "287 CENTRAL AVE Mansfield OH 44905",
+    "latitude": "40.765899",
+    "longitude": "-82.500273",
+    "name": "CHELSEA MABRY",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023138106",
+    "mappableAddress": "473 ORANGE ST Mansfield OH 44905",
+    "latitude": "40.765868",
+    "longitude": "-82.497901",
+    "name": "CARRIE BARTRAM",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0022965968",
+    "mappableAddress": "318 2ND AVE Mansfield OH 44902",
+    "latitude": "40.76674",
+    "longitude": "-82.501792",
+    "name": "DANA DANIEL",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024472634",
+    "mappableAddress": "328 2ND AVE Mansfield OH 44902",
+    "latitude": "40.767014",
+    "longitude": "-82.50179",
+    "name": "ANA BAKER",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0022722642",
+    "mappableAddress": "311 MYERS AVE Mansfield OH 44902",
+    "latitude": "40.7668132",
+    "longitude": "-82.5041437",
+    "name": "HORACE HAIRR",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0021767226",
+    "mappableAddress": "405 3RD AVE Mansfield OH 44905",
+    "latitude": "40.7691373",
+    "longitude": "-82.5009644",
+    "name": "CHAUNTAE EVEGE",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0012683968",
+    "mappableAddress": "283 ASHLAND RD Mansfield OH 44905",
+    "latitude": "40.7633011",
+    "longitude": "-82.4976521",
+    "name": "HONG CHIN",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0022141900",
+    "mappableAddress": "287 CENTRAL AVE Mansfield OH 44905",
+    "latitude": "40.765899",
+    "longitude": "-82.500273",
+    "name": "SETH MABRY",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0021276505",
+    "mappableAddress": "347 AUBURN AVE Mansfield OH 44902",
+    "latitude": "40.7694213",
+    "longitude": "-82.5024944",
+    "name": "ALBERT JONES",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024607521",
+    "mappableAddress": "426 4TH AVE Mansfield OH 44905",
+    "latitude": "40.769727",
+    "longitude": "-82.49811",
+    "name": "SHADAA FIELDS",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023233816",
+    "mappableAddress": "314 GRACE ST Mansfield OH 44902",
+    "latitude": "40.7699025",
+    "longitude": "-82.5036891",
+    "name": "RUSSELL TAYLOR",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024473566",
+    "mappableAddress": "360 4TH AVE Mansfield OH 44905",
+    "latitude": "40.767927",
+    "longitude": "-82.498081",
+    "name": "SHAWN HERRITT",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024158136",
+    "mappableAddress": "365 2ND AVE Mansfield OH 44902",
+    "latitude": "40.7680018",
+    "longitude": "-82.5024521",
+    "name": "TAMAIKA LINDSAY",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0020745057",
+    "mappableAddress": "324 1ST AVE Mansfield OH 44902",
+    "latitude": "40.7669943",
+    "longitude": "-82.5032979",
+    "name": "SARA BOHNWAGNER",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0019768261",
+    "mappableAddress": "297 ORANGE ST Mansfield OH 44902",
+    "latitude": "40.7658491",
+    "longitude": "-82.5045983",
+    "name": "AMANDA BISHOP",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0012669709",
+    "mappableAddress": "302 3RD AVE Mansfield OH 44905",
+    "latitude": "40.766308",
+    "longitude": "-82.500422",
+    "name": "JESSIE MILLER",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0015871616",
+    "mappableAddress": "382 ORANGE ST Mansfield OH 44902",
+    "latitude": "40.7653804",
+    "longitude": "-82.5014795",
+    "name": "CHRISTINA PORTER",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0015551112",
+    "mappableAddress": "338 WAYNE ST Mansfield OH 44902",
+    "latitude": "40.7672579",
+    "longitude": "-82.5062898",
+    "name": "MINDIE DAVENPORT",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023611189",
+    "mappableAddress": "288 CENTRAL AVE Mansfield OH 44905",
+    "latitude": "40.765914",
+    "longitude": "-82.499481",
+    "name": "CHELSEA HARRIS",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023561188",
+    "mappableAddress": "385 2ND AVE Mansfield OH 44902",
+    "latitude": "40.7685894",
+    "longitude": "-82.5024098",
+    "name": "MICAH VIAN",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0021306309",
+    "mappableAddress": "364 2ND AVE Mansfield OH 44902",
+    "latitude": "40.768011",
+    "longitude": "-82.501772",
+    "name": "JAMIE ALMEDA",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0024467220",
+    "mappableAddress": "396 GRACE ST Mansfield OH 44905",
+    "latitude": "40.769838",
+    "longitude": "-82.500708",
+    "name": "JEFFREY HARTMAN",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6b",
+    "SOS_VOTERID": "OH0023767889",
+    "mappableAddress": "350 ORANGE ST Mansfield OH 44902",
+    "latitude": "40.765215",
+    "longitude": "-82.5025579",
+    "name": "ROBERT SPRAGUE",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0018050676",
+    "mappableAddress": "101 HEDGES ST Mansfield OH 44902",
+    "latitude": "40.7554023",
+    "longitude": "-82.509641",
+    "name": "KATHERINE BILGER",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021484485",
+    "mappableAddress": "137 STURGES AVE Mansfield OH 44903",
+    "latitude": "40.7549428",
+    "longitude": "-82.5231709",
+    "name": "SANTANA MATTHEWS",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0015430796",
+    "mappableAddress": "118 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7555425",
+    "longitude": "-82.5227059",
+    "name": "JESSICA RAMIREZ",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0015340474",
+    "mappableAddress": "87 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7562621",
+    "longitude": "-82.5128757",
+    "name": "BRYAN STEBELTON",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0019814207",
+    "mappableAddress": "99 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7554818",
+    "longitude": "-82.5081398",
+    "name": "JESSICA DOTSON",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0018159005",
+    "mappableAddress": "161 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.757235",
+    "longitude": "-82.5215012",
+    "name": "CASSANDRA THATCHER",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024500037",
+    "mappableAddress": "143 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7547781",
+    "longitude": "-82.5224522",
+    "name": "TYLER SMITH",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024063369",
+    "mappableAddress": "38 S WELDON AVE Mansfield OH 44902",
+    "latitude": "40.757588",
+    "longitude": "-82.5190244",
+    "name": "THOMAS HIRST",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023479010",
+    "mappableAddress": "111 S DIAMOND ST Mansfield OH 44902",
+    "latitude": "40.7553334",
+    "longitude": "-82.5139007",
+    "name": "KATHY BUNTON",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0018527989",
+    "mappableAddress": "154 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.7578864",
+    "longitude": "-82.521427",
+    "name": "CHARLES DAVIS",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0017772691",
+    "mappableAddress": "135 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7550189",
+    "longitude": "-82.5213107",
+    "name": "LINDSAY DODD",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024516078",
+    "mappableAddress": "147 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7546966",
+    "longitude": "-82.5224099",
+    "name": "JOHNNY CRUTCHER",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024614423",
+    "mappableAddress": "183 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.7572445",
+    "longitude": "-82.5223026",
+    "name": "CHRISTINA SENTIERI",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024518404",
+    "mappableAddress": "114 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7556229",
+    "longitude": "-82.522731",
+    "name": "GWENDELYN ROBINSON",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024495773",
+    "mappableAddress": "96 E 2ND ST Mansfield OH 44902",
+    "latitude": "40.756932",
+    "longitude": "-82.512046",
+    "name": "ANTONIO SHEPARD",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012665013",
+    "mappableAddress": "161 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.757235",
+    "longitude": "-82.5215012",
+    "name": "JESSEKA WATTS",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0020847894",
+    "mappableAddress": "281 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7558972",
+    "longitude": "-82.5057506",
+    "name": "KAREN BROYLES",
+    "age": 54
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024554860",
+    "mappableAddress": "307 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7558788",
+    "longitude": "-82.5048626",
+    "name": "BRANDY RUHL",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023124585",
+    "mappableAddress": "60 HEDGES ST Mansfield OH 44902",
+    "latitude": "40.7565686",
+    "longitude": "-82.5100215",
+    "name": "LESLIE WORKMAN",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023259916",
+    "mappableAddress": "219 W 1ST ST Mansfield OH 44902",
+    "latitude": "40.7562015",
+    "longitude": "-82.5237628",
+    "name": "SARAH SCHAVE",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021280558",
+    "mappableAddress": "235 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7559834",
+    "longitude": "-82.5073787",
+    "name": "ADRIAN WHITE",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0019733149",
+    "mappableAddress": "179 E 2ND ST Mansfield OH 44902",
+    "latitude": "40.7572084",
+    "longitude": "-82.5089644",
+    "name": "DEANNA MCCOTTRELL",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021372276",
+    "mappableAddress": "250 SUPERIOR AVE Mansfield OH 44902",
+    "latitude": "40.754646",
+    "longitude": "-82.506985",
+    "name": "IVORY SANDERFER",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012667987",
+    "mappableAddress": "55 W ARCH ST Mansfield OH 44902",
+    "latitude": "40.7543499",
+    "longitude": "-82.5179586",
+    "name": "KAREN BROWN",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023978095",
+    "mappableAddress": "110 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.755449",
+    "longitude": "-82.512157",
+    "name": "QUANESHIA TARTT",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024631034",
+    "mappableAddress": "159 S MULBERRY ST Mansfield OH 44903",
+    "latitude": "40.7542011",
+    "longitude": "-82.5179914",
+    "name": "CHEROKEE HOPSON",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0017878832",
+    "mappableAddress": "218 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7556521",
+    "longitude": "-82.5080341",
+    "name": "JOSEPH ROGERS",
+    "age": 51
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024596535",
+    "mappableAddress": "166 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7542491",
+    "longitude": "-82.5218508",
+    "name": "JANEA BLACK",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023767861",
+    "mappableAddress": "55 W ARCH ST Mansfield OH 44902",
+    "latitude": "40.7543499",
+    "longitude": "-82.5179586",
+    "name": "AUDREY GIBSON",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012660689",
+    "mappableAddress": "193 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.7572812",
+    "longitude": "-82.522748",
+    "name": "NORBERT WELKER",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024516073",
+    "mappableAddress": "236 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7556094",
+    "longitude": "-82.5073688",
+    "name": "PAUL PARKS",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0018054041",
+    "mappableAddress": "262 SUPERIOR AVE Mansfield OH 44902",
+    "latitude": "40.7546279",
+    "longitude": "-82.506552",
+    "name": "ARLILLIAN NIXON",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024581812",
+    "mappableAddress": "159 S MULBERRY ST Mansfield OH 44903",
+    "latitude": "40.7542011",
+    "longitude": "-82.5179914",
+    "name": "PATRICIA MOORE",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024472652",
+    "mappableAddress": "93 S MAIN ST Mansfield OH 44902",
+    "latitude": "40.755937",
+    "longitude": "-82.515444",
+    "name": "HUMBERTO MARTINEZ",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0019066887",
+    "mappableAddress": "151 W 1ST ST Mansfield OH 44902",
+    "latitude": "40.7560817",
+    "longitude": "-82.5213107",
+    "name": "THOMAS TUCKER",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024472646",
+    "mappableAddress": "130 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7551306",
+    "longitude": "-82.521818",
+    "name": "TESSA CARNES",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021545986",
+    "mappableAddress": "324 SUPERIOR AVE Mansfield OH 44902",
+    "latitude": "40.754529",
+    "longitude": "-82.504246",
+    "name": "DESTINY MARSHALL",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024608460",
+    "mappableAddress": "154 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.7578864",
+    "longitude": "-82.521427",
+    "name": "JORDAN MOORE",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023396689",
+    "mappableAddress": "124 S ADAMS ST Mansfield OH 44902",
+    "latitude": "40.7549063",
+    "longitude": "-82.5123049",
+    "name": "CLAYTON GREER",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024632210",
+    "mappableAddress": "69 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7563098",
+    "longitude": "-82.5080937",
+    "name": "MARLA MACK",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0015878361",
+    "mappableAddress": "268 SUPERIOR AVE Mansfield OH 44902",
+    "latitude": "40.754616",
+    "longitude": "-82.506264",
+    "name": "WILLIE BOND",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012703702",
+    "mappableAddress": "235 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7559834",
+    "longitude": "-82.5073787",
+    "name": "ROBERT WHITE",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024158287",
+    "mappableAddress": "136 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7550203",
+    "longitude": "-82.5217863",
+    "name": "CHRIS BOSIOKOVIC",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024643360",
+    "mappableAddress": "92 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.757692",
+    "longitude": "-82.5191334",
+    "name": "MARISA GUTIERREZ",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0020648851",
+    "mappableAddress": "105 BOWERS AVE Mansfield OH 44902",
+    "latitude": "40.7549823",
+    "longitude": "-82.5040586",
+    "name": "JOELY FISHER",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024651730",
+    "mappableAddress": "167 S MULBERRY ST Mansfield OH 44903",
+    "latitude": "40.7540257",
+    "longitude": "-82.5181398",
+    "name": "JAYLASIA LEWIS",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023265310",
+    "mappableAddress": "158 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.7578087",
+    "longitude": "-82.521502",
+    "name": "MARK PORTER",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012669675",
+    "mappableAddress": "227 W 1ST ST Mansfield OH 44902",
+    "latitude": "40.7562272",
+    "longitude": "-82.5241035",
+    "name": "TERRY SNEED",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0020823108",
+    "mappableAddress": "39 W ARCH ST Mansfield OH 44902",
+    "latitude": "40.7543333",
+    "longitude": "-82.517421",
+    "name": "ALAINA THOMPSON",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024599478",
+    "mappableAddress": "127 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7552871",
+    "longitude": "-82.5224099",
+    "name": "ROSE CADY",
+    "age": 69
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021803510",
+    "mappableAddress": "170 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7541096",
+    "longitude": "-82.5227869",
+    "name": "KIM STYER",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024599598",
+    "mappableAddress": "226 E 2ND ST Mansfield OH 44902",
+    "latitude": "40.756662",
+    "longitude": "-82.50748",
+    "name": "DAVID COURTS",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023140390",
+    "mappableAddress": "59 W ARCH ST Mansfield OH 44902",
+    "latitude": "40.7544009",
+    "longitude": "-82.5181139",
+    "name": "BRIAN LUNSFORD",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021255548",
+    "mappableAddress": "129 CLEVELAND AVE Mansfield OH 44902",
+    "latitude": "40.754537",
+    "longitude": "-82.507425",
+    "name": "PAULA SHINE",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024582950",
+    "mappableAddress": "115 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7555864",
+    "longitude": "-82.5223843",
+    "name": "RICHARD CASTLE",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012693095",
+    "mappableAddress": "40 W ARCH ST Mansfield OH 44902",
+    "latitude": "40.7546171",
+    "longitude": "-82.5175479",
+    "name": "SARAH SIGLER",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024612889",
+    "mappableAddress": "151 W 1ST ST Mansfield OH 44902",
+    "latitude": "40.7560817",
+    "longitude": "-82.5213107",
+    "name": "DYLAN GRABER",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012658607",
+    "mappableAddress": "136 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7550203",
+    "longitude": "-82.5217863",
+    "name": "MICHELLE BOSIOKOVIC",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023100914",
+    "mappableAddress": "219 E ARCH ST Mansfield OH 44902",
+    "latitude": "40.754235",
+    "longitude": "-82.5080341",
+    "name": "TASIANA DUBOSE",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024046100",
+    "mappableAddress": "160 GLESSNER AVE Mansfield OH 44903",
+    "latitude": "40.7537528",
+    "longitude": "-82.521818",
+    "name": "FREDERICK LYONS",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024494512",
+    "mappableAddress": "75 W 1ST ST Mansfield OH 44902",
+    "latitude": "40.7560076",
+    "longitude": "-82.518613",
+    "name": "MICHELE FLASPOLLER",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023490985",
+    "mappableAddress": "174 E 2ND ST Mansfield OH 44902",
+    "latitude": "40.7569182",
+    "longitude": "-82.509345",
+    "name": "JONATHAN SPEARS",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012672990",
+    "mappableAddress": "75 STURGES AVE Mansfield OH 44902",
+    "latitude": "40.7568863",
+    "longitude": "-82.5227904",
+    "name": "TERRY LAWSON",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024294468",
+    "mappableAddress": "27 W 2ND ST Mansfield OH 44902",
+    "latitude": "40.7570358",
+    "longitude": "-82.5169162",
+    "name": "LILLIE WOODRUFF",
+    "age": 90
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024607994",
+    "mappableAddress": "127 ARTHUR AVE Mansfield OH 44903",
+    "latitude": "40.7552871",
+    "longitude": "-82.5224099",
+    "name": "KRISTINA HOPSON",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0022729168",
+    "mappableAddress": "170 GLESSNER AVE Mansfield OH 44903",
+    "latitude": "40.7537409",
+    "longitude": "-82.5222408",
+    "name": "ANITA WINDBIGLER",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012717798",
+    "mappableAddress": "58 STURGES AVE Mansfield OH 44902",
+    "latitude": "40.7572231",
+    "longitude": "-82.5240376",
+    "name": "LISA TOTTEN",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0012669412",
+    "mappableAddress": "260 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.755494",
+    "longitude": "-82.506502",
+    "name": "KAROLYN COFFEE",
+    "age": 76
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024565284",
+    "mappableAddress": "159 S MULBERRY ST Mansfield OH 44903",
+    "latitude": "40.7542011",
+    "longitude": "-82.5179914",
+    "name": "ROY WALDE",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0022836093",
+    "mappableAddress": "222 E 1ST ST Mansfield OH 44902",
+    "latitude": "40.7556438",
+    "longitude": "-82.5079073",
+    "name": "RAHMAN HINTON",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0023624090",
+    "mappableAddress": "106 HEDGES ST Mansfield OH 44902",
+    "latitude": "40.7552806",
+    "longitude": "-82.5101907",
+    "name": "AREANA HATTEN",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024226805",
+    "mappableAddress": "106 HEDGES ST Mansfield OH 44902",
+    "latitude": "40.7552806",
+    "longitude": "-82.5101907",
+    "name": "RAHMAN HINTON",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024607704",
+    "mappableAddress": "156 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7544398",
+    "longitude": "-82.521838",
+    "name": "WILLIE GRIER",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0021339969",
+    "mappableAddress": "190 E 2ND ST Mansfield OH 44902",
+    "latitude": "40.7568797",
+    "longitude": "-82.508753",
+    "name": "KIMBERLY MONROE",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024223084",
+    "mappableAddress": "69 W NEWLON PL Mansfield OH 44902",
+    "latitude": "40.755472",
+    "longitude": "-82.5184686",
+    "name": "LAKEITA PAYNE",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024487492",
+    "mappableAddress": "138 COLUMBIA AVE Mansfield OH 44903",
+    "latitude": "40.7548916",
+    "longitude": "-82.5217758",
+    "name": "ZANAIREAH KELLY DAVIS",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man6a",
+    "SOS_VOTERID": "OH0024645109",
+    "mappableAddress": "69 S FOSTER ST Mansfield OH 44902",
+    "latitude": "40.7563098",
+    "longitude": "-82.5080937",
+    "name": "TIMOTHY MACK",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012680532",
+    "mappableAddress": "112 BOUGHTON AVE Mansfield OH 44902",
+    "latitude": "40.7616757",
+    "longitude": "-82.5201692",
+    "name": "LINDA HOFFMAN",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012668818",
+    "mappableAddress": "572 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.7743949",
+    "longitude": "-82.5227059",
+    "name": "HEATHER GEORGE",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024608933",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "AHMAD RAHMAAN",
+    "age": 66
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012669955",
+    "mappableAddress": "533 N MULBERRY ST Mansfield OH 44902",
+    "latitude": "40.7728364",
+    "longitude": "-82.519461",
+    "name": "TREVENEY ROBINSON",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024554613",
+    "mappableAddress": "344 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.768177",
+    "longitude": "-82.5227059",
+    "name": "AMANDA ERNSBERGER",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024632754",
+    "mappableAddress": "154 N MULBERRY ST Mansfield OH 44902",
+    "latitude": "40.7627229",
+    "longitude": "-82.5175056",
+    "name": "RICHARD BROCK",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024632759",
+    "mappableAddress": "214 MILLER ST Mansfield OH 44902",
+    "latitude": "40.764514",
+    "longitude": "-82.5194889",
+    "name": "ANGEL RENCHEN",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024559023",
+    "mappableAddress": "94 VALE AVE Mansfield OH 44902",
+    "latitude": "40.7694289",
+    "longitude": "-82.5183089",
+    "name": "JOSHUA CASEY",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0022264781",
+    "mappableAddress": "210 N MULBERRY ST Mansfield OH 44902",
+    "latitude": "40.7642863",
+    "longitude": "-82.5173365",
+    "name": "CLAYTON SANTEE",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024481648",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "JAVIER VARGAS",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023839473",
+    "mappableAddress": "149 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7609617",
+    "longitude": "-82.5209936",
+    "name": "ALIZE WILLIAMSON",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0021859530",
+    "mappableAddress": "473 DAISY ST Mansfield OH 44903",
+    "latitude": "40.7714839",
+    "longitude": "-82.5181647",
+    "name": "ASHLEY MINARD",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024499977",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "JOHN BRUMFIELD",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024579510",
+    "mappableAddress": "464 DAISY ST Mansfield OH 44903",
+    "latitude": "40.7713",
+    "longitude": "-82.5175796",
+    "name": "WANDA SEARLES",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024523777",
+    "mappableAddress": "144 BUCKINGHAM AVE Mansfield OH 44903",
+    "latitude": "40.7708376",
+    "longitude": "-82.5200424",
+    "name": "AUSTIN ADKINS",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024477622",
+    "mappableAddress": "462 N MULBERRY ST Mansfield OH 44902",
+    "latitude": "40.7709237",
+    "longitude": "-82.5189431",
+    "name": "NATHANIEL COVAULT",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0019294157",
+    "mappableAddress": "185 HARKER ST Mansfield OH 44903",
+    "latitude": "40.7714032",
+    "longitude": "-82.5214798",
+    "name": "APRIL LEWIS",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012667897",
+    "mappableAddress": "226 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.7649516",
+    "longitude": "-82.5228855",
+    "name": "WARREN LEE",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024511680",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "MICHAEL PARKER",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024608359",
+    "mappableAddress": "496 GRANT ST Mansfield OH 44903",
+    "latitude": "40.7723953",
+    "longitude": "-82.5216067",
+    "name": "FRED MANNS",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012664244",
+    "mappableAddress": "462 N MULBERRY ST Mansfield OH 44902",
+    "latitude": "40.7709237",
+    "longitude": "-82.5189431",
+    "name": "DONALD QUATES",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024538236",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "BRANDON BRANHAM",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0016002517",
+    "mappableAddress": "141 N WALNUT ST Mansfield OH 44902",
+    "latitude": "40.762367",
+    "longitude": "-82.516638",
+    "name": "CARMELA BAILEY",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0022748593",
+    "mappableAddress": "340 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.7680617",
+    "longitude": "-82.5227481",
+    "name": "JASMINE HERANS",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024616187",
+    "mappableAddress": "124 W 3RD ST Mansfield OH 44902",
+    "latitude": "40.7602533",
+    "longitude": "-82.5200831",
+    "name": "JOHN MUSIC",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0021643686",
+    "mappableAddress": "537 N MULBERRY ST Mansfield OH 44902",
+    "latitude": "40.772981",
+    "longitude": "-82.519577",
+    "name": "LEANDER STEWART",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023030537",
+    "mappableAddress": "94 VALE AVE Mansfield OH 44902",
+    "latitude": "40.7694289",
+    "longitude": "-82.5183089",
+    "name": "SARA WOODS",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0017799561",
+    "mappableAddress": "166 W DICKSON AVE Mansfield OH 44903",
+    "latitude": "40.7606293",
+    "longitude": "-82.5220917",
+    "name": "STEVEN PALMER",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024487900",
+    "mappableAddress": "124 W 3RD ST Mansfield OH 44902",
+    "latitude": "40.7602533",
+    "longitude": "-82.5200831",
+    "name": "RAFAEL GREGORY",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024608189",
+    "mappableAddress": "129 W 5TH ST Mansfield OH 44902",
+    "latitude": "40.7630112",
+    "longitude": "-82.5201269",
+    "name": "TYVONNE LEVERT",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024469935",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "RONALD LONG",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024554594",
+    "mappableAddress": "106 W 5TH ST Mansfield OH 44902",
+    "latitude": "40.7632922",
+    "longitude": "-82.5193025",
+    "name": "ANTHONY JOHNSON",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023272373",
+    "mappableAddress": "316 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.767292",
+    "longitude": "-82.5224099",
+    "name": "CHRISTINA SEXTON",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012668228",
+    "mappableAddress": "111 W 5TH ST Mansfield OH 44902",
+    "latitude": "40.7629362",
+    "longitude": "-82.5195773",
+    "name": "EARNESTINE SMITH",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024559535",
+    "mappableAddress": "345 HIGH ST Mansfield OH 44903",
+    "latitude": "40.7681532",
+    "longitude": "-82.5217335",
+    "name": "BRIANNA EDWARDS",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012688919",
+    "mappableAddress": "211 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7641971",
+    "longitude": "-82.5155989",
+    "name": "RACHEL BARR",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024500925",
+    "mappableAddress": "232 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.7650395",
+    "longitude": "-82.522875",
+    "name": "JOHN PORTER",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023642518",
+    "mappableAddress": "625 LIDA ST Mansfield OH 44903",
+    "latitude": "40.7758454",
+    "longitude": "-82.5208034",
+    "name": "LYNA BROOKS",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024596437",
+    "mappableAddress": "185 W 5TH ST Mansfield OH 44902",
+    "latitude": "40.7630276",
+    "longitude": "-82.5221985",
+    "name": "DANNY BOWLES",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023773032",
+    "mappableAddress": "597 LIDA ST Mansfield OH 44903",
+    "latitude": "40.7751005",
+    "longitude": "-82.5208456",
+    "name": "ROBERT ARRINGTON",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024613433",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "RICKY WOOD",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024505657",
+    "mappableAddress": "608 LIDA ST Mansfield OH 44903",
+    "latitude": "40.7754976",
+    "longitude": "-82.520296",
+    "name": "JACQUELINE BURDEN",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024645116",
+    "mappableAddress": "921 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7867591",
+    "longitude": "-82.5141223",
+    "name": "DAVID CHAPMAN",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0021389057",
+    "mappableAddress": "112 BOUGHTON AVE Mansfield OH 44902",
+    "latitude": "40.7616757",
+    "longitude": "-82.5201692",
+    "name": "ANGELA HERRON",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023882987",
+    "mappableAddress": "205 BUCKINGHAM AVE Mansfield OH 44903",
+    "latitude": "40.7703926",
+    "longitude": "-82.5222177",
+    "name": "DAYASMINE PERCY",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024599407",
+    "mappableAddress": "116 BOUGHTON AVE Mansfield OH 44902",
+    "latitude": "40.761846",
+    "longitude": "-82.5200635",
+    "name": "TUPAC BRENT",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024650070",
+    "mappableAddress": "140 HARKER ST Mansfield OH 44903",
+    "latitude": "40.7718077",
+    "longitude": "-82.519831",
+    "name": "DONALD JACKSON",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0022762702",
+    "mappableAddress": "597 LIDA ST Mansfield OH 44903",
+    "latitude": "40.7751005",
+    "longitude": "-82.5208456",
+    "name": "RENICKA MCLOYD",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024481660",
+    "mappableAddress": "117 W TEMPLE CT Mansfield OH 44903",
+    "latitude": "40.7616904",
+    "longitude": "-82.5197887",
+    "name": "RICKY PORTER",
+    "age": 54
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012661256",
+    "mappableAddress": "34 W 4TH ST Mansfield OH 44902",
+    "latitude": "40.7613066",
+    "longitude": "-82.5166342",
+    "name": "ANDREW MCINTYRE",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024632763",
+    "mappableAddress": "45 ORCHARD ST Mansfield OH 44903",
+    "latitude": "40.7699693",
+    "longitude": "-82.5164803",
+    "name": "LATONYA NORRIS",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024004180",
+    "mappableAddress": "99 W DICKSON AVE Mansfield OH 44903",
+    "latitude": "40.7603924",
+    "longitude": "-82.5191968",
+    "name": "JOSHUA HEASLEY",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024517103",
+    "mappableAddress": "326 PRESCOTT ST Mansfield OH 44903",
+    "latitude": "40.7675684",
+    "longitude": "-82.5200001",
+    "name": "ASHLEY MARTIN",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023199509",
+    "mappableAddress": "66 ORCHARD ST Mansfield OH 44903",
+    "latitude": "40.7702654",
+    "longitude": "-82.5172519",
+    "name": "MARIA KASPER",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0018631514",
+    "mappableAddress": "328 HIGH ST Mansfield OH 44903",
+    "latitude": "40.7677268",
+    "longitude": "-82.5212262",
+    "name": "NICOLE FISHER",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024500922",
+    "mappableAddress": "466 DAISY ST Mansfield OH 44903",
+    "latitude": "40.7714181",
+    "longitude": "-82.5175796",
+    "name": "HEATHER BANKS",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024559019",
+    "mappableAddress": "345 HIGH ST Mansfield OH 44903",
+    "latitude": "40.7681532",
+    "longitude": "-82.5217335",
+    "name": "BILLI LENSMAN",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024648841",
+    "mappableAddress": "252 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.76566",
+    "longitude": "-82.5228855",
+    "name": "ZACHARY OPPMAN",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0023373930",
+    "mappableAddress": "166 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7616876",
+    "longitude": "-82.5215644",
+    "name": "NATHAN LAWRENCE",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024487475",
+    "mappableAddress": "124 W 3RD ST Mansfield OH 44902",
+    "latitude": "40.7602533",
+    "longitude": "-82.5200831",
+    "name": "JAYSON BEARDSLEY",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012685968",
+    "mappableAddress": "124 W 3RD ST Mansfield OH 44902",
+    "latitude": "40.7602533",
+    "longitude": "-82.5200831",
+    "name": "CANDY NULL",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024596071",
+    "mappableAddress": "211 N MAIN ST Mansfield OH 44902",
+    "latitude": "40.7641971",
+    "longitude": "-82.5155989",
+    "name": "DEBRA CHAPMAN",
+    "age": 65
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012717369",
+    "mappableAddress": "149 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7609617",
+    "longitude": "-82.5209936",
+    "name": "THOMAS NORRIS",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024548965",
+    "mappableAddress": "517 LIDA ST Mansfield OH 44903",
+    "latitude": "40.7728153",
+    "longitude": "-82.5208034",
+    "name": "RICO JACKSON",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0012666152",
+    "mappableAddress": "111 W 5TH ST Mansfield OH 44902",
+    "latitude": "40.7629362",
+    "longitude": "-82.5195773",
+    "name": "WILMA SMITH",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0024192009",
+    "mappableAddress": "482 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.7720468",
+    "longitude": "-82.5226531",
+    "name": "TASHA MILEY",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man5b",
+    "SOS_VOTERID": "OH0021877586",
+    "mappableAddress": "316 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.767292",
+    "longitude": "-82.5224099",
+    "name": "KENNETH SEXTON",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024612929",
+    "mappableAddress": "690 KING ST Mansfield OH 44903",
+    "latitude": "40.7746328",
+    "longitude": "-82.5386874",
+    "name": "ELIZABETH SNOOK",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0019726924",
+    "mappableAddress": "378 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.7712875",
+    "longitude": "-82.5287935",
+    "name": "LASHONDA ROBERTSON",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012668548",
+    "mappableAddress": "535 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772675",
+    "longitude": "-82.534173",
+    "name": "JOHN BLACK",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024455990",
+    "mappableAddress": "640 KING ST Mansfield OH 44903",
+    "latitude": "40.774478",
+    "longitude": "-82.538717",
+    "name": "LYNDA LEMONS",
+    "age": 54
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024609128",
+    "mappableAddress": "604 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.76903",
+    "longitude": "-82.537226",
+    "name": "JT ROANE",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024632041",
+    "mappableAddress": "618 BURNS ST Mansfield OH 44903",
+    "latitude": "40.773219",
+    "longitude": "-82.536822",
+    "name": "JAMILAH RUCKER",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012715664",
+    "mappableAddress": "576 ARNOLD AVE Mansfield OH 44903",
+    "latitude": "40.774765",
+    "longitude": "-82.535291",
+    "name": "JASON DICKENS",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021354511",
+    "mappableAddress": "446 WOODRIDGE DR Mansfield OH 44906",
+    "latitude": "40.770522",
+    "longitude": "-82.5452509",
+    "name": "VIVIAN BONDS",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012704771",
+    "mappableAddress": "684 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768983",
+    "longitude": "-82.541558",
+    "name": "BOBI GINN",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012667518",
+    "mappableAddress": "720 KING ST Mansfield OH 44903",
+    "latitude": "40.7742246",
+    "longitude": "-82.5395989",
+    "name": "BETTY TAYLOR",
+    "age": 84
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024516329",
+    "mappableAddress": "750 BURNS ST Mansfield OH 44903",
+    "latitude": "40.7733536",
+    "longitude": "-82.54141",
+    "name": "NINA COZZENS",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021818789",
+    "mappableAddress": "474 COLLINS DR Mansfield OH 44903",
+    "latitude": "40.771873",
+    "longitude": "-82.539059",
+    "name": "BENJAMIN RICHARD",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012695421",
+    "mappableAddress": "496 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.7706163",
+    "longitude": "-82.5324155",
+    "name": "ASHLEY MESSER",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024542576",
+    "mappableAddress": "572 REED ST Mansfield OH 44903",
+    "latitude": "40.76968",
+    "longitude": "-82.535627",
+    "name": "AARON LARKINS",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024374752",
+    "mappableAddress": "555 ALLISON AVE Mansfield OH 44903",
+    "latitude": "40.773699",
+    "longitude": "-82.542434",
+    "name": "SHANNON MONTGOMERY",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021143792",
+    "mappableAddress": "760 BURNS ST Mansfield OH 44903",
+    "latitude": "40.7733981",
+    "longitude": "-82.5414113",
+    "name": "REBECCA JAMES",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022370741",
+    "mappableAddress": "592 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.771259",
+    "longitude": "-82.535712",
+    "name": "DANIEL LEVINGSTON",
+    "age": 65
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021531708",
+    "mappableAddress": "474 COLLINS DR Mansfield OH 44903",
+    "latitude": "40.771873",
+    "longitude": "-82.539059",
+    "name": "ASHLEE THORNE",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012727930",
+    "mappableAddress": "521 BRYDEN RD Mansfield OH 44903",
+    "latitude": "40.773173",
+    "longitude": "-82.5478773",
+    "name": "JOSHUA CHASE",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012669956",
+    "mappableAddress": "659 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768531",
+    "longitude": "-82.540345",
+    "name": "TANA GINN",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024002827",
+    "mappableAddress": "685 KING ST Mansfield OH 44903",
+    "latitude": "40.7736729",
+    "longitude": "-82.538536",
+    "name": "TAZMIN BROOKS",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024501232",
+    "mappableAddress": "560 ARNOLD AVE Mansfield OH 44903",
+    "latitude": "40.7747559",
+    "longitude": "-82.535004",
+    "name": "VICKIE JOHNSON",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012701202",
+    "mappableAddress": "797 KING ST Mansfield OH 44903",
+    "latitude": "40.7736019",
+    "longitude": "-82.54333",
+    "name": "ERNEST WISE",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024469403",
+    "mappableAddress": "815 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772502",
+    "longitude": "-82.544353",
+    "name": "NALA BROWN",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024608729",
+    "mappableAddress": "579 SPRINGMILL ST Mansfield OH 44903",
+    "latitude": "40.770164",
+    "longitude": "-82.526751",
+    "name": "ODYSSEY PATTON",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024511045",
+    "mappableAddress": "474 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.770656",
+    "longitude": "-82.531679",
+    "name": "JESSICA SCROGGINS",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012666154",
+    "mappableAddress": "452 WOODRIDGE DR Mansfield OH 44906",
+    "latitude": "40.770368",
+    "longitude": "-82.544814",
+    "name": "EZELL TAYLOR",
+    "age": 81
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021773498",
+    "mappableAddress": "643 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768475",
+    "longitude": "-82.539392",
+    "name": "TABITHA MUJIHAD",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0023888633",
+    "mappableAddress": "633 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772625",
+    "longitude": "-82.537767",
+    "name": "TIFFANY YELLEY",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024613417",
+    "mappableAddress": "770 KING ST Mansfield OH 44903",
+    "latitude": "40.774289",
+    "longitude": "-82.541317",
+    "name": "HARMONY WOLFE",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024063751",
+    "mappableAddress": "670 KING ST Mansfield OH 44903",
+    "latitude": "40.7744134",
+    "longitude": "-82.5380511",
+    "name": "BRADY JACQUIN",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012667808",
+    "mappableAddress": "740 BURNS ST Mansfield OH 44903",
+    "latitude": "40.773398",
+    "longitude": "-82.541411",
+    "name": "ANN SANBORN",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024613525",
+    "mappableAddress": "439 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772653",
+    "longitude": "-82.530557",
+    "name": "MCKYNZI PARKER DANIELS",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024656496",
+    "mappableAddress": "539 ALLISON AVE Mansfield OH 44903",
+    "latitude": "40.7732675",
+    "longitude": "-82.542431",
+    "name": "BRENT JACKSON",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024599448",
+    "mappableAddress": "685 KING ST Mansfield OH 44903",
+    "latitude": "40.7736729",
+    "longitude": "-82.538536",
+    "name": "MARGARET BURGE",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024525649",
+    "mappableAddress": "820 BURNS ST Mansfield OH 44903",
+    "latitude": "40.773156",
+    "longitude": "-82.544569",
+    "name": "HALEY MILLER",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0023467096",
+    "mappableAddress": "423 BURNS ST Mansfield OH 44903",
+    "latitude": "40.77279",
+    "longitude": "-82.5298959",
+    "name": "HEATHER BREWSTER",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021039981",
+    "mappableAddress": "647 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768485",
+    "longitude": "-82.539608",
+    "name": "VERONICA TODDIE",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024645167",
+    "mappableAddress": "651 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.770149",
+    "longitude": "-82.537969",
+    "name": "MELISSA HUNTER",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024613654",
+    "mappableAddress": "650 KING ST Mansfield OH 44903",
+    "latitude": "40.7744118",
+    "longitude": "-82.5374275",
+    "name": "COURTNEY MAKI",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022588152",
+    "mappableAddress": "531 KING ST Mansfield OH 44903",
+    "latitude": "40.77372",
+    "longitude": "-82.533822",
+    "name": "REBECCA LAMP",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0023884903",
+    "mappableAddress": "660 KING ST Mansfield OH 44903",
+    "latitude": "40.7744126",
+    "longitude": "-82.5377393",
+    "name": "VASHON BYERLY",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0019073613",
+    "mappableAddress": "685 KING ST Mansfield OH 44903",
+    "latitude": "40.7736729",
+    "longitude": "-82.538536",
+    "name": "DAMIR ROSS",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024589295",
+    "mappableAddress": "750 BURNS ST Mansfield OH 44903",
+    "latitude": "40.7733536",
+    "longitude": "-82.54141",
+    "name": "VERONICA CARTER",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012715666",
+    "mappableAddress": "487 KING ST Mansfield OH 44903",
+    "latitude": "40.773742",
+    "longitude": "-82.532218",
+    "name": "BRENDA HEDRICK",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012667591",
+    "mappableAddress": "1185 HARWOOD DR Mansfield OH 44906",
+    "latitude": "40.756767",
+    "longitude": "-82.5612187",
+    "name": "DARREN SANBORN",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024559523",
+    "mappableAddress": "831 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772531",
+    "longitude": "-82.544849",
+    "name": "EDDIE WILLIAMS",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021830685",
+    "mappableAddress": "803 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772663",
+    "longitude": "-82.543977",
+    "name": "HEATHER PIRTLE",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024003162",
+    "mappableAddress": "611 KING ST Mansfield OH 44903",
+    "latitude": "40.773677",
+    "longitude": "-82.536468",
+    "name": "MICHAEL COLLINS",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012669484",
+    "mappableAddress": "621 KING ST Mansfield OH 44903",
+    "latitude": "40.773672",
+    "longitude": "-82.537037",
+    "name": "CAROL GREEN",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024589292",
+    "mappableAddress": "464 HOLZWORTH DR Mansfield OH 44903",
+    "latitude": "40.771415",
+    "longitude": "-82.533533",
+    "name": "ERIC SIMMERING",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024613123",
+    "mappableAddress": "770 KING ST Mansfield OH 44903",
+    "latitude": "40.774289",
+    "longitude": "-82.541317",
+    "name": "SUMMER VERNOOY",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012654378",
+    "mappableAddress": "468 COLLINS DR Mansfield OH 44903",
+    "latitude": "40.771704",
+    "longitude": "-82.539057",
+    "name": "SKYE DOERRER",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0019767558",
+    "mappableAddress": "670 KING ST Mansfield OH 44903",
+    "latitude": "40.7744134",
+    "longitude": "-82.5380511",
+    "name": "SUZANNA HILL",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024656493",
+    "mappableAddress": "539 ALLISON AVE Mansfield OH 44903",
+    "latitude": "40.7732675",
+    "longitude": "-82.542431",
+    "name": "JESSICA MCGLOTHLIN",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012698308",
+    "mappableAddress": "509 ALLISON AVE Mansfield OH 44903",
+    "latitude": "40.772633",
+    "longitude": "-82.542596",
+    "name": "AMY MCMILLAN",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012712446",
+    "mappableAddress": "404 LAWNSDALE AVE Mansfield OH 44903",
+    "latitude": "40.769984",
+    "longitude": "-82.535979",
+    "name": "MICHELLE GILLUM",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012666995",
+    "mappableAddress": "651 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768497",
+    "longitude": "-82.539833",
+    "name": "BYRON PATRICK",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0020805823",
+    "mappableAddress": "654 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768999",
+    "longitude": "-82.540042",
+    "name": "KASHEMA GINN",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022828796",
+    "mappableAddress": "416 REED ST Mansfield OH 44903",
+    "latitude": "40.769641",
+    "longitude": "-82.5299409",
+    "name": "HALEY BANKS",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024332036",
+    "mappableAddress": "765 FLORAL CT Mansfield OH 44903",
+    "latitude": "40.77266",
+    "longitude": "-82.543118",
+    "name": "DELMARKUS HARDEN",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024487957",
+    "mappableAddress": "691 BURNS ST Mansfield OH 44903",
+    "latitude": "40.772589",
+    "longitude": "-82.539843",
+    "name": "MICHAEL UPCHURCH",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021605708",
+    "mappableAddress": "392 ST CLAIR ST Mansfield OH 44903",
+    "latitude": "40.7695669",
+    "longitude": "-82.5285082",
+    "name": "CASSANDRA CALL",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022540032",
+    "mappableAddress": "555 ALLISON AVE Mansfield OH 44903",
+    "latitude": "40.773699",
+    "longitude": "-82.542434",
+    "name": "DANITA TOLIVER",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012654682",
+    "mappableAddress": "361 CEDAR ST Mansfield OH 44903",
+    "latitude": "40.768705",
+    "longitude": "-82.524323",
+    "name": "CHARLIE BETTIS",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0018158871",
+    "mappableAddress": "720 KING ST Mansfield OH 44903",
+    "latitude": "40.7742246",
+    "longitude": "-82.5395989",
+    "name": "NATASHA WHITE",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0020993990",
+    "mappableAddress": "524 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.7706448",
+    "longitude": "-82.5334974",
+    "name": "ALEXA MABRY",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012664430",
+    "mappableAddress": "468 STARK ST Mansfield OH 44903",
+    "latitude": "40.771709",
+    "longitude": "-82.537848",
+    "name": "MARY RACHEL",
+    "age": 73
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012668092",
+    "mappableAddress": "446 WOODRIDGE DR Mansfield OH 44906",
+    "latitude": "40.770522",
+    "longitude": "-82.5452509",
+    "name": "DARRELL BONDS",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0020135364",
+    "mappableAddress": "660 KING ST Mansfield OH 44903",
+    "latitude": "40.7744126",
+    "longitude": "-82.5377393",
+    "name": "PATRICK REYNOLDS",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024326808",
+    "mappableAddress": "810 BURNS ST Mansfield OH 44903",
+    "latitude": "40.773156",
+    "longitude": "-82.544071",
+    "name": "ADRIENNE ROGERS",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022459688",
+    "mappableAddress": "710 KING ST Mansfield OH 44903",
+    "latitude": "40.7742279",
+    "longitude": "-82.539278",
+    "name": "ANDREW FRAD ECKHARDT",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0023703449",
+    "mappableAddress": "555 ALLISON AVE Mansfield OH 44903",
+    "latitude": "40.773699",
+    "longitude": "-82.542434",
+    "name": "MICHAEL MONTGOMERY",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024334155",
+    "mappableAddress": "778 BURNS ST Mansfield OH 44903",
+    "latitude": "40.773156",
+    "longitude": "-82.542817",
+    "name": "CAMERON PUGH",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012701731",
+    "mappableAddress": "720 KING ST Mansfield OH 44903",
+    "latitude": "40.7742246",
+    "longitude": "-82.5395989",
+    "name": "MARY BOYD",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024596074",
+    "mappableAddress": "472 HOLZWORTH DR Mansfield OH 44903",
+    "latitude": "40.77172",
+    "longitude": "-82.533529",
+    "name": "MARIO JESTER",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012701079",
+    "mappableAddress": "2139 S MAIN ST Mansfield OH 44907",
+    "latitude": "40.7005712",
+    "longitude": "-82.5112901",
+    "name": "JENIFER JORDAN",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012654227",
+    "mappableAddress": "684 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768983",
+    "longitude": "-82.541558",
+    "name": "SYLVESTER GINN",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012727564",
+    "mappableAddress": "521 BRYDEN RD Mansfield OH 44903",
+    "latitude": "40.773173",
+    "longitude": "-82.5478773",
+    "name": "MARSHA CHASE",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012727562",
+    "mappableAddress": "521 BRYDEN RD Mansfield OH 44903",
+    "latitude": "40.773173",
+    "longitude": "-82.5478773",
+    "name": "GREGORY CHASE",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024609273",
+    "mappableAddress": "770 KING ST Mansfield OH 44903",
+    "latitude": "40.774289",
+    "longitude": "-82.541317",
+    "name": "ALISHA SHORT",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024612892",
+    "mappableAddress": "623 MCPHERSON ST Mansfield OH 44903",
+    "latitude": "40.770831",
+    "longitude": "-82.536918",
+    "name": "JOSEPH PARENCE",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024613561",
+    "mappableAddress": "362 CEDAR ST Mansfield OH 44903",
+    "latitude": "40.7687289",
+    "longitude": "-82.5239319",
+    "name": "TRAVIS THOMAS",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024516323",
+    "mappableAddress": "513 HOWARD ST Mansfield OH 44903",
+    "latitude": "40.772732",
+    "longitude": "-82.533009",
+    "name": "NOAH JOHNSON",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024599621",
+    "mappableAddress": "456 REED ST Mansfield OH 44903",
+    "latitude": "40.769611",
+    "longitude": "-82.531384",
+    "name": "JERIHMAI CRAFT",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024332040",
+    "mappableAddress": "765 FLORAL CT Mansfield OH 44903",
+    "latitude": "40.77266",
+    "longitude": "-82.543118",
+    "name": "RYAN VANDYKE",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0018906947",
+    "mappableAddress": "461 HOWARD ST Mansfield OH 44903",
+    "latitude": "40.771348",
+    "longitude": "-82.53299",
+    "name": "BILLY PUTMAN",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022727017",
+    "mappableAddress": "740 BURNS ST Mansfield OH 44903",
+    "latitude": "40.773398",
+    "longitude": "-82.541411",
+    "name": "TYISHA WHITE",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0021943968",
+    "mappableAddress": "633 SACKMAN ST Mansfield OH 44903",
+    "latitude": "40.768458",
+    "longitude": "-82.538959",
+    "name": "RASHAD REED",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0024500071",
+    "mappableAddress": "521 KING ST Mansfield OH 44903",
+    "latitude": "40.773725",
+    "longitude": "-82.533461",
+    "name": "CODY THOMPSON",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0022932121",
+    "mappableAddress": "690 KING ST Mansfield OH 44903",
+    "latitude": "40.7746328",
+    "longitude": "-82.5386874",
+    "name": "ZACHARY CLINE",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4e",
+    "SOS_VOTERID": "OH0012694144",
+    "mappableAddress": "1668 KENMORE DR Mansfield OH 44906",
+    "latitude": "40.75425",
+    "longitude": "-82.574158",
+    "name": "DONWAUN VALDRY",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0015629402",
+    "mappableAddress": "1199 BOYLE RD Mansfield OH 44906",
+    "latitude": "40.788989",
+    "longitude": "-82.540414",
+    "name": "GLENN GARRISON",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0019638015",
+    "mappableAddress": "388 HARMON AVE Mansfield OH 44903",
+    "latitude": "40.780246",
+    "longitude": "-82.528346",
+    "name": "IKEM WAOBIA",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012676758",
+    "mappableAddress": "1120 BOYLE RD Mansfield OH 44906",
+    "latitude": "40.7884874",
+    "longitude": "-82.5396922",
+    "name": "RAMONA PERRY",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024558353",
+    "mappableAddress": "283 GRANDVIEW AVE Mansfield OH 44903",
+    "latitude": "40.778766",
+    "longitude": "-82.524534",
+    "name": "ISAAC ADHOLA",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012698443",
+    "mappableAddress": "987 SPRINGMILL ST Mansfield OH 44906",
+    "latitude": "40.778227",
+    "longitude": "-82.53768",
+    "name": "DANNY HALL",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0023821500",
+    "mappableAddress": "1203 STONE RD Mansfield OH 44906",
+    "latitude": "40.789931",
+    "longitude": "-82.536777",
+    "name": "ROBERT LEE",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024320068",
+    "mappableAddress": "285 GRANDVIEW AVE Mansfield OH 44903",
+    "latitude": "40.7787629",
+    "longitude": "-82.5246099",
+    "name": "CAMERON SYLVESTER LEE",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012682321",
+    "mappableAddress": "579 WARREN RD Mansfield OH 44906",
+    "latitude": "40.7882279",
+    "longitude": "-82.537127",
+    "name": "BETTY FRAZIER",
+    "age": 54
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0022282371",
+    "mappableAddress": "544 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7736874",
+    "longitude": "-82.5239319",
+    "name": "KATHERINE ELSWICK",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0023575148",
+    "mappableAddress": "437 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7707936",
+    "longitude": "-82.5243652",
+    "name": "HUNTER MATHENY EATON",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024559788",
+    "mappableAddress": "743 BOWMAN ST Mansfield OH 44903",
+    "latitude": "40.7787859",
+    "longitude": "-82.5232879",
+    "name": "DEJANEE BROOKINS",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0020449046",
+    "mappableAddress": "515 WOODLAND AVE Mansfield OH 44903",
+    "latitude": "40.7730128",
+    "longitude": "-82.5256652",
+    "name": "SHERRY WHETSTONE",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024272680",
+    "mappableAddress": "323 CHARLES ST Mansfield OH 44903",
+    "latitude": "40.780786",
+    "longitude": "-82.52595",
+    "name": "ANTHONY OWENSBY",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024481769",
+    "mappableAddress": "1239 POND RD Mansfield OH 44906",
+    "latitude": "40.790515",
+    "longitude": "-82.534347",
+    "name": "BRIANNA PRATER",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0021039850",
+    "mappableAddress": "591 DEAN RD Mansfield OH 44906",
+    "latitude": "40.78906",
+    "longitude": "-82.537501",
+    "name": "KENNETH SALISBURY",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024362462",
+    "mappableAddress": "522 SPRINGMILL ST Mansfield OH 44903",
+    "latitude": "40.7697932",
+    "longitude": "-82.524566",
+    "name": "JUANITA CARR",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0021477055",
+    "mappableAddress": "284 W LONGVIEW AVE Mansfield OH 44903",
+    "latitude": "40.77704",
+    "longitude": "-82.52464",
+    "name": "ALDEN THIBEAU",
+    "age": 70
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024516330",
+    "mappableAddress": "279 HARKER ST Mansfield OH 44903",
+    "latitude": "40.77135",
+    "longitude": "-82.5249042",
+    "name": "JAQUAN THOMPSON",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024500045",
+    "mappableAddress": "443 CHARLES ST Mansfield OH 44903",
+    "latitude": "40.780678",
+    "longitude": "-82.530479",
+    "name": "KIARRA MATHEWS",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012714325",
+    "mappableAddress": "1058 COUNTRY CLUB DR Mansfield OH 44906",
+    "latitude": "40.789103",
+    "longitude": "-82.5421269",
+    "name": "HARVEY KITTS",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0022268207",
+    "mappableAddress": "638 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7763294",
+    "longitude": "-82.5240164",
+    "name": "JACOB CARROLL",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0021670671",
+    "mappableAddress": "500 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7725096",
+    "longitude": "-82.5239742",
+    "name": "SHIRLEY MILLER",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012666375",
+    "mappableAddress": "407 DEAN RD Mansfield OH 44906",
+    "latitude": "40.789131",
+    "longitude": "-82.5320799",
+    "name": "TERRI LAMBERT",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024613722",
+    "mappableAddress": "692 W LONGVIEW AVE Mansfield OH 44906",
+    "latitude": "40.7768234",
+    "longitude": "-82.5393781",
+    "name": "MICHAEL GRIFFEY",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024580060",
+    "mappableAddress": "283 GRANDVIEW AVE Mansfield OH 44903",
+    "latitude": "40.778766",
+    "longitude": "-82.524534",
+    "name": "BRANDON HIMMELHAVER",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024554862",
+    "mappableAddress": "412 POMERENE RD Mansfield OH 44906",
+    "latitude": "40.7862994",
+    "longitude": "-82.5322574",
+    "name": "LARRY HARRIS",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0015871056",
+    "mappableAddress": "626 STOCKING AVE Mansfield OH 44903",
+    "latitude": "40.7761367",
+    "longitude": "-82.5263522",
+    "name": "BERT HALLOWAY",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0020154611",
+    "mappableAddress": "591 DEAN RD Mansfield OH 44906",
+    "latitude": "40.78906",
+    "longitude": "-82.537501",
+    "name": "MEGAN SALISBURY",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024632104",
+    "mappableAddress": "525 WARREN RD Mansfield OH 44906",
+    "latitude": "40.788252",
+    "longitude": "-82.535231",
+    "name": "HOMER KISER",
+    "age": 77
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024488396",
+    "mappableAddress": "306 WARREN RD Mansfield OH 44906",
+    "latitude": "40.788882",
+    "longitude": "-82.528425",
+    "name": "SUSAN LYONS",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024455416",
+    "mappableAddress": "445 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7709903",
+    "longitude": "-82.5243652",
+    "name": "TYASIYAH OSBORNE",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024613340",
+    "mappableAddress": "334 LOUIS ST Mansfield OH 44903",
+    "latitude": "40.782473",
+    "longitude": "-82.5263499",
+    "name": "CHARLES WILLIAMS",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024158014",
+    "mappableAddress": "657 W LONGVIEW AVE Mansfield OH 44906",
+    "latitude": "40.7769819",
+    "longitude": "-82.537823",
+    "name": "BETHANY STACY",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0023393789",
+    "mappableAddress": "646 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7765628",
+    "longitude": "-82.5239742",
+    "name": "DERRICK WATSON",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0020206957",
+    "mappableAddress": "97 CHILTON AVE Mansfield OH 44907",
+    "latitude": "40.7410659",
+    "longitude": "-82.519202",
+    "name": "BRITTANY BRENEMAN",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0019835741",
+    "mappableAddress": "396 LOUIS ST Mansfield OH 44903",
+    "latitude": "40.782428",
+    "longitude": "-82.528575",
+    "name": "HEATHER BAUGHMAN",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012666778",
+    "mappableAddress": "629 STOCKING AVE Mansfield OH 44903",
+    "latitude": "40.7761481",
+    "longitude": "-82.5266798",
+    "name": "ASHANTAE CRAWFORD",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024484218",
+    "mappableAddress": "578 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7746712",
+    "longitude": "-82.5239319",
+    "name": "CAMRON TAYLOR",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0018807779",
+    "mappableAddress": "756 MARCELLA AVE Mansfield OH 44903",
+    "latitude": "40.7796979",
+    "longitude": "-82.5235925",
+    "name": "TERRY MCMILLEN",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0022010828",
+    "mappableAddress": "365 HARDING RD Mansfield OH 44906",
+    "latitude": "40.7867101",
+    "longitude": "-82.5306215",
+    "name": "VICTORIA HOLMES",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024523370",
+    "mappableAddress": "624 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7759359",
+    "longitude": "-82.5240164",
+    "name": "AMBER COOLEY",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0023703763",
+    "mappableAddress": "646 JOHNS AVE Mansfield OH 44903",
+    "latitude": "40.7765628",
+    "longitude": "-82.5239742",
+    "name": "LESLIE CARTER",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024582428",
+    "mappableAddress": "657 STELTZ LN Mansfield OH 44906",
+    "latitude": "40.777488",
+    "longitude": "-82.538548",
+    "name": "NELLIE DICK",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024189290",
+    "mappableAddress": "534 WOODLAND AVE Mansfield OH 44903",
+    "latitude": "40.7735364",
+    "longitude": "-82.5252425",
+    "name": "LISA POLLARD",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012665054",
+    "mappableAddress": "1117 POND RD Mansfield OH 44906",
+    "latitude": "40.790858",
+    "longitude": "-82.53435",
+    "name": "SHERRY SMITH",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0012701157",
+    "mappableAddress": "296 FERN AVE Mansfield OH 44903",
+    "latitude": "40.7783749",
+    "longitude": "-82.524932",
+    "name": "LOUIS YOUNG",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024631300",
+    "mappableAddress": "518 WARREN RD Mansfield OH 44906",
+    "latitude": "40.788744",
+    "longitude": "-82.534873",
+    "name": "STEVIE SHAFER",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0021065349",
+    "mappableAddress": "407 DEAN RD Mansfield OH 44906",
+    "latitude": "40.789131",
+    "longitude": "-82.5320799",
+    "name": "STORMY THOMPSON",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024362471",
+    "mappableAddress": "522 SPRINGMILL ST Mansfield OH 44903",
+    "latitude": "40.7697932",
+    "longitude": "-82.524566",
+    "name": "BRANDY HILL",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0015906468",
+    "mappableAddress": "298 HARMON AVE Mansfield OH 44903",
+    "latitude": "40.7802938",
+    "longitude": "-82.5250839",
+    "name": "BRIAN WADE",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4d",
+    "SOS_VOTERID": "OH0024538182",
+    "mappableAddress": "657 W LONGVIEW AVE Mansfield OH 44906",
+    "latitude": "40.7769819",
+    "longitude": "-82.537823",
+    "name": "VIRGINIA SEVERA",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023252037",
+    "mappableAddress": "28 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7596232",
+    "longitude": "-82.5349933",
+    "name": "KIMBERLY REINHART",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023035109",
+    "mappableAddress": "110 WILLOW ST Mansfield OH 44903",
+    "latitude": "40.7616364",
+    "longitude": "-82.5251945",
+    "name": "TERRY MURPHY",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024473562",
+    "mappableAddress": "24 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7595563",
+    "longitude": "-82.5347894",
+    "name": "ROSHELLE DULL",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0021881357",
+    "mappableAddress": "143 RAE AVE Mansfield OH 44903",
+    "latitude": "40.7628576",
+    "longitude": "-82.5365714",
+    "name": "FREDDIE GORDON",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024546244",
+    "mappableAddress": "225 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7610403",
+    "longitude": "-82.5237205",
+    "name": "TACUMA FULLER",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012671925",
+    "mappableAddress": "39 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7598633",
+    "longitude": "-82.531668",
+    "name": "CHRISTOPHER SAMPSEL",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024485920",
+    "mappableAddress": "459 SHERMAN PL Mansfield OH 44903",
+    "latitude": "40.7614258",
+    "longitude": "-82.5320908",
+    "name": "TIFFANY CLINE",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024651721",
+    "mappableAddress": "22 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.7594142",
+    "longitude": "-82.5286878",
+    "name": "MARIO WINDHAM",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024504860",
+    "mappableAddress": "43 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7599814",
+    "longitude": "-82.531668",
+    "name": "CEDRIC FRENEY",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023148268",
+    "mappableAddress": "606 HEINEMAN BLVD Mansfield OH 44903",
+    "latitude": "40.7620858",
+    "longitude": "-82.5374168",
+    "name": "TABATHA HALL",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024632008",
+    "mappableAddress": "133 N BENTON ST Mansfield OH 44903",
+    "latitude": "40.7623857",
+    "longitude": "-82.5262571",
+    "name": "PAUL MANLET",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022433688",
+    "mappableAddress": "142 RAE AVE Mansfield OH 44903",
+    "latitude": "40.7627854",
+    "longitude": "-82.5360642",
+    "name": "WESLENE BROWN",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012668264",
+    "mappableAddress": "279 SHERIDAN AVE Mansfield OH 44903",
+    "latitude": "40.7642174",
+    "longitude": "-82.5253693",
+    "name": "CHIQUITA TODDIE",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024609136",
+    "mappableAddress": "88 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7613229",
+    "longitude": "-82.5347538",
+    "name": "NATHAN ROBISON",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022792970",
+    "mappableAddress": "122 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.7621091",
+    "longitude": "-82.5286667",
+    "name": "FAUNITA MURNAHAN",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024511048",
+    "mappableAddress": "40 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.7599116",
+    "longitude": "-82.5331411",
+    "name": "RUBY VILLELLA",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023235318",
+    "mappableAddress": "192 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7641267",
+    "longitude": "-82.5377131",
+    "name": "RICHARD BIGLER",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024650944",
+    "mappableAddress": "85 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.761249",
+    "longitude": "-82.533838",
+    "name": "BLADE PAINTER",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012666182",
+    "mappableAddress": "409 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.762852",
+    "longitude": "-82.530241",
+    "name": "CHARLOTTE SHOTO",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012670774",
+    "mappableAddress": "47 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7600995",
+    "longitude": "-82.531668",
+    "name": "KEITH WHITE",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024609222",
+    "mappableAddress": "392 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7620092",
+    "longitude": "-82.5295544",
+    "name": "SHERRI SCHARTIGER",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024554863",
+    "mappableAddress": "410 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.763505",
+    "longitude": "-82.530235",
+    "name": "CHEYENNE FOOTE",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024538064",
+    "mappableAddress": "303 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.7650649",
+    "longitude": "-82.5262993",
+    "name": "LINDA HEDRICK",
+    "age": 72
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0020805640",
+    "mappableAddress": "338 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.7604987",
+    "longitude": "-82.5278303",
+    "name": "DANNY RUCKER",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012668237",
+    "mappableAddress": "303 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.7650649",
+    "longitude": "-82.5262993",
+    "name": "LINDA LAROSE",
+    "age": 68
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023687642",
+    "mappableAddress": "192 ATCHESON AVE Mansfield OH 44903",
+    "latitude": "40.7641159",
+    "longitude": "-82.5322331",
+    "name": "TIRA ROBERTSON",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024581091",
+    "mappableAddress": "302 HERMAN AVE Mansfield OH 44903",
+    "latitude": "40.7627088",
+    "longitude": "-82.5263839",
+    "name": "TAKERA MCNEIL",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024559025",
+    "mappableAddress": "143 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.76277",
+    "longitude": "-82.5352188",
+    "name": "TIFFANY PUCKETT",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0014845188",
+    "mappableAddress": "352 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7616826",
+    "longitude": "-82.5281594",
+    "name": "WILLIAM JENKINS",
+    "age": 70
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0020805970",
+    "mappableAddress": "37 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.759797",
+    "longitude": "-82.529094",
+    "name": "TERRI WILLISON",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0020602834",
+    "mappableAddress": "126 N BENTON ST Mansfield OH 44903",
+    "latitude": "40.7622091",
+    "longitude": "-82.5259611",
+    "name": "OLIVIA JONES",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024051550",
+    "mappableAddress": "750 WALNUT DR S Mansfield OH 44904",
+    "latitude": "40.688476",
+    "longitude": "-82.538922",
+    "name": "CATHY WARD",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024632765",
+    "mappableAddress": "318 SHERIDAN AVE Mansfield OH 44903",
+    "latitude": "40.7645102",
+    "longitude": "-82.5268489",
+    "name": "LILLIE COFFEE",
+    "age": 72
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0019606348",
+    "mappableAddress": "266 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.7604619",
+    "longitude": "-82.525183",
+    "name": "GEORGE MCDOUGALL",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012663993",
+    "mappableAddress": "398 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7620229",
+    "longitude": "-82.5297658",
+    "name": "CATHRINE DUNCAN",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0019924412",
+    "mappableAddress": "204 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.764469",
+    "longitude": "-82.534393",
+    "name": "ELGIN NETTLES",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024579952",
+    "mappableAddress": "218 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.7648185",
+    "longitude": "-82.5326714",
+    "name": "TIMOTHY OAKES",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024579955",
+    "mappableAddress": "218 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.7648185",
+    "longitude": "-82.5326714",
+    "name": "LAURA SHAWVER",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022268189",
+    "mappableAddress": "90 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.76112",
+    "longitude": "-82.533081",
+    "name": "HOLLY CAMPBELL",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024003681",
+    "mappableAddress": "126 N BENTON ST Mansfield OH 44903",
+    "latitude": "40.7622091",
+    "longitude": "-82.5259611",
+    "name": "SARAH SMITH",
+    "age": 79
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0019150019",
+    "mappableAddress": "47 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7600995",
+    "longitude": "-82.531668",
+    "name": "SUMMER CRIDER",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012667370",
+    "mappableAddress": "352 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7616826",
+    "longitude": "-82.5281594",
+    "name": "CELISA HOLSINGER",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024599484",
+    "mappableAddress": "110 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7618346",
+    "longitude": "-82.5347538",
+    "name": "CAITLYN CARPER",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012666445",
+    "mappableAddress": "394 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.763508",
+    "longitude": "-82.52956",
+    "name": "LAKISHA JOHNSON",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023839929",
+    "mappableAddress": "132 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.7623452",
+    "longitude": "-82.5286667",
+    "name": "GLADYS JUDD",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024315638",
+    "mappableAddress": "376 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.7633878",
+    "longitude": "-82.5289626",
+    "name": "BRITTANY KING",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024494275",
+    "mappableAddress": "467 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.7602396",
+    "longitude": "-82.53266",
+    "name": "JAMES BENJAMIN",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024614361",
+    "mappableAddress": "212 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.7646246",
+    "longitude": "-82.5330872",
+    "name": "ANGELA GURNEY",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022933622",
+    "mappableAddress": "327 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.7650721",
+    "longitude": "-82.527018",
+    "name": "SHAYNE KILGORE",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024436876",
+    "mappableAddress": "225 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7610403",
+    "longitude": "-82.5237205",
+    "name": "HENRY HARDEN",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024572345",
+    "mappableAddress": "286 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.7603564",
+    "longitude": "-82.5259189",
+    "name": "ALEXIS BOYD",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0020180525",
+    "mappableAddress": "124 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7622282",
+    "longitude": "-82.5347538",
+    "name": "TREASURE BRINKER",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024609039",
+    "mappableAddress": "110 WILLOW ST Mansfield OH 44903",
+    "latitude": "40.7616364",
+    "longitude": "-82.5251945",
+    "name": "DAVID REYNOLDS",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023274352",
+    "mappableAddress": "303 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.7650649",
+    "longitude": "-82.5262993",
+    "name": "TIMOTHY HEDRICK",
+    "age": 51
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024647525",
+    "mappableAddress": "146 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.7628121",
+    "longitude": "-82.5285821",
+    "name": "JENEEYAH BEASLEY",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023751475",
+    "mappableAddress": "406 SHERMAN PL Mansfield OH 44903",
+    "latitude": "40.7616676",
+    "longitude": "-82.5302661",
+    "name": "JOSEPH ALDRICH",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024523604",
+    "mappableAddress": "359 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.7650309",
+    "longitude": "-82.5282017",
+    "name": "ANDREW SCHUSTER",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023308757",
+    "mappableAddress": "38 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7597938",
+    "longitude": "-82.5312031",
+    "name": "JOSEPH CLARK",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0020288998",
+    "mappableAddress": "216 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.760352",
+    "longitude": "-82.5234246",
+    "name": "RONTRELL WINDHAM",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024513910",
+    "mappableAddress": "173 N BENTON ST Mansfield OH 44903",
+    "latitude": "40.7635628",
+    "longitude": "-82.5263522",
+    "name": "PENELOPY HEWITT",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024505330",
+    "mappableAddress": "242 SHERIDAN AVE Mansfield OH 44903",
+    "latitude": "40.764649",
+    "longitude": "-82.524171",
+    "name": "SHANGA WILLIAMS",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024632768",
+    "mappableAddress": "324 SHERIDAN AVE Mansfield OH 44903",
+    "latitude": "40.7644818",
+    "longitude": "-82.527018",
+    "name": "DOMINIQUE LOGAN",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022932220",
+    "mappableAddress": "217 GERKE AVE Mansfield OH 44903",
+    "latitude": "40.76479",
+    "longitude": "-82.53073",
+    "name": "DESTINI ANDERSON",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024645148",
+    "mappableAddress": "560 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.764018",
+    "longitude": "-82.535163",
+    "name": "KATHERINE STONE",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024560313",
+    "mappableAddress": "304 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.7634648",
+    "longitude": "-82.5264108",
+    "name": "DELANEY MEADOWS",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024469947",
+    "mappableAddress": "232 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.763578",
+    "longitude": "-82.5237729",
+    "name": "JESSA ANDERSON",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024491446",
+    "mappableAddress": "231 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.765056",
+    "longitude": "-82.5235359",
+    "name": "XAVIER HUDDLESTON",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024579966",
+    "mappableAddress": "336 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.7604743",
+    "longitude": "-82.5277367",
+    "name": "TIFFINI SPORE",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0021773547",
+    "mappableAddress": "376 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7618189",
+    "longitude": "-82.5290472",
+    "name": "TIFFANY FRANCE",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024596342",
+    "mappableAddress": "399 SHERMAN PL Mansfield OH 44903",
+    "latitude": "40.761286",
+    "longitude": "-82.5299349",
+    "name": "KAITLYN SCHMITZ",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024183832",
+    "mappableAddress": "142 RAE AVE Mansfield OH 44903",
+    "latitude": "40.7627854",
+    "longitude": "-82.5360642",
+    "name": "DINESIA RANDOLPH",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024488268",
+    "mappableAddress": "232 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.763578",
+    "longitude": "-82.5237729",
+    "name": "HERMANO PEREZ",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024158141",
+    "mappableAddress": "122 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.7621091",
+    "longitude": "-82.5286667",
+    "name": "CHANTILLY CLAY",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022624670",
+    "mappableAddress": "39 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7598633",
+    "longitude": "-82.531668",
+    "name": "DAMIAN KEGLEY",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023870850",
+    "mappableAddress": "258 W 3RD ST Mansfield OH 44903",
+    "latitude": "40.760454",
+    "longitude": "-82.524923",
+    "name": "PAUL GIBSON",
+    "age": 65
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012664931",
+    "mappableAddress": "115 WASHINGTON AVE Mansfield OH 44903",
+    "latitude": "40.7619462",
+    "longitude": "-82.5276733",
+    "name": "MICHELLE STEWART",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024477638",
+    "mappableAddress": "603 W 4TH ST Mansfield OH 44906",
+    "latitude": "40.763922",
+    "longitude": "-82.536663",
+    "name": "PAULA MCNEIL",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023563607",
+    "mappableAddress": "530 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.763653",
+    "longitude": "-82.534125",
+    "name": "MARIE LUKE",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024632764",
+    "mappableAddress": "274 W DICKSON AVE Mansfield OH 44903",
+    "latitude": "40.7608993",
+    "longitude": "-82.5253132",
+    "name": "LISA JAMES",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0019252444",
+    "mappableAddress": "514 PARK AVE W Mansfield OH 44906",
+    "latitude": "40.7592334",
+    "longitude": "-82.5342157",
+    "name": "TONYA KINDLER",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024238541",
+    "mappableAddress": "149 WILLOW ST Mansfield OH 44903",
+    "latitude": "40.7628897",
+    "longitude": "-82.5253798",
+    "name": "CHEYENNE MCCLAIN",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0023308745",
+    "mappableAddress": "38 PENN AVE Mansfield OH 44903",
+    "latitude": "40.7597938",
+    "longitude": "-82.5312031",
+    "name": "APRIL CLARK",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022920121",
+    "mappableAddress": "426 W 5TH ST Mansfield OH 44903",
+    "latitude": "40.7634964",
+    "longitude": "-82.5311562",
+    "name": "ANTHONY HILL",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0020799883",
+    "mappableAddress": "190 GERKE AVE Mansfield OH 44903",
+    "latitude": "40.764018",
+    "longitude": "-82.53021",
+    "name": "SHARMONDA FEAGIN",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0022609716",
+    "mappableAddress": "263 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7610875",
+    "longitude": "-82.5250573",
+    "name": "KASHA CLAY",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012675737",
+    "mappableAddress": "24 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7595563",
+    "longitude": "-82.5347894",
+    "name": "MARK MINNICH",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0012694804",
+    "mappableAddress": "138 SYCAMORE ST Mansfield OH 44903",
+    "latitude": "40.7625787",
+    "longitude": "-82.5286375",
+    "name": "RAYVONNE BROWN",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0018759869",
+    "mappableAddress": "286 GRACE ST Mansfield OH 44902",
+    "latitude": "40.7698454",
+    "longitude": "-82.504778",
+    "name": "HEATHER BURTON",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024469431",
+    "mappableAddress": "236 CLAIRMONT AVE Mansfield OH 44903",
+    "latitude": "40.762529",
+    "longitude": "-82.524019",
+    "name": "MERCEDES ARTZ",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024509669",
+    "mappableAddress": "147 N BENTON ST Mansfield OH 44903",
+    "latitude": "40.7628159",
+    "longitude": "-82.5262148",
+    "name": "MOSE WILLIAMS",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4c",
+    "SOS_VOTERID": "OH0024608467",
+    "mappableAddress": "469 W 4TH ST Mansfield OH 44903",
+    "latitude": "40.7624995",
+    "longitude": "-82.5322598",
+    "name": "LEON MOTLEY",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024567808",
+    "mappableAddress": "191 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.76412",
+    "longitude": "-82.538435",
+    "name": "CHEKIAH WASHINGTON",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024315756",
+    "mappableAddress": "131 BUCKEYE AVE Mansfield OH 44906",
+    "latitude": "40.7626202",
+    "longitude": "-82.5572377",
+    "name": "MICHAEL HULL",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024480377",
+    "mappableAddress": "408 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.766232",
+    "longitude": "-82.530174",
+    "name": "KWAME DOBOSU",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0019220912",
+    "mappableAddress": "425 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.765899",
+    "longitude": "-82.530787",
+    "name": "GUS CADLE",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012656384",
+    "mappableAddress": "84 BROOKWOOD WAY N Mansfield OH 44906",
+    "latitude": "40.7617353",
+    "longitude": "-82.5633434",
+    "name": "RUBY RASHAD FLEMING",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024527191",
+    "mappableAddress": "797 BURTON AVE Mansfield OH 44906",
+    "latitude": "40.7610865",
+    "longitude": "-82.5444752",
+    "name": "BRADLEY MICHEL",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024554861",
+    "mappableAddress": "333 STADIUM ST Mansfield OH 44906",
+    "latitude": "40.7684993",
+    "longitude": "-82.5495466",
+    "name": "WILLIAM MILLER",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0021664976",
+    "mappableAddress": "200 BOSTON AVE Mansfield OH 44906",
+    "latitude": "40.7646617",
+    "longitude": "-82.5541106",
+    "name": "DANI KELBLEY",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012665092",
+    "mappableAddress": "109 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7618253",
+    "longitude": "-82.5352188",
+    "name": "ROBERT DRISCOLL",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024613070",
+    "mappableAddress": "56 BROOKWOOD WAY N Mansfield OH 44906",
+    "latitude": "40.7609535",
+    "longitude": "-82.5634279",
+    "name": "DONNA UTE",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024574023",
+    "mappableAddress": "224 PARKWAY DR Mansfield OH 44906",
+    "latitude": "40.7650011",
+    "longitude": "-82.5372601",
+    "name": "KRISTY DAWSON",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022828274",
+    "mappableAddress": "1232 SILVER LN Mansfield OH 44906",
+    "latitude": "40.7639683",
+    "longitude": "-82.5601321",
+    "name": "STEPHEN GATCHELL",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024614725",
+    "mappableAddress": "181 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.763874",
+    "longitude": "-82.53844",
+    "name": "MCKENNA DRAKE",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023564201",
+    "mappableAddress": "37 OXFORD AVE Mansfield OH 44906",
+    "latitude": "40.7600751",
+    "longitude": "-82.553181",
+    "name": "TIFFANY KINNEY",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0020291446",
+    "mappableAddress": "121 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7621827",
+    "longitude": "-82.5383044",
+    "name": "JACKIE HENSON",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024656838",
+    "mappableAddress": "263 RAE AVE Mansfield OH 44903",
+    "latitude": "40.766052",
+    "longitude": "-82.536298",
+    "name": "MARSHALL FEARN",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024560308",
+    "mappableAddress": "195 CONCORD AVE Mansfield OH 44906",
+    "latitude": "40.764444",
+    "longitude": "-82.556073",
+    "name": "ALICIA CLEVER",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024647527",
+    "mappableAddress": "295 STADIUM ST Mansfield OH 44906",
+    "latitude": "40.7675968",
+    "longitude": "-82.5495889",
+    "name": "ALEXUS AMICK",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024599231",
+    "mappableAddress": "226 WIMBLEDON DR Mansfield OH 44906",
+    "latitude": "40.7650622",
+    "longitude": "-82.5604351",
+    "name": "TAMMY RESAR",
+    "age": 51
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012668157",
+    "mappableAddress": "187 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.764011",
+    "longitude": "-82.538437",
+    "name": "TIFFANY THOMAS",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024596314",
+    "mappableAddress": "248 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.765703",
+    "longitude": "-82.534413",
+    "name": "RACHEL SIDWELL",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012665865",
+    "mappableAddress": "87 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7613991",
+    "longitude": "-82.5386637",
+    "name": "DEBORAH YOUNG",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024596415",
+    "mappableAddress": "601 HEINEMAN BLVD Mansfield OH 44903",
+    "latitude": "40.7618021",
+    "longitude": "-82.53729",
+    "name": "BRITTANY DRAKE",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024596398",
+    "mappableAddress": "678 W 3RD ST Mansfield OH 44906",
+    "latitude": "40.7605227",
+    "longitude": "-82.5401747",
+    "name": "DARREN RENNER",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012715378",
+    "mappableAddress": "210 BROOKWOOD WAY N Mansfield OH 44906",
+    "latitude": "40.7652594",
+    "longitude": "-82.5633645",
+    "name": "FRANK FAVA",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024565281",
+    "mappableAddress": "210 WEST PARK BLVD Mansfield OH 44906",
+    "latitude": "40.7645003",
+    "longitude": "-82.5402752",
+    "name": "CHEVETTE WHATMAN",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024469949",
+    "mappableAddress": "142 BUCKEYE AVE Mansfield OH 44906",
+    "latitude": "40.7628208",
+    "longitude": "-82.5569372",
+    "name": "HOPE TURNER",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012702428",
+    "mappableAddress": "94 LASALLE ST Mansfield OH 44906",
+    "latitude": "40.7620315",
+    "longitude": "-82.5621392",
+    "name": "JOYCE TOTMAN",
+    "age": 80
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024558375",
+    "mappableAddress": "267 RAE AVE Mansfield OH 44903",
+    "latitude": "40.766181",
+    "longitude": "-82.536287",
+    "name": "ELLIANA JADEED",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0021266465",
+    "mappableAddress": "113 LASALLE ST Mansfield OH 44906",
+    "latitude": "40.7625474",
+    "longitude": "-82.5628152",
+    "name": "NADA WILKINSON",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012656532",
+    "mappableAddress": "84 BROOKWOOD WAY N Mansfield OH 44906",
+    "latitude": "40.7617353",
+    "longitude": "-82.5633434",
+    "name": "CHARLES FLEMING",
+    "age": 66
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024505832",
+    "mappableAddress": "65 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7606839",
+    "longitude": "-82.5352188",
+    "name": "JOHNNY OWENS",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012667999",
+    "mappableAddress": "562 GARFIELD PL Mansfield OH 44903",
+    "latitude": "40.7613181",
+    "longitude": "-82.5358951",
+    "name": "MILISA MACLIN",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024505596",
+    "mappableAddress": "87 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7613991",
+    "longitude": "-82.5386637",
+    "name": "ANTHONY MARTI",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012700766",
+    "mappableAddress": "151 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7630248",
+    "longitude": "-82.538241",
+    "name": "DELORIS BAILEY",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012695398",
+    "mappableAddress": "232 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.7655401",
+    "longitude": "-82.5236148",
+    "name": "WILLIAM BROWN",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024593104",
+    "mappableAddress": "222 CONCORD AVE Mansfield OH 44906",
+    "latitude": "40.765003",
+    "longitude": "-82.555314",
+    "name": "TAMARA GUNNELS KINDLE",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024558225",
+    "mappableAddress": "318 STADIUM ST Mansfield OH 44906",
+    "latitude": "40.768077",
+    "longitude": "-82.548958",
+    "name": "ANDREA COLE",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024613184",
+    "mappableAddress": "409 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.7658515",
+    "longitude": "-82.530197",
+    "name": "TARACOTTA WEATHERSPOON",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023147797",
+    "mappableAddress": "236 WIMBLEDON DR Mansfield OH 44906",
+    "latitude": "40.7654139",
+    "longitude": "-82.560187",
+    "name": "DIGNITY RUEBENSAAL",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012670786",
+    "mappableAddress": "757 W 3RD ST Mansfield OH 44906",
+    "latitude": "40.760057",
+    "longitude": "-82.543165",
+    "name": "NATEASHA ANDERSON",
+    "age": 33
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023102343",
+    "mappableAddress": "52 BRICKMAN AVE Mansfield OH 44906",
+    "latitude": "40.7603828",
+    "longitude": "-82.543334",
+    "name": "DIANA KLING",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012701880",
+    "mappableAddress": "45 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7600568",
+    "longitude": "-82.535261",
+    "name": "BARBARA SMITH",
+    "age": 68
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024579546",
+    "mappableAddress": "48 BROOKWOOD WAY N Mansfield OH 44906",
+    "latitude": "40.7607173",
+    "longitude": "-82.5634279",
+    "name": "BRIAN SHAULL",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024565271",
+    "mappableAddress": "65 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7606839",
+    "longitude": "-82.5352188",
+    "name": "SHIRLEY OWENS",
+    "age": 21
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023801939",
+    "mappableAddress": "79 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7609594",
+    "longitude": "-82.5352188",
+    "name": "TANIKA MCKINNEY",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024608197",
+    "mappableAddress": "87 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7613991",
+    "longitude": "-82.5386637",
+    "name": "JESSICA LEWIS",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024607756",
+    "mappableAddress": "711 W 4TH ST Mansfield OH 44906",
+    "latitude": "40.764514",
+    "longitude": "-82.540136",
+    "name": "TERIL HAAS",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0018582398",
+    "mappableAddress": "38 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7600369",
+    "longitude": "-82.537683",
+    "name": "CODY BURGY",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023198798",
+    "mappableAddress": "232 PARKWAY DR Mansfield OH 44906",
+    "latitude": "40.765308",
+    "longitude": "-82.536829",
+    "name": "NASHELLE MITCHELL",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024523723",
+    "mappableAddress": "224 LASALLE ST Mansfield OH 44906",
+    "latitude": "40.7657341",
+    "longitude": "-82.5621814",
+    "name": "NANCY ROBISON",
+    "age": 70
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022839565",
+    "mappableAddress": "1232 SILVER LN Mansfield OH 44906",
+    "latitude": "40.7639683",
+    "longitude": "-82.5601321",
+    "name": "JERRY GATCHELL",
+    "age": 71
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024481617",
+    "mappableAddress": "345 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.765948",
+    "longitude": "-82.5277789",
+    "name": "IESHA DANAY",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022748655",
+    "mappableAddress": "87 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7613991",
+    "longitude": "-82.5386637",
+    "name": "JESSICA ADKINS",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023139615",
+    "mappableAddress": "146 OXFORD AVE Mansfield OH 44906",
+    "latitude": "40.7627189",
+    "longitude": "-82.5526739",
+    "name": "ANDREW RICER",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012735632",
+    "mappableAddress": "236 BUCKEYE AVE Mansfield OH 44906",
+    "latitude": "40.7654764",
+    "longitude": "-82.5566672",
+    "name": "JENNIFER ROBERTSON",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024607110",
+    "mappableAddress": "224 PARKWAY DR Mansfield OH 44906",
+    "latitude": "40.7650011",
+    "longitude": "-82.5372601",
+    "name": "JASON SMITH",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024480369",
+    "mappableAddress": "200 BOSTON AVE Mansfield OH 44906",
+    "latitude": "40.7646617",
+    "longitude": "-82.5541106",
+    "name": "ANDREW KELBLEY",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012669916",
+    "mappableAddress": "559 GARFIELD PL Mansfield OH 44903",
+    "latitude": "40.7610316",
+    "longitude": "-82.535726",
+    "name": "JACQUELINE SHOULDERS",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012701550",
+    "mappableAddress": "616 PARK AVE W Mansfield OH 44906",
+    "latitude": "40.7592333",
+    "longitude": "-82.5383466",
+    "name": "MARY ANNE VESPER",
+    "age": 76
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024514680",
+    "mappableAddress": "653 W 4TH ST Mansfield OH 44906",
+    "latitude": "40.764529",
+    "longitude": "-82.5381589",
+    "name": "ALISSA CAREY",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024477706",
+    "mappableAddress": "77 WEST PARK BLVD Mansfield OH 44906",
+    "latitude": "40.7609059",
+    "longitude": "-82.5416857",
+    "name": "TIMOTHY SMITH",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012701943",
+    "mappableAddress": "227 BUCKEYE AVE Mansfield OH 44906",
+    "latitude": "40.765305",
+    "longitude": "-82.557385",
+    "name": "BARBARA ROWE",
+    "age": 70
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022478566",
+    "mappableAddress": "570 W 3RD ST Mansfield OH 44906",
+    "latitude": "40.7605216",
+    "longitude": "-82.53636",
+    "name": "SHAWN MASON",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024643277",
+    "mappableAddress": "231 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.765203",
+    "longitude": "-82.5350689",
+    "name": "KAMEELAH ALLEN",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022266971",
+    "mappableAddress": "616 PARK AVE W Mansfield OH 44906",
+    "latitude": "40.7592333",
+    "longitude": "-82.5383466",
+    "name": "RENIER CAMERON",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0021516094",
+    "mappableAddress": "414 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.766405",
+    "longitude": "-82.530375",
+    "name": "KAHMELIA BARRY",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0023561200",
+    "mappableAddress": "344 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.7662629",
+    "longitude": "-82.5277789",
+    "name": "MARTY SMITH",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024613371",
+    "mappableAddress": "230 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.765209",
+    "longitude": "-82.534474",
+    "name": "MAURICE WILLIAMS",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0020051199",
+    "mappableAddress": "289 STADIUM ST Mansfield OH 44906",
+    "latitude": "40.767377",
+    "longitude": "-82.549619",
+    "name": "KYLE MOORE",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024509667",
+    "mappableAddress": "222 CONCORD AVE Mansfield OH 44906",
+    "latitude": "40.765003",
+    "longitude": "-82.555314",
+    "name": "MATTHEW KINDLE",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022965555",
+    "mappableAddress": "634 W 4TH ST Mansfield OH 44906",
+    "latitude": "40.764839",
+    "longitude": "-82.537545",
+    "name": "PATRICIA COFFEE",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012700277",
+    "mappableAddress": "38 WESTERN AVE Mansfield OH 44906",
+    "latitude": "40.7600369",
+    "longitude": "-82.537683",
+    "name": "ROSEALENA SIMONES",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024523869",
+    "mappableAddress": "648 W 4TH ST Mansfield OH 44906",
+    "latitude": "40.764987",
+    "longitude": "-82.537992",
+    "name": "SCOTTIE RICHARDS",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0020088264",
+    "mappableAddress": "796 W 3RD ST Mansfield OH 44906",
+    "latitude": "40.7602385",
+    "longitude": "-82.5450128",
+    "name": "JOHNATHON ELDRIDGE",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024656839",
+    "mappableAddress": "263 RAE AVE Mansfield OH 44903",
+    "latitude": "40.766052",
+    "longitude": "-82.536298",
+    "name": "CHARITY FEARN",
+    "age": 43
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022022601",
+    "mappableAddress": "444 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.765526",
+    "longitude": "-82.53142",
+    "name": "KELLY KAMMERER",
+    "age": 50
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024489445",
+    "mappableAddress": "95 LASALLE ST Mansfield OH 44906",
+    "latitude": "40.7620357",
+    "longitude": "-82.5628152",
+    "name": "JODY CHANDLER",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024613405",
+    "mappableAddress": "41 WEST PARK BLVD Mansfield OH 44906",
+    "latitude": "40.7599684",
+    "longitude": "-82.5424042",
+    "name": "DANNIE CAMERON",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0012701159",
+    "mappableAddress": "44 OXFORD AVE Mansfield OH 44906",
+    "latitude": "40.7603178",
+    "longitude": "-82.5526739",
+    "name": "ADRIAN HARRIS",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024574022",
+    "mappableAddress": "242 ROWLAND AVE Mansfield OH 44903",
+    "latitude": "40.765488",
+    "longitude": "-82.533101",
+    "name": "CHERYL MOUNT",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0020526011",
+    "mappableAddress": "37 BRICKMAN AVE Mansfield OH 44906",
+    "latitude": "40.7599827",
+    "longitude": "-82.5438412",
+    "name": "SCOTT LOVE",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024612919",
+    "mappableAddress": "839 W 3RD ST Mansfield OH 44906",
+    "latitude": "40.7599858",
+    "longitude": "-82.5460178",
+    "name": "PAYNE SMITH",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0021193431",
+    "mappableAddress": "333 STADIUM ST Mansfield OH 44906",
+    "latitude": "40.7684993",
+    "longitude": "-82.5495466",
+    "name": "JANA MILLER",
+    "age": 68
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0022264817",
+    "mappableAddress": "368 W 6TH ST Mansfield OH 44903",
+    "latitude": "40.765457",
+    "longitude": "-82.528495",
+    "name": "JESSIE STEWART",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0024481650",
+    "mappableAddress": "330 SPAYER LN Mansfield OH 44903",
+    "latitude": "40.7662748",
+    "longitude": "-82.5273562",
+    "name": "CORY ADAMS",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man4b",
+    "SOS_VOTERID": "OH0019215576",
+    "mappableAddress": "109 HELEN AVE Mansfield OH 44903",
+    "latitude": "40.7618253",
+    "longitude": "-82.5352188",
+    "name": "ELIZABETH HOPKINS",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024575468",
+    "mappableAddress": "109 CARPENTER RD Mansfield OH 44903",
+    "latitude": "40.7557765",
+    "longitude": "-82.5275253",
+    "name": "MARCUS WOLF",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012702259",
+    "mappableAddress": "38 BALDWIN AVE Mansfield OH 44906",
+    "latitude": "40.7578961",
+    "longitude": "-82.5319851",
+    "name": "PEGGY BROOKS",
+    "age": 67
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024615453",
+    "mappableAddress": "163 CARPENTER RD Mansfield OH 44903",
+    "latitude": "40.754263",
+    "longitude": "-82.527392",
+    "name": "JOHNATHAN EWING",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023630438",
+    "mappableAddress": "69 BARTLEY AVE Mansfield OH 44906",
+    "latitude": "40.7568758",
+    "longitude": "-82.5324125",
+    "name": "ALEXXA MORLEY",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012738657",
+    "mappableAddress": "71 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7570054",
+    "longitude": "-82.5248884",
+    "name": "PEGGY MANDEVILLE",
+    "age": 83
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022777569",
+    "mappableAddress": "20 DOUGLAS AVE Mansfield OH 44906",
+    "latitude": "40.7582881",
+    "longitude": "-82.5304422",
+    "name": "TAREDIOUS HOLLINS",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024531112",
+    "mappableAddress": "140 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7552145",
+    "longitude": "-82.5264473",
+    "name": "AISHA BROOKS",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012669192",
+    "mappableAddress": "566 SUMMIT ST Mansfield OH 44906",
+    "latitude": "40.7577498",
+    "longitude": "-82.5361064",
+    "name": "PAMELA BLEVINS",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0021448999",
+    "mappableAddress": "150 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7546423",
+    "longitude": "-82.5264262",
+    "name": "MONIQUE HENNING",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0020207256",
+    "mappableAddress": "42 MARION AVE Mansfield OH 44903",
+    "latitude": "40.7585138",
+    "longitude": "-82.5248197",
+    "name": "NICK GARDNER",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024613619",
+    "mappableAddress": "12 SUMMIT CT Mansfield OH 44906",
+    "latitude": "40.7582325",
+    "longitude": "-82.5350497",
+    "name": "KANAAN AUFLICK",
+    "age": 20
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022809743",
+    "mappableAddress": "87 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7564218",
+    "longitude": "-82.5289645",
+    "name": "CHASTITY EVEGE",
+    "age": 42
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0019774231",
+    "mappableAddress": "49 SHERMAN AVE Mansfield OH 44906",
+    "latitude": "40.7575859",
+    "longitude": "-82.5337288",
+    "name": "CHRISTINA TUCKER",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0019853562",
+    "mappableAddress": "91 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7562972",
+    "longitude": "-82.5288781",
+    "name": "JAMMIE BRYANT",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0020881757",
+    "mappableAddress": "110 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7557445",
+    "longitude": "-82.5264262",
+    "name": "ASHLEY STEPHENS",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012669748",
+    "mappableAddress": "55 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7570601",
+    "longitude": "-82.5257709",
+    "name": "DARLA MINOR",
+    "age": 61
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024492461",
+    "mappableAddress": "140 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7552145",
+    "longitude": "-82.5264473",
+    "name": "BENJAMIN YOUNG",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022824908",
+    "mappableAddress": "87 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7564218",
+    "longitude": "-82.5289645",
+    "name": "KAYLA EVEGE",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0019537223",
+    "mappableAddress": "106 CARPENTER RD Mansfield OH 44903",
+    "latitude": "40.7558936",
+    "longitude": "-82.5281171",
+    "name": "ASHLEY LEADINGHAM",
+    "age": 28
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022748788",
+    "mappableAddress": "49 SHERMAN AVE Mansfield OH 44906",
+    "latitude": "40.7575859",
+    "longitude": "-82.5337288",
+    "name": "JOSHUA POPE",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0021917103",
+    "mappableAddress": "300 GLESSNER AVE Mansfield OH 44903",
+    "latitude": "40.7536252",
+    "longitude": "-82.5268278",
+    "name": "LIZZIE PETTY",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024504859",
+    "mappableAddress": "115 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.755697",
+    "longitude": "-82.5296451",
+    "name": "JASON HOOD",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023839389",
+    "mappableAddress": "144 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7549171",
+    "longitude": "-82.5252002",
+    "name": "MATTHEW EVANS",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0021040066",
+    "mappableAddress": "151 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7547353",
+    "longitude": "-82.5296813",
+    "name": "UVON BURNS",
+    "age": 44
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022326560",
+    "mappableAddress": "150 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7546423",
+    "longitude": "-82.5264262",
+    "name": "KEITH HENNING",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024481701",
+    "mappableAddress": "312 GLESSNER AVE Mansfield OH 44903",
+    "latitude": "40.7535638",
+    "longitude": "-82.5273985",
+    "name": "MARKETTA TURNER",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023723981",
+    "mappableAddress": "195 WESTWOOD AVE Mansfield OH 44906",
+    "latitude": "40.7535614",
+    "longitude": "-82.5370786",
+    "name": "JENNIFER SABOL",
+    "age": 38
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012667334",
+    "mappableAddress": "100 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7560673",
+    "longitude": "-82.5301885",
+    "name": "TIMMY ADKINS",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0020292412",
+    "mappableAddress": "171 POPLAR ST Mansfield OH 44903",
+    "latitude": "40.7541277",
+    "longitude": "-82.5310868",
+    "name": "DEBBIE JONES",
+    "age": 59
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023560858",
+    "mappableAddress": "120 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7555075",
+    "longitude": "-82.5252002",
+    "name": "GREGORY GLENN",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022080955",
+    "mappableAddress": "115 POPLAR ST Mansfield OH 44903",
+    "latitude": "40.7556552",
+    "longitude": "-82.5311185",
+    "name": "JAMES CALDWELL",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012727792",
+    "mappableAddress": "135 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7550805",
+    "longitude": "-82.5296918",
+    "name": "ISMAR RAMSEY",
+    "age": 60
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0019926646",
+    "mappableAddress": "243 W 1ST ST Mansfield OH 44902",
+    "latitude": "40.7562619",
+    "longitude": "-82.5246929",
+    "name": "TODD BRYANT",
+    "age": 46
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023035125",
+    "mappableAddress": "100 CARPENTER RD Mansfield OH 44903",
+    "latitude": "40.7560483",
+    "longitude": "-82.5280749",
+    "name": "BRITANY CABRERA",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023048033",
+    "mappableAddress": "254 MARION AVE Mansfield OH 44903",
+    "latitude": "40.7563398",
+    "longitude": "-82.5319639",
+    "name": "IDAMEKA MEEKS",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012697595",
+    "mappableAddress": "10 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7579407",
+    "longitude": "-82.5253904",
+    "name": "VIRGINIA SHELTON",
+    "age": 70
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024608151",
+    "mappableAddress": "50 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.757193",
+    "longitude": "-82.524597",
+    "name": "DWIGHT KNIPP",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012693692",
+    "mappableAddress": "50 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.757193",
+    "longitude": "-82.524597",
+    "name": "TERRI LETANG",
+    "age": 62
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0020950241",
+    "mappableAddress": "567 MAPLE ST Mansfield OH 44906",
+    "latitude": "40.7544285",
+    "longitude": "-82.5364868",
+    "name": "JOSHUA KIRK",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024608653",
+    "mappableAddress": "150 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7546671",
+    "longitude": "-82.5249888",
+    "name": "TONYA OSBORN",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0021385646",
+    "mappableAddress": "40 MARION AVE Mansfield OH 44903",
+    "latitude": "40.7584846",
+    "longitude": "-82.5246562",
+    "name": "WILLIAM KIPP",
+    "age": 26
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024488383",
+    "mappableAddress": "113 WOOD ST Mansfield OH 44903",
+    "latitude": "40.755675",
+    "longitude": "-82.5259611",
+    "name": "JOSHUA BROWN",
+    "age": 22
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024185164",
+    "mappableAddress": "145 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7548507",
+    "longitude": "-82.529639",
+    "name": "JOHN NORRIS",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023103632",
+    "mappableAddress": "91 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7562972",
+    "longitude": "-82.5288781",
+    "name": "JOSHUA SMITH",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012670711",
+    "mappableAddress": "254 MARION AVE Mansfield OH 44903",
+    "latitude": "40.7563398",
+    "longitude": "-82.5319639",
+    "name": "JOSEPH MILLER",
+    "age": 71
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024585048",
+    "mappableAddress": "122 POPLAR ST Mansfield OH 44903",
+    "latitude": "40.7554583",
+    "longitude": "-82.5315729",
+    "name": "LAURA NICHOLAS",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023155588",
+    "mappableAddress": "140 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7552145",
+    "longitude": "-82.5264473",
+    "name": "KARI STARCHER",
+    "age": 48
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012689562",
+    "mappableAddress": "79 SHERMAN AVE Mansfield OH 44906",
+    "latitude": "40.7567304",
+    "longitude": "-82.5337393",
+    "name": "WILLIAM BUTTERBAUGH",
+    "age": 64
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024627538",
+    "mappableAddress": "199 DAWSON AVE Mansfield OH 44906",
+    "latitude": "40.7534683",
+    "longitude": "-82.5356415",
+    "name": "DOUGLAS SMITH",
+    "age": 37
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012701208",
+    "mappableAddress": "10 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7579407",
+    "longitude": "-82.5253904",
+    "name": "MYRTLE BURRAGE",
+    "age": 77
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024574001",
+    "mappableAddress": "90 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7562765",
+    "longitude": "-82.5252213",
+    "name": "MORGAN WOETKO",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0018873759",
+    "mappableAddress": "123 POPLAR ST Mansfield OH 44903",
+    "latitude": "40.7554584",
+    "longitude": "-82.5311185",
+    "name": "NIKITA WRIGHT",
+    "age": 31
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024641086",
+    "mappableAddress": "199 WESTWOOD AVE Mansfield OH 44906",
+    "latitude": "40.7534433",
+    "longitude": "-82.5370786",
+    "name": "JESSICA JOHNSON",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024599655",
+    "mappableAddress": "136 BARTLEY AVE Mansfield OH 44903",
+    "latitude": "40.7551688",
+    "longitude": "-82.5327248",
+    "name": "JAQUAN CURRY",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024554597",
+    "mappableAddress": "69 BARTLEY AVE Mansfield OH 44906",
+    "latitude": "40.7568758",
+    "longitude": "-82.5324125",
+    "name": "BEVERLY KNOBLOCK",
+    "age": 74
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024641094",
+    "mappableAddress": "140 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7552145",
+    "longitude": "-82.5264473",
+    "name": "EDNA BYRD",
+    "age": 47
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024643336",
+    "mappableAddress": "50 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7575165",
+    "longitude": "-82.5294699",
+    "name": "MATTHEW ELEYET",
+    "age": 40
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024606217",
+    "mappableAddress": "170 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7542958",
+    "longitude": "-82.5301885",
+    "name": "JESSIE WHITE",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023449627",
+    "mappableAddress": "25 DOUGLAS AVE Mansfield OH 44906",
+    "latitude": "40.7581525",
+    "longitude": "-82.5300944",
+    "name": "DAVID TURNER",
+    "age": 53
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024504861",
+    "mappableAddress": "172 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7540611",
+    "longitude": "-82.5250522",
+    "name": "AMY ZICKEFOOSE",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012698219",
+    "mappableAddress": "10 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7579407",
+    "longitude": "-82.5253904",
+    "name": "JOY PIVAL",
+    "age": 66
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012664356",
+    "mappableAddress": "50 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.757193",
+    "longitude": "-82.524597",
+    "name": "LESLIE WILLIAMS",
+    "age": 87
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024542577",
+    "mappableAddress": "33 DOUGLAS AVE Mansfield OH 44906",
+    "latitude": "40.7578643",
+    "longitude": "-82.5299772",
+    "name": "DAMIAN HAYS",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012667561",
+    "mappableAddress": "171 POPLAR ST Mansfield OH 44903",
+    "latitude": "40.7541277",
+    "longitude": "-82.5310868",
+    "name": "JAMES JONES",
+    "age": 63
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012686539",
+    "mappableAddress": "310 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.750317",
+    "longitude": "-82.5301463",
+    "name": "DAVID BARR",
+    "age": 52
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0018858852",
+    "mappableAddress": "433 PARKER ST Mansfield OH 44906",
+    "latitude": "40.7572451",
+    "longitude": "-82.5314858",
+    "name": "ANDREW HULL",
+    "age": 30
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023399538",
+    "mappableAddress": "283 PARK AVE W Mansfield OH 44906",
+    "latitude": "40.758615",
+    "longitude": "-82.525969",
+    "name": "PENSUDAR STEWART",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024613562",
+    "mappableAddress": "153 BARTLEY AVE Mansfield OH 44903",
+    "latitude": "40.7545564",
+    "longitude": "-82.5323867",
+    "name": "AUSTIN LAWHUN",
+    "age": 19
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023199934",
+    "mappableAddress": "373 PARK AVE W Mansfield OH 44906",
+    "latitude": "40.758289",
+    "longitude": "-82.529224",
+    "name": "PAUL TUCKER",
+    "age": 32
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023235080",
+    "mappableAddress": "433 PARKER ST Mansfield OH 44906",
+    "latitude": "40.7572451",
+    "longitude": "-82.5314858",
+    "name": "HEATHER BROCKLESBY",
+    "age": 25
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024487460",
+    "mappableAddress": "140 WOOD ST Mansfield OH 44903",
+    "latitude": "40.7552145",
+    "longitude": "-82.5264473",
+    "name": "NICOLE ARNOLD",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022658523",
+    "mappableAddress": "82 BARTLEY AVE Mansfield OH 44906",
+    "latitude": "40.7566336",
+    "longitude": "-82.5328516",
+    "name": "DEANNA HOAM",
+    "age": 35
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0015838270",
+    "mappableAddress": "481 DIRLAM CT Mansfield OH 44906",
+    "latitude": "40.7577888",
+    "longitude": "-82.533063",
+    "name": "ROBERT WILLIAMS",
+    "age": 34
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023667798",
+    "mappableAddress": "10 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7579407",
+    "longitude": "-82.5253904",
+    "name": "W J WORTHAM",
+    "age": 58
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023403986",
+    "mappableAddress": "10 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7579407",
+    "longitude": "-82.5253904",
+    "name": "TERRY PARKER",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022876435",
+    "mappableAddress": "73 W SMILEY AVE Mansfield OH 44875",
+    "latitude": "40.8865854",
+    "longitude": "-82.6669269",
+    "name": "BARRY WARD",
+    "age": 55
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0019836023",
+    "mappableAddress": "85 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7564319",
+    "longitude": "-82.528777",
+    "name": "LORETHA JOHNSON",
+    "age": 56
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023272345",
+    "mappableAddress": "90 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7562765",
+    "longitude": "-82.5252213",
+    "name": "MICHAEL MILLER",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0020186177",
+    "mappableAddress": "280 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7511831",
+    "longitude": "-82.5301463",
+    "name": "MILDRED BARBER",
+    "age": 49
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023138227",
+    "mappableAddress": "139 LIND AVE Mansfield OH 44903",
+    "latitude": "40.7550769",
+    "longitude": "-82.5288781",
+    "name": "ASHLEY HARRISON",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024543299",
+    "mappableAddress": "162 WOOD ST Mansfield OH 44903",
+    "latitude": "40.754364",
+    "longitude": "-82.5263839",
+    "name": "SUE SMITH",
+    "age": 41
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0022706680",
+    "mappableAddress": "170 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7542958",
+    "longitude": "-82.5301885",
+    "name": "ANDREW CLOUGH",
+    "age": 24
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0021013188",
+    "mappableAddress": "95 VENNUM AVE Mansfield OH 44903",
+    "latitude": "40.7561891",
+    "longitude": "-82.529639",
+    "name": "DAVID DYSINGER",
+    "age": 57
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0012670192",
+    "mappableAddress": "71 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7570054",
+    "longitude": "-82.5248884",
+    "name": "MARLENE MOUNT",
+    "age": 69
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024559757",
+    "mappableAddress": "162 POPLAR ST Mansfield OH 44903",
+    "latitude": "40.7543863",
+    "longitude": "-82.5315835",
+    "name": "CAMBRIE BENTLEY",
+    "age": 18
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023259140",
+    "mappableAddress": "70 BARTLEY AVE Mansfield OH 44906",
+    "latitude": "40.7569091",
+    "longitude": "-82.5328516",
+    "name": "ROBERT DINGUS",
+    "age": 23
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023839470",
+    "mappableAddress": "35 BALDWIN AVE Mansfield OH 44906",
+    "latitude": "40.7579575",
+    "longitude": "-82.5314144",
+    "name": "JENNIFER MARTIN",
+    "age": 39
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023446059",
+    "mappableAddress": "120 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7555075",
+    "longitude": "-82.5252002",
+    "name": "ANGELA MILLER",
+    "age": 45
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024529246",
+    "mappableAddress": "449 PARKER ST Mansfield OH 44906",
+    "latitude": "40.7572571",
+    "longitude": "-82.5319957",
+    "name": "XAVIER JEFFERSON",
+    "age": 27
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024192256",
+    "mappableAddress": "90 BLYMYER AVE Mansfield OH 44903",
+    "latitude": "40.7562765",
+    "longitude": "-82.5252213",
+    "name": "NATHANIEL CLARK",
+    "age": 29
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0024580801",
+    "mappableAddress": "189 WESTWOOD AVE Mansfield OH 44906",
+    "latitude": "40.7538709",
+    "longitude": "-82.5369941",
+    "name": "ALICIA CHANCE",
+    "age": 36
+  },
+  {
+    "turf": "unknown",
+    "precinct": "Man3a",
+    "SOS_VOTERID": "OH0023049667",
+    "mappableAddress": "100 CARPENTER RD Mansfield OH 44903",
+    "latitude": "40.7560483",
+    "longitude": "-82.528074",
+    "name": "JOHN CABRERA",
+    "age": 28
+  }
+]
