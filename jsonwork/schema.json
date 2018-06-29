@@ -1,23 +1,19 @@
 [
 {
+    "fieldName": "precinct",
+    "description":"the name of the precinct compressed, e.g. 'Man6a'   First letter cap, rest small, no spaces, city only three letters, then number, then letter"
+},
+{
     "fieldName": "turf",
     "description":"the name of the turf without the precinct, e.g. 'Turf1'"
 },
 {
-    "fieldName": "precinct",
-    "description":"the name of the precinct compressed, e.g. 'Man6a'"
-},
-{
-    "fieldName": "SOS_VOTERID",
+    "fieldName": "sosId",
     "description":"the official voter id"
 },
 {
-    "fieldName": "Name_Age_Address",
-    "description":"the combination of these three values.   Probably should break these into three different fields for the JSON file"
-},
-{
     "fieldName": "name",
-    "description":"the name of the voter in question assocaited with voterid"
+    "description":"the name of the voter in question associated with voterid, First name and Last name in proper format (first letter capitalized)"
 },
 {
     "fieldName": "age",
@@ -29,7 +25,7 @@
 },
 {
     "fieldName": "mappableAddress",
-    "description":"the full address but without apartment number or other things that the maps don't accept"
+    "description":"the full address but without apartment number or other things that the maps don't accept and NO zip code"
 },
 {
     "fieldName": "longitude",

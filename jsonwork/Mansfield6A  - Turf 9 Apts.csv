@@ -1,0 +1,355 @@
+SOS_VOTERID,Name_Age_Address,Contact,Sherrod_Brown,Danny_OConnor,cell_phone,email,Address_problems,Voter_problems,Lane_Winters,Date_of_Canvass,xSherrod_Brown,xDanny_OConnor,xcell_phone,xemail,xAddress_problems,xVoter_problems,xLane_Winters,,xAddress,xApt,mappableAddress,StreetNum,xEven,xAll_Unique,xMapable_addresses_first_32_rows,x2,latitude,longitude,xSouthern,xNorthern,xWestern,xEastern,xInBox,xSide,x5,x6,xrealAddress,x7,x8,order,x9,full_order,x12
+SOS_VOTERID,,,,,,,,,,,,,,,,,,,Address,Apt,Mappable address,Street number,Even,Unique mappable addresses,Street,index into geocode,Longitude,Latitude,Southernmost house (from Col E) ,Northernmost house (from Col E),Westernmost house (from Col E),Easternmost house (from Col E),In the box,Turf 9,Doors in turf,mappable addresses in the turf,mappable addresses not in the turf,Unique mappable addresses in the turf,Unique mappable addresses NOT in the turf,Order,,,Status for In the box
+,,,,,,,,,,6/9/18,,,,,,,,,,,,,,,,,,,,,,,,street,,,,,,,148,Num voters in ATCHESON,123
+,,All other relevant notes,Sherrod Brown,Danny O'Connor,cell phone,email,Address problems ,Voter problems,Lane Winters,Date of Canvass,,,,,,,,,,,,https://www.mapcustomizer.com,,,,,,,#N/A,#N/A,#N/A,#N/A,,Smallest street number,,,,,,,,Num doors in ATCHESON,93
+135,,"Contact [Moved, Deceased, Refused, Inaccessible, Not home, Republican]","1=indirect support
+2=direct support
+3=CTV","1=indirect support
+2=direct support
+3=CTV",,,"E=Empty house
+I=Inaccessible
+N=Not found
+U=Uninhabitable
+V=Vacant lot","BT=busy, try another time
+DC=deceased
+MV=moved
+NH=not home
+RF=refused
+RP=Republican
+UN=Undecided","1=indirect support
+2=direct support
+3=CTV",,,,,,,,,,,,,Instructions,,,,,,,#N/A,#N/A,#N/A,#N/A,Num voters in box:,Largest street number,,,,,,,0,Num bldgs in ATCHESON,0
+,,Notes,Sherrod,Danny,cell phone,email,Address problems ,Voter problems,Lane Winters,Date of Canvass,Sherrod Brown,Danny O'Connor,cell phone,email,Address problems ,Voter problems,Lane Winters,,,,,,,,,,,,130,130,130,130,130,"Side: 0=even, 1=odd, 2 = both",,,,,,,Multi unit apt,,0
+,75 Sturges Ave Apt 1A,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1A,,,,75 STURGES AVE Mansfield OH,STURGES AVE,,,,,,,,,,,,,75 STURGES AVE Mansfield OH,,1,75 STURGES AVEAPT 1A,1,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,158 W 2ND ST Mansfield OH,,,,,,,,,,,,,,158 W 2ND ST Mansfield OH,,1.01,75 STURGES AVEAPT 1A,1.01,
+,75 Sturges Ave Apt 1B,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1B,,,,151 W 2ND ST Mansfield OH,STURGES AVE,,,,,,,,,,,,,151 W 2ND ST Mansfield OH,,2,75 STURGES AVEAPT 1B,2,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,145 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,2.01,75 STURGES AVEAPT 1B,2.01,
+OH0023145508,Terry Lawson (40) 75 Sturges Ave Apt 1C,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1C,75 STURGES AVE Mansfield OH,75,0,141 W 2ND ST Mansfield OH,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1C,75 STURGES AVE Mansfield OH,,145 W 2ND ST Mansfield OH,,3,75 STURGES AVEAPT 1C,3,1
+OH0012670256,Waddell Williams (53) 75 Sturges Ave Apt 1C,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1C,75 STURGES AVE Mansfield OH,75,0,92 W 2ND ST Mansfield OH,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1C,75 STURGES AVE Mansfield OH,,141 W 2ND ST Mansfield OH,,3.01,75 STURGES AVEAPT 1C,3.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,27 W 2ND ST Mansfield OH,,,,,,,,,,,,,,92 W 2ND ST Mansfield OH,,3.02,75 STURGES AVEAPT 1C,3.02,
+OH0012710330,Jack Miller (66) 75 Sturges Ave Apt 1D,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1D,75 STURGES AVE Mansfield OH,75,0,93 S MAIN ST Mansfield OH,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1D,75 STURGES AVE Mansfield OH,,27 W 2ND ST Mansfield OH,,5,75 STURGES AVEAPT 1D,5,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,93 S MAIN ST Mansfield OH,,5.01,75 STURGES AVEAPT 1D,5.01,
+OH0012664920,Russell Tanner (36) 75 Sturges Ave Apt 1E,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1E,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1E,75 STURGES AVE Mansfield OH,,,,6,75 STURGES AVEAPT 1E,6,1
+OH0012667906,April Tanner (60) 75 Sturges Ave Apt 1E,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1E,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1E,75 STURGES AVE Mansfield OH,,,,6.01,75 STURGES AVEAPT 1E,6.01,1
+OH0022330297,Corey Tanner (35) 75 Sturges Ave Apt 1E,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1E,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1E,75 STURGES AVE Mansfield OH,,,,6.02,75 STURGES AVEAPT 1E,6.02,1
+OH0022330378,April Tanner (35) 75 Sturges Ave Apt 1E,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1E,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1E,75 STURGES AVE Mansfield OH,,,,6.03,75 STURGES AVEAPT 1E,6.03,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,6.04,75 STURGES AVEAPT 1E,6.04,
+OH0023512444,Martha Cole (48) 75 Sturges Ave Apt 1F,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1F,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1F,75 STURGES AVE Mansfield OH,,,,10,75 STURGES AVEAPT 1F,10,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,10.01,75 STURGES AVEAPT 1F,10.01,
+OH0019828508,Lona Rioux (64) 75 Sturges Ave Apt 1G,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1G,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1G,75 STURGES AVE Mansfield OH,,,,11,75 STURGES AVEAPT 1G,11,1
+OH0023146993,James Brown (53) 75 Sturges Ave Apt 1G,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1G,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1G,75 STURGES AVE Mansfield OH,,,,11.01,75 STURGES AVEAPT 1G,11.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,11.02,75 STURGES AVEAPT 1G,11.02,
+,75 Sturges Ave Apt 1H,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1H,,,,,STURGES AVE,,,,,,,,,,,,,,,12.2,75 STURGES AVEAPT 1H,12.2,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,12.21,75 STURGES AVEAPT 1H,12.21,
+OH0012667624,Eva Davis (70) 75 Sturges Ave Apt 1I,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1I,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1I,75 STURGES AVE Mansfield OH,,,,13,75 STURGES AVEAPT 1I,13,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,13.01,75 STURGES AVEAPT 1I,13.01,
+OH0023877678,Daenerie Barnes (24) 75 Sturges Ave Apt 1J,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1J,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1J,75 STURGES AVE Mansfield OH,,,,14,75 STURGES AVEAPT 1J,14,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,14.01,75 STURGES AVEAPT 1J,14.01,
+OH0012718050,Megan Carroll (33) 75 Sturges Ave Apt 1K,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 1K,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 1K,75 STURGES AVE Mansfield OH,,,,15,75 STURGES AVEAPT 1K,15,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,15.01,75 STURGES AVEAPT 1K,15.01,
+,75 Sturges Ave Apt 2A,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2A,,,,,STURGES AVE,,,,,,,,,,,,,,,16,75 STURGES AVEAPT 2A,16,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,16.01,75 STURGES AVEAPT 2A,16.01,
+OH0012700272,John Taylor (52) 75 Sturges Ave Apt 2B,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2B,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2B,75 STURGES AVE Mansfield OH,,,,17,75 STURGES AVEAPT 2B,17,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,17.01,75 STURGES AVEAPT 2B,17.01,
+OH0019635593,Gina Reid (29) 75 Sturges Ave Apt 2C,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2C,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2C,75 STURGES AVE Mansfield OH,,,,18,75 STURGES AVEAPT 2C,18,1
+OH0022127020,Shauntrel Williams (24) 75 Sturges Ave Apt 2C,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2C,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2C,75 STURGES AVE Mansfield OH,,,,18.01,75 STURGES AVEAPT 2C,18.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,18.02,75 STURGES AVEAPT 2C,18.02,
+OH0019398662,Sherman Crawford (60) 75 Sturges Ave Apt 2D,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2D,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2D,75 STURGES AVE Mansfield OH,,,,20,75 STURGES AVEAPT 2D,20,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,20.01,75 STURGES AVEAPT 2D,20.01,
+OH0018893229,Tenelle Lawson (38) 75 Sturges Ave Apt 2E,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2E,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2E,75 STURGES AVE Mansfield OH,,,,21,75 STURGES AVEAPT 2E,21,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,21.01,75 STURGES AVEAPT 2E,21.01,
+OH0019814987,Terrence Brown (53) 75 Sturges Ave Apt 2F,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2F,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2F,75 STURGES AVE Mansfield OH,,,,22,75 STURGES AVEAPT 2F,22,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,22.01,75 STURGES AVEAPT 2F,22.01,
+,75 Sturges Ave Apt 2G,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2G,,,,,STURGES AVE,,,,,,,,,,,,,,,23,75 STURGES AVEAPT 2G,23,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,23.01,75 STURGES AVEAPT 2G,23.01,
+,75 Sturges Ave Apt 2H,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2H,,,,,STURGES AVE,,,,,,,,,,,,,,,24,75 STURGES AVEAPT 2H,24,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,24.01,75 STURGES AVEAPT 2H,24.01,
+,75 Sturges Ave Apt 2I,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2I,,,,,STURGES AVE,,,,,,,,,,,,,,,24.5,75 STURGES AVEAPT 2I,24.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,24.51,75 STURGES AVEAPT 2I,24.51,
+OH0021040045,Clavon Gray (63) 75 Sturges Ave Apt 2J,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,APT 2J,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE APT 2J,75 STURGES AVE Mansfield OH,,,,25,75 STURGES AVEAPT 2J,25,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,25.01,75 STURGES AVEAPT 2J,25.01,
+OH0024456159,Peggy Boddy (71) 75 Sturges Ave ,,,,,,,,,,1,1,1,1,1,1,1,,75 STURGES AVE,,75 STURGES AVE Mansfield OH,75,0,,STURGES AVE,97,40.7568863,-82.5227904,1,1,1,1,1,,75 STURGES AVE ,75 STURGES AVE Mansfield OH,,,,26,75 STURGES AVE,26,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,26.01,75 STURGES AVE,26.01,
+,158 W 2Nd St Apt 101,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 101,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,101,,,,,,29,158 W 2ND STAPT 101,29,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,29.01,158 W 2ND STAPT 101,29.01,
+,158 W 2Nd St Apt 102,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 102,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,102,,,,,,29.2,158 W 2ND STAPT 102,29.2,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,29.21,158 W 2ND STAPT 102,29.21,
+OH0012700764,John Thompson (42) 158 W 2Nd St Apt 103,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 103,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,103,158 W 2ND ST APT 103,158 W 2ND ST Mansfield OH,,,,29.4,158 W 2ND STAPT 103,29.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,29.41,158 W 2ND STAPT 103,29.41,
+OH0012669100,Paul Scribner (51) 158 W 2Nd St Apt 104,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 104,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,104,158 W 2ND ST APT 104,158 W 2ND ST Mansfield OH,,,,29.6,158 W 2ND STAPT 104,29.6,1
+OH0012678625,Dawn Bias (43) 158 W 2Nd St Apt 104,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 104,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,104,158 W 2ND ST APT 104,158 W 2ND ST Mansfield OH,,,,29.61,158 W 2ND STAPT 104,29.61,1
+OH0022346009,John Beiser (39) 158 W 2Nd St Apt 104,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 104,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,104,158 W 2ND ST APT 104,158 W 2ND ST Mansfield OH,,,,29.62,158 W 2ND STAPT 104,29.62,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,29.63,158 W 2ND STAPT 104,29.63,
+OH0012665362,Brenda Lavariega (49) 158 W 2Nd St Apt 105,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 105,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,105,158 W 2ND ST APT 105,158 W 2ND ST Mansfield OH,,,,30.2,158 W 2ND STAPT 105,30.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,30.21,158 W 2ND STAPT 105,30.21,
+,158 W 2Nd St Apt 106,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 106,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,106,,,,,,30.4,158 W 2ND STAPT 106,30.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,30.41,158 W 2ND STAPT 106,30.41,
+,158 W 2Nd St Apt 201,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 201,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,201,,,,,,30.6,158 W 2ND STAPT 201,30.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,30.61,158 W 2ND STAPT 201,30.61,
+,158 W 2Nd St Apt 202,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 202,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,202,,,,,,30.8,158 W 2ND STAPT 202,30.8,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,30.81,158 W 2ND STAPT 202,30.81,
+OH0012668846,Wayne Mccalley (61) 158 W 2Nd St Apt 203,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 203,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,203,158 W 2ND ST APT 203,158 W 2ND ST Mansfield OH,,,,31,158 W 2ND STAPT 203,31,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,31.01,158 W 2ND STAPT 203,31.01,
+OH0012695297,Brent Howard (51) 158 W 2Nd St Apt 205,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 205,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,205,158 W 2ND ST APT 205,158 W 2ND ST Mansfield OH,,,,31.2,158 W 2ND STAPT 205,31.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,31.21,158 W 2ND STAPT 205,31.21,
+,158 W 2Nd St Apt 206,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 206,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,206,,,,,,31.4,158 W 2ND STAPT 206,31.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,31.41,158 W 2ND STAPT 206,31.41,
+,158 W 2Nd St Apt 301,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 301,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,301,,,,,,31.6,158 W 2ND STAPT 301,31.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,31.61,158 W 2ND STAPT 301,31.61,
+,158 W 2Nd St Apt 302,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 302,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,302,,,,,,31.8,158 W 2ND STAPT 302,31.8,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,31.81,158 W 2ND STAPT 302,31.81,
+OH0018669128,Nathan Heath (29) 158 W 2Nd St Apt 303,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 303,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,303,158 W 2ND ST APT 303,158 W 2ND ST Mansfield OH,,,,32,158 W 2ND STAPT 303,32,1
+OH0023675242,Christian Gonzalez (29) 158 W 2Nd St Apt 303,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 303,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,303,158 W 2ND ST APT 303,158 W 2ND ST Mansfield OH,,,,32.01,158 W 2ND STAPT 303,32.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,32.02,158 W 2ND STAPT 303,32.02,
+,158 W 2Nd St Apt 304,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 304,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,304,,,,,,32.4,158 W 2ND STAPT 304,32.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,32.41,158 W 2ND STAPT 304,32.41,
+OH0012668216,Allen Davis (52) 158 W 2Nd St Apt 305,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 305,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,305,158 W 2ND ST APT 305,158 W 2ND ST Mansfield OH,,,,32.6,158 W 2ND STAPT 305,32.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,32.61,158 W 2ND STAPT 305,32.61,
+,158 W 2Nd St Apt 306,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,APT 306,158 W 2ND ST Mansfield OH,,,,W 2ND ST,,,,,,,,,306,,,,,,32.8,158 W 2ND STAPT 306,32.8,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,32.81,158 W 2ND STAPT 306,32.81,
+OH0022851454,Brandon Helmick (24) 158 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,158 W 2ND ST,,158 W 2ND ST Mansfield OH,158,1,,W 2ND ST,419,40.7575735,-82.5215158,1,1,1,1,1,,158 W 2ND ST ,158 W 2ND ST Mansfield OH,,,,33,158 W 2ND ST,33,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,33.01,158 W 2ND ST,33.01,
+OH0020190591,Marshall Minard (51) 151 W 2Nd St Apt A,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT A,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT A,151 W 2ND ST Mansfield OH,,,,33.5,151 W 2ND STAPT A,33.5,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,33.51,151 W 2ND STAPT A,33.51,
+OH0024460066,Jacob Unger (30) 151 W 2Nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT D,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT D,151 W 2ND ST Mansfield OH,,,,34,151 W 2ND STAPT D,34,1
+OH0020188224,Kiley Boolman (28) 151 W 2Nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT D,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT D,151 W 2ND ST Mansfield OH,,,,34.01,151 W 2ND STAPT D,34.01,1
+OH0021143684,Elizabeth Spencer (38) 151 W 2Nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT D,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT D,151 W 2ND ST Mansfield OH,,,,34.02,151 W 2ND STAPT D,34.02,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,34.03,151 W 2ND STAPT D,34.03,
+OH0013509008,Dorothy Dugan (52) 151 W 2Nd St Apt B,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT B,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT B,151 W 2ND ST Mansfield OH,,,,35,151 W 2ND STAPT B,35,1
+OH0021185171,Deauntae Robinson (29) 151 W 2Nd St Apt B,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT B,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT B,151 W 2ND ST Mansfield OH,,,,35.01,151 W 2ND STAPT B,35.01,1
+OH0022916956,Sarah Heck (21) 151 W 2Nd St Apt B,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT B,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT B,151 W 2ND ST Mansfield OH,,,,35.02,151 W 2ND STAPT B,35.02,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,35.03,151 W 2ND STAPT B,35.03,
+OH0012666933,Sharon Merritt (70) 151 W 2Nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT C,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT C,151 W 2ND ST Mansfield OH,,,,38,151 W 2ND STAPT C,38,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,38.01,151 W 2ND STAPT C,38.01,
+OH0012668795,Jermie Gillespie (46) 151 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT E,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT E,151 W 2ND ST Mansfield OH,,,,41,151 W 2ND STAPT E,41,1
+OH0012670606,Crystal Morgan (36) 151 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT E,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT E,151 W 2ND ST Mansfield OH,,,,41.01,151 W 2ND STAPT E,41.01,1
+OH0023817500,Stephanie Thomas (41) 151 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT E,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT E,151 W 2ND ST Mansfield OH,,,,41.02,151 W 2ND STAPT E,41.02,1
+OH0023817502,Wesley Thomas (47) 151 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT E,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST APT E,151 W 2ND ST Mansfield OH,,,,41.03,151 W 2ND STAPT E,41.03,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,41.04,151 W 2ND STAPT E,41.04,
+,151 W 2Nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,APT F,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,,,,,,44.5,151 W 2ND STAPT F,44.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,44.51,151 W 2ND STAPT F,44.51,
+OH0021725797,Joshua Mceachern (31) 151 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,151 W 2ND ST,,151 W 2ND ST Mansfield OH,151,0,,W 2ND ST,147,40.7575611,-82.5211701,1,1,1,1,1,,151 W 2ND ST ,151 W 2ND ST Mansfield OH,,,,45,151 W 2ND ST,45,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,45.01,151 W 2ND ST,45.01,
+OH0012668527,Carmen Juliana (60) 145 W 2Nd St Apt A,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT A,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT A,145 W 2ND ST Mansfield OH,,,,46,145 W 2ND STAPT A,46,1
+OH0021142293,Ronald Champeno (67) 145 W 2Nd St Apt A,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT A,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT A,145 W 2ND ST Mansfield OH,,,,46.01,145 W 2ND STAPT A,46.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,46.02,145 W 2ND STAPT A,46.02,
+OH0021859282,Jacquelyn Long (53) 145 W 2Nd St Apt B,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT B,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT B,145 W 2ND ST Mansfield OH,,,,48,145 W 2ND STAPT B,48,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,48.01,145 W 2ND STAPT B,48.01,
+OH0023154358,Anthony White (34) 145 W 2Nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT C,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT C,145 W 2ND ST Mansfield OH,,,,49,145 W 2ND STAPT C,49,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,49.01,145 W 2ND STAPT C,49.01,
+OH0022399031,Dedwin Walton (34) 145 W 2Nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT D,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT D,145 W 2ND ST Mansfield OH,,,,50,145 W 2ND STAPT D,50,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,50.01,145 W 2ND STAPT D,50.01,
+OH0019662742,Cliff Wright (29) 145 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT E,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT E,145 W 2ND ST Mansfield OH,,,,51,145 W 2ND STAPT E,51,1
+OH0022487759,Benjamin Sullivan (35) 145 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT E,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT E,145 W 2ND ST Mansfield OH,,,,51.01,145 W 2ND STAPT E,51.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,51.02,145 W 2ND STAPT E,51.02,
+OH0023274434,Joe Nesbitt (59) 145 W 2Nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,APT F,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST APT F,145 W 2ND ST Mansfield OH,,,,53,145 W 2ND STAPT F,53,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,53.01,145 W 2ND STAPT F,53.01,
+OH0012668559,Marianne Miceli (102) 145 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST ,145 W 2ND ST Mansfield OH,,,,54,145 W 2ND ST,54,1
+OH0013508739,James Allen (51) 145 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST ,145 W 2ND ST Mansfield OH,,,,54.01,145 W 2ND ST,54.01,1
+OH0021736739,Shairon Allen (24) 145 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,145 W 2ND ST,,145 W 2ND ST Mansfield OH,145,0,,W 2ND ST,417,40.7575535,-82.5209834,1,1,1,1,1,,145 W 2ND ST ,145 W 2ND ST Mansfield OH,,,,54.02,145 W 2ND ST,54.02,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,54.03,145 W 2ND ST,54.03,
+OH0012669131,Jason Sigler (34) 141 W 2Nd St Apt A,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT A,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT A,141 W 2ND ST Mansfield OH,,,,57,141 W 2ND STAPT A,57,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,57.01,141 W 2ND STAPT A,57.01,
+OH0024348737,Joseph Valdry (33) 141 W 2Nd St Apt B,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT B,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT B,141 W 2ND ST Mansfield OH,,,,57.5,141 W 2ND STAPT B,57.5,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,57.51,141 W 2ND STAPT B,57.51,
+OH0022594715,Bret Ambrose (27) 141 W 2Nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT C,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT C,141 W 2ND ST Mansfield OH,,,,58,141 W 2ND STAPT C,58,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,58.01,141 W 2ND STAPT C,58.01,
+OH0012668899,Siete Grant (50) 141 W 2Nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT D,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT D,141 W 2ND ST Mansfield OH,,,,58.5,141 W 2ND STAPT D,58.5,1
+OH0023138306,Willie Evans (54) 141 W 2Nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT D,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT D,141 W 2ND ST Mansfield OH,,,,58.51,141 W 2ND STAPT D,58.51,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,58.52,141 W 2ND STAPT D,58.52,
+,141 W 2Nd St Apt E,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT E,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,,,,,,59.5,141 W 2ND STAPT E,59.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,59.51,141 W 2ND STAPT E,59.51,
+OH0023561214,Mitchel Shepherd (35) 141 W 2Nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT F,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT F,141 W 2ND ST Mansfield OH,,,,60,141 W 2ND STAPT F,60,1
+OH0020997325,Tabitha Shepherd (32) 141 W 2Nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT F,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT F,141 W 2ND ST Mansfield OH,,,,60.01,141 W 2ND STAPT F,60.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,60.02,141 W 2ND STAPT F,60.02,
+,141 W 2Nd St Apt G,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT G,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,,,,,,61,141 W 2ND STAPT G,61,
+OH0021474663,Matthew Lindsey (49) 141 W 2Nd St Apt G,,,,,,,,,,1,1,1,1,1,1,1,,141 W 2ND ST,APT G,141 W 2ND ST Mansfield OH,141,0,,W 2ND ST,148,40.7575485,-82.520859,1,1,1,1,1,,141 W 2ND ST APT G,141 W 2ND ST Mansfield OH,,,,61.01,141 W 2ND STAPT G,61.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,61.02,141 W 2ND STAPT G,61.02,
+OH0023155588,Kari Starcher (47) 92 W 2Nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 1,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,1,92 W 2ND ST APT 1,92 W 2ND ST Mansfield OH,,,,65,92 W 2ND STAPT 1,65,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,65.01,92 W 2ND STAPT 1,65.01,
+OH0012703923,James Davis (55) 92 W 2Nd St Apt 2,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 2,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,2,92 W 2ND ST APT 2,92 W 2ND ST Mansfield OH,,,,65.5,92 W 2ND STAPT 2,65.5,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,65.51,92 W 2ND STAPT 2,65.51,
+,92 W 2Nd St Apt 3,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 3,,,,,W 2ND ST,,,,,,,,,3,,,,,,66,92 W 2ND STAPT 3,66,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,66.01,92 W 2ND STAPT 3,66.01,
+,92 W 2Nd St Apt 4,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 4,,,,,W 2ND ST,,,,,,,,,4,,,,,,66.5,92 W 2ND STAPT 4,66.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,66.51,92 W 2ND STAPT 4,66.51,
+,92 W 2Nd St Apt 5,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 5,,,,,W 2ND ST,,,,,,,,,5,,,,,,67,92 W 2ND STAPT 5,67,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,67.01,92 W 2ND STAPT 5,67.01,
+,92 W 2Nd St Apt 6,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 6,,,,,W 2ND ST,,,,,,,,,6,,,,,,67.5,92 W 2ND STAPT 6,67.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,67.51,92 W 2ND STAPT 6,67.51,
+OH0022672013,Clint Bateman (39) 92 W 2Nd St Apt 7,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 7,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,7,92 W 2ND ST APT 7,92 W 2ND ST Mansfield OH,,,,68,92 W 2ND STAPT 7,68,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,68.01,92 W 2ND STAPT 7,68.01,
+,92 W 2Nd St Apt 8,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 8,,,,,W 2ND ST,,,,,,,,,8,,,,,,68.5,92 W 2ND STAPT 8,68.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,68.51,92 W 2ND STAPT 8,68.51,
+OH0012657584,Larry Fromm (49) 92 W 2Nd St Apt 9,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 9,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,9,92 W 2ND ST APT 9,92 W 2ND ST Mansfield OH,,,,69,92 W 2ND STAPT 9,69,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,69.01,92 W 2ND STAPT 9,69.01,
+OH0012670718,Carlos Rowe (37) 92 W 2Nd St Apt 10,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 10,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,10,92 W 2ND ST APT 10,92 W 2ND ST Mansfield OH,,,,69.5,92 W 2ND STAPT 10,69.5,1
+OH0023972917,Scott Eberhardt (29) 92 W 2Nd St Apt 10,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 10,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,10,92 W 2ND ST APT 10,92 W 2ND ST Mansfield OH,,,,69.51,92 W 2ND STAPT 10,69.51,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,69.52,92 W 2ND STAPT 10,69.52,
+OH0012668261,Jacqueline Brown (52) 92 W 2Nd St Apt 11,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 11,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,11,92 W 2ND ST APT 11,92 W 2ND ST Mansfield OH,,,,70.5,92 W 2ND STAPT 11,70.5,1
+OH0023048011,Willie Desilva (24) 92 W 2Nd St Apt 11,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 11,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,11,92 W 2ND ST APT 11,92 W 2ND ST Mansfield OH,,,,70.51,92 W 2ND STAPT 11,70.51,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,70.52,92 W 2ND STAPT 11,70.52,
+OH0020230873,Twila Mcfairen (72) 92 W 2Nd St Apt 12,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,APT 12,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,12,92 W 2ND ST APT 12,92 W 2ND ST Mansfield OH,,,,71.5,92 W 2ND STAPT 12,71.5,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,71.51,92 W 2ND STAPT 12,71.51,
+OH0021879800,Sierra Burton (26) 92 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,,92 W 2ND ST ,92 W 2ND ST Mansfield OH,,,,71.6,92 W 2ND ST,74,1
+OH0022400747,Alonzo Gilmore (46) 92 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,92 W 2ND ST,,92 W 2ND ST Mansfield OH,92,1,,W 2ND ST,205,40.757692,-82.5191334,1,1,1,1,1,,92 W 2ND ST ,92 W 2ND ST Mansfield OH,,,,71.61,92 W 2ND ST,74.01,1
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,71.62,,,
+OH0021915466,Arthur Smith (69) 27 W 2Nd St Apt 101,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 101,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,101,,,,,,72,27 W 2ND STAPT 101,72,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,72.01,27 W 2ND STAPT 101,72.01,
+,27 W 2Nd St Apt 102,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 102,,,,,W 2ND ST,,,,,,,,,102,,,,,,72.2,27 W 2ND STAPT 102,72.2,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,72.21,27 W 2ND STAPT 102,72.21,
+OH0012716932,Pamela Bricker (56) 27 W 2Nd St Apt 103,Not interested,,,,,,RF,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 103,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,103,27 W 2ND ST APT 103,27 W 2ND ST Mansfield OH,,,,72.4,27 W 2ND STAPT 103,72.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,72.41,27 W 2ND STAPT 103,72.41,
+OH0012668679,Shelva Zehner (67) 27 W 2Nd St Apt 104,No one living here,,,,,E,,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 104,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,104,27 W 2ND ST APT 104,27 W 2ND ST Mansfield OH,,,,72.6,27 W 2ND STAPT 104,72.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,72.61,27 W 2ND STAPT 104,72.61,
+OH0023946123,Gloria Taylor (52) 27 W 2Nd St Apt 105,Will vote for Sherrod,2,,,,,,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 105,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,105,27 W 2ND ST APT 105,27 W 2ND ST Mansfield OH,,,,72.8,27 W 2ND STAPT 105,72.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,72.81,27 W 2ND STAPT 105,72.81,
+OH0018917551,Carolynne Gingery (73) 27 W 2Nd St Apt 106,,,,,,,RF,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 106,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,106,27 W 2ND ST APT 106,27 W 2ND ST Mansfield OH,,,,73,27 W 2ND STAPT 106,73,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,73.01,27 W 2ND STAPT 106,73.01,
+OH0012666923,Larry Williams (60) 27 W 2Nd St Apt 107,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 107,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,107,27 W 2ND ST APT 107,27 W 2ND ST Mansfield OH,,,,73.2,27 W 2ND STAPT 107,73.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,73.21,27 W 2ND STAPT 107,73.21,
+,27 W 2Nd St Apt 108 - Thelma Grugaugh - per mailbox,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 108,,,,,W 2ND ST,,,,,,,,,108,,,,,,73.4,27 W 2ND STAPT 108,73.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,73.41,27 W 2ND STAPT 108,73.41,
+,27 W 2Nd St Apt 109 - Cynthis Jarvis - per mailbox,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 109,,,,,W 2ND ST,,,,,,,,,109,,,,,,73.6,27 W 2ND STAPT 109,73.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,73.61,27 W 2ND STAPT 109,73.61,
+OH0019639039,Jackie Wymer (62) 27 W 2Nd St Apt 110,,,,,,,MV,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 110,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,110,27 W 2ND ST APT 110,27 W 2ND ST Mansfield OH,,,,73.8,27 W 2ND STAPT 110,73.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,73.81,27 W 2ND STAPT 110,73.81,
+,27 W 2Nd St Apt 111,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 111,,,,,W 2ND ST,,,,,,,,,111,,,,,,74,27 W 2ND STAPT 111,74,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,74.01,27 W 2ND STAPT 111,74.01,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,74.02,92 W 2ND ST,74.02,
+OH0023271881,Nichelle Dixon (54) 27 W 2Nd St Apt 112,Would not come downstairs,,,,,,RF,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 112,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,112,27 W 2ND ST APT 112,27 W 2ND ST Mansfield OH,,,,74.2,27 W 2ND STAPT 112,74.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,74.21,27 W 2ND STAPT 112,74.21,
+,27 W 2Nd St Apt 113,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 113,,,,,W 2ND ST,,,,,,,,,113,,,,,,74.4,27 W 2ND STAPT 113,74.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,74.41,27 W 2ND STAPT 113,74.41,
+OH0012714508,Judy Morelli (59) 27 W 2Nd St Apt 114,Busy signal,,,,,,,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 114,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,114,27 W 2ND ST APT 114,27 W 2ND ST Mansfield OH,,,,74.6,27 W 2ND STAPT 114,74.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,74.61,27 W 2ND STAPT 114,74.61,
+OH0015599768,Eugene Uhl (64) 27 W 2Nd St Apt 201,,,,,,,RP,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 201,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,201,27 W 2ND ST APT 201,27 W 2ND ST Mansfield OH,,,,74.8,27 W 2ND STAPT 201,74.8,1
+OH0023603048,Christine Talbot (53) 27 W 2Nd St Apt 201,,,,,,,RP,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 201,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,201,27 W 2ND ST APT 201,27 W 2ND ST Mansfield OH,,,,74.81,27 W 2ND STAPT 201,74.81,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,74.82,27 W 2ND STAPT 201,74.82,
+,27 W 2Nd St Apt 202,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 202,,,,,W 2ND ST,,,,,,,,,202,,,,,,75.2,27 W 2ND STAPT 202,75.2,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,75.21,27 W 2ND STAPT 202,75.21,
+,27 W 2Nd St Apt 204,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 204,,,,,W 2ND ST,,,,,,,,,204,,,,,,75.4,27 W 2ND STAPT 204,75.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,75.41,27 W 2ND STAPT 204,75.41,
+OH0012702014,Misty Swartz (42) 27 W 2Nd St Apt 205,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 205,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,205,27 W 2ND ST APT 205,27 W 2ND ST Mansfield OH,,,,75.6,27 W 2ND STAPT 205,75.6,1
+OH0020156387,Steven Sampsel (64) 27 W 2Nd St Apt 205,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 205,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,205,27 W 2ND ST APT 205,27 W 2ND ST Mansfield OH,,,,75.61,27 W 2ND STAPT 205,75.61,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,75.62,27 W 2ND STAPT 205,75.62,
+,27 W 2Nd St Apt 206,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 206,,,,,W 2ND ST,,,,,,,,,206,,,,,,76,27 W 2ND STAPT 206,76,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,76.01,27 W 2ND STAPT 206,76.01,
+OH0012704902,Paula Murray (54) 27 W 2Nd St Apt 207,,,,,,,RF,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 207,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,207,27 W 2ND ST APT 207,27 W 2ND ST Mansfield OH,,,,76.2,27 W 2ND STAPT 207,76.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,76.21,27 W 2ND STAPT 207,76.21,
+OH0012714159,James Smith (69) 27 W 2Nd St Apt 209,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 209,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,209,27 W 2ND ST APT 209,27 W 2ND ST Mansfield OH,,,,76.4,27 W 2ND STAPT 209,76.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,76.41,27 W 2ND STAPT 209,76.41,
+OH0021038712,Karin Utt (54) 27 W 2Nd St Apt 210,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 210,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,210,27 W 2ND ST APT 210,27 W 2ND ST Mansfield OH,,,,76.6,27 W 2ND STAPT 210,76.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,76.61,27 W 2ND STAPT 210,76.61,
+OH0012738226,Frances Gall (37) 27 W 2Nd St Apt 211,"Might be former Republican, now uses a wheelchair, will vote for Sherrod and Danny. ",3,3,419 295 8238,,,,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 211,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,211,27 W 2ND ST APT 211,27 W 2ND ST Mansfield OH,,,,76.8,27 W 2ND STAPT 211,76.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,76.81,27 W 2ND STAPT 211,76.81,
+OH0022144618,Ramona Valance (57) 27 W 2Nd St Apt 212,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 212,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,212,27 W 2ND ST APT 212,27 W 2ND ST Mansfield OH,,,,77,27 W 2ND STAPT 212,77,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,77.01,27 W 2ND STAPT 212,77.01,
+OH0012668719,Av Marshall (70) 27 W 2Nd St Apt 214,,,,,,,RF,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 214,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,214,27 W 2ND ST APT 214,27 W 2ND ST Mansfield OH,,,,77.2,27 W 2ND STAPT 214,77.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,77.21,27 W 2ND STAPT 214,77.21,
+OH0020814795,Loran Mckee (78) 27 W 2Nd St Apt 216,,,,,,,MV,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 216,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,216,27 W 2ND ST APT 216,27 W 2ND ST Mansfield OH,,,,77.4,27 W 2ND STAPT 216,77.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,77.41,27 W 2ND STAPT 216,77.41,
+,27 W 2Nd St Apt 217,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 217,,,,,W 2ND ST,,,,,,,,,217,,,,,,77.6,27 W 2ND STAPT 217,77.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,77.61,27 W 2ND STAPT 217,77.61,
+OH0012668974,Bryan Tuell (39) 27 W 2Nd St Apt 218,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 218,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,218,27 W 2ND ST APT 218,27 W 2ND ST Mansfield OH,,,,77.8,27 W 2ND STAPT 218,77.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,77.81,27 W 2ND STAPT 218,77.81,
+OH0024178754,Joseph Hick (56) 27 W 2Nd St Apt 301,,,,,,,MV,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 301,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,301,27 W 2ND ST APT 301,27 W 2ND ST Mansfield OH,,,,78,27 W 2ND STAPT 301,78,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,78.01,27 W 2ND STAPT 301,78.01,
+OH0012693711,Thomas Bright (59) 27 W 2Nd St Apt 302,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 302,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,302,27 W 2ND ST APT 302,27 W 2ND ST Mansfield OH,,,,78.2,27 W 2ND STAPT 302,78.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,78.21,27 W 2ND STAPT 302,78.21,
+OH0020042036,Daniel Miller (59) 27 W 2Nd St Apt 303,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 303,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,303,27 W 2ND ST APT 303,27 W 2ND ST Mansfield OH,,,,78.4,27 W 2ND STAPT 303,78.4,1
+OH0021371672,Eleanor Smith (61) 27 W 2Nd St Apt 303,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 303,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,303,27 W 2ND ST APT 303,27 W 2ND ST Mansfield OH,,,,78.41,27 W 2ND STAPT 303,78.41,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,78.42,27 W 2ND STAPT 303,78.42,
+OH0021629022,Nancy Barry (70) 27 W 2Nd St Apt 304,,,,,,,NH,,6/9/18,1,1,1,1,1,1,1,,27 W 2ND ST,APT 304,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,304,27 W 2ND ST APT 304,27 W 2ND ST Mansfield OH,,,,78.8,27 W 2ND STAPT 304,78.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,78.81,27 W 2ND STAPT 304,78.81,
+,27 W 2Nd St Apt 305,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 305,,,,,W 2ND ST,,,,,,,,,305,,,,,,79,27 W 2ND STAPT 305,79,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,79.01,27 W 2ND STAPT 305,79.01,
+OH0012654680,Vicky Scully (64) 27 W 2Nd St Apt 306,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 306,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,306,27 W 2ND ST APT 306,27 W 2ND ST Mansfield OH,,,,79.2,27 W 2ND STAPT 306,79.2,1
+OH0018600795,Howard Whisler (59) 27 W 2Nd St Apt 306,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 306,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,306,27 W 2ND ST APT 306,27 W 2ND ST Mansfield OH,,,,79.21,27 W 2ND STAPT 306,79.21,1
+OH0021477043,Lucinda Scheiber (60) 27 W 2Nd St Apt 306,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 306,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,306,27 W 2ND ST APT 306,27 W 2ND ST Mansfield OH,,,,79.22,27 W 2ND STAPT 306,79.22,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,79.23,27 W 2ND STAPT 306,79.23,
+OH0012663913,Tonya Bittner (54) 27 W 2Nd St Apt 307,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 307,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,307,27 W 2ND ST APT 307,27 W 2ND ST Mansfield OH,,,,79.8,27 W 2ND STAPT 307,79.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,79.81,27 W 2ND STAPT 307,79.81,
+OH0021193363,Annie Currie (57) 27 W 2Nd St Apt 308,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 308,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,308,27 W 2ND ST APT 308,27 W 2ND ST Mansfield OH,,,,80,27 W 2ND STAPT 308,80,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,80.01,27 W 2ND STAPT 308,80.01,
+OH0012716855,Annette Behrendsen (54) 27 W 2Nd St Apt 309,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 309,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,309,27 W 2ND ST APT 309,27 W 2ND ST Mansfield OH,,,,80.2,27 W 2ND STAPT 309,80.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,80.21,27 W 2ND STAPT 309,80.21,
+OH0024187393,Patrick Sheppard (55) 27 W 2Nd St Apt 310,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 310,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,310,27 W 2ND ST APT 310,27 W 2ND ST Mansfield OH,,,,80.4,27 W 2ND STAPT 310,80.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,80.41,27 W 2ND STAPT 310,80.41,
+OH0012670704,Andrew Cotton (73) 27 W 2Nd St Apt 311,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 311,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,311,27 W 2ND ST APT 311,27 W 2ND ST Mansfield OH,,,,80.6,27 W 2ND STAPT 311,80.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,80.61,27 W 2ND STAPT 311,80.61,
+OH0012666909,Neater Brooks (85) 27 W 2Nd St Apt 312,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 312,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,312,27 W 2ND ST APT 312,27 W 2ND ST Mansfield OH,,,,80.8,27 W 2ND STAPT 312,80.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,80.81,27 W 2ND STAPT 312,80.81,
+OH0012668683,Leroy Guyton (59) 27 W 2Nd St Apt 313,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 313,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,313,27 W 2ND ST APT 313,27 W 2ND ST Mansfield OH,,,,81,27 W 2ND STAPT 313,81,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,81.01,27 W 2ND STAPT 313,81.01,
+OH0012668116,Soncerray Richie (55) 27 W 2Nd St Apt 314,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 314,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,314,27 W 2ND ST APT 314,27 W 2ND ST Mansfield OH,,,,81.2,27 W 2ND STAPT 314,81.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,81.21,27 W 2ND STAPT 314,81.21,
+,27 W 2Nd St Apt 315,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 315,,,,,W 2ND ST,,,,,,,,,315,,,,,,81.4,27 W 2ND STAPT 315,81.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,81.41,27 W 2ND STAPT 315,81.41,
+OH0012668703,Judith Eckels (66) 27 W 2Nd St Apt 316,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 316,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,316,27 W 2ND ST APT 316,27 W 2ND ST Mansfield OH,,,,81.6,27 W 2ND STAPT 316,81.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,81.61,27 W 2ND STAPT 316,81.61,
+OH0023839954,Carol Stanton (65) 27 W 2Nd St Apt 401,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 401,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,401,27 W 2ND ST APT 401,27 W 2ND ST Mansfield OH,,,,81.8,27 W 2ND STAPT 401,81.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,81.81,27 W 2ND STAPT 401,81.81,
+,27 W 2Nd St Apt 402,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 402,,,,,W 2ND ST,,,,,,,,,402,,,,,,82,27 W 2ND STAPT 402,82,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,82.01,27 W 2ND STAPT 402,82.01,
+OH0012668400,Catherine White (85) 27 W 2Nd St Apt 403,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 403,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,403,27 W 2ND ST APT 403,27 W 2ND ST Mansfield OH,,,,82.2,27 W 2ND STAPT 403,82.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,82.21,27 W 2ND STAPT 403,82.21,
+OH0012695328,Tammy Wilcox (49) 27 W 2Nd St Apt 404,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 404,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,404,27 W 2ND ST APT 404,27 W 2ND ST Mansfield OH,,,,82.4,27 W 2ND STAPT 404,82.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,82.41,27 W 2ND STAPT 404,82.41,
+,27 W 2Nd St Apt 405,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 405,,,,,W 2ND ST,,,,,,,,,405,,,,,,82.6,27 W 2ND STAPT 405,82.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,82.61,27 W 2ND STAPT 405,82.61,
+OH0012668577,Cassandra Montgomery (58) 27 W 2Nd St Apt 406,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 406,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,406,27 W 2ND ST APT 406,27 W 2ND ST Mansfield OH,,,,82.8,27 W 2ND STAPT 406,82.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,82.81,27 W 2ND STAPT 406,82.81,
+,27 W 2Nd St Apt 407,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 407,,,,,W 2ND ST,,,,,,,,,407,,,,,,83,27 W 2ND STAPT 407,83,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,83.01,27 W 2ND STAPT 407,83.01,
+OH0019041572,Anita Garrison (59) 27 W 2Nd St Apt 408,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 408,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,408,27 W 2ND ST APT 408,27 W 2ND ST Mansfield OH,,,,83.2,27 W 2ND STAPT 408,83.2,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,83.21,27 W 2ND STAPT 408,83.21,
+OH0012667029,Jeremy Hood (53) 27 W 2Nd St Apt 409,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 409,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,409,27 W 2ND ST APT 409,27 W 2ND ST Mansfield OH,,,,83.4,27 W 2ND STAPT 409,83.4,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,83.41,27 W 2ND STAPT 409,83.41,
+,27 W 2Nd St Apt 410,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 410,,,,,W 2ND ST,,,,,,,,,410,,,,,,83.6,27 W 2ND STAPT 410,83.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,83.61,27 W 2ND STAPT 410,83.61,
+,27 W 2Nd St Apt 411,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 411,,,,,W 2ND ST,,,,,,,,,411,,,,,,83.8,27 W 2ND STAPT 411,83.8,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,83.81,27 W 2ND STAPT 411,83.81,
+OH0012700926,Darlene Allen (56) 27 W 2Nd St Apt 412,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 412,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,412,27 W 2ND ST APT 412,27 W 2ND ST Mansfield OH,,,,84,27 W 2ND STAPT 412,84,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,84.01,27 W 2ND STAPT 412,84.01,
+,27 W 2Nd St Apt 413,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 413,,,,,W 2ND ST,,,,,,,,,413,,,,,,84.2,27 W 2ND STAPT 413,84.2,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,84.21,27 W 2ND STAPT 413,84.21,
+,27 W 2Nd St Apt 414,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 414,,,,,W 2ND ST,,,,,,,,,414,,,,,,84.4,27 W 2ND STAPT 414,84.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,84.41,27 W 2ND STAPT 414,84.41,
+OH0012668417,Russell Rinto (67) 27 W 2Nd St Apt 415,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 415,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,415,27 W 2ND ST APT 415,27 W 2ND ST Mansfield OH,,,,84.6,27 W 2ND STAPT 415,84.6,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,84.61,27 W 2ND STAPT 415,84.61,
+,27 W 2Nd St Apt 416,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 416,,,,,W 2ND ST,,,,,,,,,416,,,,,,84.8,27 W 2ND STAPT 416,84.8,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,84.81,27 W 2ND STAPT 416,84.81,
+OH0019179542,Edward Kiner (75) 27 W 2Nd St Apt 417,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 417,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,417,27 W 2ND ST APT 417,27 W 2ND ST Mansfield OH,,,,85,27 W 2ND STAPT 417,85,1
+OH0022877223,James Clark (63) 27 W 2Nd St Apt 417,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 417,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,417,27 W 2ND ST APT 417,27 W 2ND ST Mansfield OH,,,,85.01,27 W 2ND STAPT 417,85.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,85.02,27 W 2ND STAPT 417,85.02,
+,27 W 2Nd St Apt 418,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 418,,,,,W 2ND ST,,,,,,,,,418,,,,,,85.4,27 W 2ND STAPT 418,85.4,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,85.41,27 W 2ND STAPT 418,85.41,
+,27 W 2Nd St Apt 419,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 419,,,,,W 2ND ST,,,,,,,,,419,,,,,,85.6,27 W 2ND STAPT 419,85.6,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,85.61,27 W 2ND STAPT 419,85.61,
+OH0012666874,Lillie Hood (72) 27 W 2Nd St Apt 420,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,APT 420,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,420,27 W 2ND ST APT 420,27 W 2ND ST Mansfield OH,,,,85.8,27 W 2ND STAPT 420,85.8,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,85.81,27 W 2ND STAPT 420,85.81,
+OH0012666149,Debra Rowe (57) 27 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,,27 W 2ND ST ,27 W 2ND ST Mansfield OH,,,,86,27 W 2ND ST,86,1
+OH0012699183,Linda Stamper (59) 27 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,,27 W 2ND ST ,27 W 2ND ST Mansfield OH,,,,86.01,27 W 2ND ST,86.01,1
+OH0016344601,Jeremiah Thompson (34) 27 W 2Nd St ,,,,,,,,,,1,1,1,1,1,1,1,,27 W 2ND ST,,27 W 2ND ST Mansfield OH,27,0,,W 2ND ST,453,40.7570358,-82.5169162,1,1,1,1,1,,27 W 2ND ST ,27 W 2ND ST Mansfield OH,,,,86.02,27 W 2ND ST,86.02,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,86.03,27 W 2ND ST,86.03,
+OH0012695852,Nancy Chernay (60) 93 S Main St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 1,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 1,93 S MAIN ST Mansfield OH,,,,174,93 S MAIN STAPT 1,174,1
+OH0022436471,Sharon Hamilton (43) 93 S Main St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 1,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 1,93 S MAIN ST Mansfield OH,,,,174.01,93 S MAIN STAPT 1,174.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,174.02,93 S MAIN STAPT 1,174.02,
+OH0024340424,Joseph Hook (37) 93 S Main St Apt 2,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 2,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 2,93 S MAIN ST Mansfield OH,,,,175,93 S MAIN STAPT 2,175,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,175.01,93 S MAIN STAPT 2,175.01,
+OH0012712216,Frances Herr (89) 93 S Main St Apt 3,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 3,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 3,93 S MAIN ST Mansfield OH,,,,175.5,93 S MAIN STAPT 3,175.5,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,175.51,93 S MAIN STAPT 3,175.51,
+OH0020844279,Raymond Wert (50) 93 S Main St Apt 4,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 4,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 4,93 S MAIN ST Mansfield OH,,,,176,93 S MAIN STAPT 4,176,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,176.01,93 S MAIN STAPT 4,176.01,
+,93 S Main St Apt 5,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 5,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,,,,,,176.5,93 S MAIN STAPT 5,176.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,176.51,93 S MAIN STAPT 5,176.51,
+,93 S Main St Apt 6,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 6,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,,,,,,177,93 S MAIN STAPT 6,177,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,177.01,93 S MAIN STAPT 6,177.01,
+,93 S Main St Apt 7,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 7,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,,,,,,177.5,93 S MAIN STAPT 7,177.5,
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,177.51,93 S MAIN STAPT 7,177.51,
+OH0018905185,Thomas Cook (71) 93 S Main St Apt 8,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 8,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 8,93 S MAIN ST Mansfield OH,,,,178,93 S MAIN STAPT 8,178,1
+OH0023703449,Michael Montgomery (20) 93 S Main St Apt 8,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,APT 8,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST APT 8,93 S MAIN ST Mansfield OH,,,,178.01,93 S MAIN STAPT 8,178.01,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,178.02,93 S MAIN STAPT 8,178.02,
+OH0012703705,Lucile Franklin (64) 93 S Main St ,,,,,,,,,,1,1,1,1,1,1,1,,93 S MAIN ST,,93 S MAIN ST Mansfield OH,93,0,,S MAIN ST,374,40.755937,-82.515444,1,1,1,1,1,,93 S MAIN ST ,93 S MAIN ST Mansfield OH,,,,179,93 S MAIN ST,179,1
+, ,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,179.01,93 S MAIN ST,179.01,

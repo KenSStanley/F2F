@@ -1,4 +1,23 @@
-SOS_VOTERID,Name_Age_Address,xContact,xSherrod Brown,xDanny O'Connor,xcell phone,xemail,xAddress problems,xVoter problems,xLane Winters,xDate of Canvass,xSherrod Brown,xDanny O'Connor,xcell phone,xemail,xAddress problems,xVoter problems,xLane Winters,xAddress,mappableAddress,xApt,x22,xStreetNum,x1,xEven,xAll_Unique,latitude,longitude,xSouthern,xNorthern,xWestern,xEastern,xInBox,xSide,x1,x2,x3,x3,x4,x5,xx6,order,full_order,x7,x8,x9
+SOS_VOTERID,Name_Age_Address,Contact,Sherrod_Brown,Danny_OConnor,cell_phone,email,Address_problems,Voter_problems,Date_of_Canvass,xSherrod_Brown,xDanny_OConnor,xcell_phone,xemail,xAddress_problems,xVoter_problems,xLane_Winters,xAddress,xApt,mappableAddress,StreetNum,xAll_Unique,xMapable_addresses_first_32_rows,x1,x2,x3,latitude,longitude,xSouthern,xNorthern,xWestern,xEastern,xInBox,xSide,x5,x6,xrealAddress,x7,x8,x9,x11,order,full_order,x14,,,,,,,,,,,,,,,,,,,,,,
+SOS_VOTERID,,,,,,,,,,,,,,,,,Address,Apt,Mappable address,Street number,All unique mappable addresses,Mapable addresses first 32 rows,Street,Even,index into geocode,Longitude,Latitude,Southernmost house (from Col E) ,Northernmost house (from Col E),Westernmost house (from Col E),Easternmost house (from Col E),In the box,Turf 4,Doors in turf,,mappable addresses in the turf,mappable addresses not in the turf,Unique mappable addresses in the turf,Unique mappable addresses NOT in the turf,,Order,full order,number indicates which large apartment building,,Status for Turf 4,UNUSED STREET 1,Turf 4 Unused Street 1,UNUSED STREET 2,Turf 4 Unused Street 2,UNUSED STREET 3,Turf 4 Unused Street 3,UNUSED STREET 4,Turf 4 Unused Street 4,UNUSED STREET 5,Turf 4 Unused Street 5,UNUSED STREET 6,Turf 4 Unused Street 6,UNUSED STREET 7,Turf 4 Unused Street 7,UNUSED STREET 8,Turf 4 Unused Street 8,UNUSED STREET 9,Turf 4 Unused Street 9,UNUSED STREET 10,Turf 4 Unused Street 10
+,Voters: 85,,,,,,,,4/23/18,,,,,,,,,,,,use this for the big map,use this for the small maps,,,,,,,,,18  S PARK ST Mansfield OH,,,,,,,,,,,,,Num voters in UNUSED STREET 5,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+,Doors: 61,,,,,,,,,,,,,,,,,,,https://www.mapcustomizer.com,,,,,,,,#REF!,#REF!,#REF!,#REF!,,Smallest street number,,,,,,,,,,,Num doors in UNUSED STREET 5,61,,0,,0,,0,0,0,,0,,0,,0,,0,,0,,0
+,Buildings: 49,"Contact [Moved, Deceased, Refused, Inaccessible, Not home, Republican]","1=indirect support
+2=direct support
+3=CTV","1=indirect support
+2=direct support
+3=CTV",,,"E=Empty house
+I=Inaccessible
+N=Not found
+U=Uninhabitable
+V=Vacant lot","BT=busy, try another time
+DC=deceased
+MV=moved
+NH=not home
+RF=refused
+RP=Republican
+UN=Undecided",,,,,,,,,,,,,,,,,,,,,,,,,Largest street number,,,,,,,,,,,Num buildings in turf,49,,10000,,10000,,10000,,10000,,10000,,10000,,10000,,10000,,10000,,10000
+,Name (Age) Address,"Contact [Moved, Deceased, Refused, Inaccessible, Not home, Republican]",Sherrod Brown,Danny O'Connor,cell phone,email,Address problems ,Voter problems,Date of Canvass,Sherrod Brown,Danny O'Connor,cell phone,email,Address problems ,Voter problems,,,,,,,,,,,,,,,,,,"Side: 0=even, 1=odd, 2 = both",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OH0023909873,Bob Hurley (59) 1 S Park St ,,,,,,,,,1,1,1,1,1,1,,1 S PARK ST,,1 S PARK ST Mansfield OH,1,1 S PARK ST Mansfield OH,,S PARK ST,0,43,40.7581396,-82.5155125,1,1,1,1,1,,1 S PARK ST ,,1 S PARK ST Mansfield OH,,,,FALSE,0,0,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ,,,,,,,,,,1,1,1,1,1,1,,,,,,47 W 2ND ST Mansfield OH,,,,,,,,,,,,,1 S PARK ST ,,,,,,TRUE,0,0.001,,,,,,,,,,,,,,,,,,,,,,,
 OH0024455969,Teaaurrie Hunter (19) 47 W 2nd St ,,,,,,,,,1,1,1,1,1,1,,47 W 2ND ST,,47 W 2ND ST Mansfield OH,47,12 S PARK ST Mansfield OH,,W 2ND ST,0,57,40.757147,-82.5151379,1,1,1,1,1,,47 W 2ND ST ,,47 W 2ND ST Mansfield OH,,,,FALSE,0,0.002,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
