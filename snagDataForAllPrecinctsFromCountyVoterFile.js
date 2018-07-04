@@ -41,7 +41,7 @@ let outputFileName = "MansfieldAllPrecinctsFewerColumns.csv" ;
 const parseLargeFile = function(data) {
  
   let rows = data.split("\n");
-  let outputData = " sosId , lastName , firstName, GENERAL-11/08/2016,GENERAL-11/07/2017,PRIMARY-05/08/2018, demVotes , repVotes , otherVotes \n";
+  let outputData = " sosId , lastName , firstName, precinct, GENERAL-11/08/2016,GENERAL-11/07/2017,PRIMARY-05/08/2018, demVotes , repVotes , otherVotes \n";
 
   //iterate each line and parse the data
   for (let line = 1; line < rows.length; line++) {
@@ -71,7 +71,7 @@ const parseLargeFile = function(data) {
 	if ( splitRow[indexJ].includes( "R") ) repVotes++; 
 	if ( splitRow[indexJ].includes("X" ) ) otherVotes++; 
       }
-       outputline = outputline +  "," + splitRow[generalNov16Pos] + "," + splitRow[generalNov17Pos] +  "," + splitRow[primaryMay18Pos] + "," + demVotes + "," + repVotes + "," + otherVotes ;
+       outputline = outputline + "," + precinct + "," + splitRow[generalNov16Pos] + "," + splitRow[generalNov17Pos] +  "," + splitRow[primaryMay18Pos] + "," + demVotes + "," + repVotes + "," + otherVotes ;
 
 
       outputData = outputData + outputline + "\n"; 
