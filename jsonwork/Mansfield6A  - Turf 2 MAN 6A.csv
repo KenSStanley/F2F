@@ -1,188 +1,208 @@
-SOS_VOTERID,Name_Age_Address,xContact,xSherrod Brown,xDanny O'Connor,xcell phone,xemail,xAddress problems,xVoter problems,xLane Winters,xDate of Canvass,xSherrod Brown,xDanny O'Connor,xcell phone,xemail,xAddress problems,xVoter problems,xLane Winters,Address,xApt,x22,mappableAddress,xStreetNum,x1,xEven,xAll_Unique,x1,x2,x3,latitude,longitude,xSouthern,xNorthern,xWestern,xEastern,xInBox,xSide,x3,x4,x5,order,full_order,x7,x8,x9,x10,x11,x12,x13
-OH0023666784,Henry Konczak (65) 1 Marion Ave Apt 309,Office building,,,,,,,,6/5/18,1,1,1,1,1,1,1,,1 MARION AVE,APT 309,1 MARION AVE Mansfield OH,1,0,1 MARION AVE Mansfield OH,1 MARION AVE Mansfield OH,,MARION AVE,142,40.7584692,-82.5237033,1,1,1,1,1,,1 MARION AVE APT 309,1 MARION AVE APT 309,FALSE,2,2,1 MARION AVE Mansfield OH,,1 MARION AVE Mansfield OH,,2,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,173 PARK AVE W Mansfield OH,173 PARK AVE W Mansfield OH,,,,,,,,,,,,1 MARION AVE APT 309,1 MARION AVE STE 204,TRUE,2,2.001,,,173 PARK AVE W Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0014737509,Deborah Mack (54) 1 Marion Ave Ste 204,Legal office,,,,,,,,6/5/18,1,1,1,1,1,1,1,,1 MARION AVE,STE 204,1 MARION AVE Mansfield OH,1,0,137 PARK AVE W Mansfield OH,137 PARK AVE W Mansfield OH,,MARION AVE,142,40.7584692,-82.5237033,1,1,1,1,1,,1 MARION AVE STE 204,173 PARK AVE W ,FALSE,2,2.002,1 MARION AVE Mansfield OH,,137 PARK AVE W Mansfield OH,,2,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,101 W LUTHER PL Mansfield OH,101 W LUTHER PL Mansfield OH,,,,,,,,,,,,1 MARION AVE STE 204,137 PARK AVE W ,TRUE,2,2.003,,,101 W LUTHER PL Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012731467,James Enyart (63) 173 Park Ave W,Funeral home,,,,,,,,6/5/18,1,1,1,1,1,1,1,,173 PARK AVE W,,173 PARK AVE W Mansfield OH,173,0,103 W LUTHER PL Mansfield OH,103 W LUTHER PL Mansfield OH,,PARK AVE W,37,40.7585085,-82.5220083,1,1,1,1,1,,173 PARK AVE W ,137 PARK AVE W APT 112,FALSE,3,3,173 PARK AVE W Mansfield OH,,103 W LUTHER PL Mansfield OH,,3,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,105 W LUTHER PL Mansfield OH,105 W LUTHER PL Mansfield OH,,,,,,,,,,,,173 PARK AVE W ,137 PARK AVE W APT 114,TRUE,3,3.001,,,105 W LUTHER PL Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012670145,Tony Oneil (51) 137 Park Ave W,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,,137 PARK AVE W Mansfield OH,137,0,109 W LUTHER PL Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W ,137 PARK AVE W APT 224,FALSE,4,4,137 PARK AVE W Mansfield OH,,109 W LUTHER PL Mansfield OH,,4,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,102 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W ,137 PARK AVE W RM 211,TRUE,4,4.001,,,102 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0019107248,Russell Brown (31) 137 Park Ave W Apt 112,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,APT 112,137 PARK AVE W Mansfield OH,137,0,104 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W APT 112,101 W LUTHER PL ,FALSE,4,4.002,137 PARK AVE W Mansfield OH,,104 W 2ND ST Mansfield OH,,4,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,108 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W APT 112,103 W LUTHER PL ,TRUE,4,4.003,,,108 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012701333,James Backensto (59) 137 Park Ave W Apt 114,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,APT 114,137 PARK AVE W Mansfield OH,137,0,126 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W APT 114,105 W LUTHER PL ,FALSE,4,4.004,137 PARK AVE W Mansfield OH,,126 W 2ND ST Mansfield OH,,4,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,132 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W APT 114,51.1,TRUE,4,4.005,,,132 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0024064084,Antonio Garcia (51) 137 Park Ave W Apt 224,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,APT 224,137 PARK AVE W Mansfield OH,137,0,134 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W APT 224,105 1/2 W LUTHER PL ,FALSE,4,4.006,137 PARK AVE W Mansfield OH,,134 W 2ND ST Mansfield OH,,4,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,142 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W APT 224,109 W LUTHER PL ,TRUE,4,4.007,,,142 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668718,Michael Whitcomb (42) 137 Park Ave W Rm 211,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,RM 211,137 PARK AVE W Mansfield OH,137,0,146 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W RM 211,102 W 2ND ST ,FALSE,4,4.008,137 PARK AVE W Mansfield OH,,146 W 2ND ST Mansfield OH,,4,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,154 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W RM 211,102 W 2ND ST APT B,TRUE,4,4.009,,,154 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023416598,John Peppard (50) 101 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,101 W LUTHER PL,,101 W LUTHER PL Mansfield OH,101,0,156 W 2ND ST Mansfield OH,,,W LUTHER PL,394,40.7579712,-82.5194927,1,1,1,1,1,,101 W LUTHER PL ,104 W 2ND ST ,FALSE,5,5,101 W LUTHER PL Mansfield OH,,156 W 2ND ST Mansfield OH,,5,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0024198820,Rachel Reed (23) 101 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,101 W LUTHER PL,,101 W LUTHER PL Mansfield OH,101,0,160 W 2ND ST Mansfield OH,,,W LUTHER PL,394,40.7579712,-82.5194927,1,1,1,1,1,,101 W LUTHER PL ,108 W 2ND ST APT 2,TRUE,5,5.001,101 W LUTHER PL Mansfield OH,,160 W 2ND ST Mansfield OH,,5,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0024198827,Jonathan Cavendish (27) 101 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,101 W LUTHER PL,,101 W LUTHER PL Mansfield OH,101,0,170 W 2ND ST Mansfield OH,,,W LUTHER PL,394,40.7579712,-82.5194927,1,1,1,1,1,,101 W LUTHER PL ,108 W 2ND ST APT 4,TRUE,5,5.002,101 W LUTHER PL Mansfield OH,,170 W 2ND ST Mansfield OH,,5,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,186 W 2ND ST Mansfield OH,,,,,,,,,,,,,101 W LUTHER PL ,126 W 2ND ST APT 206,TRUE,5,5.003,,,186 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668364,Martha Kondos (94) 103 W Luther Pl,Recently deceased,,,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,47 STURGES AVE Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,132 W 2ND ST APT 1,FALSE,6,6,103 W LUTHER PL Mansfield OH,,47 STURGES AVE Mansfield OH,,6,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0012668373,Martha Kondos (71) 103 W Luther Pl,"Has Parkingon's, some good days, many bad days ",,,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,51 STURGES AVE Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,134 W 2ND ST ,TRUE,6,6.001,103 W LUTHER PL Mansfield OH,,51 STURGES AVE Mansfield OH,,6,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0012695838,Teresa Potter (67) 103 W Luther Pl,"Democrat, per her Florida living brother",1,1,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,193 W 2ND ST Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,134 1/2 W 2ND ST ,TRUE,6,6.002,103 W LUTHER PL Mansfield OH,,193 W 2ND ST Mansfield OH,,6,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0024237127,Kathleen Kondos (72) 103 W Luther Pl,"Democrat, per her Florida living brother",1,1,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,191 W 2ND ST Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,134 1/2 W 2ND ST APT B,TRUE,6,6.003,103 W LUTHER PL Mansfield OH,,191 W 2ND ST Mansfield OH,,6,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,183 W 2ND ST Mansfield OH,,,,,,,,,,,,,103 W LUTHER PL ,142 W 2ND ST ,TRUE,6,6.004,,,183 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0022680491,Lisa Daugherty (56) 105 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,105 W LUTHER PL,,105 W LUTHER PL Mansfield OH,105,0,177 W 2ND ST Mansfield OH,,,W LUTHER PL,188,40.7579877,-82.5197464,1,1,1,1,1,,105 W LUTHER PL ,146 W 2ND ST ,FALSE,7,7.002,105 W LUTHER PL Mansfield OH,,177 W 2ND ST Mansfield OH,,7,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,173 W 2ND ST Mansfield OH,,,,,,,,,,,,,105 W LUTHER PL ,154 W 2ND ST ,TRUE,7,7.003,,,173 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012687956,Aaron Caugherty (41) 105 1/2 W Luther Pl,Side door,,,,,,,,6/5/18,1,1,1,1,1,1,1,,105 1/2 W LUTHER PL,,105 W LUTHER PL Mansfield OH,105,0,171 W 2ND ST Mansfield OH,,,W LUTHER PL,188,40.7579877,-82.5197464,1,1,1,1,1,,51.1,154 W 2ND ST APT 108,FALSE,7,7.5,105 W LUTHER PL Mansfield OH,,171 W 2ND ST Mansfield OH,,7,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,161 W 2ND ST Mansfield OH,,,,,,,,,,,,,105 1/2 W LUTHER PL ,154 W 2ND ST APT 109,FALSE,7,7.51,,,161 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668440,April Fuhrer (66) 109 W Luther Pl,Claims that she does not vote,,,,,,RP,,6/5/18,1,1,1,1,1,1,1,,109 W LUTHER PL,,109 W LUTHER PL Mansfield OH,109,0,155 W 2ND ST Mansfield OH,,,W LUTHER PL,210,40.7579648,-82.5200001,1,1,1,1,1,,109 W LUTHER PL ,154 W 2ND ST APT 309,FALSE,8,8,109 W LUTHER PL Mansfield OH,,155 W 2ND ST Mansfield OH,,8,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0014359690,Raeann Harris (42) 109 W Luther Pl,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,109 W LUTHER PL,,109 W LUTHER PL Mansfield OH,109,0,125 W 2ND ST Mansfield OH,,,W LUTHER PL,210,40.7579648,-82.5200001,1,1,1,1,1,,109 W LUTHER PL ,154 W 2ND ST APT APT 210,TRUE,8,8.001,109 W LUTHER PL Mansfield OH,,125 W 2ND ST Mansfield OH,,8,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,121 W 2ND ST Mansfield OH,,,,,,,,,,,,,109 W LUTHER PL ,156 W 2ND ST ,TRUE,8,8.002,,,121 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012714174,Brian Senokozlieff (58) 102 W 2nd St,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,102 W 2ND ST,,102 W 2ND ST Mansfield OH,102,1,105 W 2ND ST Mansfield OH,,,W 2ND ST,471,40.7576874,-82.5193659,1,1,1,1,1,,102 W 2ND ST ,156 W 2ND ST APT 106,FALSE,9,9,102 W 2ND ST Mansfield OH,,105 W 2ND ST Mansfield OH,,9,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,99 W 2ND ST Mansfield OH,,,,,,,,,,,,,102 W 2ND ST ,156 W 2ND ST APT 206,TRUE,9,9.001,,,99 W 2ND ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0019242193,Frank Farkas (59) 102 W 2nd St Apt B,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,102 W 2ND ST,APT B,102 W 2ND ST Mansfield OH,102,1,104 W 1ST ST Mansfield OH,,,W 2ND ST,471,40.7576874,-82.5193659,1,1,1,1,1,,102 W 2ND ST APT B,156 W 2ND ST APT 306,FALSE,9,9.002,102 W 2ND ST Mansfield OH,,104 W 1ST ST Mansfield OH,,9,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,116 W 1ST ST Mansfield OH,,,,,,,,,,,,,102 W 2ND ST APT B,160 W 2ND ST APT 101,TRUE,9,9.003,,,116 W 1ST ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668894,Judy Corbett (68) 104 W 2nd St,,,,,,V,,,6/5/18,1,1,1,1,1,1,1,,104 W 2ND ST,,104 W 2ND ST Mansfield OH,104,1,120 W 1ST ST Mansfield OH,,,W 2ND ST,219,40.7574971,-82.5195538,1,1,1,1,1,,104 W 2ND ST ,160 W 2ND ST APT 102,FALSE,10,10,104 W 2ND ST Mansfield OH,,120 W 1ST ST Mansfield OH,,10,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,122 W 1ST ST Mansfield OH,,,,,,,,,,,,,104 W 2ND ST ,160 W 2ND ST APT 201,TRUE,10,10.001,,,122 W 1ST ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0020974931,Linda Copley (59) 108 W 2nd St Apt 2,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,108 W 2ND ST,APT 2,108 W 2ND ST Mansfield OH,108,1,158 W 1ST ST Mansfield OH,,,W 2ND ST,255,40.7577218,-82.5197248,1,1,1,1,1,,108 W 2ND ST APT 2,160 W 2ND ST APT 202,FALSE,11,11,108 W 2ND ST Mansfield OH,,158 W 1ST ST Mansfield OH,,11,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,174 W 1ST ST Mansfield OH,,,,,,,,,,,,,108 W 2ND ST APT 2,160 W 2ND ST APT 302,TRUE,11,11.001,,,174 W 1ST ST Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668702,Gregory Morris (62) 108 W 2nd St Apt 4,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,108 W 2ND ST,APT 4,108 W 2ND ST Mansfield OH,108,1,178 W 1ST ST Mansfield OH,,,W 2ND ST,255,40.7577218,-82.5197248,1,1,1,1,1,,108 W 2ND ST APT 4,170 W 2ND ST ,FALSE,11,11.002,108 W 2ND ST Mansfield OH,,178 W 1ST ST Mansfield OH,,11,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0023100911,Michael Donahue (48) 108 W 2nd St Apt 4,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,108 W 2ND ST,APT 4,108 W 2ND ST Mansfield OH,108,1,182 W 1ST ST Mansfield OH,,,W 2ND ST,255,40.7577218,-82.5197248,1,1,1,1,1,,108 W 2ND ST APT 4,186 W 2ND ST ,TRUE,11,11.003,108 W 2ND ST Mansfield OH,,182 W 1ST ST Mansfield OH,,11,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,90 STURGES AVE Mansfield OH,,,,,,,,,,,,,108 W 2ND ST APT 4,47 STURGES AVE ,TRUE,11,11.004,,,90 STURGES AVE Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023029220,Janice Borden (43) 126 W 2nd St Apt 206,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,126 W 2ND ST,APT 206,126 W 2ND ST Mansfield OH,126,1,231 W 1ST ST Mansfield OH,,,W 2ND ST,215,40.7578057,-82.5202411,1,1,1,1,1,,126 W 2ND ST APT 206,47 1/2 STURGES AVE ,FALSE,12,12,126 W 2ND ST Mansfield OH,,231 W 1ST ST Mansfield OH,,12,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,82 STURGES AVE Mansfield OH,,,,,,,,,,,,,126 W 2ND ST APT 206,51 1/2 STURGES AVE ,TRUE,12,12.001,,,82 STURGES AVE Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0016345306,Michael Goodwin (37) 132 W 2nd St Apt 1,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,132 W 2ND ST,APT 1,132 W 2ND ST Mansfield OH,132,1,58 STURGES AVE Mansfield OH,,,W 2ND ST,162,40.7577765,-82.520574,1,1,1,1,1,,132 W 2ND ST APT 1,193 W 2ND ST APT 1,FALSE,13,13,132 W 2ND ST Mansfield OH,,58 STURGES AVE Mansfield OH,,13,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,34 STURGES AVE Mansfield OH,,,,,,,,,,,,,132 W 2ND ST APT 1,193 W 2ND ST APT 3,TRUE,13,13.001,,,34 STURGES AVE Mansfield OH,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023155976,James Leppo (32) 134 W 2nd St,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,134 W 2ND ST,,134 W 2ND ST Mansfield OH,134,1,,,,W 2ND ST,17,40.7577848,-82.5206927,1,1,1,1,1,,134 W 2ND ST ,191 W 2ND ST ,FALSE,14,14.004,134 W 2ND ST Mansfield OH,,,,14,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,134 W 2ND ST ,183 W 2ND ST APT 1,TRUE,14,14.005,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0015623242,Mishan Mullins (32) 134 1/2 W 2nd St,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,134 1/2 W 2ND ST,,134 W 2ND ST Mansfield OH,134,1,,,,W 2ND ST,17,40.7577848,-82.5206927,1,1,1,1,1,,134 1/2 W 2ND ST ,177 W 2ND ST ,FALSE,14,14.3,134 W 2ND ST Mansfield OH,,,,14,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,134 1/2 W 2ND ST ,173 W 2ND ST ,TRUE,14,14.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0018966127,Kendra Gamble (30) 134 1/2 W 2nd St Apt B,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,134 1/2 W 2ND ST,APT B,134 W 2ND ST Mansfield OH,134,1,,,,W 2ND ST,17,40.7577848,-82.5206927,1,1,1,1,1,,134 1/2 W 2ND ST APT B,171 W 2ND ST ,FALSE,14,14.7,134 W 2ND ST Mansfield OH,,,,14,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,134 1/2 W 2ND ST APT B,161 W 2ND ST APT A,TRUE,14,14.71,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021407146,Isaiah Ellington (24) 142 W 2nd St,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,142 W 2ND ST,,142 W 2ND ST Mansfield OH,142,1,,,,W 2ND ST,327,40.7578471,-82.5209627,1,1,1,1,1,,142 W 2ND ST ,161 W 2ND ST APT C,FALSE,15,15,142 W 2ND ST Mansfield OH,,,,15,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,142 W 2ND ST ,161 W 2ND ST APT F,TRUE,15,15.001,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012670753,Jeffrey Powell (35) 146 W 2nd St,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,146 W 2ND ST,,146 W 2ND ST Mansfield OH,146,1,,,,W 2ND ST,77,40.7578557,-82.5211486,1,1,1,1,1,,146 W 2ND ST ,155 W 2ND ST APT C,FALSE,16,16,146 W 2ND ST Mansfield OH,,,,16,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,146 W 2ND Side Door Racist Republican,,,,,,,,6/5/18,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,146 W 2ND ST ,155 W 2ND ST APT D,TRUE,16,16.001,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668599,Louis Strubhar (60) 154 W 2nd St,"No apartment number listed, no idea which door to knock on ",,,,,,,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST ,155 W 2ND ST APT F,FALSE,17,17,154 W 2ND ST Mansfield OH,,,,17,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST ,125 W 2ND ST ,TRUE,17,17.001,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0020113986,Jamery Jennings (56) 154 W 2nd St Apt 108,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT 108,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT 108,125 W 2ND ST APT 2,FALSE,17,17.002,154 W 2ND ST Mansfield OH,,,,17,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT 108,125 W 2ND ST APT 3,TRUE,17,17.003,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012703867,Jill Leimeister (55) 154 W 2nd St Apt 109,,,,419 961 9773,,,,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT 109,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT 109,125 W 2ND ST APT 4,FALSE,17,17.004,154 W 2ND ST Mansfield OH,,,,17,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT 109,125 W 2ND ST APT 8,TRUE,17,17.005,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023103442,Crystal Bloomfield (23) 154 W 2nd St Apt 309,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT 309,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT 309,121 W 2ND ST APT 1,FALSE,17,17.006,154 W 2ND ST Mansfield OH,,,,17,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT 309,121 W 2ND ST REAR,TRUE,17,17.007,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023265310,Mark Porter (61) 154 W 2nd St Apt 210,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT APT 210,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT APT 210,105 1/2 W 2ND ST ,FALSE,17,17.008,154 W 2ND ST Mansfield OH,,,,17,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT APT 210,105 W 2ND ST ,TRUE,17,17.009,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012667825,Myron Miller (53) 156 W 2nd St,No apt #,,,,,,,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST ,99 W 2ND ST ,FALSE,18,18,156 W 2ND ST Mansfield OH,,,,18,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0024021052,Brenda Adams (60) 156 W 2nd St,No apt #,,,,,,,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST ,104 W 1ST ST ,TRUE,18,18.001,156 W 2ND ST Mansfield OH,,,,18,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST ,116 1/2 W 1ST ST ,TRUE,18,18.002,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0024185639,Joseph Paniagua (61) 156 W 2nd St Apt 106,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 106,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 106,120 W 1ST ST ,FALSE,18,18.003,156 W 2ND ST Mansfield OH,,,,18,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST APT 106,122 W 1ST ST ,TRUE,18,18.004,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021484007,Angel Larue (33) 156 W 2nd St Apt 206,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 206,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 206,122 W 1ST ST APT 122,FALSE,18,18.005,156 W 2ND ST Mansfield OH,,,,18,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0022820977,William Ball (47) 156 W 2nd St Apt 206,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 206,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 206,158 W 1ST ST ,TRUE,18,18.006,156 W 2ND ST Mansfield OH,,,,18,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST APT 206,158 1/2 W 1ST ST ,TRUE,18,18.007,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021852260,William Jenskins (32) 156 W 2nd St Apt 306,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 306,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 306,174 W 1ST ST ,FALSE,18,18.008,156 W 2ND ST Mansfield OH,,,,18,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST APT 306,178 W 1ST ST ,TRUE,18,18.009,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012697292,Toni Knowles (62) 160 W 2nd St Apt 101,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 101,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 101,182 W 1ST ST ,FALSE,19,19,160 W 2ND ST Mansfield OH,,,,19,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 101,90 STURGES AVE ,TRUE,19,19.001,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668946,Richard Minor (53) 160 W 2nd St Apt 102,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 102,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 102,231 W 1ST ST ,FALSE,19,19.002,160 W 2ND ST Mansfield OH,,,,19,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 102,82 STURGES AVE ,TRUE,19,19.003,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0015916044,Joseph Spreng (68) 160 W 2nd St Apt 201,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 201,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 201,58 STURGES AVE APT 2,FALSE,19,19.004,160 W 2ND ST Mansfield OH,,,,19,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 201,58 STURGES AVE APT 3 REAR,TRUE,19,19.005,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0019177024,Renee Jordan (55) 160 W 2nd St Apt 202,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 202,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 202,58 STURGES AVE APT 3REAR,FALSE,19,19.006,160 W 2ND ST Mansfield OH,,,,19,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 202,58 STURGES AVE APT 5,TRUE,19,19.007,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021895699,Ginger Cates (58) 160 W 2nd St Apt 302,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 302,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 302,34 STURGES AVE ,FALSE,19,19.008,160 W 2ND ST Mansfield OH,,,,19,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0022965589,Caleb Sarge (25) 160 W 2nd St Apt 302,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 302,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 302,,TRUE,19,19.009,160 W 2ND ST Mansfield OH,,,,19,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 302,,TRUE,19,19.01,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668557,Theresa Herlihy (47) 170 W 2nd St,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,170 W 2ND ST,,170 W 2ND ST Mansfield OH,170,1,,,,W 2ND ST,258,40.7578977,-82.5217079,1,1,1,1,1,,170 W 2ND ST ,,FALSE,20,20,170 W 2ND ST Mansfield OH,,,,20,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,170 W 2ND ST ,,TRUE,20,20.001,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668690,Osbaldo Rodriguez (72) 186 W 2nd St,,,,,,V,,,6/5/18,1,1,1,1,1,1,1,,186 W 2ND ST,,186 W 2ND ST Mansfield OH,186,1,,,,W 2ND ST,324,40.7576131,-82.5225547,1,1,1,1,1,,186 W 2ND ST ,,FALSE,21,21,186 W 2ND ST Mansfield OH,,,,21,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,186 W 2ND ST ,,TRUE,21,21.001,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021624877,Randy Brown (45) 47 Sturges Ave,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,47 STURGES AVE,,47 STURGES AVE Mansfield OH,47,0,,,,STURGES AVE,55,40.7574619,-82.522595,1,1,1,1,1,,47 STURGES AVE ,,FALSE,22,22.002,47 STURGES AVE Mansfield OH,,,,22,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,47 STURGES AVE ,,TRUE,22,22.003,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023138221,Taylor Wittig (24) 47 1/2 Sturges Ave,Wittig on mailbox,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,47 1/2 STURGES AVE,,47 STURGES AVE Mansfield OH,47,0,,,,STURGES AVE,55,40.7574619,-82.522595,1,1,1,1,1,,47 1/2 STURGES AVE ,,FALSE,22,22.5,47 STURGES AVE Mansfield OH,,,,22,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,47 1/2 STURGES AVE ,,TRUE,22,22.501,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0020294809,Monya Angel (50) 51 1/2 Sturges Ave,,,,,,V,,,6/5/18,1,1,1,1,1,1,1,,51 1/2 STURGES AVE,,51 STURGES AVE Mansfield OH,51,0,,,,STURGES AVE,358,40.7573642,-82.522875,1,1,1,1,1,,51 1/2 STURGES AVE ,,FALSE,23,23.002,51 STURGES AVE Mansfield OH,,,,23,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,51 1/2 STURGES AVE ,,TRUE,23,23.003,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012669017,Timothy Hillman (41) 193 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,193 W 2ND ST,APT 1,193 W 2ND ST Mansfield OH,193,0,,,,W 2ND ST,41,40.7576185,-82.5227296,1,1,1,1,1,,193 W 2ND ST APT 1,,FALSE,41,24,193 W 2ND ST Mansfield OH,,,,41,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,193 W 2ND ST APT 1,,TRUE,41,24.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021193376,Marquis Selmon (29) 193 W 2nd St Apt 3,,,,,,,,,,1,1,1,1,1,1,1,,193 W 2ND ST,APT 3,193 W 2ND ST Mansfield OH,193,0,,,,W 2ND ST,41,40.7576185,-82.5227296,1,1,1,1,1,,193 W 2ND ST APT 3,,FALSE,41,25,193 W 2ND ST Mansfield OH,,,,41,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,193 W 2ND ST APT 3,,TRUE,41,25.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668392,Donald Karl (65) 191 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,191 W 2ND ST,,191 W 2ND ST Mansfield OH,191,0,,,,W 2ND ST,112,40.7576158,-82.5226402,1,1,1,1,1,,191 W 2ND ST ,,FALSE,40,26,191 W 2ND ST Mansfield OH,,,,40,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,191 W 2ND ST ,,TRUE,40,26.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0024187671,Korbin Dodrill (21) 183 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,183 W 2ND ST,APT 1,183 W 2ND ST Mansfield OH,183,0,,,,W 2ND ST,246,40.7572445,-82.5223026,1,1,1,1,1,,183 W 2ND ST APT 1,,FALSE,39,27,183 W 2ND ST Mansfield OH,,,,39,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,183 W 2ND ST APT 1,,TRUE,39,27.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0020231758,Emmanuel Harris (38) 177 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,177 W 2ND ST,,177 W 2ND ST Mansfield OH,177,0,,,,W 2ND ST,119,40.7572367,-82.5220854,1,1,1,1,1,,177 W 2ND ST ,,FALSE,38,28,177 W 2ND ST Mansfield OH,,,,38,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0023708362,Daryletta Wheeler (28) 177 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,177 W 2ND ST,,177 W 2ND ST Mansfield OH,177,0,,,,W 2ND ST,119,40.7572367,-82.5220854,1,1,1,1,1,,177 W 2ND ST ,,TRUE,38,28,177 W 2ND ST Mansfield OH,,,,38,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,177 W 2ND ST ,,TRUE,38,28.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668604,Shelly Brown (46) 173 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,173 W 2ND ST,,173 W 2ND ST Mansfield OH,173,0,,,,W 2ND ST,44,40.7572297,-82.521902,1,1,1,1,1,,173 W 2ND ST ,,FALSE,37,29,173 W 2ND ST Mansfield OH,,,,37,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,173 W 2ND ST ,,TRUE,37,29.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012663985,Susan Zimmer (64) 171 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,171 W 2ND ST,,171 W 2ND ST Mansfield OH,171,0,,,,W 2ND ST,45,40.7575831,-82.5218017,1,1,1,1,1,,171 W 2ND ST ,,FALSE,37,30,171 W 2ND ST Mansfield OH,,,,37,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0023235283,Daniel Murray (24) 171 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,171 W 2ND ST,,171 W 2ND ST Mansfield OH,171,0,,,,W 2ND ST,45,40.7575831,-82.5218017,1,1,1,1,1,,171 W 2ND ST ,,TRUE,37,30,171 W 2ND ST Mansfield OH,,,,37,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,171 W 2ND ST ,,TRUE,37,30.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021629153,Roby Martin (55) 161 W 2nd St Apt A,,,,,,,,,,1,1,1,1,1,1,1,,161 W 2ND ST,APT A,161 W 2ND ST Mansfield OH,161,0,,,,W 2ND ST,70,40.7575723,-82.5214814,1,1,1,1,1,,161 W 2ND ST APT A,,FALSE,36,31,161 W 2ND ST Mansfield OH,,,,36,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,161 W 2ND ST APT A,,TRUE,36,31.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012664564,Latasha Lane (44) 161 W 2nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,161 W 2ND ST,APT C,161 W 2ND ST Mansfield OH,161,0,,,,W 2ND ST,70,40.7575723,-82.5214814,1,1,1,1,1,,161 W 2ND ST APT C,,FALSE,36,32,161 W 2ND ST Mansfield OH,,,,36,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,161 W 2ND ST APT C,,TRUE,36,32.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023914040,Lakisha Horton (22) 161 W 2nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,161 W 2ND ST,APT F,161 W 2ND ST Mansfield OH,161,0,,,,W 2ND ST,70,40.7575723,-82.5214814,1,1,1,1,1,,161 W 2ND ST APT F,,FALSE,36,33,161 W 2ND ST Mansfield OH,,,,36,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,161 W 2ND ST APT F,,TRUE,36,33.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012669058,Ronald Hordge (60) 155 W 2nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT C,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT C,,FALSE,35,34,155 W 2ND ST Mansfield OH,,,,35,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0021143624,Debbie Hordge (56) 155 W 2nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT C,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT C,,TRUE,35,34,155 W 2ND ST Mansfield OH,,,,35,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,155 W 2ND ST APT C,,TRUE,35,34.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012694346,Lemarco Robinson (35) 155 W 2nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT D,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT D,,FALSE,35,35,155 W 2ND ST Mansfield OH,,,,35,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,155 W 2ND ST APT D,,TRUE,35,35.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023145095,Roger Mcneely (56) 155 W 2nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT F,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT F,,FALSE,35,36,155 W 2ND ST Mansfield OH,,,,35,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0024158372,Raccio Feagin (64) 155 W 2nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT F,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT F,,TRUE,35,36,155 W 2ND ST Mansfield OH,,,,35,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,155 W 2ND ST APT F,,TRUE,35,36.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668777,Russell Haywood (80) 125 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST ,,FALSE,34,37,125 W 2ND ST Mansfield OH,,,,34,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST ,,TRUE,34,37.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0022866886,Patricia Rabquer (49) 125 W 2nd St Apt 2,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 2,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 2,,FALSE,34,38,125 W 2ND ST Mansfield OH,,,,34,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 2,,TRUE,34,38.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0022971943,Bernard Smith (69) 125 W 2nd St Apt 3,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 3,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 3,,FALSE,34,39,125 W 2ND ST Mansfield OH,,,,34,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 3,,TRUE,34,39.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021449415,Marc Hess (61) 125 W 2nd St Apt 4,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 4,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 4,,FALSE,34,40,125 W 2ND ST Mansfield OH,,,,34,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 4,,TRUE,34,40.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0020898789,Nennie Lawhorn (49) 125 W 2nd St Apt 8,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 8,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 8,,FALSE,34,41,125 W 2ND ST Mansfield OH,,,,34,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 8,,TRUE,34,41.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012653915,Julie Kilgore (62) 121 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,APT 1,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST APT 1,,FALSE,33,42,121 W 2ND ST Mansfield OH,,,,33,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0020744405,Timothy Kilgore (26) 121 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,APT 1,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST APT 1,,TRUE,33,42,121 W 2ND ST Mansfield OH,,,,33,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0022833156,Taylor Kilgore (24) 121 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,APT 1,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST APT 1,,TRUE,33,42,121 W 2ND ST Mansfield OH,,,,33,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,121 W 2ND ST APT 1,,TRUE,33,42.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0019199542,Erica Snyder (30) 121 W 2nd St Rear,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,REAR,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST REAR,,FALSE,33,43,121 W 2ND ST Mansfield OH,,,,33,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,121 W 2ND ST REAR,,TRUE,33,43.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668696,Barbara Jackson (51) 105 1/2 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,105 1/2 W 2ND ST,,105 W 2ND ST Mansfield OH,105,0,,,,W 2ND ST,53,40.7571534,-82.5195838,1,1,1,1,1,,105 1/2 W 2ND ST ,,FALSE,32,44,105 W 2ND ST Mansfield OH,,,,32,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,105 1/2 W 2ND ST ,,TRUE,32,44.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0019296969,Brittany Jackson (28) 105 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,105 W 2ND ST,,105 W 2ND ST Mansfield OH,105,0,,,,W 2ND ST,53,40.7571534,-82.5195838,1,1,1,1,1,,105 W 2ND ST ,,FALSE,32,45,105 W 2ND ST Mansfield OH,,,,32,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,105 W 2ND ST ,,TRUE,32,45.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668533,Albert Britton (69) 99 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,99 W 2ND ST,,99 W 2ND ST Mansfield OH,99,0,,,,W 2ND ST,211,40.7572993,-82.5194505,1,1,1,1,1,,99 W 2ND ST ,,FALSE,31,46,99 W 2ND ST Mansfield OH,,,,31,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,99 W 2ND ST ,,TRUE,31,46.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668348,Mary Campbell (92) 104 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,104 W 1ST ST,,104 W 1ST ST Mansfield OH,104,1,,,,W 1ST ST,454,40.7565697,-82.5194293,1,1,1,1,1,,104 W 1ST ST ,,FALSE,30,47,104 W 1ST ST Mansfield OH,,,,30,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0012668457,Rosemary Bingert (92) 104 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,104 W 1ST ST,,104 W 1ST ST Mansfield OH,104,1,,,,W 1ST ST,454,40.7565697,-82.5194293,1,1,1,1,1,,104 W 1ST ST ,,TRUE,30,47,104 W 1ST ST Mansfield OH,,,,30,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,104 W 1ST ST ,,TRUE,30,47.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668928,Tracy Shorter (48) 116 1/2 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,116 1/2 W 1ST ST,,116 W 1ST ST Mansfield OH,116,1,,,,W 1st ST,390,40.756653,-82.520095,1,1,1,1,1,,116 1/2 W 1ST ST ,,FALSE,29,48,116 W 1ST ST Mansfield OH,,,,29,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,116 1/2 W 1ST ST ,,TRUE,29,48.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668516,Mary Isch (62) 120 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,120 W 1ST ST,,120 W 1ST ST Mansfield OH,120,1,,,,W 1ST ST,437,40.7564855,-82.5202537,1,1,1,1,1,,120 W 1ST ST ,,FALSE,28,49,120 W 1ST ST Mansfield OH,,,,28,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,120 W 1ST ST ,,TRUE,28,49.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668602,Robbie Scarbury (51) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,FALSE,27,50,122 W 1ST ST Mansfield OH,,,,27,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0012668654,James Scarbury (59) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,TRUE,27,50,122 W 1ST ST Mansfield OH,,,,27,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0024182504,Joshua Scarbury (22) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,TRUE,27,50,122 W 1ST ST Mansfield OH,,,,27,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0021940643,Jacob Scarbury (24) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,#REF!,27,50,122 W 1ST ST Mansfield OH,,,,27,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,122 W 1ST ST APT 122,,FALSE,27,50.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021474321,Darron Mask (60) 158 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,158 W 1ST ST,,158 W 1ST ST Mansfield OH,158,1,,,,W 1ST ST,213,40.756677,-82.521493,1,1,1,1,1,,158 W 1ST ST ,,FALSE,26,51,158 W 1ST ST Mansfield OH,,,,26,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,158 1/2 W 1ST ST ,,FALSE,26,51.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0022869395,Kalina Latour (35) 158 1/2 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,158 1/2 W 1ST ST,,158 W 1ST ST Mansfield OH,158,1,,,,W 1st ST,213,40.756677,-82.521493,1,1,1,1,1,,158 1/2 W 1ST ST ,,TRUE,26,52,158 W 1ST ST Mansfield OH,,,,26,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,158 W 1ST ST ,,FALSE,26,52.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668597,Alan Raphael (58) 174 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,174 W 1ST ST,,174 W 1ST ST Mansfield OH,174,1,,,,W 1ST ST,100,40.7569239,-82.5221563,1,1,1,1,1,,174 W 1ST ST ,,FALSE,25,53,174 W 1ST ST Mansfield OH,,,,25,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,174 W 1ST ST ,,TRUE,25,53.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012660222,Deborah Mitchell (64) 178 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,178 W 1ST ST,,178 W 1ST ST Mansfield OH,178,1,,,,W 1ST ST,73,40.7567077,-82.5222368,1,1,1,1,1,,178 W 1ST ST ,,FALSE,24,54,178 W 1ST ST Mansfield OH,,,,24,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,178 W 1ST ST ,,TRUE,24,54.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668359,Rose Martin (79) 182 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,182 W 1ST ST,,182 W 1ST ST Mansfield OH,182,1,,,,W 1ST ST,274,40.7566227,-82.5223677,1,1,1,1,1,,182 W 1ST ST ,,FALSE,23,55,182 W 1ST ST Mansfield OH,,,,23,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,182 W 1ST ST ,,TRUE,23,55.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0023966112,George Clark (57) 90 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,90 STURGES AVE,,90 STURGES AVE Mansfield OH,90,1,,,,STURGES AVE,240,40.756325,-82.523345,1,1,1,1,1,,90 STURGES AVE ,,FALSE,45,55.5,90 STURGES AVE Mansfield OH,,,,45,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,90 STURGES AVE ,,TRUE,45,55.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0020188116,Charles Noble (62) 231 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,231 W 1ST ST,,231 W 1ST ST Mansfield OH,231,0,,,,W 1ST ST,415,40.7564287,-82.5243456,1,1,1,1,1,,231 W 1ST ST ,,FALSE,44,56,231 W 1ST ST Mansfield OH,,,,44,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,231 W 1ST ST ,,TRUE,44,56.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012725325,Holly Debolt (33) 82 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,82 STURGES AVE,,82 STURGES AVE Mansfield OH,82,1,,,,STURGES AVE,262,40.7565924,-82.5237205,1,1,1,1,1,,82 STURGES AVE ,,FALSE,43,57,82 STURGES AVE Mansfield OH,,,,43,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,82 STURGES AVE ,,TRUE,43,57.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012668707,Sally Collins (44) 58 Sturges Ave Apt 2,,,,,,,,,,1,1,1,1,1,1,1,,58 STURGES AVE,APT 2,58 STURGES AVE Mansfield OH,58,1,,,,STURGES AVE,1,40.7572231,-82.5240376,1,1,1,1,1,,58 STURGES AVE APT 2,,FALSE,42.5,58,58 STURGES AVE Mansfield OH,,,,42.5,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,58 STURGES AVE APT 2,,TRUE,42.5,58.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0021334078,Carolyn Adams (76) 58 Sturges Ave Apt 3 Rear,,,,,,,,,,1,1,1,1,1,1,1,,58 STURGES AVE,APT 3 REAR,58 STURGES AVE Mansfield OH,58,1,,,,STURGES AVE,1,40.7572231,-82.5240376,1,1,1,1,1,,58 STURGES AVE APT 3 REAR,,FALSE,42.5,59,58 STURGES AVE Mansfield OH,,,,42.5,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,58 STURGES AVE APT 3REAR,,FALSE,42.5,59.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012703847,Ed Davis (53) 58 Sturges Ave Apt 5,,,,,,,,,,1,1,1,1,1,1,1,,58 STURGES AVE,APT 5,58 STURGES AVE Mansfield OH,58,1,,,,STURGES AVE,1,40.7572231,-82.5240376,1,1,1,1,1,,58 STURGES AVE APT 5,,FALSE,42.5,60,58 STURGES AVE Mansfield OH,,,,42.5,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,58 STURGES AVE APT 5,,TRUE,42.5,60.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OH0012699722,John Horner (63) 34 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,34 STURGES AVE,,34 STURGES AVE Mansfield OH,34,1,,,,STURGES AVE,46,40.7579042,-82.5236148,1,1,1,1,1,,34 STURGES AVE ,,FALSE,42,61,34 STURGES AVE Mansfield OH,,,,42,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OH0012723456,Anica Horner (59) 34 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,34 STURGES AVE,,34 STURGES AVE Mansfield OH,34,1,,,,STURGES AVE,46,40.7579042,-82.5236148,1,1,1,1,1,,34 STURGES AVE ,,TRUE,42,61,34 STURGES AVE Mansfield OH,,,,42,#N/A,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,34 STURGES AVE ,,TRUE,42,61.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SOS_VOTERID,Name_Age_Address,Contact,Sherrod Brown,Danny O'Connor,cell phone,email,Address problems,Voter problems,Lane Winters,Date of Canvass,xSherrod Brown,xDanny O'Connor,xcell phone,xemail,xAddress problems,xVoter problems,xLane Winters,,xAddress,xApt,mappableAddress,StreetNum,xEven,xAll_Unique,xMapable addresses first 32 rows,x2,x3,x4,latitude,longitude,xSouthern,xNorthern,xWestern,xEastern,xInBox,xSide,x5,xrealAddress,x5,order,full_order,x9,x11,x12
+,Voters 104,,,,,,,,,6/5/18,,,,,,,,,,,,,,use this for the big map,use this for the small maps,,,,,,,,,,,Turf 2,,,,,,,,
+,Doors 85,,,,,,,,,,,,,,,,,,,,,https://www.mapcustomizer.com,,,,,,,,,#N/A,#N/A,#N/A,#N/A,,Smallest street number,,,,,,,,
+,Buildings 47,,"1=indirect support
+2=direct support
+3=CTV","1=indirect support
+2=direct support
+3=CTV",,,"E=Empty house
+I=Inaccessible
+N=Not found
+U=Uninhabitable
+V=Vacant lot","BT=busy, try another time
+DC=deceased
+MV=moved
+NH=not home
+RF=refused
+RP=Republican
+UN=Undecided","1=indirect support
+2=direct support
+3=CTV",,,,,,,,,,,,,Instructions,,,,,,,,,#N/A,#N/A,#N/A,#N/A,Num voters in box:,Largest street number,,,,,,,,0
+,Name (Age) Address,"Contact [Moved, Deceased, Refused, Inaccessible, Not home, Republican]",Sherrod Brown,Danny O'Connor,cell phone,email,Address problems ,Voter problems,Lane Winters,Date of Canvass,Sherrod Brown,Danny O'Connor,cell phone,email,Address problems ,Voter problems,Lane Winters,,,,,,,,,,,,,,104,104,104,104,104,"Side: 0=even, 1=odd, 2 = both",,,,,use this one,,,Multi unit apt
+OH0023666784,Henry Konczak (65) 1 Marion Ave Apt 309,Office building,,,,,,,,6/5/18,1,1,1,1,1,1,1,,1 MARION AVE,APT 309,1 MARION AVE Mansfield OH,1,0,1 MARION AVE Mansfield OH,1 MARION AVE Mansfield OH,,MARION AVE,142,40.7584692,-82.5237033,1,1,1,1,1,,1 MARION AVE APT 309,1 MARION AVE APT 309,FALSE,2,2,1 MARION AVE Mansfield OH,2,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,173 PARK AVE W Mansfield OH,173 PARK AVE W Mansfield OH,,,,,,,,,,,,1 MARION AVE APT 309,1 MARION AVE STE 204,TRUE,2,2.001,173 PARK AVE W Mansfield OH,,
+OH0014737509,Deborah Mack (54) 1 Marion Ave Ste 204,Legal office,,,,,,,,6/5/18,1,1,1,1,1,1,1,,1 MARION AVE,STE 204,1 MARION AVE Mansfield OH,1,0,137 PARK AVE W Mansfield OH,137 PARK AVE W Mansfield OH,,MARION AVE,142,40.7584692,-82.5237033,1,1,1,1,1,,1 MARION AVE STE 204,173 PARK AVE W ,FALSE,2,2.002,137 PARK AVE W Mansfield OH,2,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,101 W LUTHER PL Mansfield OH,101 W LUTHER PL Mansfield OH,,,,,,,,,,,,1 MARION AVE STE 204,137 PARK AVE W ,TRUE,2,2.003,101 W LUTHER PL Mansfield OH,,
+OH0012731467,James Enyart (63) 173 Park Ave W,Funeral home,,,,,,,,6/5/18,1,1,1,1,1,1,1,,173 PARK AVE W,,173 PARK AVE W Mansfield OH,173,0,103 W LUTHER PL Mansfield OH,103 W LUTHER PL Mansfield OH,,PARK AVE W,37,40.7585085,-82.5220083,1,1,1,1,1,,173 PARK AVE W ,137 PARK AVE W APT 112,FALSE,3,3,103 W LUTHER PL Mansfield OH,3,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,105 W LUTHER PL Mansfield OH,105 W LUTHER PL Mansfield OH,,,,,,,,,,,,173 PARK AVE W ,137 PARK AVE W APT 114,TRUE,3,3.001,105 W LUTHER PL Mansfield OH,,
+OH0012670145,Tony Oneil (51) 137 Park Ave W,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,,137 PARK AVE W Mansfield OH,137,0,109 W LUTHER PL Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W ,137 PARK AVE W APT 224,FALSE,4,4,109 W LUTHER PL Mansfield OH,4,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,102 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W ,137 PARK AVE W RM 211,TRUE,4,4.001,102 W 2ND ST Mansfield OH,,
+OH0019107248,Russell Brown (31) 137 Park Ave W Apt 112,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,APT 112,137 PARK AVE W Mansfield OH,137,0,104 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W APT 112,101 W LUTHER PL ,FALSE,4,4.002,104 W 2ND ST Mansfield OH,4,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,108 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W APT 112,103 W LUTHER PL ,TRUE,4,4.003,108 W 2ND ST Mansfield OH,,
+OH0012701333,James Backensto (59) 137 Park Ave W Apt 114,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,APT 114,137 PARK AVE W Mansfield OH,137,0,126 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W APT 114,105 W LUTHER PL ,FALSE,4,4.004,126 W 2ND ST Mansfield OH,4,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,132 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W APT 114,105 1/2 W LUTHER PL ,TRUE,4,4.005,132 W 2ND ST Mansfield OH,,
+OH0024064084,Antonio Garcia (51) 137 Park Ave W Apt 224,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,APT 224,137 PARK AVE W Mansfield OH,137,0,134 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W APT 224,109 W LUTHER PL ,FALSE,4,4.006,134 W 2ND ST Mansfield OH,4,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,142 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W APT 224,102 W 2ND ST ,TRUE,4,4.007,142 W 2ND ST Mansfield OH,,
+OH0012668718,Michael Whitcomb (42) 137 Park Ave W Rm 211,,,,,,,,,,1,1,1,1,1,1,1,,137 PARK AVE W,RM 211,137 PARK AVE W Mansfield OH,137,0,146 W 2ND ST Mansfield OH,,,PARK AVE W,110,40.7583474,-82.52074,1,1,1,1,1,,137 PARK AVE W RM 211,102 W 2ND ST APT B,FALSE,4,4.008,146 W 2ND ST Mansfield OH,4,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,154 W 2ND ST Mansfield OH,,,,,,,,,,,,,137 PARK AVE W RM 211,104 W 2ND ST ,TRUE,4,4.009,154 W 2ND ST Mansfield OH,,
+OH0023416598,John Peppard (50) 101 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,101 W LUTHER PL,,101 W LUTHER PL Mansfield OH,101,0,156 W 2ND ST Mansfield OH,,,W LUTHER PL,394,40.7579712,-82.5194927,1,1,1,1,1,,101 W LUTHER PL ,108 W 2ND ST APT 2,FALSE,5,5,156 W 2ND ST Mansfield OH,5,#N/A
+OH0024198820,Rachel Reed (23) 101 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,101 W LUTHER PL,,101 W LUTHER PL Mansfield OH,101,0,160 W 2ND ST Mansfield OH,,,W LUTHER PL,394,40.7579712,-82.5194927,1,1,1,1,1,,101 W LUTHER PL ,108 W 2ND ST APT 4,TRUE,5,5.001,160 W 2ND ST Mansfield OH,5,#N/A
+OH0024198827,Jonathan Cavendish (27) 101 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,101 W LUTHER PL,,101 W LUTHER PL Mansfield OH,101,0,170 W 2ND ST Mansfield OH,,,W LUTHER PL,394,40.7579712,-82.5194927,1,1,1,1,1,,101 W LUTHER PL ,126 W 2ND ST APT 206,TRUE,5,5.002,170 W 2ND ST Mansfield OH,5,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,186 W 2ND ST Mansfield OH,,,,,,,,,,,,,101 W LUTHER PL ,132 W 2ND ST APT 1,TRUE,5,5.003,186 W 2ND ST Mansfield OH,,
+OH0012668364,Martha Kondos (94) 103 W Luther Pl,Recently deceased,,,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,47 STURGES AVE Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,134 W 2ND ST ,FALSE,6,6,47 STURGES AVE Mansfield OH,6,#N/A
+OH0012668373,Martha Kondos (71) 103 W Luther Pl,"Has Parkingon's, some good days, many bad days ",,,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,51 STURGES AVE Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,134 1/2 W 2ND ST ,TRUE,6,6.001,51 STURGES AVE Mansfield OH,6,#N/A
+OH0012695838,Teresa Potter (67) 103 W Luther Pl,"Democrat, per her Florida living brother",1,1,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,193 W 2ND ST Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,134 1/2 W 2ND ST APT B,TRUE,6,6.002,193 W 2ND ST Mansfield OH,6,#N/A
+OH0024237127,Kathleen Kondos (72) 103 W Luther Pl,"Democrat, per her Florida living brother",1,1,,,,,,6/5/18,1,1,1,1,1,1,1,,103 W LUTHER PL,,103 W LUTHER PL Mansfield OH,103,0,191 W 2ND ST Mansfield OH,,,W LUTHER PL,5,40.7579767,-82.5195773,1,1,1,1,1,,103 W LUTHER PL ,142 W 2ND ST ,TRUE,6,6.003,191 W 2ND ST Mansfield OH,6,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,183 W 2ND ST Mansfield OH,,,,,,,,,,,,,103 W LUTHER PL ,146 W 2ND ST ,TRUE,6,6.004,183 W 2ND ST Mansfield OH,,
+OH0022680491,Lisa Daugherty (56) 105 W Luther Pl,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,105 W LUTHER PL,,105 W LUTHER PL Mansfield OH,105,0,177 W 2ND ST Mansfield OH,,,W LUTHER PL,188,40.7579877,-82.5197464,1,1,1,1,1,,105 W LUTHER PL ,154 W 2ND ST ,FALSE,7,7.002,177 W 2ND ST Mansfield OH,7,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,173 W 2ND ST Mansfield OH,,,,,,,,,,,,,105 W LUTHER PL ,154 W 2ND ST APT 108,TRUE,7,7.003,173 W 2ND ST Mansfield OH,,
+OH0012687956,Aaron Caugherty (41) 105 1/2 W Luther Pl,Side door,,,,,,,,6/5/18,1,1,1,1,1,1,1,,105 1/2 W LUTHER PL,,105 W LUTHER PL Mansfield OH,105,0,171 W 2ND ST Mansfield OH,,,W LUTHER PL,188,40.7579877,-82.5197464,1,1,1,1,1,,105 1/2 W LUTHER PL ,154 W 2ND ST APT 109,FALSE,7,7.5,171 W 2ND ST Mansfield OH,7,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,161 W 2ND ST Mansfield OH,,,,,,,,,,,,,105 1/2 W LUTHER PL ,154 W 2ND ST APT 309,TRUE,7,7.51,161 W 2ND ST Mansfield OH,,
+OH0012668440,April Fuhrer (66) 109 W Luther Pl,Claims that she does not vote,,,,,,RP,,6/5/18,1,1,1,1,1,1,1,,109 W LUTHER PL,,109 W LUTHER PL Mansfield OH,109,0,155 W 2ND ST Mansfield OH,,,W LUTHER PL,210,40.7579648,-82.5200001,1,1,1,1,1,,109 W LUTHER PL ,154 W 2ND ST APT APT 210,FALSE,8,8,155 W 2ND ST Mansfield OH,8,#N/A
+OH0014359690,Raeann Harris (42) 109 W Luther Pl,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,109 W LUTHER PL,,109 W LUTHER PL Mansfield OH,109,0,125 W 2ND ST Mansfield OH,,,W LUTHER PL,210,40.7579648,-82.5200001,1,1,1,1,1,,109 W LUTHER PL ,156 W 2ND ST ,TRUE,8,8.001,125 W 2ND ST Mansfield OH,8,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,121 W 2ND ST Mansfield OH,,,,,,,,,,,,,109 W LUTHER PL ,156 W 2ND ST APT 106,TRUE,8,8.002,121 W 2ND ST Mansfield OH,,
+OH0012714174,Brian Senokozlieff (58) 102 W 2nd St,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,102 W 2ND ST,,102 W 2ND ST Mansfield OH,102,1,105 W 2ND ST Mansfield OH,,,W 2ND ST,471,40.7576874,-82.5193659,1,1,1,1,1,,102 W 2ND ST ,156 W 2ND ST APT 206,FALSE,9,9,105 W 2ND ST Mansfield OH,9,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,99 W 2ND ST Mansfield OH,,,,,,,,,,,,,102 W 2ND ST ,156 W 2ND ST APT 306,TRUE,9,9.001,99 W 2ND ST Mansfield OH,,
+OH0019242193,Frank Farkas (59) 102 W 2nd St Apt B,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,102 W 2ND ST,APT B,102 W 2ND ST Mansfield OH,102,1,104 W 1ST ST Mansfield OH,,,W 2ND ST,471,40.7576874,-82.5193659,1,1,1,1,1,,102 W 2ND ST APT B,160 W 2ND ST APT 101,FALSE,9,9.002,104 W 1ST ST Mansfield OH,9,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,116 W 1ST ST Mansfield OH,,,,,,,,,,,,,102 W 2ND ST APT B,160 W 2ND ST APT 102,TRUE,9,9.003,116 W 1ST ST Mansfield OH,,
+OH0012668894,Judy Corbett (68) 104 W 2nd St,,,,,,V,,,6/5/18,1,1,1,1,1,1,1,,104 W 2ND ST,,104 W 2ND ST Mansfield OH,104,1,120 W 1ST ST Mansfield OH,,,W 2ND ST,219,40.7574971,-82.5195538,1,1,1,1,1,,104 W 2ND ST ,160 W 2ND ST APT 201,FALSE,10,10,120 W 1ST ST Mansfield OH,10,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,122 W 1ST ST Mansfield OH,,,,,,,,,,,,,104 W 2ND ST ,160 W 2ND ST APT 202,TRUE,10,10.001,122 W 1ST ST Mansfield OH,,
+OH0020974931,Linda Copley (59) 108 W 2nd St Apt 2,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,108 W 2ND ST,APT 2,108 W 2ND ST Mansfield OH,108,1,158 W 1ST ST Mansfield OH,,,W 2ND ST,255,40.7577218,-82.5197248,1,1,1,1,1,,108 W 2ND ST APT 2,160 W 2ND ST APT 302,FALSE,11,11,158 W 1ST ST Mansfield OH,11,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,174 W 1ST ST Mansfield OH,,,,,,,,,,,,,108 W 2ND ST APT 2,170 W 2ND ST ,TRUE,11,11.001,174 W 1ST ST Mansfield OH,,
+OH0012668702,Gregory Morris (62) 108 W 2nd St Apt 4,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,108 W 2ND ST,APT 4,108 W 2ND ST Mansfield OH,108,1,178 W 1ST ST Mansfield OH,,,W 2ND ST,255,40.7577218,-82.5197248,1,1,1,1,1,,108 W 2ND ST APT 4,186 W 2ND ST ,FALSE,11,11.002,178 W 1ST ST Mansfield OH,11,#N/A
+OH0023100911,Michael Donahue (48) 108 W 2nd St Apt 4,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,108 W 2ND ST,APT 4,108 W 2ND ST Mansfield OH,108,1,182 W 1ST ST Mansfield OH,,,W 2ND ST,255,40.7577218,-82.5197248,1,1,1,1,1,,108 W 2ND ST APT 4,47 STURGES AVE ,TRUE,11,11.003,182 W 1ST ST Mansfield OH,11,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,90 STURGES AVE Mansfield OH,,,,,,,,,,,,,108 W 2ND ST APT 4,47 1/2 STURGES AVE ,TRUE,11,11.004,90 STURGES AVE Mansfield OH,,
+OH0023029220,Janice Borden (43) 126 W 2nd St Apt 206,,,,,,E,,,6/5/18,1,1,1,1,1,1,1,,126 W 2ND ST,APT 206,126 W 2ND ST Mansfield OH,126,1,231 W 1ST ST Mansfield OH,,,W 2ND ST,215,40.7578057,-82.5202411,1,1,1,1,1,,126 W 2ND ST APT 206,51 1/2 STURGES AVE ,FALSE,12,12,231 W 1ST ST Mansfield OH,12,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,82 STURGES AVE Mansfield OH,,,,,,,,,,,,,126 W 2ND ST APT 206,193 W 2ND ST APT 1,TRUE,12,12.001,82 STURGES AVE Mansfield OH,,
+OH0016345306,Michael Goodwin (37) 132 W 2nd St Apt 1,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,132 W 2ND ST,APT 1,132 W 2ND ST Mansfield OH,132,1,58 STURGES AVE Mansfield OH,,,W 2ND ST,162,40.7577765,-82.520574,1,1,1,1,1,,132 W 2ND ST APT 1,193 W 2ND ST APT 3,FALSE,13,13,58 STURGES AVE Mansfield OH,13,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,34 STURGES AVE Mansfield OH,,,,,,,,,,,,,132 W 2ND ST APT 1,191 W 2ND ST ,TRUE,13,13.001,34 STURGES AVE Mansfield OH,,
+OH0023155976,James Leppo (32) 134 W 2nd St,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,134 W 2ND ST,,134 W 2ND ST Mansfield OH,134,1,,,,W 2ND ST,17,40.7577848,-82.5206927,1,1,1,1,1,,134 W 2ND ST ,183 W 2ND ST APT 1,FALSE,14,14.004,,14,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,134 W 2ND ST ,177 W 2ND ST ,TRUE,14,14.005,,,
+OH0015623242,Mishan Mullins (32) 134 1/2 W 2nd St,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,134 1/2 W 2ND ST,,134 W 2ND ST Mansfield OH,134,1,,,,W 2ND ST,17,40.7577848,-82.5206927,1,1,1,1,1,,134 1/2 W 2ND ST ,173 W 2ND ST ,FALSE,14,14.3,,14,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,134 1/2 W 2ND ST ,171 W 2ND ST ,TRUE,14,14.31,,,
+OH0018966127,Kendra Gamble (30) 134 1/2 W 2nd St Apt B,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,134 1/2 W 2ND ST,APT B,134 W 2ND ST Mansfield OH,134,1,,,,W 2ND ST,17,40.7577848,-82.5206927,1,1,1,1,1,,134 1/2 W 2ND ST APT B,161 W 2ND ST APT A,FALSE,14,14.7,,14,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,134 1/2 W 2ND ST APT B,161 W 2ND ST APT C,TRUE,14,14.71,,,
+OH0021407146,Isaiah Ellington (24) 142 W 2nd St,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,142 W 2ND ST,,142 W 2ND ST Mansfield OH,142,1,,,,W 2ND ST,327,40.7578471,-82.5209627,1,1,1,1,1,,142 W 2ND ST ,161 W 2ND ST APT F,FALSE,15,15,,15,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,142 W 2ND ST ,155 W 2ND ST APT C,TRUE,15,15.001,,,
+OH0012670753,Jeffrey Powell (35) 146 W 2nd St,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,146 W 2ND ST,,146 W 2ND ST Mansfield OH,146,1,,,,W 2ND ST,77,40.7578557,-82.5211486,1,1,1,1,1,,146 W 2ND ST ,155 W 2ND ST APT D,FALSE,16,16,,16,#N/A
+,,146 W 2ND Side Door Racist Republican,,,,,,,,6/5/18,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,146 W 2ND ST ,155 W 2ND ST APT F,TRUE,16,16.001,,,
+OH0012668599,Louis Strubhar (60) 154 W 2nd St,"No apartment number listed, no idea which door to knock on ",,,,,,,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST ,125 W 2ND ST ,FALSE,17,17,,17,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST ,125 W 2ND ST APT 2,TRUE,17,17.001,,,
+OH0020113986,Jamery Jennings (56) 154 W 2nd St Apt 108,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT 108,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT 108,125 W 2ND ST APT 3,FALSE,17,17.002,,17,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT 108,125 W 2ND ST APT 4,TRUE,17,17.003,,,
+OH0012703867,Jill Leimeister (55) 154 W 2nd St Apt 109,,,,419 961 9773,,,,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT 109,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT 109,125 W 2ND ST APT 8,FALSE,17,17.004,,17,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT 109,121 W 2ND ST APT 1,TRUE,17,17.005,,,
+OH0023103442,Crystal Bloomfield (23) 154 W 2nd St Apt 309,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT 309,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT 309,121 W 2ND ST REAR,FALSE,17,17.006,,17,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT 309,105 1/2 W 2ND ST ,TRUE,17,17.007,,,
+OH0023265310,Mark Porter (61) 154 W 2nd St Apt 210,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,154 W 2ND ST,APT APT 210,154 W 2ND ST Mansfield OH,154,1,,,,W 2ND ST,11,40.7578864,-82.521427,1,1,1,1,1,,154 W 2ND ST APT APT 210,105 W 2ND ST ,FALSE,17,17.008,,17,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,154 W 2ND ST APT APT 210,99 W 2ND ST ,TRUE,17,17.009,,,
+OH0012667825,Myron Miller (53) 156 W 2nd St,No apt #,,,,,,,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST ,104 W 1ST ST ,FALSE,18,18,,18,#N/A
+OH0024021052,Brenda Adams (60) 156 W 2nd St,No apt #,,,,,,,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST ,116 1/2 W 1ST ST ,TRUE,18,18.001,,18,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST ,120 W 1ST ST ,TRUE,18,18.002,,,
+OH0024185639,Joseph Paniagua (61) 156 W 2nd St Apt 106,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 106,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 106,122 W 1ST ST ,FALSE,18,18.003,,18,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST APT 106,122 W 1ST ST APT 122,TRUE,18,18.004,,,
+OH0021484007,Angel Larue (33) 156 W 2nd St Apt 206,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 206,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 206,158 W 1ST ST ,FALSE,18,18.005,,18,#N/A
+OH0022820977,William Ball (47) 156 W 2nd St Apt 206,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 206,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 206,158 1/2 W 1ST ST ,TRUE,18,18.006,,18,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST APT 206,174 W 1ST ST ,TRUE,18,18.007,,,
+OH0021852260,William Jenskins (32) 156 W 2nd St Apt 306,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,156 W 2ND ST,APT 306,156 W 2ND ST Mansfield OH,156,1,,,,W 2ND ST,252,40.7575723,-82.5214807,1,1,1,1,1,,156 W 2ND ST APT 306,178 W 1ST ST ,FALSE,18,18.008,,18,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,156 W 2ND ST APT 306,182 W 1ST ST ,TRUE,18,18.009,,,
+OH0012697292,Toni Knowles (62) 160 W 2nd St Apt 101,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 101,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 101,90 STURGES AVE ,FALSE,19,19,,19,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 101,231 W 1ST ST ,TRUE,19,19.001,,,
+OH0012668946,Richard Minor (53) 160 W 2nd St Apt 102,,,,,,,MV,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 102,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 102,82 STURGES AVE ,FALSE,19,19.002,,19,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 102,58 STURGES AVE APT 2,TRUE,19,19.003,,,
+OH0015916044,Joseph Spreng (68) 160 W 2nd St Apt 201,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 201,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 201,58 STURGES AVE APT 3 REAR,FALSE,19,19.004,,19,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 201,58 STURGES AVE APT 3REAR,TRUE,19,19.005,,,
+OH0019177024,Renee Jordan (55) 160 W 2nd St Apt 202,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 202,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 202,58 STURGES AVE APT 5,FALSE,19,19.006,,19,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 202,34 STURGES AVE ,TRUE,19,19.007,,,
+OH0021895699,Ginger Cates (58) 160 W 2nd St Apt 302,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 302,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 302,,FALSE,19,19.008,,19,#N/A
+OH0022965589,Caleb Sarge (25) 160 W 2nd St Apt 302,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,160 W 2ND ST,APT 302,160 W 2ND ST Mansfield OH,160,1,,,,W 2ND ST,4,40.7575747,-82.5215509,1,1,1,1,1,,160 W 2ND ST APT 302,,TRUE,19,19.009,,19,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,160 W 2ND ST APT 302,,TRUE,19,19.01,,,
+OH0012668557,Theresa Herlihy (47) 170 W 2nd St,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,170 W 2ND ST,,170 W 2ND ST Mansfield OH,170,1,,,,W 2ND ST,258,40.7578977,-82.5217079,1,1,1,1,1,,170 W 2ND ST ,,FALSE,20,20,,20,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,170 W 2ND ST ,,TRUE,20,20.001,,,
+OH0012668690,Osbaldo Rodriguez (72) 186 W 2nd St,,,,,,V,,,6/5/18,1,1,1,1,1,1,1,,186 W 2ND ST,,186 W 2ND ST Mansfield OH,186,1,,,,W 2ND ST,324,40.7576131,-82.5225547,1,1,1,1,1,,186 W 2ND ST ,,FALSE,21,21,,21,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,186 W 2ND ST ,,TRUE,21,21.001,,,
+OH0021624877,Randy Brown (45) 47 Sturges Ave,,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,47 STURGES AVE,,47 STURGES AVE Mansfield OH,47,0,,,,STURGES AVE,55,40.7574619,-82.522595,1,1,1,1,1,,47 STURGES AVE ,,FALSE,22,22.002,,22,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,47 STURGES AVE ,,TRUE,22,22.003,,,
+OH0023138221,Taylor Wittig (24) 47 1/2 Sturges Ave,Wittig on mailbox,,,,,,NH,,6/5/18,1,1,1,1,1,1,1,,47 1/2 STURGES AVE,,47 STURGES AVE Mansfield OH,47,0,,,,STURGES AVE,55,40.7574619,-82.522595,1,1,1,1,1,,47 1/2 STURGES AVE ,,FALSE,22,22.5,,22,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,47 1/2 STURGES AVE ,,TRUE,22,22.501,,,
+OH0020294809,Monya Angel (50) 51 1/2 Sturges Ave,,,,,,V,,,6/5/18,1,1,1,1,1,1,1,,51 1/2 STURGES AVE,,51 STURGES AVE Mansfield OH,51,0,,,,STURGES AVE,358,40.7573642,-82.522875,1,1,1,1,1,,51 1/2 STURGES AVE ,,FALSE,23,23.002,,23,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,51 1/2 STURGES AVE ,,TRUE,23,23.003,,,
+OH0012669017,Timothy Hillman (41) 193 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,193 W 2ND ST,APT 1,193 W 2ND ST Mansfield OH,193,0,,,,W 2ND ST,41,40.7576185,-82.5227296,1,1,1,1,1,,193 W 2ND ST APT 1,,FALSE,41,24,,41,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,193 W 2ND ST APT 1,,TRUE,41,24.1,,,
+OH0021193376,Marquis Selmon (29) 193 W 2nd St Apt 3,,,,,,,,,,1,1,1,1,1,1,1,,193 W 2ND ST,APT 3,193 W 2ND ST Mansfield OH,193,0,,,,W 2ND ST,41,40.7576185,-82.5227296,1,1,1,1,1,,193 W 2ND ST APT 3,,FALSE,41,25,,41,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,193 W 2ND ST APT 3,,TRUE,41,25.1,,,
+OH0012668392,Donald Karl (65) 191 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,191 W 2ND ST,,191 W 2ND ST Mansfield OH,191,0,,,,W 2ND ST,112,40.7576158,-82.5226402,1,1,1,1,1,,191 W 2ND ST ,,FALSE,40,26,,40,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,191 W 2ND ST ,,TRUE,40,26.1,,,
+OH0024187671,Korbin Dodrill (21) 183 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,183 W 2ND ST,APT 1,183 W 2ND ST Mansfield OH,183,0,,,,W 2ND ST,246,40.7572445,-82.5223026,1,1,1,1,1,,183 W 2ND ST APT 1,,FALSE,39,27,,39,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,183 W 2ND ST APT 1,,TRUE,39,27.1,,,
+OH0020231758,Emmanuel Harris (38) 177 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,177 W 2ND ST,,177 W 2ND ST Mansfield OH,177,0,,,,W 2ND ST,119,40.7572367,-82.5220854,1,1,1,1,1,,177 W 2ND ST ,,FALSE,38,28,,38,#N/A
+OH0023708362,Daryletta Wheeler (28) 177 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,177 W 2ND ST,,177 W 2ND ST Mansfield OH,177,0,,,,W 2ND ST,119,40.7572367,-82.5220854,1,1,1,1,1,,177 W 2ND ST ,,TRUE,38,28,,38,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,177 W 2ND ST ,,TRUE,38,28.1,,,
+OH0012668604,Shelly Brown (46) 173 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,173 W 2ND ST,,173 W 2ND ST Mansfield OH,173,0,,,,W 2ND ST,44,40.7572297,-82.521902,1,1,1,1,1,,173 W 2ND ST ,,FALSE,37,29,,37,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,173 W 2ND ST ,,TRUE,37,29.1,,,
+OH0012663985,Susan Zimmer (64) 171 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,171 W 2ND ST,,171 W 2ND ST Mansfield OH,171,0,,,,W 2ND ST,45,40.7575831,-82.5218017,1,1,1,1,1,,171 W 2ND ST ,,FALSE,37,30,,37,#N/A
+OH0023235283,Daniel Murray (24) 171 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,171 W 2ND ST,,171 W 2ND ST Mansfield OH,171,0,,,,W 2ND ST,45,40.7575831,-82.5218017,1,1,1,1,1,,171 W 2ND ST ,,TRUE,37,30,,37,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,171 W 2ND ST ,,TRUE,37,30.1,,,
+OH0021629153,Roby Martin (55) 161 W 2nd St Apt A,,,,,,,,,,1,1,1,1,1,1,1,,161 W 2ND ST,APT A,161 W 2ND ST Mansfield OH,161,0,,,,W 2ND ST,70,40.7575723,-82.5214814,1,1,1,1,1,,161 W 2ND ST APT A,,FALSE,36,31,,36,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,161 W 2ND ST APT A,,TRUE,36,31.1,,,
+OH0012664564,Latasha Lane (44) 161 W 2nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,161 W 2ND ST,APT C,161 W 2ND ST Mansfield OH,161,0,,,,W 2ND ST,70,40.7575723,-82.5214814,1,1,1,1,1,,161 W 2ND ST APT C,,FALSE,36,32,,36,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,161 W 2ND ST APT C,,TRUE,36,32.1,,,
+OH0023914040,Lakisha Horton (22) 161 W 2nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,161 W 2ND ST,APT F,161 W 2ND ST Mansfield OH,161,0,,,,W 2ND ST,70,40.7575723,-82.5214814,1,1,1,1,1,,161 W 2ND ST APT F,,FALSE,36,33,,36,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,161 W 2ND ST APT F,,TRUE,36,33.1,,,
+OH0012669058,Ronald Hordge (60) 155 W 2nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT C,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT C,,FALSE,35,34,,35,#N/A
+OH0021143624,Debbie Hordge (56) 155 W 2nd St Apt C,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT C,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT C,,TRUE,35,34,,35,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,155 W 2ND ST APT C,,TRUE,35,34.1,,,
+OH0012694346,Lemarco Robinson (35) 155 W 2nd St Apt D,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT D,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT D,,FALSE,35,35,,35,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,155 W 2ND ST APT D,,TRUE,35,35.1,,,
+OH0023145095,Roger Mcneely (56) 155 W 2nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT F,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT F,,FALSE,35,36,,35,#N/A
+OH0024158372,Raccio Feagin (64) 155 W 2nd St Apt F,,,,,,,,,,1,1,1,1,1,1,1,,155 W 2ND ST,APT F,155 W 2ND ST Mansfield OH,155,0,,,,W 2ND ST,400,40.7575661,-82.5212946,1,1,1,1,1,,155 W 2ND ST APT F,,TRUE,35,36,,35,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,155 W 2ND ST APT F,,TRUE,35,36.1,,,
+OH0012668777,Russell Haywood (80) 125 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST ,,FALSE,34,37,,34,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST ,,TRUE,34,37.1,,,
+OH0022866886,Patricia Rabquer (49) 125 W 2nd St Apt 2,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 2,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 2,,FALSE,34,38,,34,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 2,,TRUE,34,38.1,,,
+OH0022971943,Bernard Smith (69) 125 W 2nd St Apt 3,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 3,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 3,,FALSE,34,39,,34,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 3,,TRUE,34,39.1,,,
+OH0021449415,Marc Hess (61) 125 W 2nd St Apt 4,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 4,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 4,,FALSE,34,40,,34,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 4,,TRUE,34,40.1,,,
+OH0020898789,Nennie Lawhorn (49) 125 W 2nd St Apt 8,,,,,,,,,,1,1,1,1,1,1,1,,125 W 2ND ST,APT 8,125 W 2ND ST Mansfield OH,125,0,,,,W 2ND ST,435,40.7571813,-82.5203175,1,1,1,1,1,,125 W 2ND ST APT 8,,FALSE,34,41,,34,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,125 W 2ND ST APT 8,,TRUE,34,41.1,,,
+OH0012653915,Julie Kilgore (62) 121 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,APT 1,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST APT 1,,FALSE,33,42,,33,#N/A
+OH0020744405,Timothy Kilgore (26) 121 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,APT 1,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST APT 1,,TRUE,33,42,,33,#N/A
+OH0022833156,Taylor Kilgore (24) 121 W 2nd St Apt 1,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,APT 1,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST APT 1,,TRUE,33,42,,33,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,121 W 2ND ST APT 1,,TRUE,33,42.1,,,
+OH0019199542,Erica Snyder (30) 121 W 2nd St Rear,,,,,,,,,,1,1,1,1,1,1,1,,121 W 2ND ST,REAR,121 W 2ND ST Mansfield OH,121,0,,,,W 2ND ST,36,40.7571766,-82.5201631,1,1,1,1,1,,121 W 2ND ST REAR,,FALSE,33,43,,33,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,121 W 2ND ST REAR,,TRUE,33,43.1,,,
+OH0012668696,Barbara Jackson (51) 105 1/2 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,105 1/2 W 2ND ST,,105 W 2ND ST Mansfield OH,105,0,,,,W 2ND ST,53,40.7571534,-82.5195838,1,1,1,1,1,,105 1/2 W 2ND ST ,,FALSE,32,44,,32,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,105 1/2 W 2ND ST ,,TRUE,32,44.1,,,
+OH0019296969,Brittany Jackson (28) 105 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,105 W 2ND ST,,105 W 2ND ST Mansfield OH,105,0,,,,W 2ND ST,53,40.7571534,-82.5195838,1,1,1,1,1,,105 W 2ND ST ,,FALSE,32,45,,32,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,105 W 2ND ST ,,TRUE,32,45.1,,,
+OH0012668533,Albert Britton (69) 99 W 2nd St,,,,,,,,,,1,1,1,1,1,1,1,,99 W 2ND ST,,99 W 2ND ST Mansfield OH,99,0,,,,W 2ND ST,211,40.7572993,-82.5194505,1,1,1,1,1,,99 W 2ND ST ,,FALSE,31,46,,31,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,99 W 2ND ST ,,TRUE,31,46.1,,,
+OH0012668348,Mary Campbell (92) 104 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,104 W 1ST ST,,104 W 1ST ST Mansfield OH,104,1,,,,W 1ST ST,454,40.7565697,-82.5194293,1,1,1,1,1,,104 W 1ST ST ,,FALSE,30,47,,30,#N/A
+OH0012668457,Rosemary Bingert (92) 104 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,104 W 1ST ST,,104 W 1ST ST Mansfield OH,104,1,,,,W 1ST ST,454,40.7565697,-82.5194293,1,1,1,1,1,,104 W 1ST ST ,,TRUE,30,47,,30,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,104 W 1ST ST ,,TRUE,30,47.1,,,
+OH0012668928,Tracy Shorter (48) 116 1/2 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,116 1/2 W 1ST ST,,116 W 1ST ST Mansfield OH,116,1,,,,W 1st ST,390,40.756653,-82.520095,1,1,1,1,1,,116 1/2 W 1ST ST ,,FALSE,29,48,,29,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,116 1/2 W 1ST ST ,,TRUE,29,48.1,,,
+OH0012668516,Mary Isch (62) 120 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,120 W 1ST ST,,120 W 1ST ST Mansfield OH,120,1,,,,W 1ST ST,437,40.7564855,-82.5202537,1,1,1,1,1,,120 W 1ST ST ,,FALSE,28,49,,28,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,120 W 1ST ST ,,TRUE,28,49.1,,,
+OH0012668602,Robbie Scarbury (51) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,FALSE,27,50,,27,#N/A
+OH0012668654,James Scarbury (59) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,TRUE,27,50,,27,#N/A
+OH0024182504,Joshua Scarbury (22) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,TRUE,27,50,,27,#N/A
+OH0021940643,Jacob Scarbury (24) 122 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,122 W 1ST ST,,122 W 1ST ST Mansfield OH,122,1,,,,W 1ST ST,247,40.756579,-82.5203121,1,1,1,1,1,,122 W 1ST ST ,,#REF!,27,50,,27,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,122 W 1ST ST APT 122,,FALSE,27,50.1,,,
+OH0021474321,Darron Mask (60) 158 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,158 W 1ST ST,,158 W 1ST ST Mansfield OH,158,1,,,,W 1ST ST,213,40.756677,-82.521493,1,1,1,1,1,,158 W 1ST ST ,,FALSE,26,51,,26,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,158 1/2 W 1ST ST ,,FALSE,26,51.1,,,
+OH0022869395,Kalina Latour (35) 158 1/2 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,158 1/2 W 1ST ST,,158 W 1ST ST Mansfield OH,158,1,,,,W 1st ST,213,40.756677,-82.521493,1,1,1,1,1,,158 1/2 W 1ST ST ,,TRUE,26,52,,26,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,158 W 1ST ST ,,FALSE,26,52.1,,,
+OH0012668597,Alan Raphael (58) 174 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,174 W 1ST ST,,174 W 1ST ST Mansfield OH,174,1,,,,W 1ST ST,100,40.7569239,-82.5221563,1,1,1,1,1,,174 W 1ST ST ,,FALSE,25,53,,25,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,174 W 1ST ST ,,TRUE,25,53.1,,,
+OH0012660222,Deborah Mitchell (64) 178 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,178 W 1ST ST,,178 W 1ST ST Mansfield OH,178,1,,,,W 1ST ST,73,40.7567077,-82.5222368,1,1,1,1,1,,178 W 1ST ST ,,FALSE,24,54,,24,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,178 W 1ST ST ,,TRUE,24,54.1,,,
+OH0012668359,Rose Martin (79) 182 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,182 W 1ST ST,,182 W 1ST ST Mansfield OH,182,1,,,,W 1ST ST,274,40.7566227,-82.5223677,1,1,1,1,1,,182 W 1ST ST ,,FALSE,23,55,,23,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,182 W 1ST ST ,,TRUE,23,55.1,,,
+OH0023966112,George Clark (57) 90 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,90 STURGES AVE,,90 STURGES AVE Mansfield OH,90,1,,,,STURGES AVE,240,40.756325,-82.523345,1,1,1,1,1,,90 STURGES AVE ,,FALSE,45,55.5,,45,
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,90 STURGES AVE ,,TRUE,45,55.51,,,
+OH0020188116,Charles Noble (62) 231 W 1st St,,,,,,,,,,1,1,1,1,1,1,1,,231 W 1ST ST,,231 W 1ST ST Mansfield OH,231,0,,,,W 1ST ST,415,40.7564287,-82.5243456,1,1,1,1,1,,231 W 1ST ST ,,FALSE,44,56,,44,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,231 W 1ST ST ,,TRUE,44,56.1,,,
+OH0012725325,Holly Debolt (33) 82 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,82 STURGES AVE,,82 STURGES AVE Mansfield OH,82,1,,,,STURGES AVE,262,40.7565924,-82.5237205,1,1,1,1,1,,82 STURGES AVE ,,FALSE,43,57,,43,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,82 STURGES AVE ,,TRUE,43,57.1,,,
+OH0012668707,Sally Collins (44) 58 Sturges Ave Apt 2,,,,,,,,,,1,1,1,1,1,1,1,,58 STURGES AVE,APT 2,58 STURGES AVE Mansfield OH,58,1,,,,STURGES AVE,1,40.7572231,-82.5240376,1,1,1,1,1,,58 STURGES AVE APT 2,,FALSE,42.5,58,,42.5,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,58 STURGES AVE APT 2,,TRUE,42.5,58.1,,,
+OH0021334078,Carolyn Adams (76) 58 Sturges Ave Apt 3 Rear,,,,,,,,,,1,1,1,1,1,1,1,,58 STURGES AVE,APT 3 REAR,58 STURGES AVE Mansfield OH,58,1,,,,STURGES AVE,1,40.7572231,-82.5240376,1,1,1,1,1,,58 STURGES AVE APT 3 REAR,,FALSE,42.5,59,,42.5,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,58 STURGES AVE APT 3REAR,,FALSE,42.5,59.1,,,
+OH0012703847,Ed Davis (53) 58 Sturges Ave Apt 5,,,,,,,,,,1,1,1,1,1,1,1,,58 STURGES AVE,APT 5,58 STURGES AVE Mansfield OH,58,1,,,,STURGES AVE,1,40.7572231,-82.5240376,1,1,1,1,1,,58 STURGES AVE APT 5,,FALSE,42.5,60,,42.5,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,58 STURGES AVE APT 5,,TRUE,42.5,60.1,,,
+OH0012699722,John Horner (63) 34 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,34 STURGES AVE,,34 STURGES AVE Mansfield OH,34,1,,,,STURGES AVE,46,40.7579042,-82.5236148,1,1,1,1,1,,34 STURGES AVE ,,FALSE,42,61,,42,#N/A
+OH0012723456,Anica Horner (59) 34 Sturges Ave,,,,,,,,,,1,1,1,1,1,1,1,,34 STURGES AVE,,34 STURGES AVE Mansfield OH,34,1,,,,STURGES AVE,46,40.7579042,-82.5236148,1,1,1,1,1,,34 STURGES AVE ,,TRUE,42,61,,42,#N/A
+,,,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,34 STURGES AVE ,,TRUE,42,61.1,,,
