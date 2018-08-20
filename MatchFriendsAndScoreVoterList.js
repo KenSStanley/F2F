@@ -1,6 +1,7 @@
 /**
  * Created by priyathg on 2/11/18.
  * Updated by Ken Stanley on 2/17/18 - Adding the ability to score all friends from a Facebook friend list
+ * July 31st 2018 updated by KEn S - migrating to the new MansfieldAllPrecinctsFewerColumns31July18 format
  *
  * TODO:
  *   Add the ability to ignore voters that this volunteer has already rejected. 
@@ -11,7 +12,8 @@ const sortedMap = require("collections/sorted-map");
 
 var debugOutput = false; 
 var longOutput = true; 
-var knownUnknownsAsMap = new sortedMap() ;  
+var alreadyCheckedAsMap = new sortedMap() ;  
+var alreadyChosenAsMap = new sortedMap() ;  
 
 let largeFile = [];
 let smallFile = [];
@@ -31,7 +33,9 @@ let largeFileName = 'LargeFile';
 let smallFileName = 'SmallFile';
 let nicknameFileName = 'nicknameFile.csv';
 let alreadyCheckedFileName = 'alreadyCheckedFile';
-let knownUnknownWeight = -2 ;
+let alreadyChosenFileName = 'alreadyChosenFile';
+let AlreadyCheckedWeight = -2 ;
+let AlreadyChosenWeight = -4 ;
 let outputFileName = 'output';
 var birthdate = new Date(2017,0,1,0,0,0);
 birthdate.setFullYear(2020, 0, 14);
@@ -168,8 +172,16 @@ if ( index === 26 )  {
     alreadyCheckedFileName = val ;
   } 
 if ( index === 27 )  {
-    if ( true ) { console.log('knownUnknownWeight ' + val); }
-    knownUnknownWeight = val ;
+    if ( true ) { console.log('AlreadyCheckedWeight ' + val); }
+    AlreadyCheckedWeight = val ;
+  } 
+if ( index === 28 )  {
+    if ( true ) { console.log('alreadyChosenFileName ' + val); }
+    alreadyChosenFileName = val ;
+  } 
+if ( index === 29 )  {
+    if ( true ) { console.log('AlreadyChosenWeight ' + val); }
+    AlreadyChosenWeight = val ;
   } 
   
   precinctVol = ward + " " + precinctNum + " - " + precinctLet ; 
@@ -218,14 +230,15 @@ const init = function() {
 
    let nicknameFromFile = fs.readFileSync( nicknameFileName, 'utf8');
    parseNicknameFile( nicknameFromFile ) ; 
-   let knownUnknowns = fs.readFileSync( alreadyCheckedFileName, 'utf8');  // This is the list that this vol has looked through
-   let theseKnownUnknowns = knownUnknowns.split("\n");
-    for (indexJ = 1; indexJ < theseKnownUnknowns.length-1; indexJ++ ) {
-       row = theseKnownUnknowns[indexJ].split(",") ;
+   let alreadyChecked = fs.readFileSync( alreadyCheckedFileName, 'utf8');  // This is the list that this vol has looked through
+   let alreadyChosen = fs.readFileSync( alreadyChosenFileName, 'utf8');  // This is the list that some active volunteer has on their list
+   let theseAlreadyChecked = alreadyChecked.split("\n");
+    for (indexJ = 1; indexJ < theseAlreadyChecked.length-1; indexJ++ ) {
+       row = theseAlreadyChecked[indexJ].split(",") ;
        // row 1 is optional (the other rows are expected to behave or else )
        if ( (indexJ > 1 ) || (row[0].lastIndexOf("OH") > 0)) {
          console.assert(row[0].lastIndexOf("OH") === 0," The " + indexJ + "th row of " + alreadyCheckedFileName +
-             " does not appear to start with a voter ID , it is: " + theseKnownUnknowns[indexJ]  ) ;
+             " does not appear to start with a voter ID , it is: " + theseAlreadyChecked[indexJ]  ) ;
        }
        if ( (row[0].lastIndexOf("OH") == 0)) {
          if (debugOutput) {
@@ -233,7 +246,25 @@ const init = function() {
              console.log( "Known ID = " + row[0] ) ; 
 	}
 	}
-         knownUnknownsAsMap.set(row[0],1); // volName[i] knows this voter
+         alreadyCheckedAsMap.set(row[0],1); // volName[i] knows this voter
+       }
+    }
+
+   let theseAlreadyChosen = alreadyChosen.split("\n");
+    for (indexJ = 1; indexJ < theseAlreadyChosen.length-1; indexJ++ ) {
+       row = theseAlreadyChosen[indexJ].split(",") ;
+       // row 1 is optional (the other rows are expected to behave or else )
+       if ( (indexJ > 1 ) || (row[0].lastIndexOf("OH") > 0)) {
+         console.assert(row[0].lastIndexOf("OH") === 0," The " + indexJ + "th row of " + alreadyChosenFileName +
+             " does not appear to start with a voter ID , it is: " + theseAlreadyChosen[indexJ]  ) ;
+       }
+       if ( (row[0].lastIndexOf("OH") == 0)) {
+         if (debugOutput) {
+         if ( indexJ < 9 ) {
+             console.log( "Known ID = " + row[0] ) ; 
+	}
+	}
+         alreadyChosenAsMap.set(row[0],1); //  someone has chosen this voter
        }
     }
 
@@ -248,7 +279,7 @@ const init = function() {
     if ( longOutput ) {
       headers = 'ID,firstName(L),middleName(L),lastName(L),Age,Sex,Party,Address,Phone,City,State,Zip,ID_,Suffix,DOB,' +
         'precinct,knownBy,precinctScore,voteScore,under40,over70,hasPhone,is ' + precinctVol +' ?,bdate vs ' + printDate(birthdate) + ',organizersScore,maxVoteScore,' +
-        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore,knownUnknown\n';
+        'firstName(S),middleName(S),lastName(S),firstNameScore,middleNameScore,lastNameScore,finalScore,thAlreadyChecked,thAlreadyChosen\n';
     }
     writeOutput(headers);
     processData();
@@ -289,7 +320,8 @@ const parseLargeFile = function(data) {
       let splitRow = rows[line].split(',');
       let ID = splitRow[0].trim().replace(/\r?\n?/g, '');
       if (ID === 'SOS_VOTERID' && line === 0) continue;
-      let knownUnknown=knownUnknownsAsMap.has(ID)+0 ; 
+      let thAlreadyChecked=alreadyCheckedAsMap.has(ID)+0 ; 
+      let thAlreadyChosen=alreadyChosenAsMap.has(ID)+0 ; 
       let firstName = splitRow[7].trim().toLowerCase().replace(/\r?\n?/g, '');
       let firstInitial = firstName ? firstName.charAt(0) : '';
       let middleName = splitRow[8].trim().toLowerCase().replace(/\r?\n?/g, '');
@@ -312,7 +344,8 @@ const parseLargeFile = function(data) {
       }
       if ( debugOutput ) { 
           console.log( " ID = " , ID ) ; 
-         if ( knownUnknown )  console.log(" knownUnknown " ) ; 
+         if ( thAlreadyChecked )  console.log(" thAlreadyChecked " ) ; 
+         if ( thAlreadyChosen )  console.log(" thAlreadyChosen " ) ; 
       }
       let city = 'U';
       let state =  'OH';
@@ -360,7 +393,8 @@ const parseLargeFile = function(data) {
         over70: over70,
         hasPhone: hasPhone,
         landline: landline,
-        knownUnknown: knownUnknown,
+        thAlreadyChecked: thAlreadyChecked,
+        thAlreadyChosen: thAlreadyChosen,
         organizersScore: organizersScore,
         maxVoteScore: maxVoteScore
       };
@@ -501,7 +535,7 @@ const calculateOver70Score = ( bdate_large ) => {
     return Math.max(0, dayDiff/365.25 - 70 );  
 }
 const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70, 
-    precinctMatchScore, voteScore, hasPhone, landline, knownBy, F2Fscore, knownUnknown ) => { 
+    precinctMatchScore, voteScore, hasPhone, landline, knownBy, F2Fscore, thAlreadyChecked, thAlreadyChosen ) => { 
      if ( debugOutput ) { console.log("voteScoreWeight = " + voteScoreWeight + 
 	" voteScore = " + voteScore + 
 	" precinctScoreWeight = " + precinctScoreWeight + 
@@ -512,7 +546,8 @@ const calculateOrganizersScore = ( precinctScore, ageMatchScore, under40, over70
     
     return voteScoreWeight * Math.min(voteScore,maxVoteScoreAllowed) + precinctMatchWeight * precinctMatchScore + ageMatchWeight * ageMatchScore + 
            under40Weight * under40 + over70Weight * over70 + hasPhoneWeight * hasPhone + landlineWeight * landline + 
-           knownUnknown * knownUnknownWeight + 
+           thAlreadyChecked * AlreadyCheckedWeight + 
+           thAlreadyChosen * AlreadyChosenWeight + 
            precinctScoreWeight * precinctScore + knownByWeight * knownBy + F2Fscore * F2Fweight; 
 };   
 
@@ -557,7 +592,8 @@ const processData = function() {
 //    precinctMatchScore, voteScore, hasPhone, knownBy ) => { 
   if ( debugOutput ) {  console.log( " largeEntry.precinctScore = " + largeEntry.precinctScore ) ; }
     let newOrganizersScore = 0 - calculateOrganizersScore( largeEntry.precinctScore, ageMatchScore, largeEntry.under40, largeEntry.over70, 
-        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.landline, largeEntry.knownBy, minScore, largeEntry.knownUnknown ); 
+        precinctMatchScore, largeEntry.voteScore, largeEntry.hasPhone, largeEntry.landline, largeEntry.knownBy, 
+        minScore, largeEntry.thAlreadyChecked, largeEntry.thAlreadyChosen ); 
 /*
     console.log("newUnder40score = " + newUnder40score );
   console.log("largeEntry.under40 = " + largeEntry.under40 );
@@ -576,7 +612,9 @@ if ( false ) {
       middleNameScore: minScoreBreakdown.middleNameScore, lastNameScore:minScoreBreakdown.lastNameScore, finalScore: minScore,
       precinct:largeEntry.precinct, precinctScore:largeEntry.precinctScore, knownBy:largeEntry.knownBy, voteScore:largeEntry.voteScore, under40:largeEntry.under40, over70:largeEntry.over70, 
       hasPhone:largeEntry.hasPhone, landline:largeEntry.landline, precinctMatchScore:precinctMatchScore, ageMatchScore:ageMatchScore, 
-      organizersScore:newOrganizersScore, maxVoteScore:largeEntry.maxVoteScore, knownUnknown:largeEntry.knownUnknown 
+      organizersScore:newOrganizersScore, maxVoteScore:largeEntry.maxVoteScore, 
+      thAlreadyChecked:largeEntry.thAlreadyChecked , 
+      thAlreadyChosen:largeEntry.thAlreadyChosen
     };
       //console.log('large entry: ' + JSON.stringify(largeEntry));
       //console.log('minScoreEntry: ' + JSON.stringify(minScoreEntry) + '\n' + 'min score: ' + minScore + '\n' + 'minScorebreakdown: ' + JSON.stringify(minScoreBreakdown) + '\n');
@@ -594,7 +632,10 @@ if ( false ) {
       entry.organizersScore + ',' + 
       entry.maxVoteScore + ',' + 
       entry.fName_small + ',' + entry.mName_small + ',' + entry.lName_small + ',' + entry.firstNameScore + ',' +
-      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + ',' + entry.knownUnknown + '\n'; 
+      entry.middleNameScore + ',' + entry.lastNameScore + ',' + entry.finalScore + 
+      ',' + entry.thAlreadyChecked +  
+      ',' + entry.thAlreadyChosen + '\n'; 
+
      } else {
       return entry.ID + ',' + entry.phone + ',' + entry.address + ',' + -entry.organizersScore.toFixed(2) + '\n' ;
      }
